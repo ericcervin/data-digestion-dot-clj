@@ -1,588 +1,589 @@
-Awakenings	1	Villain	Command	Captain Phasma	Character	12/15
-Awakenings	2	Villain	Command	First Order Stormtrooper	Character	7
-Awakenings	3	Villain	Command	General Grievous	Character	13/18
-Awakenings	4	Villain	Command	General Veers	Character	11/14
-Awakenings	5	Villain	Command	AT-ST	Support	
-Awakenings	6	Villain	Command	First Order TIE Fighter	Support	
-Awakenings	7	Villain	Command	Commanding Presence	Upgrade	
-Awakenings	8	Villain	Command	F-11D Rifle	Upgrade	
-Awakenings	9	Villain	Force	Count Dooku	Character	11/15
-Awakenings	10	Villain	Force	Darth Vader	Character	16/21
-Awakenings	11	Villain	Force	Kylo Ren	Character	10/13
-Awakenings	12	Villain	Force	Nightsister	Character	8
-Awakenings	13	Villain	Force	Force Choke	Upgrade	
-Awakenings	14	Villain	Force	Immobilize	Upgrade	
-Awakenings	15	Villain	Force	Kylo Ren's Lightsaber	Upgrade	
-Awakenings	16	Villain	Force	Sith Holocron	Upgrade	
-Awakenings	17	Villain	General	Infantry Grenades	Upgrade	
-Awakenings	18	Villain	General	Speeder Bike Scout	Support	
-Awakenings	19	Villain	Rogue	Bala-Tik	Character	8/11
-Awakenings	20	Villain	Rogue	Jabba the Hutt	Character	11/14
-Awakenings	21	Villain	Rogue	Jango Fett	Character	12/16
-Awakenings	22	Villain	Rogue	Tusken Raider	Character	9
-Awakenings	23	Villain	Rogue	Crime Lord	Upgrade	
-Awakenings	24	Villain	Rogue	Flame Thrower	Upgrade	
-Awakenings	25	Villain	Rogue	Gaffi Stick	Upgrade	
-Awakenings	26	Villain	Rogue	On The Hunt	Upgrade	
-Awakenings	27	Hero	Command	Admiral Ackbar	Character	10/14
-Awakenings	28	Hero	Command	Leia Organa	Character	12/16
-Awakenings	29	Hero	Command	Poe Dameron	Character	16/20
-Awakenings	30	Hero	Command	Rebel Trooper	Character	8
-Awakenings	31	Hero	Command	Launch Bay	Support	
-Awakenings	32	Hero	Command	Black One	Support	
-Awakenings	33	Hero	Command	Scout	Upgrade	
-Awakenings	34	Hero	Command	Survival Gear	Upgrade	
-Awakenings	35	Hero	Force	Luke Skywalker	Character	15/20
-Awakenings	36	Hero	Force	Padawan	Character	8
-Awakenings	37	Hero	Force	Qui-Gon Jinn	Character	13/17
-Awakenings	38	Hero	Force	Rey	Character	9/12
-Awakenings	39	Hero	Force	Force Protection	Upgrade	
-Awakenings	40	Hero	Force	Jedi Robes	Upgrade	
-Awakenings	41	Hero	Force	Luke Skywalker's Lightsaber	Upgrade	
-Awakenings	42	Hero	Force	One With The Force	Upgrade	
-Awakenings	43	Hero	General	BB-8	Support	
-Awakenings	44	Hero	General	Rey's Staff	Upgrade	
-Awakenings	45	Hero	Rogue	Finn	Character	13/16
-Awakenings	46	Hero	Rogue	Han Solo	Character	14/18
-Awakenings	47	Hero	Rogue	Hired Gun	Character	8
-Awakenings	48	Hero	Rogue	Padme Amidala	Character	10/14
-Awakenings	49	Hero	Rogue	Millennium Falcon	Support	
-Awakenings	50	Hero	Rogue	Diplomatic Immunity	Upgrade	
-Awakenings	51	Hero	Rogue	DL-44 Heavy Blaster Pistol	Upgrade	
-Awakenings	52	Hero	Rogue	Infiltrate	Upgrade	
-Awakenings	53	Neutral	Command	Outpost	Support	
-Awakenings	54	Neutral	Command	DH-17 Blaster Pistol	Upgrade	
-Awakenings	55	Neutral	Command	IQA-11 Blaster Rifle	Upgrade	
-Awakenings	56	Neutral	Command	Promotion	Upgrade	
-Awakenings	57	Neutral	Force	Force Throw	Upgrade	
-Awakenings	58	Neutral	Force	Force Training	Upgrade	
-Awakenings	59	Neutral	Force	Lightsaber	Upgrade	
-Awakenings	60	Neutral	Force	Mind Probe	Upgrade	
-Awakenings	61	Neutral	General	Comlink	Upgrade	
-Awakenings	62	Neutral	General	Datapad	Upgrade	
-Awakenings	63	Neutral	General	Holdout Blaster	Upgrade	
-Awakenings	64	Neutral	Rogue	Black Market	Support	
-Awakenings	65	Neutral	Rogue	Cunning	Upgrade	
-Awakenings	66	Neutral	Rogue	Jetpack	Upgrade	
-Awakenings	67	Neutral	Rogue	Thermal Detonator	Upgrade	
-Awakenings	68	Villain	Command	Cannon Fodder	Event	
-Awakenings	69	Villain	Command	Closing the Net	Event	
-Awakenings	70	Villain	Command	Endless Ranks	Event	
-Awakenings	71	Villain	Command	Occupation	Event	
-Awakenings	72	Villain	Command	Probe	Event	
-Awakenings	73	Villain	Command	Sweep the Area	Event	
-Awakenings	74	Villain	Command	Tactical Mastery	Event	
-Awakenings	75	Villain	Command	The Best Defense...	Event	
-Awakenings	76	Villain	Command	Drudge Work	Support	
-Awakenings	77	Villain	Command	Local Garrison	Support	
-Awakenings	78	Villain	Command	Personal Escort	Upgrade	
-Awakenings	79	Villain	Force	Abandon All Hope	Event	
-Awakenings	80	Villain	Force	Boundless Ambition	Event	
-Awakenings	81	Villain	Force	Enrage	Event	
-Awakenings	82	Villain	Force	Feel Your Anger	Event	
-Awakenings	83	Villain	Force	Force Strike	Event	
-Awakenings	84	Villain	Force	Intimidate	Event	
-Awakenings	85	Villain	Force	Isolation	Event	
-Awakenings	86	Villain	Force	No Mercy	Event	
-Awakenings	87	Villain	Force	Pulling the Strings	Event	
-Awakenings	88	Villain	Force	Emperor's Favor	Support	
-Awakenings	89	Villain	Force	Power of the Dark Side	Support	
-Awakenings	90	Villain	Force	Hidden In Shadow	Upgrade	
-Awakenings	91	Villain	General	Nowhere to Run	Event	
-Awakenings	92	Villain	Rogue	Ace in the Hole	Event	
-Awakenings	93	Villain	Rogue	Armed to the Teeth	Event	
-Awakenings	94	Villain	Rogue	Confiscation	Event	
-Awakenings	95	Villain	Rogue	Fight Dirty	Event	
-Awakenings	96	Villain	Rogue	Go for the Kill	Event	
-Awakenings	97	Villain	Rogue	He Doesn't Like You	Event	
-Awakenings	98	Villain	Rogue	Lying in Wait	Event	
-Awakenings	99	Villain	Rogue	Backup Muscle	Support	
-Awakenings	100	Villain	Rogue	My Kind of Scum	Support	
-Awakenings	101	Villain	Rogue	Underworld Connections	Support	
-Awakenings	102	Villain	Rogue	Prized Possession	Upgrade	
-Awakenings	103	Hero	Command	Commando Raid	Event	
-Awakenings	104	Hero	Command	Defensive Position	Event	
-Awakenings	105	Hero	Command	Field Medic	Event	
-Awakenings	106	Hero	Command	Hit and Run	Event	
-Awakenings	107	Hero	Command	It's a Trap!	Event	
-Awakenings	108	Hero	Command	Natural Talent	Event	
-Awakenings	109	Hero	Command	Rearm	Event	
-Awakenings	110	Hero	Command	Retreat	Event	
-Awakenings	111	Hero	Command	Strategic Planning	Event	
-Awakenings	112	Hero	Command	Surgical Strike	Event	
-Awakenings	113	Hero	Command	Resistance HQ	Support	
-Awakenings	114	Hero	Force	Anticipate	Event	
-Awakenings	115	Hero	Force	Defensive Stance	Event	
-Awakenings	116	Hero	Force	Force Misdirection	Event	
-Awakenings	117	Hero	Force	Heroism	Event	
-Awakenings	118	Hero	Force	Noble Sacrifice	Event	
-Awakenings	119	Hero	Force	Patience	Event	
-Awakenings	120	Hero	Force	Return of the Jedi	Event	
-Awakenings	121	Hero	Force	Riposte	Event	
-Awakenings	122	Hero	Force	Willpower	Event	
-Awakenings	123	Hero	Force	Jedi Council	Support	
-Awakenings	124	Hero	Force	Awakening	Support	
-Awakenings	125	Hero	Force	The Force is Strong	Support	
-Awakenings	126	Hero	General	Daring Escape	Event	
-Awakenings	127	Hero	Rogue	Don't Get Cocky	Event	
-Awakenings	128	Hero	Rogue	Draw Attention	Event	
-Awakenings	129	Hero	Rogue	Hyperspace Jump	Event	
-Awakenings	130	Hero	Rogue	Let The Wookiee Win	Event	
-Awakenings	131	Hero	Rogue	Negotiate	Event	
-Awakenings	132	Hero	Rogue	Scavenge	Event	
-Awakenings	133	Hero	Rogue	Shoot First	Event	
-Awakenings	134	Hero	Rogue	Smuggling	Event	
-Awakenings	135	Hero	Rogue	Play the Odds	Support	
-Awakenings	136	Hero	Rogue	Street Informants	Support	
-Awakenings	137	Hero	Rogue	Second Chance	Upgrade	
-Awakenings	138	Neutral	Command	Award Ceremony	Event	
-Awakenings	139	Neutral	Command	Dug in	Event	
-Awakenings	140	Neutral	Command	Firepower	Event	
-Awakenings	141	Neutral	Command	Leadership	Event	
-Awakenings	142	Neutral	Command	Logistics	Event	
-Awakenings	143	Neutral	Command	Squad Tactics	Event	
-Awakenings	144	Neutral	Command	Supporting Fire	Support	
-Awakenings	145	Neutral	Force	Deflect	Event	
-Awakenings	146	Neutral	Force	Disturbance in the Force	Event	
-Awakenings	147	Neutral	Force	Mind Trick	Event	
-Awakenings	148	Neutral	Force	The Power of the Force	Event	
-Awakenings	149	Neutral	Force	Use The Force	Event	
-Awakenings	150	Neutral	Force	It Binds All Things	Support	
-Awakenings	151	Neutral	General	Aim	Event	
-Awakenings	152	Neutral	General	All In	Event	
-Awakenings	153	Neutral	General	Block	Event	
-Awakenings	154	Neutral	General	Close Quarters Assault	Event	
-Awakenings	155	Neutral	General	Dodge	Event	
-Awakenings	156	Neutral	General	Flank	Event	
-Awakenings	157	Neutral	General	Take Cover	Event	
-Awakenings	158	Neutral	Rogue	Disarm	Event	
-Awakenings	159	Neutral	Rogue	Electroshock	Event	
-Awakenings	160	Neutral	Rogue	Reversal	Event	
-Awakenings	161	Neutral	Rogue	Scramble	Event	
-Awakenings	162	Neutral	Rogue	Unpredictable	Event	
-Awakenings	163	Neutral	Rogue	Infamous	Support	
-Awakenings	164	Neutral	Rogue	Hunker Down	Upgrade	
-Awakenings	165	Neutral	General	Command Center	Battlefield	
-Awakenings	166	Neutral	General	Echo Base	Battlefield	
-Awakenings	167	Neutral	General	Emperor's Throne Room	Battlefield	
-Awakenings	168	Neutral	General	Frozen Wastes	Battlefield	
-Awakenings	169	Neutral	General	Imperial Armory	Battlefield	
-Awakenings	170	Neutral	General	Jedi Temple	Battlefield	
-Awakenings	171	Neutral	General	Rebel War Room	Battlefield	
-Awakenings	172	Neutral	General	Mos Eisley Spaceport	Battlefield	
-Awakenings	173	Neutral	General	Separatist Base	Battlefield	
-Awakenings	174	Neutral	General	Starship Graveyard	Battlefield	
-Spirit of Rebellion	1	Villain	Command	Death Trooper	Character	10
-Spirit of Rebellion	2	Villain	Command	FN-2199	Character	12/15
-Spirit of Rebellion	3	Villain	Command	Director Krennic	Character	15/19
-Spirit of Rebellion	4	Villain	Command	Tie Pilot	Character	8
-Spirit of Rebellion	5	Villain	Command	E-Web Emplacement	Support	
-Spirit of Rebellion	6	Villain	Command	Imperial Discipline	Upgrade	
-Spirit of Rebellion	7	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	
-Spirit of Rebellion	8	Villain	Command	Z6 Riot Control Baton	Upgrade	
-Spirit of Rebellion	9	Villain	Force	Asajj Ventress	Character	12/15
-Spirit of Rebellion	10	Villain	Force	Darth Vader	Character	13/17
-Spirit of Rebellion	11	Villain	Force	Palpatine	Character	21/28
-Spirit of Rebellion	12	Villain	Force	Royal Guard	Character	9
-Spirit of Rebellion	13	Villain	Force	Command Shuttle	Support	
-Spirit of Rebellion	14	Villain	Force	Force Lightning	Upgrade	
-Spirit of Rebellion	15	Villain	Force	Lightsaber Pike	Upgrade	
-Spirit of Rebellion	16	Villain	Force	Lure of Power	Upgrade	
-Spirit of Rebellion	17	Villain	General	Interrogation Droid	Support	
-Spirit of Rebellion	18	Villain	Rogue	Aurra Sing	Character	14/18
-Spirit of Rebellion	19	Villain	Rogue	Guavian Enforcer	Character	8
-Spirit of Rebellion	20	Villain	Rogue	IG-88	Character	15/20
-Spirit of Rebellion	21	Villain	Rogue	Unkar Plutt	Character	12/15
-Spirit of Rebellion	22	Villain	Rogue	Slave I	Support	
-Spirit of Rebellion	23	Villain	Rogue	Blackmail	Upgrade	
-Spirit of Rebellion	24	Villain	Rogue	Personal Shield	Upgrade	
-Spirit of Rebellion	25	Villain	Rogue	Vibroknucklers	Upgrade	
-Spirit of Rebellion	26	Hero	Command	Baze Malbus	Character	14/18
-Spirit of Rebellion	27	Hero	Command	Mon Mothma	Character	11/14
-Spirit of Rebellion	28	Hero	Command	Rebel Commando	Character	10
-Spirit of Rebellion	29	Hero	Command	Temmin "Snap" Wexley	Character	9/12
-Spirit of Rebellion	30	Hero	Command	C-3PO	Support	
-Spirit of Rebellion	31	Hero	Command	U-Wing	Support	
-Spirit of Rebellion	32	Hero	Command	A180 Blaster	Upgrade	
-Spirit of Rebellion	33	Hero	Command	Overkill	Upgrade	
-Spirit of Rebellion	34	Hero	Force	Jedi Acolyte	Character	9
-Spirit of Rebellion	35	Hero	Force	Chirrut Îmwe	Character	12/16
-Spirit of Rebellion	36	Hero	Force	Luminara Unduli	Character	13/17
-Spirit of Rebellion	37	Hero	Force	Obi-Wan Kenobi	Character	16/20
-Spirit of Rebellion	38	Hero	Force	Delta-7 Interceptor	Support	
-Spirit of Rebellion	39	Hero	Force	Handcrafted Light Bow	Upgrade	
-Spirit of Rebellion	40	Hero	Force	Force Heal	Upgrade	
-Spirit of Rebellion	41	Hero	Force	Journals of Ben Kenobi	Upgrade	
-Spirit of Rebellion	42	Hero	General	R2-D2	Support	
-Spirit of Rebellion	43	Hero	Rogue	Chewbacca	Character	12/16
-Spirit of Rebellion	44	Hero	Rogue	Jyn Erso	Character	15/20
-Spirit of Rebellion	45	Hero	Rogue	Maz Kanata	Character	8/11
-Spirit of Rebellion	46	Hero	Rogue	Outer Rim Smuggler	Character	8
-Spirit of Rebellion	47	Hero	Rogue	Smuggling Freighter	Support	
-Spirit of Rebellion	48	Hero	Rogue	Bowcaster	Upgrade	
-Spirit of Rebellion	49	Hero	Rogue	Lone Operative	Upgrade	
-Spirit of Rebellion	50	Hero	Rogue	Maz's Goggles	Upgrade	
-Spirit of Rebellion	51	Neutral	Command	Supply Line	Support	
-Spirit of Rebellion	52	Neutral	Command	Astromech	Support	
-Spirit of Rebellion	53	Neutral	Command	Rocket Launcher	Upgrade	
-Spirit of Rebellion	54	Neutral	Force	Force Push	Upgrade	
-Spirit of Rebellion	55	Neutral	Force	Force Speed	Upgrade	
-Spirit of Rebellion	56	Neutral	Force	Makashi Training	Upgrade	
-Spirit of Rebellion	57	Neutral	General	Vibroknife	Upgrade	
-Spirit of Rebellion	58	Neutral	Rogue	Quadjumper	Support	
-Spirit of Rebellion	59	Neutral	Rogue	Ascension Gun	Upgrade	
-Spirit of Rebellion	60	Neutral	Rogue	Con Artist	Upgrade	
-Spirit of Rebellion	61	Villain	Command	Battle Formation	Event	
-Spirit of Rebellion	62	Villain	Command	Imperial War Machine	Event	
-Spirit of Rebellion	63	Villain	Command	Lockdown	Event	
-Spirit of Rebellion	64	Villain	Command	Sustained Fire	Event	
-Spirit of Rebellion	65	Villain	Command	Traitor!	Event	
-Spirit of Rebellion	66	Villain	Command	Trench Warfare	Event	
-Spirit of Rebellion	67	Villain	Command	Undying Loyalty	Event	
-Spirit of Rebellion	68	Villain	Command	We Have Them Now	Event	
-Spirit of Rebellion	69	Villain	Command	Attrition	Support	
-Spirit of Rebellion	70	Villain	Command	Imperial Inspection	Support	
-Spirit of Rebellion	71	Villain	Force	Anger	Event	
-Spirit of Rebellion	72	Villain	Force	Lightsaber Throw	Event	
-Spirit of Rebellion	73	Villain	Force	Manipulate	Event	
-Spirit of Rebellion	74	Villain	Force	No Disintegrations	Event	
-Spirit of Rebellion	75	Villain	Force	Now You Will Die	Event	
-Spirit of Rebellion	76	Villain	Force	Rise Again	Event	
-Spirit of Rebellion	77	Villain	Force	The Price of Failure	Event	
-Spirit of Rebellion	78	Villain	Force	Dark Presence	Support	
-Spirit of Rebellion	79	Villain	Force	Now I Am The Master	Upgrade	
-Spirit of Rebellion	80	Villain	General	Doubt	Event	
-Spirit of Rebellion	81	Villain	Rogue	Arms Deal	Event	
-Spirit of Rebellion	82	Villain	Rogue	Bait and Switch	Event	
-Spirit of Rebellion	83	Villain	Rogue	Friends in High Places	Event	
-Spirit of Rebellion	84	Villain	Rogue	Loose Ends	Event	
-Spirit of Rebellion	85	Villain	Rogue	One-Quarter Portion	Event	
-Spirit of Rebellion	86	Villain	Rogue	Relentless Pursuit	Event	
-Spirit of Rebellion	87	Villain	Rogue	Scrap Buy	Event	
-Spirit of Rebellion	88	Villain	Rogue	Salvage Stand	Support	
-Spirit of Rebellion	89	Villain	Rogue	Armor Plating	Upgrade	
-Spirit of Rebellion	90	Hero	Command	Emergency Evacuation	Event	
-Spirit of Rebellion	91	Hero	Command	Friendly Fire	Event	
-Spirit of Rebellion	92	Hero	Command	Guerrilla Warfare	Event	
-Spirit of Rebellion	93	Hero	Command	Our Only Hope	Event	
-Spirit of Rebellion	94	Hero	Command	Rebel Assault	Event	
-Spirit of Rebellion	95	Hero	Command	Sensor Placement	Event	
-Spirit of Rebellion	96	Hero	Command	Spirit of Rebellion	Event	
-Spirit of Rebellion	97	Hero	Command	Planetary Uprising	Support	
-Spirit of Rebellion	98	Hero	Command	Spy Net	Support	
-Spirit of Rebellion	99	Hero	Command	Tactical Aptitude	Upgrade	
-Spirit of Rebellion	100	Hero	Force	Caution	Event	
-Spirit of Rebellion	101	Hero	Force	Destiny	Event	
-Spirit of Rebellion	102	Hero	Force	Determination	Event	
-Spirit of Rebellion	103	Hero	Force	Guard	Event	
-Spirit of Rebellion	104	Hero	Force	Krayt Dragon Howl	Event	
-Spirit of Rebellion	105	Hero	Force	My Ally Is The Force	Event	
-Spirit of Rebellion	106	Hero	Force	Synchronicity	Event	
-Spirit of Rebellion	107	Hero	Force	Your Eyes Can Deceive You	Support	
-Spirit of Rebellion	108	Hero	Force	Protective Mentor	Upgrade	
-Spirit of Rebellion	109	Hero	General	Confidence	Event	
-Spirit of Rebellion	110	Hero	Rogue	Garbage'll Do	Event	
-Spirit of Rebellion	111	Hero	Rogue	Hold On!	Event	
-Spirit of Rebellion	112	Hero	Rogue	Rebel	Event	
-Spirit of Rebellion	113	Hero	Rogue	Long Con	Event	
-Spirit of Rebellion	114	Hero	Rogue	Loth-Cat and Mouse	Event	
-Spirit of Rebellion	115	Hero	Rogue	Never Tell Me The Odds	Event	
-Spirit of Rebellion	116	Hero	Rogue	Planned Explosion	Event	
-Spirit of Rebellion	117	Hero	Rogue	Double-Dealing	Support	
-Spirit of Rebellion	118	Hero	Rogue	Life Debt	Upgrade	
-Spirit of Rebellion	119	Neutral	Command	Bombing Run	Event	
-Spirit of Rebellion	120	Neutral	Command	Collateral Damage	Event	
-Spirit of Rebellion	121	Neutral	Command	Salvo	Event	
-Spirit of Rebellion	122	Neutral	Command	Suppression	Event	
-Spirit of Rebellion	123	Neutral	Command	Aftermath	Support	
-Spirit of Rebellion	124	Neutral	Command	Air Superiority	Support	
-Spirit of Rebellion	125	Neutral	Command	Training	Upgrade	
-Spirit of Rebellion	126	Neutral	Command	Wingman	Upgrade	
-Spirit of Rebellion	127	Neutral	Force	Decisive Blow	Event	
-Spirit of Rebellion	128	Neutral	Force	High Ground	Event	
-Spirit of Rebellion	129	Neutral	Force	Momentum Shift	Event	
-Spirit of Rebellion	130	Neutral	Force	Overconfidence	Event	
-Spirit of Rebellion	131	Neutral	Force	Premonitions	Event	
-Spirit of Rebellion	132	Neutral	Force	Rejuvenate	Event	
-Spirit of Rebellion	133	Neutral	Force	Trust Your Instincts	Event	
-Spirit of Rebellion	134	Neutral	Force	Meditate	Support	
-Spirit of Rebellion	135	Neutral	Force	Force Illusion	Upgrade	
-Spirit of Rebellion	136	Neutral	General	Evade	Event	
-Spirit of Rebellion	137	Neutral	General	New Orders	Event	
-Spirit of Rebellion	138	Neutral	General	Parry	Event	
-Spirit of Rebellion	139	Neutral	General	Swiftness	Event	
-Spirit of Rebellion	140	Neutral	General	Resolve	Support	
-Spirit of Rebellion	141	Neutral	General	Ammo Belt	Upgrade	
-Spirit of Rebellion	142	Neutral	Rogue	Bolt Hole	Event	
-Spirit of Rebellion	143	Neutral	Rogue	Cheat	Event	
-Spirit of Rebellion	144	Neutral	Rogue	Diversion	Event	
-Spirit of Rebellion	145	Neutral	Rogue	"Fair" Trade	Event	
-Spirit of Rebellion	146	Neutral	Rogue	Friends in Low Places	Event	
-Spirit of Rebellion	147	Neutral	Rogue	Sabotage	Event	
-Spirit of Rebellion	148	Neutral	Rogue	Improvisation	Support	
-Spirit of Rebellion	149	Neutral	Rogue	Outmaneuver	Support	
-Spirit of Rebellion	150	Neutral	Rogue	Fast Hands	Upgrade	
-Spirit of Rebellion	151	Neutral	General	Carbon-freezing Chamber	Battlefield	
-Spirit of Rebellion	152	Neutral	General	Cargo Hold	Battlefield	
-Spirit of Rebellion	153	Neutral	General	Docking Bay	Battlefield	
-Spirit of Rebellion	154	Neutral	General	Ewok Village	Battlefield	
-Spirit of Rebellion	155	Neutral	General	Maz's Castle	Battlefield	
-Spirit of Rebellion	156	Neutral	General	Moisture Farm	Battlefield	
-Spirit of Rebellion	157	Neutral	General	Otoh Gunga	Battlefield	
-Spirit of Rebellion	158	Neutral	General	Secluded Beach	Battlefield	
-Spirit of Rebellion	159	Neutral	General	Secret Facility	Battlefield	
-Spirit of Rebellion	160	Neutral	General	War-Torn Streets	Battlefield	
-Empire at War	1	Villain	Command	Ciena Ree	Character	8/11
-Empire at War	2	Villain	Command	General Hux	Character	11/14
-Empire at War	3	Villain	Command	MagnaGuard	Character	9
-Empire at War	4	Villain	Command	Thrawn	Character	14/17
-Empire at War	5	Villain	Command	AT-DP	Support	
-Empire at War	6	Villain	Command	Probe Droid	Support	
-Empire at War	7	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade	
-Empire at War	8	Villain	Force	Quinlan Vos	Character	12/15
-Empire at War	9	Villain	Force	Servant of the Dark Side	Character	8
-Empire at War	10	Villain	Force	Seventh Sister	Character	11/14
-Empire at War	11	Villain	Force	Grand Inquisitor	Character	14/19
-Empire at War	12	Villain	Force	Darth Vader's TIE Advanced	Support	
-Empire at War	13	Villain	Force	ID9 Seeker Droid	Upgrade	
-Empire at War	14	Villain	Force	Temptation	Upgrade	
-Empire at War	15	Villain	Force	Grand Inquisitor's Lightsaber	Upgrade	
-Empire at War	16	Villain	Rogue	Bazine Netal	Character	7/10
-Empire at War	17	Villain	Rogue	Bossk	Character	11/15
-Empire at War	18	Villain	Rogue	Cad Bane	Character	13/17
-Empire at War	19	Villain	Rogue	Gamorrean Guard	Character	10
-Empire at War	20	Villain	Rogue	Hound's Tooth	Support	
-Empire at War	21	Villain	Rogue	Cable Launcher	Upgrade	
-Empire at War	22	Villain	Rogue	LL-30 Blaster Pistol	Upgrade	
-Empire at War	23	Villain	Rogue	Relby-V10 Mortar Gun	Upgrade	
-Empire at War	24	Hero	Command	General Rieekan	Character	12/15
-Empire at War	25	Hero	Command	Hera Syndulla	Character	9/12
-Empire at War	26	Hero	Command	K-2SO	Character	15/20
-Empire at War	27	Hero	Command	Rookie Pilot	Character	7
-Empire at War	28	Hero	Command	Ghost	Support	
-Empire at War	29	Hero	Command	Y-Wing	Support	
-Empire at War	30	Hero	Command	A280 Blaster Rifle	Upgrade	
-Empire at War	31	Hero	Force	Ahsoka Tano	Character	13/17
-Empire at War	32	Hero	Force	Jedi Instructor	Character	8
-Empire at War	33	Hero	Force	Kanan Jarrus	Character	10/13
-Empire at War	34	Hero	Force	Mace Windu	Character	16/22
-Empire at War	35	Hero	Force	Training Remote	Support	
-Empire at War	36	Hero	Force	Master of the Council	Upgrade	
-Empire at War	37	Hero	Force	Coordination	Upgrade	
-Empire at War	38	Hero	Rogue	Ezra Bridger	Character	7/10
-Empire at War	39	Hero	Rogue	Lando Calrissian	Character	13/16
-Empire at War	40	Hero	Rogue	Sabine Wren	Character	15/20
-Empire at War	41	Hero	Rogue	Wookiee Warrior	Character	9
-Empire at War	42	Hero	Rogue	Chopper	Support	
-Empire at War	43	Hero	Rogue	Energy Slingshot	Upgrade	
-Empire at War	44	Hero	Rogue	Tough Haggler	Upgrade	
-Empire at War	45	Hero	General	T-47 Airspeeder	Support	
-Empire at War	46	Neutral	Command	LR1K Sonic Cannon	Support	
-Empire at War	47	Neutral	Command	Electrostaff	Upgrade	
-Empire at War	48	Neutral	Command	Natural Pilot	Upgrade	
-Empire at War	49	Neutral	Force	Ancient Lightsaber	Upgrade	
-Empire at War	50	Neutral	Force	Psychometry	Upgrade	
-Empire at War	51	Neutral	Force	Shoto Lightsaber	Upgrade	
-Empire at War	52	Neutral	Rogue	Weapons Cache	Support	
-Empire at War	53	Neutral	Rogue	BD-1 Cutter Vibro-AX	Upgrade	
-Empire at War	54	Neutral	Rogue	Extortion	Upgrade	
-Empire at War	55	Neutral	Rogue	X-8 Night Sniper	Upgrade	
-Empire at War	56	Neutral	General	Z-95 Headhunter	Support	
-Empire at War	57	Neutral	General	Chance Cube	Upgrade	
-Empire at War	58	Neutral	General	EMP Grenades	Upgrade	
-Empire at War	59	Neutral	General	Lead by Example	Upgrade	
-Empire at War	60	Neutral	General	Scatterblaster	Upgrade	
-Empire at War	61	Villain	Command	Commandeer	Event	
-Empire at War	62	Villain	Command	Crossfire	Event	
-Empire at War	63	Villain	Command	Drop Your Weapon!	Event	
-Empire at War	64	Villain	Command	Imperial Backing	Event	
-Empire at War	65	Villain	Command	Prepare for War	Event	
-Empire at War	66	Villain	Command	Red Alert	Event	
-Empire at War	67	Villain	Command	Ruthless Tactics	Event	
-Empire at War	68	Villain	Command	Take Prisoner	Event	
-Empire at War	69	Villain	Command	Imperial HQ	Support	
-Empire at War	70	Villain	Force	As You Command	Event	
-Empire at War	71	Villain	Force	Cornered Prey	Event	
-Empire at War	72	Villain	Force	Indomitable	Event	
-Empire at War	73	Villain	Force	It Will All Be Mine	Event	
-Empire at War	74	Villain	Force	Kill Them All	Event	
-Empire at War	75	Villain	Force	Unyielding	Event	
-Empire at War	76	Villain	Force	Insidious	Support	
-Empire at War	77	Villain	Force	Hate	Upgrade	
-Empire at War	78	Villain	Rogue	Anarchy	Event	
-Empire at War	79	Villain	Rogue	Bounty Postings	Event	
-Empire at War	80	Villain	Rogue	Buy Out	Event	
-Empire at War	81	Villain	Rogue	Coercion	Event	
-Empire at War	82	Villain	Rogue	Only Business Matters	Event	
-Empire at War	83	Villain	Rogue	Pilfered Goods	Event	
-Empire at War	84	Villain	Rogue	Twin Shadows	Event	
-Empire at War	85	Villain	Rogue	Hutt Ties	Support	
-Empire at War	86	Villain	Rogue	Deadly	Upgrade	
-Empire at War	87	Villain	General	No Survivors	Event	
-Empire at War	88	Villain	General	Detention Center	Support	
-Empire at War	89	Hero	Command	All Quiet On The Front	Event	
-Empire at War	90	Hero	Command	Entrenched	Event	
-Empire at War	91	Hero	Command	Fortuitous Strike	Event	
-Empire at War	92	Hero	Command	Rearguard	Event	
-Empire at War	93	Hero	Command	Reckless Reentry	Event	
-Empire at War	94	Hero	Command	Strike Briefing	Event	
-Empire at War	95	Hero	Command	Swift Strike	Event	
-Empire at War	96	Hero	Command	Rally Aid	Support	
-Empire at War	97	Hero	Command	Shield Generator	Support	
-Empire at War	98	Hero	Force	At Peace	Event	
-Empire at War	99	Hero	Force	Bestow	Event	
-Empire at War	100	Hero	Force	Bring Balance	Event	
-Empire at War	101	Hero	Force	Reaping The Crystal	Event	
-Empire at War	102	Hero	Force	Secret Mission	Event	
-Empire at War	103	Hero	Force	Trust The Force	Event	
-Empire at War	104	Hero	Force	Funeral Pyre	Support	
-Empire at War	105	Hero	Force	Yoda's Quarters	Support	
-Empire at War	106	Hero	Force	Fearless	Upgrade	
-Empire at War	107	Hero	Rogue	Against The Odds	Event	
-Empire at War	108	Hero	Rogue	Appraise	Event	
-Empire at War	109	Hero	Rogue	Bad Feeling	Event	
-Empire at War	110	Hero	Rogue	Double-Cross	Event	
-Empire at War	111	Hero	Rogue	Impersonate	Event	
-Empire at War	112	Hero	Rogue	Local Patrol	Event	
-Empire at War	113	Hero	Rogue	Quick Escape	Event	
-Empire at War	114	Hero	Rogue	Tenacity	Event	
-Empire at War	115	Hero	Rogue	Running Interference	Support	
-Empire at War	116	Hero	Rogue	Thermal Paint	Upgrade	
-Empire at War	117	Hero	General	Defiance	Event	
-Empire at War	118	Neutral	Command	Covering Fire	Event	
-Empire at War	119	Neutral	Command	Deploy Squadron	Event	
-Empire at War	120	Neutral	Command	Fall Back	Event	
-Empire at War	121	Neutral	Command	Feint	Event	
-Empire at War	122	Neutral	Command	Flanking Maneuver	Event	
-Empire at War	123	Neutral	Command	Heat Of Battle	Event	
-Empire at War	124	Neutral	Command	Pinned Down	Event	
-Empire at War	125	Neutral	Command	The Day is Ours	Event	
-Empire at War	126	Neutral	Command	Drop Zone	Support	
-Empire at War	127	Neutral	Command	Tech Team	Support	
-Empire at War	128	Neutral	Force	Battle of Wills	Event	
-Empire at War	129	Neutral	Force	Force Vision	Event	
-Empire at War	130	Neutral	Force	Lightsaber Pull	Event	
-Empire at War	131	Neutral	Force	Lightsaber Training	Event	
-Empire at War	132	Neutral	Force	No Surrender	Event	
-Empire at War	133	Neutral	Force	Something familiar	Event	
-Empire at War	134	Neutral	Force	Voices Cry Out	Event	
-Empire at War	135	Neutral	Force	Keen Instincts	Upgrade	
-Empire at War	136	Neutral	Rogue	Battle Rage	Event	
-Empire at War	137	Neutral	Rogue	Disable	Event	
-Empire at War	138	Neutral	Rogue	Persuade	Event	
-Empire at War	139	Neutral	Rogue	Pickpocket	Event	
-Empire at War	140	Neutral	Rogue	Threaten	Event	
-Empire at War	141	Neutral	Rogue	Trickery	Event	
-Empire at War	142	Neutral	Rogue	Truce	Event	
-Empire at War	143	Neutral	Rogue	Stolen Cache	Support	
-Empire at War	144	Neutral	Rogue	Hidden Agenda	Upgrade	
-Empire at War	145	Neutral	Rogue	Mandalorian Armor	Upgrade	
-Empire at War	146	Neutral	General	Dangerous Mission	Event	
-Empire at War	147	Neutral	General	Endurance	Event	
-Empire at War	148	Neutral	General	Partnership	Event	
-Empire at War	149	Neutral	General	Recycle	Event	
-Empire at War	150	Neutral	General	Rend	Event	
-Empire at War	151	Neutral	General	Roll On	Event	
-Empire at War	152	Neutral	General	Plastoid Armor	Upgrade	
-Empire at War	153	Neutral	General	B'Omarr Monastery	Battlefield	
-Empire at War	154	Neutral	General	Fort Anaxes	Battlefield	
-Empire at War	155	Neutral	General	Garel Spaceport	Battlefield	
-Empire at War	156	Neutral	General	Imperial Academy	Battlefield	
-Empire at War	157	Neutral	General	Main Plaza	Battlefield	
-Empire at War	158	Neutral	General	Medical Center	Battlefield	
-Empire at War	159	Neutral	General	Port District	Battlefield	
-Empire at War	160	Neutral	General	Weapons Factory Alpha	Battlefield	
-Two-Player Game	1	Villain	Force	Kylo Ren	Character	14/17
-Two-Player Game	2	Villain	Command	Captain Phasma	Character	10/14
-Two-Player Game	3	Villain	Command	Droid Commandos	Support	
-Two-Player Game	4	Villain	Command	Captain Phasma's Blaster	Upgrade	
-Two-Player Game	5	Villain	Command	Praetorian Guard	Upgrade	
-Two-Player Game	6	Villain	Force	Dark Counsel	Upgrade	
-Two-Player Game	7	Villain	Force	Crossguard Lightsaber	Upgrade	
-Two-Player Game	8	Villain	Force	Force Stasis	Upgrade	
-Two-Player Game	9	Villain	Force	Jedi Rival	Upgrade	
-Two-Player Game	10	Villain	Command	Armored Support	Support	
-Two-Player Game	11	Villain	Command	First Strike	Event	
-Two-Player Game	12	Neutral	Command	I Have You Now	Event	
-Two-Player Game	13	Villain	Command	Imperial Envoy	Event	
-Two-Player Game	14	Neutral	Command	Mobilize	Event	
-Two-Player Game	15	Villain	Command	Tactical Mastery	Event	
-Two-Player Game	16	Neutral	Force	As I Have Foreseen	Event	
-Two-Player Game	17	Neutral	Force	Clash	Event	
-Two-Player Game	18	Villain	Force	Intimidate	Event	
-Two-Player Game	19	Villain	Force	Your Skills Are Complete	Event	
-Two-Player Game	20	Villain	General	Doubt	Event	
-Two-Player Game	21	Neutral	General	Parry	Event	
-Two-Player Game	22	Villain	General	Subjugate	Event	
-Two-Player Game	23	Neutral	General	Hangar Bay	Battlefield	
-Two-Player Game	24	Hero	Force	Rey	Character	12/15
-Two-Player Game	25	Hero	Command	Poe Dameron	Character	11/15
-Two-Player Game	26	Hero	Command	Medical Droid	Support	
-Two-Player Game	27	Hero	Command	Strike Team	Support	
-Two-Player Game	28	Hero	Command	Teamwork	Upgrade	
-Two-Player Game	29	Hero	Command	Poe Dameron's Blaster	Upgrade	
-Two-Player Game	30	Hero	Force	Rey's Lightsaber	Upgrade	
-Two-Player Game	31	Hero	Force	Inner Strength	Upgrade	
-Two-Player Game	32	Hero	Force	Luke's Protection	Support	
-Two-Player Game	33	Hero	Command	Honor Guard	Support	
-Two-Player Game	34	Neutral	Command	Direct Hit	Event	
-Two-Player Game	35	Neutral	Command	Logistics	Event	
-Two-Player Game	36	Neutral	Command	Recon	Event	
-Two-Player Game	37	Hero	Command	Strategic Planning	Event	
-Two-Player Game	38	Hero	Force	Concentrate	Event	
-Two-Player Game	39	Hero	Force	Defensive Stance	Event	
-Two-Player Game	40	Hero	Force	Distraction	Event	
-Two-Player Game	41	Hero	Force	Do Or Do Not	Event	
-Two-Player Game	42	Hero	Force	Fierce Resolve	Event	
-Two-Player Game	43	Neutral	General	Evade	Event	
-Two-Player Game	44	Neutral	General	Flank	Event	
-Two-Player Game	45	Neutral	General	Sound The Alarm	Event	
-Two-Player Game	46	Neutral	General	Obi-Wan's Hut	Battlefield	
-Legacies	2	Villain	Force	Maul	Character	12/16
-Legacies	3	Villain	Force	Mother Talzin	Character	9/12
-Legacies	4	Villain	Force	Palpatine	Character	16/20
-Legacies	6	Villain	Force	Crystal Ball	Upgrade	
-Legacies	8	Villain	Force	Maul's Lightsaber	Upgrade	
-Legacies	9	Villain	Command	Battle Droid	Character	6
-Legacies	13	Villain	Command	Veteran Stormtrooper	Character	9
-Legacies	14	Villain	Command	Separatist Landing Craft	Support	
-Legacies	19	Villain	Rogue	Boba Fett	Character	12/16
-Legacies	20	Villain	Rogue	Doctor Aphra	Character	11/14
-Legacies	24	Villain	Rogue	BT-1	Support	
-Legacies	25	Villain	Rogue	Slave I	Support	
-Legacies	27	Villain	Rogue	Wrist Rockets	Upgrade	
-Legacies	29	Hero	Force	Aayla Secura	Character	9/12
-Legacies	31	Hero	Force	Luke Skywalker	Character	11/14
-Legacies	32	Hero	Force	Obi-Wan Kenobi	Character	15/19
-Legacies	33	Hero	Force	Yoda	Character	10/13
-Legacies	36	Hero	Force	Force Meditation	Upgrade	
-Legacies	37	Hero	Force	Obi-Wan Kenobi's Lightsaber	Upgrade	
-Legacies	41	Hero	Command	Wedge Antilles	Character	11/15
-Legacies	43	Hero	Command	Resistance Bomber	Support	
-Legacies	46	Hero	Rogue	Han Solo	Character	11/14
-Legacies	52	Hero	Rogue	Millennium Falcon	Support	
-Legacies	56	Neutral	Force	Force Focus	Upgrade	
-Legacies	58	Neutral	Force	Heirloom Lightsaber	Upgrade	
-Legacies	77	Villain	Force	Double Strike	Event	
-Legacies	80	Villain	Force	Snare	Event	
-Legacies	83	Villain	Force	Nightsister Coven	Support	
-Legacies	92	Villain	Rogue	Delve	Event	
-Legacies	100	Hero	Force	Adapt	Event	
-Legacies	101	Hero	Force	Ataru Strike	Event	
-Legacies	106	Hero	Force	Defensive Teaching	Support	
-Legacies	119	Hero	Rogue	Impulsive	Event	
-Legacies	122	Hero	Rogue	Maz's Vault	Support	
-Legacies	137	Neutral	Command	Crash Landing	Event	
-Legacies	139	Neutral	Command	Locked and Loaded	Event	
-Legacies	140	Neutral	Command	Reinforce	Event	
-Legacies	141	Neutral	Command	Strength in Numbers	Event	
-Legacies	145	Neutral	Command	Bubble Shield	Support	
-Legacies	168	Neutral	General	Espionage	Plot	1
-Legacies	171	Neutral	General	Profitable Connection	Plot	3
-Legacies	174	Neutral	General	Arid Wasteland	Battlefield	
-Legacies	178	Neutral	General	Outer Rim Outpost	Battlefield	
-Rivals	1	Neutral	Force	Anakin Skywalker	Character	10/13
-Rivals	2	Neutral	Command	Lobot	Character	10/13
-Rivals	3	Neutral	Rogue	Ketsu Onyo	Character	11/14
-Rivals	4	Neutral	General	Jawa Scavenger	Character	6
-Rivals	13	Neutral	General	Resourceful	Event	
+Set	Position	Affiliation	Faction	Name	Type	1d Points	2d Points	Rarity
+Awakenings	1	Villain	Command	Captain Phasma	Character	12	15	Legendary
+Awakenings	2	Villain	Command	First Order Stormtrooper	Character	7		Rare
+Awakenings	3	Villain	Command	General Grievous	Character	13	18	Rare
+Awakenings	4	Villain	Command	General Veers	Character	11	14	Rare
+Awakenings	5	Villain	Command	AT-ST	Support			Legendary
+Awakenings	6	Villain	Command	First Order TIE Fighter	Support			Rare
+Awakenings	7	Villain	Command	Commanding Presence	Upgrade			Legendary
+Awakenings	8	Villain	Command	F-11D Rifle	Upgrade			Starter
+Awakenings	9	Villain	Force	Count Dooku	Character	11	15	Rare
+Awakenings	10	Villain	Force	Darth Vader	Character	16	21	Legendary
+Awakenings	11	Villain	Force	Kylo Ren	Character	10	13	Starter
+Awakenings	12	Villain	Force	Nightsister	Character	8		Rare
+Awakenings	13	Villain	Force	Force Choke	Upgrade			Legendary
+Awakenings	14	Villain	Force	Immobilize	Upgrade			Rare
+Awakenings	15	Villain	Force	Kylo Ren's Lightsaber	Upgrade			Legendary
+Awakenings	16	Villain	Force	Sith Holocron	Upgrade			Rare
+Awakenings	17	Villain	General	Infantry Grenades	Upgrade			Rare
+Awakenings	18	Villain	General	Speeder Bike Scout	Support			Rare
+Awakenings	19	Villain	Rogue	Bala-Tik	Character	8	11	Rare
+Awakenings	20	Villain	Rogue	Jabba the Hutt	Character	11	14	Legendary
+Awakenings	21	Villain	Rogue	Jango Fett	Character	12	16	Rare
+Awakenings	22	Villain	Rogue	Tusken Raider	Character	9		Rare
+Awakenings	23	Villain	Rogue	Crime Lord	Upgrade			Legendary
+Awakenings	24	Villain	Rogue	Flame Thrower	Upgrade			Rare
+Awakenings	25	Villain	Rogue	Gaffi Stick	Upgrade			Rare
+Awakenings	26	Villain	Rogue	On The Hunt	Upgrade			Rare
+Awakenings	27	Hero	Command	Admiral Ackbar	Character	10	14	Rare
+Awakenings	28	Hero	Command	Leia Organa	Character	12	16	Rare
+Awakenings	29	Hero	Command	Poe Dameron	Character	16	20	Legendary
+Awakenings	30	Hero	Command	Rebel Trooper	Character	8		Rare
+Awakenings	31	Hero	Command	Launch Bay	Support			Legendary
+Awakenings	32	Hero	Command	Black One	Support			Legendary
+Awakenings	33	Hero	Command	Scout	Upgrade			Rare
+Awakenings	34	Hero	Command	Survival Gear	Upgrade			Rare
+Awakenings	35	Hero	Force	Luke Skywalker	Character	15	20	Legendary
+Awakenings	36	Hero	Force	Padawan	Character	8		Rare
+Awakenings	37	Hero	Force	Qui-Gon Jinn	Character	13	17	Rare
+Awakenings	38	Hero	Force	Rey	Character	9	12	Starter
+Awakenings	39	Hero	Force	Force Protection	Upgrade			Rare
+Awakenings	40	Hero	Force	Jedi Robes	Upgrade			Rare
+Awakenings	41	Hero	Force	Luke Skywalker's Lightsaber	Upgrade			Legendary
+Awakenings	42	Hero	Force	One With The Force	Upgrade			Legendary
+Awakenings	43	Hero	General	BB-8	Support			Rare
+Awakenings	44	Hero	General	Rey's Staff	Upgrade			Rare
+Awakenings	45	Hero	Rogue	Finn	Character	13	16	Starter
+Awakenings	46	Hero	Rogue	Han Solo	Character	14	18	Legendary
+Awakenings	47	Hero	Rogue	Hired Gun	Character	8		Rare
+Awakenings	48	Hero	Rogue	Padme Amidala	Character	10	14	Rare
+Awakenings	49	Hero	Rogue	Millennium Falcon	Support			Legendary
+Awakenings	50	Hero	Rogue	Diplomatic Immunity	Upgrade			Rare
+Awakenings	51	Hero	Rogue	DL-44 Heavy Blaster Pistol	Upgrade			Rare
+Awakenings	52	Hero	Rogue	Infiltrate	Upgrade			Rare
+Awakenings	53	Neutral	Command	Outpost	Support			Rare
+Awakenings	54	Neutral	Command	DH-17 Blaster Pistol	Upgrade			Rare
+Awakenings	55	Neutral	Command	IQA-11 Blaster Rifle	Upgrade			Rare
+Awakenings	56	Neutral	Command	Promotion	Upgrade			Rare
+Awakenings	57	Neutral	Force	Force Throw	Upgrade			Starter
+Awakenings	58	Neutral	Force	Force Training	Upgrade			Rare
+Awakenings	59	Neutral	Force	Lightsaber	Upgrade			Starter
+Awakenings	60	Neutral	Force	Mind Probe	Upgrade			Starter
+Awakenings	61	Neutral	General	Comlink	Upgrade			Rare
+Awakenings	62	Neutral	General	Datapad	Upgrade			Rare
+Awakenings	63	Neutral	General	Holdout Blaster	Upgrade			Rare
+Awakenings	64	Neutral	Rogue	Black Market	Support			Rare
+Awakenings	65	Neutral	Rogue	Cunning	Upgrade			Rare
+Awakenings	66	Neutral	Rogue	Jetpack	Upgrade			Rare
+Awakenings	67	Neutral	Rogue	Thermal Detonator	Upgrade			Legendary
+Awakenings	68	Villain	Command	Cannon Fodder	Event			Common
+Awakenings	69	Villain	Command	Closing the Net	Event			Common
+Awakenings	70	Villain	Command	Endless Ranks	Event			Uncommon
+Awakenings	71	Villain	Command	Occupation	Event			Common
+Awakenings	72	Villain	Command	Probe	Event			Common
+Awakenings	73	Villain	Command	Sweep the Area	Event			Common
+Awakenings	74	Villain	Command	Tactical Mastery	Event			Uncommon
+Awakenings	75	Villain	Command	The Best Defense...	Event			Uncommon
+Awakenings	76	Villain	Command	Drudge Work	Support			Common
+Awakenings	77	Villain	Command	Local Garrison	Support			Uncommon
+Awakenings	78	Villain	Command	Personal Escort	Upgrade			Common
+Awakenings	79	Villain	Force	Abandon All Hope	Event			Uncommon
+Awakenings	80	Villain	Force	Boundless Ambition	Event			Common
+Awakenings	81	Villain	Force	Enrage	Event			Common
+Awakenings	82	Villain	Force	Feel Your Anger	Event			Common
+Awakenings	83	Villain	Force	Force Strike	Event			Uncommon
+Awakenings	84	Villain	Force	Intimidate	Event			Common
+Awakenings	85	Villain	Force	Isolation	Event			Common
+Awakenings	86	Villain	Force	No Mercy	Event			Uncommon
+Awakenings	87	Villain	Force	Pulling the Strings	Event			Common
+Awakenings	88	Villain	Force	Emperor's Favor	Support			Uncommon
+Awakenings	89	Villain	Force	Power of the Dark Side	Support			Starter
+Awakenings	90	Villain	Force	Hidden In Shadow	Upgrade			Uncommon
+Awakenings	91	Villain	General	Nowhere to Run	Event			Uncommon
+Awakenings	92	Villain	Rogue	Ace in the Hole	Event			Uncommon
+Awakenings	93	Villain	Rogue	Armed to the Teeth	Event			Common
+Awakenings	94	Villain	Rogue	Confiscation	Event			Uncommon
+Awakenings	95	Villain	Rogue	Fight Dirty	Event			Uncommon
+Awakenings	96	Villain	Rogue	Go for the Kill	Event			Common
+Awakenings	97	Villain	Rogue	He Doesn't Like You	Event			Common
+Awakenings	98	Villain	Rogue	Lying in Wait	Event			Common
+Awakenings	99	Villain	Rogue	Backup Muscle	Support			Common
+Awakenings	100	Villain	Rogue	My Kind of Scum	Support			Common
+Awakenings	101	Villain	Rogue	Underworld Connections	Support			Uncommon
+Awakenings	102	Villain	Rogue	Prized Possession	Upgrade			Uncommon
+Awakenings	103	Hero	Command	Commando Raid	Event			Uncommon
+Awakenings	104	Hero	Command	Defensive Position	Event			Common
+Awakenings	105	Hero	Command	Field Medic	Event			Common
+Awakenings	106	Hero	Command	Hit and Run	Event			Common
+Awakenings	107	Hero	Command	It's a Trap!	Event			Uncommon
+Awakenings	108	Hero	Command	Natural Talent	Event			Common
+Awakenings	109	Hero	Command	Rearm	Event			Uncommon
+Awakenings	110	Hero	Command	Retreat	Event			Uncommon
+Awakenings	111	Hero	Command	Strategic Planning	Event			Common
+Awakenings	112	Hero	Command	Surgical Strike	Event			Common
+Awakenings	113	Hero	Command	Resistance HQ	Support			Uncommon
+Awakenings	114	Hero	Force	Anticipate	Event			Uncommon
+Awakenings	115	Hero	Force	Defensive Stance	Event			Common
+Awakenings	116	Hero	Force	Force Misdirection	Event			Common
+Awakenings	117	Hero	Force	Heroism	Event			Common
+Awakenings	118	Hero	Force	Noble Sacrifice	Event			Common
+Awakenings	119	Hero	Force	Patience	Event			Common
+Awakenings	120	Hero	Force	Return of the Jedi	Event			Uncommon
+Awakenings	121	Hero	Force	Riposte	Event			Common
+Awakenings	122	Hero	Force	Willpower	Event			Uncommon
+Awakenings	123	Hero	Force	Jedi Council	Support			Uncommon
+Awakenings	124	Hero	Force	Awakening	Support			Starter
+Awakenings	125	Hero	Force	The Force is Strong	Support			Common
+Awakenings	126	Hero	General	Daring Escape	Event			Uncommon
+Awakenings	127	Hero	Rogue	Don't Get Cocky	Event			Common
+Awakenings	128	Hero	Rogue	Draw Attention	Event			Common
+Awakenings	129	Hero	Rogue	Hyperspace Jump	Event			Uncommon
+Awakenings	130	Hero	Rogue	Let The Wookiee Win	Event			Uncommon
+Awakenings	131	Hero	Rogue	Negotiate	Event			Common
+Awakenings	132	Hero	Rogue	Scavenge	Event			Common
+Awakenings	133	Hero	Rogue	Shoot First	Event			Uncommon
+Awakenings	134	Hero	Rogue	Smuggling	Event			Common
+Awakenings	135	Hero	Rogue	Play the Odds	Support			Uncommon
+Awakenings	136	Hero	Rogue	Street Informants	Support			Common
+Awakenings	137	Hero	Rogue	Second Chance	Upgrade			Uncommon
+Awakenings	138	Neutral	Command	Award Ceremony	Event			Common
+Awakenings	139	Neutral	Command	Dug in	Event			Uncommon
+Awakenings	140	Neutral	Command	Firepower	Event			Common
+Awakenings	141	Neutral	Command	Leadership	Event			Uncommon
+Awakenings	142	Neutral	Command	Logistics	Event			Common
+Awakenings	143	Neutral	Command	Squad Tactics	Event			Common
+Awakenings	144	Neutral	Command	Supporting Fire	Support			Uncommon
+Awakenings	145	Neutral	Force	Deflect	Event			Common
+Awakenings	146	Neutral	Force	Disturbance in the Force	Event			Common
+Awakenings	147	Neutral	Force	Mind Trick	Event			Uncommon
+Awakenings	148	Neutral	Force	The Power of the Force	Event			Common
+Awakenings	149	Neutral	Force	Use The Force	Event			Starter
+Awakenings	150	Neutral	Force	It Binds All Things	Support			Uncommon
+Awakenings	151	Neutral	General	Aim	Event			Starter
+Awakenings	152	Neutral	General	All In	Event			Uncommon
+Awakenings	153	Neutral	General	Block	Event			Common
+Awakenings	154	Neutral	General	Close Quarters Assault	Event			Starter
+Awakenings	155	Neutral	General	Dodge	Event			Common
+Awakenings	156	Neutral	General	Flank	Event			Uncommon
+Awakenings	157	Neutral	General	Take Cover	Event			Common
+Awakenings	158	Neutral	Rogue	Disarm	Event			Common
+Awakenings	159	Neutral	Rogue	Electroshock	Event			Uncommon
+Awakenings	160	Neutral	Rogue	Reversal	Event			Uncommon
+Awakenings	161	Neutral	Rogue	Scramble	Event			Common
+Awakenings	162	Neutral	Rogue	Unpredictable	Event			Common
+Awakenings	163	Neutral	Rogue	Infamous	Support			Uncommon
+Awakenings	164	Neutral	Rogue	Hunker Down	Upgrade			Common
+Awakenings	165	Neutral	General	Command Center	Battlefield			Uncommon
+Awakenings	166	Neutral	General	Echo Base	Battlefield			Uncommon
+Awakenings	167	Neutral	General	Emperor's Throne Room	Battlefield			Uncommon
+Awakenings	168	Neutral	General	Frozen Wastes	Battlefield			Starter
+Awakenings	169	Neutral	General	Imperial Armory	Battlefield			Common
+Awakenings	170	Neutral	General	Jedi Temple	Battlefield			Common
+Awakenings	171	Neutral	General	Rebel War Room	Battlefield			Common
+Awakenings	172	Neutral	General	Mos Eisley Spaceport	Battlefield			Common
+Awakenings	173	Neutral	General	Separatist Base	Battlefield			Common
+Awakenings	174	Neutral	General	Starship Graveyard	Battlefield			Starter
+Spirit of Rebellion	1	Villain	Command	Death Trooper	Character	10		Rare
+Spirit of Rebellion	2	Villain	Command	FN-2199	Character	12	15	Rare
+Spirit of Rebellion	3	Villain	Command	Director Krennic	Character	15	19	Legendary
+Spirit of Rebellion	4	Villain	Command	Tie Pilot	Character	8		Rare
+Spirit of Rebellion	5	Villain	Command	E-Web Emplacement	Support			Rare
+Spirit of Rebellion	6	Villain	Command	Imperial Discipline	Upgrade			Rare
+Spirit of Rebellion	7	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade			Rare
+Spirit of Rebellion	8	Villain	Command	Z6 Riot Control Baton	Upgrade			Legendary
+Spirit of Rebellion	9	Villain	Force	Asajj Ventress	Character	12	15	Rare
+Spirit of Rebellion	10	Villain	Force	Darth Vader	Character	13	17	Rare
+Spirit of Rebellion	11	Villain	Force	Palpatine	Character	21	28	Legendary
+Spirit of Rebellion	12	Villain	Force	Royal Guard	Character	9		Rare
+Spirit of Rebellion	13	Villain	Force	Command Shuttle	Support			Rare
+Spirit of Rebellion	14	Villain	Force	Force Lightning	Upgrade			Legendary
+Spirit of Rebellion	15	Villain	Force	Lightsaber Pike	Upgrade			Rare
+Spirit of Rebellion	16	Villain	Force	Lure of Power	Upgrade			Rare
+Spirit of Rebellion	17	Villain	General	Interrogation Droid	Support			Rare
+Spirit of Rebellion	18	Villain	Rogue	Aurra Sing	Character	14	18	Rare
+Spirit of Rebellion	19	Villain	Rogue	Guavian Enforcer	Character	8		Rare
+Spirit of Rebellion	20	Villain	Rogue	IG-88	Character	15	20	Legendary
+Spirit of Rebellion	21	Villain	Rogue	Unkar Plutt	Character	12	15	Rare
+Spirit of Rebellion	22	Villain	Rogue	Slave I	Support			Legendary
+Spirit of Rebellion	23	Villain	Rogue	Blackmail	Upgrade			Legendary
+Spirit of Rebellion	24	Villain	Rogue	Personal Shield	Upgrade			Rare
+Spirit of Rebellion	25	Villain	Rogue	Vibroknucklers	Upgrade			Rare
+Spirit of Rebellion	26	Hero	Command	Baze Malbus	Character	14	18	Legendary
+Spirit of Rebellion	27	Hero	Command	Mon Mothma	Character	11	14	Rare
+Spirit of Rebellion	28	Hero	Command	Rebel Commando	Character	10		Rare
+Spirit of Rebellion	29	Hero	Command	Temmin "Snap" Wexley	Character	9	12	Rare
+Spirit of Rebellion	30	Hero	Command	C-3PO	Support			Rare
+Spirit of Rebellion	31	Hero	Command	U-Wing	Support			Legendary
+Spirit of Rebellion	32	Hero	Command	A180 Blaster	Upgrade			Rare
+Spirit of Rebellion	33	Hero	Command	Overkill	Upgrade			Rare
+Spirit of Rebellion	34	Hero	Force	Jedi Acolyte	Character	9		Rare
+Spirit of Rebellion	35	Hero	Force	Chirrut Îmwe	Character	12	16	Rare
+Spirit of Rebellion	36	Hero	Force	Luminara Unduli	Character	13	17	Rare
+Spirit of Rebellion	37	Hero	Force	Obi-Wan Kenobi	Character	16	20	Legendary
+Spirit of Rebellion	38	Hero	Force	Delta-7 Interceptor	Support			Rare
+Spirit of Rebellion	39	Hero	Force	Handcrafted Light Bow	Upgrade			Legendary
+Spirit of Rebellion	40	Hero	Force	Force Heal	Upgrade			Rare
+Spirit of Rebellion	41	Hero	Force	Journals of Ben Kenobi	Upgrade			Rare
+Spirit of Rebellion	42	Hero	General	R2-D2	Support			Rare
+Spirit of Rebellion	43	Hero	Rogue	Chewbacca	Character	12	16	Legendary
+Spirit of Rebellion	44	Hero	Rogue	Jyn Erso	Character	15	20	Rare
+Spirit of Rebellion	45	Hero	Rogue	Maz Kanata	Character	8	11	Rare
+Spirit of Rebellion	46	Hero	Rogue	Outer Rim Smuggler	Character	8		Rare
+Spirit of Rebellion	47	Hero	Rogue	Smuggling Freighter	Support			Rare
+Spirit of Rebellion	48	Hero	Rogue	Bowcaster	Upgrade			Legendary
+Spirit of Rebellion	49	Hero	Rogue	Lone Operative	Upgrade			Rare
+Spirit of Rebellion	50	Hero	Rogue	Maz's Goggles	Upgrade			Legendary
+Spirit of Rebellion	51	Neutral	Command	Supply Line	Support			Rare
+Spirit of Rebellion	52	Neutral	Command	Astromech	Support			Rare
+Spirit of Rebellion	53	Neutral	Command	Rocket Launcher	Upgrade			Legendary
+Spirit of Rebellion	54	Neutral	Force	Force Push	Upgrade			Rare
+Spirit of Rebellion	55	Neutral	Force	Force Speed	Upgrade			Legendary
+Spirit of Rebellion	56	Neutral	Force	Makashi Training	Upgrade			Rare
+Spirit of Rebellion	57	Neutral	General	Vibroknife	Upgrade			Rare
+Spirit of Rebellion	58	Neutral	Rogue	Quadjumper	Support			Legendary
+Spirit of Rebellion	59	Neutral	Rogue	Ascension Gun	Upgrade			Rare
+Spirit of Rebellion	60	Neutral	Rogue	Con Artist	Upgrade			Rare
+Spirit of Rebellion	61	Villain	Command	Battle Formation	Event			Common
+Spirit of Rebellion	62	Villain	Command	Imperial War Machine	Event			Uncommon
+Spirit of Rebellion	63	Villain	Command	Lockdown	Event			Common
+Spirit of Rebellion	64	Villain	Command	Sustained Fire	Event			Uncommon
+Spirit of Rebellion	65	Villain	Command	Traitor!	Event			Uncommon
+Spirit of Rebellion	66	Villain	Command	Trench Warfare	Event			Common
+Spirit of Rebellion	67	Villain	Command	Undying Loyalty	Event			Common
+Spirit of Rebellion	68	Villain	Command	We Have Them Now	Event			Uncommon
+Spirit of Rebellion	69	Villain	Command	Attrition	Support			Common
+Spirit of Rebellion	70	Villain	Command	Imperial Inspection	Support			Uncommon
+Spirit of Rebellion	71	Villain	Force	Anger	Event			Uncommon
+Spirit of Rebellion	72	Villain	Force	Lightsaber Throw	Event			Uncommon
+Spirit of Rebellion	73	Villain	Force	Manipulate	Event			Common
+Spirit of Rebellion	74	Villain	Force	No Disintegrations	Event			Common
+Spirit of Rebellion	75	Villain	Force	Now You Will Die	Event			Common
+Spirit of Rebellion	76	Villain	Force	Rise Again	Event			Uncommon
+Spirit of Rebellion	77	Villain	Force	The Price of Failure	Event			Common
+Spirit of Rebellion	78	Villain	Force	Dark Presence	Support			Uncommon
+Spirit of Rebellion	79	Villain	Force	Now I Am The Master	Upgrade			Common
+Spirit of Rebellion	80	Villain	General	Doubt	Event			Common
+Spirit of Rebellion	81	Villain	Rogue	Arms Deal	Event			Common
+Spirit of Rebellion	82	Villain	Rogue	Bait and Switch	Event			Common
+Spirit of Rebellion	83	Villain	Rogue	Friends in High Places	Event			Uncommon
+Spirit of Rebellion	84	Villain	Rogue	Loose Ends	Event			Uncommon
+Spirit of Rebellion	85	Villain	Rogue	One-Quarter Portion	Event			Common
+Spirit of Rebellion	86	Villain	Rogue	Relentless Pursuit	Event			Common
+Spirit of Rebellion	87	Villain	Rogue	Scrap Buy	Event			Uncommon
+Spirit of Rebellion	88	Villain	Rogue	Salvage Stand	Support			Common
+Spirit of Rebellion	89	Villain	Rogue	Armor Plating	Upgrade			Uncommon
+Spirit of Rebellion	90	Hero	Command	Emergency Evacuation	Event			Uncommon
+Spirit of Rebellion	91	Hero	Command	Friendly Fire	Event			Uncommon
+Spirit of Rebellion	92	Hero	Command	Guerrilla Warfare	Event			Common
+Spirit of Rebellion	93	Hero	Command	Our Only Hope	Event			Uncommon
+Spirit of Rebellion	94	Hero	Command	Rebel Assault	Event			Common
+Spirit of Rebellion	95	Hero	Command	Sensor Placement	Event			Uncommon
+Spirit of Rebellion	96	Hero	Command	Spirit of Rebellion	Event			Common
+Spirit of Rebellion	97	Hero	Command	Planetary Uprising	Support			Uncommon
+Spirit of Rebellion	98	Hero	Command	Spy Net	Support			Common
+Spirit of Rebellion	99	Hero	Command	Tactical Aptitude	Upgrade			Common
+Spirit of Rebellion	100	Hero	Force	Caution	Event			Uncommon
+Spirit of Rebellion	101	Hero	Force	Destiny	Event			Common
+Spirit of Rebellion	102	Hero	Force	Determination	Event			Common
+Spirit of Rebellion	103	Hero	Force	Guard	Event			Uncommon
+Spirit of Rebellion	104	Hero	Force	Krayt Dragon Howl	Event			Common
+Spirit of Rebellion	105	Hero	Force	My Ally Is The Force	Event			Uncommon
+Spirit of Rebellion	106	Hero	Force	Synchronicity	Event			Common
+Spirit of Rebellion	107	Hero	Force	Your Eyes Can Deceive You	Support			Uncommon
+Spirit of Rebellion	108	Hero	Force	Protective Mentor	Upgrade			Common
+Spirit of Rebellion	109	Hero	General	Confidence	Event			Common
+Spirit of Rebellion	110	Hero	Rogue	Garbage'll Do	Event			Common
+Spirit of Rebellion	111	Hero	Rogue	Hold On!	Event			Common
+Spirit of Rebellion	112	Hero	Rogue	Rebel	Event			Uncommon
+Spirit of Rebellion	113	Hero	Rogue	Long Con	Event			Common
+Spirit of Rebellion	114	Hero	Rogue	Loth-Cat and Mouse	Event			Common
+Spirit of Rebellion	115	Hero	Rogue	Never Tell Me The Odds	Event			Uncommon
+Spirit of Rebellion	116	Hero	Rogue	Planned Explosion	Event			Uncommon
+Spirit of Rebellion	117	Hero	Rogue	Double-Dealing	Support			Common
+Spirit of Rebellion	118	Hero	Rogue	Life Debt	Upgrade			Uncommon
+Spirit of Rebellion	119	Neutral	Command	Bombing Run	Event			Uncommon
+Spirit of Rebellion	120	Neutral	Command	Collateral Damage	Event			Common
+Spirit of Rebellion	121	Neutral	Command	Salvo	Event			Uncommon
+Spirit of Rebellion	122	Neutral	Command	Suppression	Event			Common
+Spirit of Rebellion	123	Neutral	Command	Aftermath	Support			Common
+Spirit of Rebellion	124	Neutral	Command	Air Superiority	Support			Common
+Spirit of Rebellion	125	Neutral	Command	Training	Upgrade			Uncommon
+Spirit of Rebellion	126	Neutral	Command	Wingman	Upgrade			Common
+Spirit of Rebellion	127	Neutral	Force	Decisive Blow	Event			Common
+Spirit of Rebellion	128	Neutral	Force	High Ground	Event			Common
+Spirit of Rebellion	129	Neutral	Force	Momentum Shift	Event			Uncommon
+Spirit of Rebellion	130	Neutral	Force	Overconfidence	Event			Common
+Spirit of Rebellion	131	Neutral	Force	Premonitions	Event			Uncommon
+Spirit of Rebellion	132	Neutral	Force	Rejuvenate	Event			Common
+Spirit of Rebellion	133	Neutral	Force	Trust Your Instincts	Event			Uncommon
+Spirit of Rebellion	134	Neutral	Force	Meditate	Support			Common
+Spirit of Rebellion	135	Neutral	Force	Force Illusion	Upgrade			Uncommon
+Spirit of Rebellion	136	Neutral	General	Evade	Event			Common
+Spirit of Rebellion	137	Neutral	General	New Orders	Event			Uncommon
+Spirit of Rebellion	138	Neutral	General	Parry	Event			Common
+Spirit of Rebellion	139	Neutral	General	Swiftness	Event			Common
+Spirit of Rebellion	140	Neutral	General	Resolve	Support			Uncommon
+Spirit of Rebellion	141	Neutral	General	Ammo Belt	Upgrade			Common
+Spirit of Rebellion	142	Neutral	Rogue	Bolt Hole	Event			Common
+Spirit of Rebellion	143	Neutral	Rogue	Cheat	Event			Uncommon
+Spirit of Rebellion	144	Neutral	Rogue	Diversion	Event			Common
+Spirit of Rebellion	145	Neutral	Rogue	"Fair" Trade	Event			Uncommon
+Spirit of Rebellion	146	Neutral	Rogue	Friends in Low Places	Event			Common
+Spirit of Rebellion	147	Neutral	Rogue	Sabotage	Event			Uncommon
+Spirit of Rebellion	148	Neutral	Rogue	Improvisation	Support			Common
+Spirit of Rebellion	149	Neutral	Rogue	Outmaneuver	Support			Common
+Spirit of Rebellion	150	Neutral	Rogue	Fast Hands	Upgrade			Uncommon
+Spirit of Rebellion	151	Neutral	General	Carbon-freezing Chamber	Battlefield			Uncommon
+Spirit of Rebellion	152	Neutral	General	Cargo Hold	Battlefield			Common
+Spirit of Rebellion	153	Neutral	General	Docking Bay	Battlefield			Common
+Spirit of Rebellion	154	Neutral	General	Ewok Village	Battlefield			Common
+Spirit of Rebellion	155	Neutral	General	Maz's Castle	Battlefield			Uncommon
+Spirit of Rebellion	156	Neutral	General	Moisture Farm	Battlefield			Uncommon
+Spirit of Rebellion	157	Neutral	General	Otoh Gunga	Battlefield			Common
+Spirit of Rebellion	158	Neutral	General	Secluded Beach	Battlefield			Common
+Spirit of Rebellion	159	Neutral	General	Secret Facility	Battlefield			Uncommon
+Spirit of Rebellion	160	Neutral	General	War-Torn Streets	Battlefield			Common
+Empire at War	1	Villain	Command	Ciena Ree	Character	8	11	Rare
+Empire at War	2	Villain	Command	General Hux	Character	11	14	Rare
+Empire at War	3	Villain	Command	MagnaGuard	Character	9		Rare
+Empire at War	4	Villain	Command	Thrawn	Character	14	17	Legendary
+Empire at War	5	Villain	Command	AT-DP	Support			Rare
+Empire at War	6	Villain	Command	Probe Droid	Support			Rare
+Empire at War	7	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade			Legendary
+Empire at War	8	Villain	Force	Quinlan Vos	Character	12	15	Rare
+Empire at War	9	Villain	Force	Servant of the Dark Side	Character	8		Rare
+Empire at War	10	Villain	Force	Seventh Sister	Character	11	14	Legendary
+Empire at War	11	Villain	Force	Grand Inquisitor	Character	14	19	Legendary
+Empire at War	12	Villain	Force	Darth Vader's TIE Advanced	Support			Rare
+Empire at War	13	Villain	Force	ID9 Seeker Droid	Upgrade			Rare
+Empire at War	14	Villain	Force	Temptation	Upgrade			Rare
+Empire at War	15	Villain	Force	Grand Inquisitor's Lightsaber	Upgrade			Legendary
+Empire at War	16	Villain	Rogue	Bazine Netal	Character	7	10	Rare
+Empire at War	17	Villain	Rogue	Bossk	Character	11	15	Rare
+Empire at War	18	Villain	Rogue	Cad Bane	Character	13	17	Legendary
+Empire at War	19	Villain	Rogue	Gamorrean Guard	Character	10		Rare
+Empire at War	20	Villain	Rogue	Hound's Tooth	Support			Legendary
+Empire at War	21	Villain	Rogue	Cable Launcher	Upgrade			Rare
+Empire at War	22	Villain	Rogue	LL-30 Blaster Pistol	Upgrade			Rare
+Empire at War	23	Villain	Rogue	Relby-V10 Mortar Gun	Upgrade			Rare
+Empire at War	24	Hero	Command	General Rieekan	Character	12	15	Rare
+Empire at War	25	Hero	Command	Hera Syndulla	Character	9	12	Rare
+Empire at War	26	Hero	Command	K-2SO	Character	15	20	Legendary
+Empire at War	27	Hero	Command	Rookie Pilot	Character	7		Rare
+Empire at War	28	Hero	Command	Ghost	Support			Legendary
+Empire at War	29	Hero	Command	Y-Wing	Support			Rare
+Empire at War	30	Hero	Command	A280 Blaster Rifle	Upgrade			Rare
+Empire at War	31	Hero	Force	Ahsoka Tano	Character	13	17	Legendary
+Empire at War	32	Hero	Force	Jedi Instructor	Character	8		Rare
+Empire at War	33	Hero	Force	Kanan Jarrus	Character	10	13	Rare
+Empire at War	34	Hero	Force	Mace Windu	Character	16	22	Legendary
+Empire at War	35	Hero	Force	Training Remote	Support			Rare
+Empire at War	36	Hero	Force	Master of the Council	Upgrade			Legendary
+Empire at War	37	Hero	Force	Coordination	Upgrade			Rare
+Empire at War	38	Hero	Rogue	Ezra Bridger	Character	7	10	Rare
+Empire at War	39	Hero	Rogue	Lando Calrissian	Character	13	16	Rare
+Empire at War	40	Hero	Rogue	Sabine Wren	Character	15	20	Legendary
+Empire at War	41	Hero	Rogue	Wookiee Warrior	Character	9		Rare
+Empire at War	42	Hero	Rogue	Chopper	Support			Legendary
+Empire at War	43	Hero	Rogue	Energy Slingshot	Upgrade			Rare
+Empire at War	44	Hero	Rogue	Tough Haggler	Upgrade			Rare
+Empire at War	45	Hero	General	T-47 Airspeeder	Support			Rare
+Empire at War	46	Neutral	Command	LR1K Sonic Cannon	Support			Legendary
+Empire at War	47	Neutral	Command	Electrostaff	Upgrade			Rare
+Empire at War	48	Neutral	Command	Natural Pilot	Upgrade			Rare
+Empire at War	49	Neutral	Force	Ancient Lightsaber	Upgrade			Legendary
+Empire at War	50	Neutral	Force	Psychometry	Upgrade			Rare
+Empire at War	51	Neutral	Force	Shoto Lightsaber	Upgrade			Rare
+Empire at War	52	Neutral	Rogue	Weapons Cache	Support			Rare
+Empire at War	53	Neutral	Rogue	BD-1 Cutter Vibro-AX	Upgrade			Rare
+Empire at War	54	Neutral	Rogue	Extortion	Upgrade			Rare
+Empire at War	55	Neutral	Rogue	X-8 Night Sniper	Upgrade			Legendary
+Empire at War	56	Neutral	General	Z-95 Headhunter	Support			Rare
+Empire at War	57	Neutral	General	Chance Cube	Upgrade			Rare
+Empire at War	58	Neutral	General	EMP Grenades	Upgrade			Rare
+Empire at War	59	Neutral	General	Lead by Example	Upgrade			Rare
+Empire at War	60	Neutral	General	Scatterblaster	Upgrade			Rare
+Empire at War	61	Villain	Command	Commandeer	Event			Uncommon
+Empire at War	62	Villain	Command	Crossfire	Event			Common
+Empire at War	63	Villain	Command	Drop Your Weapon!	Event			Uncommon
+Empire at War	64	Villain	Command	Imperial Backing	Event			Uncommon
+Empire at War	65	Villain	Command	Prepare for War	Event			Common
+Empire at War	66	Villain	Command	Red Alert	Event			Common
+Empire at War	67	Villain	Command	Ruthless Tactics	Event			Common
+Empire at War	68	Villain	Command	Take Prisoner	Event			Uncommon
+Empire at War	69	Villain	Command	Imperial HQ	Support			Common
+Empire at War	70	Villain	Force	As You Command	Event			Common
+Empire at War	71	Villain	Force	Cornered Prey	Event			Common
+Empire at War	72	Villain	Force	Indomitable	Event			Common
+Empire at War	73	Villain	Force	It Will All Be Mine	Event			Uncommon
+Empire at War	74	Villain	Force	Kill Them All	Event			Common
+Empire at War	75	Villain	Force	Unyielding	Event			Uncommon
+Empire at War	76	Villain	Force	Insidious	Support			Common
+Empire at War	77	Villain	Force	Hate	Upgrade			Uncommon
+Empire at War	78	Villain	Rogue	Anarchy	Event			Uncommon
+Empire at War	79	Villain	Rogue	Bounty Postings	Event			Common
+Empire at War	80	Villain	Rogue	Buy Out	Event			Uncommon
+Empire at War	81	Villain	Rogue	Coercion	Event			Uncommon
+Empire at War	82	Villain	Rogue	Only Business Matters	Event			Common
+Empire at War	83	Villain	Rogue	Pilfered Goods	Event			Uncommon
+Empire at War	84	Villain	Rogue	Twin Shadows	Event			Uncommon
+Empire at War	85	Villain	Rogue	Hutt Ties	Support			Common
+Empire at War	86	Villain	Rogue	Deadly	Upgrade			Uncommon
+Empire at War	87	Villain	General	No Survivors	Event			Common
+Empire at War	88	Villain	General	Detention Center	Support			Uncommon
+Empire at War	89	Hero	Command	All Quiet On The Front	Event			Uncommon
+Empire at War	90	Hero	Command	Entrenched	Event			Uncommon
+Empire at War	91	Hero	Command	Fortuitous Strike	Event			Common
+Empire at War	92	Hero	Command	Rearguard	Event			Common
+Empire at War	93	Hero	Command	Reckless Reentry	Event			Uncommon
+Empire at War	94	Hero	Command	Strike Briefing	Event			Common
+Empire at War	95	Hero	Command	Swift Strike	Event			Common
+Empire at War	96	Hero	Command	Rally Aid	Support			Uncommon
+Empire at War	97	Hero	Command	Shield Generator	Support			Common
+Empire at War	98	Hero	Force	At Peace	Event			Common
+Empire at War	99	Hero	Force	Bestow	Event			Common
+Empire at War	100	Hero	Force	Bring Balance	Event			Uncommon
+Empire at War	101	Hero	Force	Reaping The Crystal	Event			Uncommon
+Empire at War	102	Hero	Force	Secret Mission	Event			Common
+Empire at War	103	Hero	Force	Trust The Force	Event			Common
+Empire at War	104	Hero	Force	Funeral Pyre	Support			Common
+Empire at War	105	Hero	Force	Yoda's Quarters	Support			Uncommon
+Empire at War	106	Hero	Force	Fearless	Upgrade			Uncommon
+Empire at War	107	Hero	Rogue	Against The Odds	Event			Common
+Empire at War	108	Hero	Rogue	Appraise	Event			Common
+Empire at War	109	Hero	Rogue	Bad Feeling	Event			Common
+Empire at War	110	Hero	Rogue	Double-Cross	Event			Uncommon
+Empire at War	111	Hero	Rogue	Impersonate	Event			Uncommon
+Empire at War	112	Hero	Rogue	Local Patrol	Event			Common
+Empire at War	113	Hero	Rogue	Quick Escape	Event			Uncommon
+Empire at War	114	Hero	Rogue	Tenacity	Event			Common
+Empire at War	115	Hero	Rogue	Running Interference	Support			Uncommon
+Empire at War	116	Hero	Rogue	Thermal Paint	Upgrade			Common
+Empire at War	117	Hero	General	Defiance	Event			Common
+Empire at War	118	Neutral	Command	Covering Fire	Event			Common
+Empire at War	119	Neutral	Command	Deploy Squadron	Event			Common
+Empire at War	120	Neutral	Command	Fall Back	Event			Uncommon
+Empire at War	121	Neutral	Command	Feint	Event			Uncommon
+Empire at War	122	Neutral	Command	Flanking Maneuver	Event			Uncommon
+Empire at War	123	Neutral	Command	Heat Of Battle	Event			Common
+Empire at War	124	Neutral	Command	Pinned Down	Event			Common
+Empire at War	125	Neutral	Command	The Day is Ours	Event			Common
+Empire at War	126	Neutral	Command	Drop Zone	Support			Uncommon
+Empire at War	127	Neutral	Command	Tech Team	Support			Common
+Empire at War	128	Neutral	Force	Battle of Wills	Event			Uncommon
+Empire at War	129	Neutral	Force	Force Vision	Event			Common
+Empire at War	130	Neutral	Force	Lightsaber Pull	Event			Common
+Empire at War	131	Neutral	Force	Lightsaber Training	Event			Common
+Empire at War	132	Neutral	Force	No Surrender	Event			Common
+Empire at War	133	Neutral	Force	Something familiar	Event			Uncommon
+Empire at War	134	Neutral	Force	Voices Cry Out	Event			Common
+Empire at War	135	Neutral	Force	Keen Instincts	Upgrade			Uncommon
+Empire at War	136	Neutral	Rogue	Battle Rage	Event			Common
+Empire at War	137	Neutral	Rogue	Disable	Event			Common
+Empire at War	138	Neutral	Rogue	Persuade	Event			Common
+Empire at War	139	Neutral	Rogue	Pickpocket	Event			Common
+Empire at War	140	Neutral	Rogue	Threaten	Event			Uncommon
+Empire at War	141	Neutral	Rogue	Trickery	Event			Uncommon
+Empire at War	142	Neutral	Rogue	Truce	Event			Common
+Empire at War	143	Neutral	Rogue	Stolen Cache	Support			Common
+Empire at War	144	Neutral	Rogue	Hidden Agenda	Upgrade			Uncommon
+Empire at War	145	Neutral	Rogue	Mandalorian Armor	Upgrade			Common
+Empire at War	146	Neutral	General	Dangerous Mission	Event			Common
+Empire at War	147	Neutral	General	Endurance	Event			Uncommon
+Empire at War	148	Neutral	General	Partnership	Event			Common
+Empire at War	149	Neutral	General	Recycle	Event			Common
+Empire at War	150	Neutral	General	Rend	Event			Common
+Empire at War	151	Neutral	General	Roll On	Event			Common
+Empire at War	152	Neutral	General	Plastoid Armor	Upgrade			Common
+Empire at War	153	Neutral	General	B'Omarr Monastery	Battlefield			Common
+Empire at War	154	Neutral	General	Fort Anaxes	Battlefield			Uncommon
+Empire at War	155	Neutral	General	Garel Spaceport	Battlefield			Uncommon
+Empire at War	156	Neutral	General	Imperial Academy	Battlefield			Uncommon
+Empire at War	157	Neutral	General	Main Plaza	Battlefield			Common
+Empire at War	158	Neutral	General	Medical Center	Battlefield			Uncommon
+Empire at War	159	Neutral	General	Port District	Battlefield			Uncommon
+Empire at War	160	Neutral	General	Weapons Factory Alpha	Battlefield			Uncommon
+Two-Player Game	1	Villain	Force	Kylo Ren	Character	14	17	Starter
+Two-Player Game	2	Villain	Command	Captain Phasma	Character	10	14	Starter
+Two-Player Game	3	Villain	Command	Droid Commandos	Support			Starter
+Two-Player Game	4	Villain	Command	Captain Phasma's Blaster	Upgrade			Starter
+Two-Player Game	5	Villain	Command	Praetorian Guard	Upgrade			Starter
+Two-Player Game	6	Villain	Force	Dark Counsel	Upgrade			Starter
+Two-Player Game	7	Villain	Force	Crossguard Lightsaber	Upgrade			Starter
+Two-Player Game	8	Villain	Force	Force Stasis	Upgrade			Starter
+Two-Player Game	9	Villain	Force	Jedi Rival	Upgrade			Starter
+Two-Player Game	10	Villain	Command	Armored Support	Support			Starter
+Two-Player Game	11	Villain	Command	First Strike	Event			Starter
+Two-Player Game	12	Neutral	Command	I Have You Now	Event			Starter
+Two-Player Game	13	Villain	Command	Imperial Envoy	Event			Starter
+Two-Player Game	14	Neutral	Command	Mobilize	Event			Starter
+Two-Player Game	15	Villain	Command	Tactical Mastery	Event			Starter
+Two-Player Game	16	Neutral	Force	As I Have Foreseen	Event			Starter
+Two-Player Game	17	Neutral	Force	Clash	Event			Starter
+Two-Player Game	18	Villain	Force	Intimidate	Event			Starter
+Two-Player Game	19	Villain	Force	Your Skills Are Complete	Event			Starter
+Two-Player Game	20	Villain	General	Doubt	Event			Starter
+Two-Player Game	21	Neutral	General	Parry	Event			Starter
+Two-Player Game	22	Villain	General	Subjugate	Event			Starter
+Two-Player Game	23	Neutral	General	Hangar Bay	Battlefield			Starter
+Two-Player Game	24	Hero	Force	Rey	Character	12	15	Starter
+Two-Player Game	25	Hero	Command	Poe Dameron	Character	11	15	Starter
+Two-Player Game	26	Hero	Command	Medical Droid	Support			Starter
+Two-Player Game	27	Hero	Command	Strike Team	Support			Starter
+Two-Player Game	28	Hero	Command	Teamwork	Upgrade			Starter
+Two-Player Game	29	Hero	Command	Poe Dameron's Blaster	Upgrade			Starter
+Two-Player Game	30	Hero	Force	Rey's Lightsaber	Upgrade			Starter
+Two-Player Game	31	Hero	Force	Inner Strength	Upgrade			Starter
+Two-Player Game	32	Hero	Force	Luke's Protection	Support			Starter
+Two-Player Game	33	Hero	Command	Honor Guard	Support			Starter
+Two-Player Game	34	Neutral	Command	Direct Hit	Event			Starter
+Two-Player Game	35	Neutral	Command	Logistics	Event			Starter
+Two-Player Game	36	Neutral	Command	Recon	Event			Starter
+Two-Player Game	37	Hero	Command	Strategic Planning	Event			Starter
+Two-Player Game	38	Hero	Force	Concentrate	Event			Starter
+Two-Player Game	39	Hero	Force	Defensive Stance	Event			Starter
+Two-Player Game	40	Hero	Force	Distraction	Event			Starter
+Two-Player Game	41	Hero	Force	Do Or Do Not	Event			Starter
+Two-Player Game	42	Hero	Force	Fierce Resolve	Event			Starter
+Two-Player Game	43	Neutral	General	Evade	Event			Starter
+Two-Player Game	44	Neutral	General	Flank	Event			Starter
+Two-Player Game	45	Neutral	General	Sound The Alarm	Event			Starter
+Two-Player Game	46	Neutral	General	Obi-Wan's Hut	Battlefield			Starter
+Legacies	2	Villain	Force	Maul	Character	12	16	Legendary
+Legacies	3	Villain	Force	Mother Talzin	Character	9	12	Rare
+Legacies	4	Villain	Force	Palpatine	Character	16	20	Rare
+Legacies	6	Villain	Force	Crystal Ball	Upgrade			Rare
+Legacies	8	Villain	Force	Maul's Lightsaber	Upgrade			Legendary
+Legacies	9	Villain	Command	Battle Droid	Character	6		Rare
+Legacies	13	Villain	Command	Veteran Stormtrooper	Character	9		Starter
+Legacies	14	Villain	Command	Separatist Landing Craft	Support			Rare
+Legacies	19	Villain	Rogue	Boba Fett	Character	12	16	Starter
+Legacies	20	Villain	Rogue	Doctor Aphra	Character	11	14	Legendary
+Legacies	24	Villain	Rogue	BT-1	Support			Rare
+Legacies	25	Villain	Rogue	Slave I	Support			Starter
+Legacies	27	Villain	Rogue	Wrist Rockets	Upgrade			Starter
+Legacies	29	Hero	Force	Aayla Secura	Character	9	12	Rare
+Legacies	31	Hero	Force	Luke Skywalker	Character	11	14	Starter
+Legacies	32	Hero	Force	Obi-Wan Kenobi	Character	15	19	Rare
+Legacies	33	Hero	Force	Yoda	Character	10	13	Legendary
+Legacies	36	Hero	Force	Force Meditation	Upgrade			Rare
+Legacies	37	Hero	Force	Obi-Wan Kenobi's Lightsaber	Upgrade			Legendary
+Legacies	41	Hero	Command	Wedge Antilles	Character	11	15	Rare
+Legacies	43	Hero	Command	Resistance Bomber	Support			Rare
+Legacies	46	Hero	Rogue	Han Solo	Character	11	14	Starter
+Legacies	52	Hero	Rogue	Millennium Falcon	Support			Starter
+Legacies	56	Neutral	Force	Force Focus	Upgrade			Starter
+Legacies	58	Neutral	Force	Heirloom Lightsaber	Upgrade			Starter
+Legacies	77	Villain	Force	Double Strike	Event			Uncommon
+Legacies	80	Villain	Force	Snare	Event			Uncommon
+Legacies	83	Villain	Force	Nightsister Coven	Support			Uncommon
+Legacies	92	Villain	Rogue	Delve	Event			Uncommon
+Legacies	100	Hero	Force	Adapt	Event			Common
+Legacies	101	Hero	Force	Ataru Strike	Event			Rare
+Legacies	106	Hero	Force	Defensive Teaching	Support			Uncommon
+Legacies	119	Hero	Rogue	Impulsive	Event			Common
+Legacies	122	Hero	Rogue	Maz's Vault	Support			Uncommon
+Legacies	137	Neutral	Command	Crash Landing	Event			Starter
+Legacies	139	Neutral	Command	Locked and Loaded	Event			Common
+Legacies	140	Neutral	Command	Reinforce	Event			Uncommon
+Legacies	141	Neutral	Command	Strength in Numbers	Event			Common
+Legacies	145	Neutral	Command	Bubble Shield	Support			Uncommon
+Legacies	168	Neutral	General	Espionage	Plot	1		Uncommon
+Legacies	171	Neutral	General	Profitable Connection	Plot	3		Uncommon
+Legacies	174	Neutral	General	Arid Wasteland	Battlefield			Starter
+Legacies	178	Neutral	General	Outer Rim Outpost	Battlefield			Starter
+Rivals	1	Neutral	Force	Anakin Skywalker	Character	10	13	Starter
+Rivals	2	Neutral	Command	Lobot	Character	10	13	Starter
+Rivals	3	Neutral	Rogue	Ketsu Onyo	Character	11	14	Starter
+Rivals	4	Neutral	General	Jawa Scavenger	Character	6		Starter
+Rivals	13	Neutral	General	Resourceful	Event			Starter

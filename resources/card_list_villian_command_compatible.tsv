@@ -1,92 +1,93 @@
-Awakenings	17	Villain	General	Infantry Grenades	Upgrade	
-Awakenings	18	Villain	General	Speeder Bike Scout	Support	
-Awakenings	53	Neutral	Command	Outpost	Support	
-Awakenings	54	Neutral	Command	DH-17 Blaster Pistol	Upgrade	
-Awakenings	55	Neutral	Command	IQA-11 Blaster Rifle	Upgrade	
-Awakenings	56	Neutral	Command	Promotion	Upgrade	
-Awakenings	61	Neutral	General	Comlink	Upgrade	
-Awakenings	62	Neutral	General	Datapad	Upgrade	
-Awakenings	63	Neutral	General	Holdout Blaster	Upgrade	
-Awakenings	91	Villain	General	Nowhere to Run	Event	
-Awakenings	138	Neutral	Command	Award Ceremony	Event	
-Awakenings	139	Neutral	Command	Dug in	Event	
-Awakenings	140	Neutral	Command	Firepower	Event	
-Awakenings	141	Neutral	Command	Leadership	Event	
-Awakenings	142	Neutral	Command	Logistics	Event	
-Awakenings	143	Neutral	Command	Squad Tactics	Event	
-Awakenings	144	Neutral	Command	Supporting Fire	Support	
-Awakenings	151	Neutral	General	Aim	Event	
-Awakenings	152	Neutral	General	All In	Event	
-Awakenings	153	Neutral	General	Block	Event	
-Awakenings	154	Neutral	General	Close Quarters Assault	Event	
-Awakenings	155	Neutral	General	Dodge	Event	
-Awakenings	156	Neutral	General	Flank	Event	
-Awakenings	157	Neutral	General	Take Cover	Event	
-Spirit of Rebellion	17	Villain	General	Interrogation Droid	Support	
-Spirit of Rebellion	51	Neutral	Command	Supply Line	Support	
-Spirit of Rebellion	52	Neutral	Command	Astromech	Support	
-Spirit of Rebellion	53	Neutral	Command	Rocket Launcher	Upgrade	
-Spirit of Rebellion	57	Neutral	General	Vibroknife	Upgrade	
-Spirit of Rebellion	80	Villain	General	Doubt	Event	
-Spirit of Rebellion	119	Neutral	Command	Bombing Run	Event	
-Spirit of Rebellion	120	Neutral	Command	Collateral Damage	Event	
-Spirit of Rebellion	121	Neutral	Command	Salvo	Event	
-Spirit of Rebellion	122	Neutral	Command	Suppression	Event	
-Spirit of Rebellion	123	Neutral	Command	Aftermath	Support	
-Spirit of Rebellion	124	Neutral	Command	Air Superiority	Support	
-Spirit of Rebellion	125	Neutral	Command	Training	Upgrade	
-Spirit of Rebellion	126	Neutral	Command	Wingman	Upgrade	
-Spirit of Rebellion	136	Neutral	General	Evade	Event	
-Spirit of Rebellion	137	Neutral	General	New Orders	Event	
-Spirit of Rebellion	138	Neutral	General	Parry	Event	
-Spirit of Rebellion	139	Neutral	General	Swiftness	Event	
-Spirit of Rebellion	140	Neutral	General	Resolve	Support	
-Spirit of Rebellion	141	Neutral	General	Ammo Belt	Upgrade	
-Empire at War	46	Neutral	Command	LR1K Sonic Cannon	Support	
-Empire at War	47	Neutral	Command	Electrostaff	Upgrade	
-Empire at War	48	Neutral	Command	Natural Pilot	Upgrade	
-Empire at War	56	Neutral	General	Z-95 Headhunter	Support	
-Empire at War	57	Neutral	General	Chance Cube	Upgrade	
-Empire at War	58	Neutral	General	EMP Grenades	Upgrade	
-Empire at War	59	Neutral	General	Lead by Example	Upgrade	
-Empire at War	60	Neutral	General	Scatterblaster	Upgrade	
-Empire at War	87	Villain	General	No Survivors	Event	
-Empire at War	88	Villain	General	Detention Center	Support	
-Empire at War	118	Neutral	Command	Covering Fire	Event	
-Empire at War	119	Neutral	Command	Deploy Squadron	Event	
-Empire at War	120	Neutral	Command	Fall Back	Event	
-Empire at War	121	Neutral	Command	Feint	Event	
-Empire at War	122	Neutral	Command	Flanking Maneuver	Event	
-Empire at War	123	Neutral	Command	Heat Of Battle	Event	
-Empire at War	124	Neutral	Command	Pinned Down	Event	
-Empire at War	125	Neutral	Command	The Day is Ours	Event	
-Empire at War	126	Neutral	Command	Drop Zone	Support	
-Empire at War	127	Neutral	Command	Tech Team	Support	
-Empire at War	146	Neutral	General	Dangerous Mission	Event	
-Empire at War	147	Neutral	General	Endurance	Event	
-Empire at War	148	Neutral	General	Partnership	Event	
-Empire at War	149	Neutral	General	Recycle	Event	
-Empire at War	150	Neutral	General	Rend	Event	
-Empire at War	151	Neutral	General	Roll On	Event	
-Empire at War	152	Neutral	General	Plastoid Armor	Upgrade	
-Two-Player Game	12	Neutral	Command	I Have You Now	Event	
-Two-Player Game	14	Neutral	Command	Mobilize	Event	
-Two-Player Game	20	Villain	General	Doubt	Event	
-Two-Player Game	21	Neutral	General	Parry	Event	
-Two-Player Game	22	Villain	General	Subjugate	Event	
-Two-Player Game	34	Neutral	Command	Direct Hit	Event	
-Two-Player Game	35	Neutral	Command	Logistics	Event	
-Two-Player Game	36	Neutral	Command	Recon	Event	
-Two-Player Game	43	Neutral	General	Evade	Event	
-Two-Player Game	44	Neutral	General	Flank	Event	
-Two-Player Game	45	Neutral	General	Sound The Alarm	Event	
-Legacies	137	Neutral	Command	Crash Landing	Event	
-Legacies	139	Neutral	Command	Locked and Loaded	Event	
-Legacies	140	Neutral	Command	Reinforce	Event	
-Legacies	141	Neutral	Command	Strength in Numbers	Event	
-Legacies	145	Neutral	Command	Bubble Shield	Support	
-Legacies	168	Neutral	General	Espionage	Plot	1
-Legacies	171	Neutral	General	Profitable Connection	Plot	3
-Rivals	2	Neutral	Command	Lobot	Character	10/13
-Rivals	4	Neutral	General	Jawa Scavenger	Character	6
-Rivals	13	Neutral	General	Resourceful	Event	
+Set	Position	Affiliation	Faction	Name	Type	1d Points	2d Points	Rarity
+Awakenings	17	Villain	General	Infantry Grenades	Upgrade			Rare
+Awakenings	18	Villain	General	Speeder Bike Scout	Support			Rare
+Awakenings	53	Neutral	Command	Outpost	Support			Rare
+Awakenings	54	Neutral	Command	DH-17 Blaster Pistol	Upgrade			Rare
+Awakenings	55	Neutral	Command	IQA-11 Blaster Rifle	Upgrade			Rare
+Awakenings	56	Neutral	Command	Promotion	Upgrade			Rare
+Awakenings	61	Neutral	General	Comlink	Upgrade			Rare
+Awakenings	62	Neutral	General	Datapad	Upgrade			Rare
+Awakenings	63	Neutral	General	Holdout Blaster	Upgrade			Rare
+Awakenings	91	Villain	General	Nowhere to Run	Event			Uncommon
+Awakenings	138	Neutral	Command	Award Ceremony	Event			Common
+Awakenings	139	Neutral	Command	Dug in	Event			Uncommon
+Awakenings	140	Neutral	Command	Firepower	Event			Common
+Awakenings	141	Neutral	Command	Leadership	Event			Uncommon
+Awakenings	142	Neutral	Command	Logistics	Event			Common
+Awakenings	143	Neutral	Command	Squad Tactics	Event			Common
+Awakenings	144	Neutral	Command	Supporting Fire	Support			Uncommon
+Awakenings	151	Neutral	General	Aim	Event			Starter
+Awakenings	152	Neutral	General	All In	Event			Uncommon
+Awakenings	153	Neutral	General	Block	Event			Common
+Awakenings	154	Neutral	General	Close Quarters Assault	Event			Starter
+Awakenings	155	Neutral	General	Dodge	Event			Common
+Awakenings	156	Neutral	General	Flank	Event			Uncommon
+Awakenings	157	Neutral	General	Take Cover	Event			Common
+Spirit of Rebellion	17	Villain	General	Interrogation Droid	Support			Rare
+Spirit of Rebellion	51	Neutral	Command	Supply Line	Support			Rare
+Spirit of Rebellion	52	Neutral	Command	Astromech	Support			Rare
+Spirit of Rebellion	53	Neutral	Command	Rocket Launcher	Upgrade			Legendary
+Spirit of Rebellion	57	Neutral	General	Vibroknife	Upgrade			Rare
+Spirit of Rebellion	80	Villain	General	Doubt	Event			Common
+Spirit of Rebellion	119	Neutral	Command	Bombing Run	Event			Uncommon
+Spirit of Rebellion	120	Neutral	Command	Collateral Damage	Event			Common
+Spirit of Rebellion	121	Neutral	Command	Salvo	Event			Uncommon
+Spirit of Rebellion	122	Neutral	Command	Suppression	Event			Common
+Spirit of Rebellion	123	Neutral	Command	Aftermath	Support			Common
+Spirit of Rebellion	124	Neutral	Command	Air Superiority	Support			Common
+Spirit of Rebellion	125	Neutral	Command	Training	Upgrade			Uncommon
+Spirit of Rebellion	126	Neutral	Command	Wingman	Upgrade			Common
+Spirit of Rebellion	136	Neutral	General	Evade	Event			Common
+Spirit of Rebellion	137	Neutral	General	New Orders	Event			Uncommon
+Spirit of Rebellion	138	Neutral	General	Parry	Event			Common
+Spirit of Rebellion	139	Neutral	General	Swiftness	Event			Common
+Spirit of Rebellion	140	Neutral	General	Resolve	Support			Uncommon
+Spirit of Rebellion	141	Neutral	General	Ammo Belt	Upgrade			Common
+Empire at War	46	Neutral	Command	LR1K Sonic Cannon	Support			Legendary
+Empire at War	47	Neutral	Command	Electrostaff	Upgrade			Rare
+Empire at War	48	Neutral	Command	Natural Pilot	Upgrade			Rare
+Empire at War	56	Neutral	General	Z-95 Headhunter	Support			Rare
+Empire at War	57	Neutral	General	Chance Cube	Upgrade			Rare
+Empire at War	58	Neutral	General	EMP Grenades	Upgrade			Rare
+Empire at War	59	Neutral	General	Lead by Example	Upgrade			Rare
+Empire at War	60	Neutral	General	Scatterblaster	Upgrade			Rare
+Empire at War	87	Villain	General	No Survivors	Event			Common
+Empire at War	88	Villain	General	Detention Center	Support			Uncommon
+Empire at War	118	Neutral	Command	Covering Fire	Event			Common
+Empire at War	119	Neutral	Command	Deploy Squadron	Event			Common
+Empire at War	120	Neutral	Command	Fall Back	Event			Uncommon
+Empire at War	121	Neutral	Command	Feint	Event			Uncommon
+Empire at War	122	Neutral	Command	Flanking Maneuver	Event			Uncommon
+Empire at War	123	Neutral	Command	Heat Of Battle	Event			Common
+Empire at War	124	Neutral	Command	Pinned Down	Event			Common
+Empire at War	125	Neutral	Command	The Day is Ours	Event			Common
+Empire at War	126	Neutral	Command	Drop Zone	Support			Uncommon
+Empire at War	127	Neutral	Command	Tech Team	Support			Common
+Empire at War	146	Neutral	General	Dangerous Mission	Event			Common
+Empire at War	147	Neutral	General	Endurance	Event			Uncommon
+Empire at War	148	Neutral	General	Partnership	Event			Common
+Empire at War	149	Neutral	General	Recycle	Event			Common
+Empire at War	150	Neutral	General	Rend	Event			Common
+Empire at War	151	Neutral	General	Roll On	Event			Common
+Empire at War	152	Neutral	General	Plastoid Armor	Upgrade			Common
+Two-Player Game	12	Neutral	Command	I Have You Now	Event			Starter
+Two-Player Game	14	Neutral	Command	Mobilize	Event			Starter
+Two-Player Game	20	Villain	General	Doubt	Event			Starter
+Two-Player Game	21	Neutral	General	Parry	Event			Starter
+Two-Player Game	22	Villain	General	Subjugate	Event			Starter
+Two-Player Game	34	Neutral	Command	Direct Hit	Event			Starter
+Two-Player Game	35	Neutral	Command	Logistics	Event			Starter
+Two-Player Game	36	Neutral	Command	Recon	Event			Starter
+Two-Player Game	43	Neutral	General	Evade	Event			Starter
+Two-Player Game	44	Neutral	General	Flank	Event			Starter
+Two-Player Game	45	Neutral	General	Sound The Alarm	Event			Starter
+Legacies	137	Neutral	Command	Crash Landing	Event			Starter
+Legacies	139	Neutral	Command	Locked and Loaded	Event			Common
+Legacies	140	Neutral	Command	Reinforce	Event			Uncommon
+Legacies	141	Neutral	Command	Strength in Numbers	Event			Common
+Legacies	145	Neutral	Command	Bubble Shield	Support			Uncommon
+Legacies	168	Neutral	General	Espionage	Plot	1		Uncommon
+Legacies	171	Neutral	General	Profitable Connection	Plot	3		Uncommon
+Rivals	2	Neutral	Command	Lobot	Character	10	13	Starter
+Rivals	4	Neutral	General	Jawa Scavenger	Character	6		Starter
+Rivals	13	Neutral	General	Resourceful	Event			Starter

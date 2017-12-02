@@ -1,64 +1,65 @@
-Awakenings	1	Villain	Command	Captain Phasma	Character	12/15
-Awakenings	2	Villain	Command	First Order Stormtrooper	Character	7
-Awakenings	3	Villain	Command	General Grievous	Character	13/18
-Awakenings	4	Villain	Command	General Veers	Character	11/14
-Awakenings	5	Villain	Command	AT-ST	Support	
-Awakenings	6	Villain	Command	First Order TIE Fighter	Support	
-Awakenings	7	Villain	Command	Commanding Presence	Upgrade	
-Awakenings	8	Villain	Command	F-11D Rifle	Upgrade	
-Awakenings	68	Villain	Command	Cannon Fodder	Event	
-Awakenings	69	Villain	Command	Closing the Net	Event	
-Awakenings	70	Villain	Command	Endless Ranks	Event	
-Awakenings	71	Villain	Command	Occupation	Event	
-Awakenings	72	Villain	Command	Probe	Event	
-Awakenings	73	Villain	Command	Sweep the Area	Event	
-Awakenings	74	Villain	Command	Tactical Mastery	Event	
-Awakenings	75	Villain	Command	The Best Defense...	Event	
-Awakenings	76	Villain	Command	Drudge Work	Support	
-Awakenings	77	Villain	Command	Local Garrison	Support	
-Awakenings	78	Villain	Command	Personal Escort	Upgrade	
-Spirit of Rebellion	1	Villain	Command	Death Trooper	Character	10
-Spirit of Rebellion	2	Villain	Command	FN-2199	Character	12/15
-Spirit of Rebellion	3	Villain	Command	Director Krennic	Character	15/19
-Spirit of Rebellion	4	Villain	Command	Tie Pilot	Character	8
-Spirit of Rebellion	5	Villain	Command	E-Web Emplacement	Support	
-Spirit of Rebellion	6	Villain	Command	Imperial Discipline	Upgrade	
-Spirit of Rebellion	7	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	
-Spirit of Rebellion	8	Villain	Command	Z6 Riot Control Baton	Upgrade	
-Spirit of Rebellion	61	Villain	Command	Battle Formation	Event	
-Spirit of Rebellion	62	Villain	Command	Imperial War Machine	Event	
-Spirit of Rebellion	63	Villain	Command	Lockdown	Event	
-Spirit of Rebellion	64	Villain	Command	Sustained Fire	Event	
-Spirit of Rebellion	65	Villain	Command	Traitor!	Event	
-Spirit of Rebellion	66	Villain	Command	Trench Warfare	Event	
-Spirit of Rebellion	67	Villain	Command	Undying Loyalty	Event	
-Spirit of Rebellion	68	Villain	Command	We Have Them Now	Event	
-Spirit of Rebellion	69	Villain	Command	Attrition	Support	
-Spirit of Rebellion	70	Villain	Command	Imperial Inspection	Support	
-Empire at War	1	Villain	Command	Ciena Ree	Character	8/11
-Empire at War	2	Villain	Command	General Hux	Character	11/14
-Empire at War	3	Villain	Command	MagnaGuard	Character	9
-Empire at War	4	Villain	Command	Thrawn	Character	14/17
-Empire at War	5	Villain	Command	AT-DP	Support	
-Empire at War	6	Villain	Command	Probe Droid	Support	
-Empire at War	7	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade	
-Empire at War	61	Villain	Command	Commandeer	Event	
-Empire at War	62	Villain	Command	Crossfire	Event	
-Empire at War	63	Villain	Command	Drop Your Weapon!	Event	
-Empire at War	64	Villain	Command	Imperial Backing	Event	
-Empire at War	65	Villain	Command	Prepare for War	Event	
-Empire at War	66	Villain	Command	Red Alert	Event	
-Empire at War	67	Villain	Command	Ruthless Tactics	Event	
-Empire at War	68	Villain	Command	Take Prisoner	Event	
-Empire at War	69	Villain	Command	Imperial HQ	Support	
-Two-Player Game	2	Villain	Command	Captain Phasma	Character	10/14
-Two-Player Game	3	Villain	Command	Droid Commandos	Support	
-Two-Player Game	4	Villain	Command	Captain Phasma's Blaster	Upgrade	
-Two-Player Game	5	Villain	Command	Praetorian Guard	Upgrade	
-Two-Player Game	10	Villain	Command	Armored Support	Support	
-Two-Player Game	11	Villain	Command	First Strike	Event	
-Two-Player Game	13	Villain	Command	Imperial Envoy	Event	
-Two-Player Game	15	Villain	Command	Tactical Mastery	Event	
-Legacies	9	Villain	Command	Battle Droid	Character	6
-Legacies	13	Villain	Command	Veteran Stormtrooper	Character	9
-Legacies	14	Villain	Command	Separatist Landing Craft	Support	
+Set	Position	Affiliation	Faction	Name	Type	1d Points	2d Points	Rarity
+Awakenings	1	Villain	Command	Captain Phasma	Character	12	15	Legendary
+Awakenings	2	Villain	Command	First Order Stormtrooper	Character	7		Rare
+Awakenings	3	Villain	Command	General Grievous	Character	13	18	Rare
+Awakenings	4	Villain	Command	General Veers	Character	11	14	Rare
+Awakenings	5	Villain	Command	AT-ST	Support			Legendary
+Awakenings	6	Villain	Command	First Order TIE Fighter	Support			Rare
+Awakenings	7	Villain	Command	Commanding Presence	Upgrade			Legendary
+Awakenings	8	Villain	Command	F-11D Rifle	Upgrade			Starter
+Awakenings	68	Villain	Command	Cannon Fodder	Event			Common
+Awakenings	69	Villain	Command	Closing the Net	Event			Common
+Awakenings	70	Villain	Command	Endless Ranks	Event			Uncommon
+Awakenings	71	Villain	Command	Occupation	Event			Common
+Awakenings	72	Villain	Command	Probe	Event			Common
+Awakenings	73	Villain	Command	Sweep the Area	Event			Common
+Awakenings	74	Villain	Command	Tactical Mastery	Event			Uncommon
+Awakenings	75	Villain	Command	The Best Defense...	Event			Uncommon
+Awakenings	76	Villain	Command	Drudge Work	Support			Common
+Awakenings	77	Villain	Command	Local Garrison	Support			Uncommon
+Awakenings	78	Villain	Command	Personal Escort	Upgrade			Common
+Spirit of Rebellion	1	Villain	Command	Death Trooper	Character	10		Rare
+Spirit of Rebellion	2	Villain	Command	FN-2199	Character	12	15	Rare
+Spirit of Rebellion	3	Villain	Command	Director Krennic	Character	15	19	Legendary
+Spirit of Rebellion	4	Villain	Command	Tie Pilot	Character	8		Rare
+Spirit of Rebellion	5	Villain	Command	E-Web Emplacement	Support			Rare
+Spirit of Rebellion	6	Villain	Command	Imperial Discipline	Upgrade			Rare
+Spirit of Rebellion	7	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade			Rare
+Spirit of Rebellion	8	Villain	Command	Z6 Riot Control Baton	Upgrade			Legendary
+Spirit of Rebellion	61	Villain	Command	Battle Formation	Event			Common
+Spirit of Rebellion	62	Villain	Command	Imperial War Machine	Event			Uncommon
+Spirit of Rebellion	63	Villain	Command	Lockdown	Event			Common
+Spirit of Rebellion	64	Villain	Command	Sustained Fire	Event			Uncommon
+Spirit of Rebellion	65	Villain	Command	Traitor!	Event			Uncommon
+Spirit of Rebellion	66	Villain	Command	Trench Warfare	Event			Common
+Spirit of Rebellion	67	Villain	Command	Undying Loyalty	Event			Common
+Spirit of Rebellion	68	Villain	Command	We Have Them Now	Event			Uncommon
+Spirit of Rebellion	69	Villain	Command	Attrition	Support			Common
+Spirit of Rebellion	70	Villain	Command	Imperial Inspection	Support			Uncommon
+Empire at War	1	Villain	Command	Ciena Ree	Character	8	11	Rare
+Empire at War	2	Villain	Command	General Hux	Character	11	14	Rare
+Empire at War	3	Villain	Command	MagnaGuard	Character	9		Rare
+Empire at War	4	Villain	Command	Thrawn	Character	14	17	Legendary
+Empire at War	5	Villain	Command	AT-DP	Support			Rare
+Empire at War	6	Villain	Command	Probe Droid	Support			Rare
+Empire at War	7	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade			Legendary
+Empire at War	61	Villain	Command	Commandeer	Event			Uncommon
+Empire at War	62	Villain	Command	Crossfire	Event			Common
+Empire at War	63	Villain	Command	Drop Your Weapon!	Event			Uncommon
+Empire at War	64	Villain	Command	Imperial Backing	Event			Uncommon
+Empire at War	65	Villain	Command	Prepare for War	Event			Common
+Empire at War	66	Villain	Command	Red Alert	Event			Common
+Empire at War	67	Villain	Command	Ruthless Tactics	Event			Common
+Empire at War	68	Villain	Command	Take Prisoner	Event			Uncommon
+Empire at War	69	Villain	Command	Imperial HQ	Support			Common
+Two-Player Game	2	Villain	Command	Captain Phasma	Character	10	14	Starter
+Two-Player Game	3	Villain	Command	Droid Commandos	Support			Starter
+Two-Player Game	4	Villain	Command	Captain Phasma's Blaster	Upgrade			Starter
+Two-Player Game	5	Villain	Command	Praetorian Guard	Upgrade			Starter
+Two-Player Game	10	Villain	Command	Armored Support	Support			Starter
+Two-Player Game	11	Villain	Command	First Strike	Event			Starter
+Two-Player Game	13	Villain	Command	Imperial Envoy	Event			Starter
+Two-Player Game	15	Villain	Command	Tactical Mastery	Event			Starter
+Legacies	9	Villain	Command	Battle Droid	Character	6		Rare
+Legacies	13	Villain	Command	Veteran Stormtrooper	Character	9		Starter
+Legacies	14	Villain	Command	Separatist Landing Craft	Support			Rare
