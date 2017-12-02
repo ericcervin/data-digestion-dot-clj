@@ -4,8 +4,20 @@
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
+    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Affiliation" "Faction" "Name" "Type" "1d Points" "2d Points""Rarity"]) "\n"))
     (doseq [i mp]
-      (.write writer (str (get i "set_name") "\t" (get i "position") "\t" (get i "affiliation_name") "\t" (get i "faction_name") "\t" (get i "name") "\t" (get i "type_name") "\t" (get i "points") "\n")))))
+      (let [c-set (get i "set_name")
+            c-position (get i "position")
+            c-affiliation (get i "affiliation_name")
+            c-faction (get i "faction_name")
+            c-name (get i "name") 
+            c-type (get i "type_name")
+            c-points (get i "points")
+            c-points (if (nil? c-points) "" c-points)
+            c-1d-points (get (clojure.string/split c-points #"/") 0)
+            c-2d-points (get (clojure.string/split c-points #"/") 1)
+            c-rarity (get i "rarity_name")]
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-rarity]) "\n"))))))
         
 
 (defn -main []
