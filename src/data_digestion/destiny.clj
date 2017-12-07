@@ -7,9 +7,23 @@
               :subprotocol "sqlite"
               :subname "resources/destiny.db"})
 
+(defn assoc-extended-points-fields [mp]
+   (let [c-points (get mp "points")
+         c-points (if (nil? c-points) "" c-points)
+         c-1d-points (get (clojure.string/split c-points #"/") 0)
+         c-2d-points (get (clojure.string/split c-points #"/") 1 "")
+         c-min-points c-1d-points
+         c-max-points (if (> (count c-2d-points) 0)
+                        c-2d-points
+                        c-1d-points)]
+     (merge mp {:c-points c-points :c-1d-points c-1d-points :c-2d-points c-2d-points :c-min-points c-min-points :c-max-points c-max-points})))
+  
+
 (defn drop-card-table! []
-  (sql/db-do-commands db-spec
-   (sql/drop-table-ddl :cards)))
+  (if (.exists (io/as-file "resources/destiny.db"))
+      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"cards\""])) 0)
+          (sql/db-do-commands db-spec
+            (sql/drop-table-ddl :cards)))))
 
 (defn create-card-table! []
   (sql/db-do-commands db-spec
@@ -20,6 +34,10 @@
        [:affiliation "varchar(64)"]
        [:faction "varchar(64)"]
        [:name "varchar (64)"]
+       [:c1dPoints :int] 
+       [:c2dPoints :int]
+       [:cMinPoints :int]
+       [:cMaxPoints :int]
        [:typeName "varchar(64)"]
        [:rarity "varchar(64)"]])))
 
@@ -27,13 +45,15 @@
   (sql/insert-multi! db-spec :cards
      (map #(hash-map :cardSet (get % "set_name") :position (get % "position") 
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
-                     :name (get % "name") :typeName (get % "type_name") :rarity (get % "rarity")) mp)))
+                     :name (get % "name")  :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
+                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %)
+                     :typeName (get % "type_name") :rarity (get % "rarity")) mp)))
     
   
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Affiliation" "Faction" "Name" "Type" "1d Points" "2d Points""Rarity"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Affiliation" "Faction" "Name" "Type" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Rarity"]) "\n"))
     (doseq [i mp]
       (let [c-set (get i "set_name")
             c-position (get i "position")
@@ -41,21 +61,25 @@
             c-faction (get i "faction_name")
             c-name (get i "name") 
             c-type (get i "type_name")
-            c-points (get i "points")
-            c-points (if (nil? c-points) "" c-points)
-            c-1d-points (get (clojure.string/split c-points #"/") 0)
-            c-2d-points (get (clojure.string/split c-points #"/") 1)
+            c-points (:c-points i)
+            c-1d-points (:c-1d-points i)
+            c-2d-points (:c-2d-points i)
+            c-min-points (:c-min-points i)
+            c-max-points (:c-max-points i)
             c-rarity (get i "rarity_name")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-rarity]) "\n"))))))
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-min-points c-max-points c-rarity]) "\n"))))))
         
 
 (defn -main []
   (let [card-json (slurp "https://swdestinydb.com/api/public/cards/")
         card-map  (json/read-str card-json)
+        card-map  (map assoc-extended-points-fields card-map)
         villain-command-cards (filter #(and (= (get % "affiliation_name") "Villain") (= (get % "faction_name") "Command")) card-map)
         villain-command-compatible-cards (filter #(or (and (= (get % "affiliation_name") "Villain") (= (get % "faction_name") "General"))
                                                       (and (= (get % "affiliation_name") "Neutral") (= (get % "faction_name") "General") (not (= (get % "type_name") "Battlefield")))
                                                       (and (= (get % "affiliation_name") "Neutral") (= (get % "faction_name") "Command"))) card-map)]
+    
+   
     
     ;;export all json
     (spit "resources/all_cards.json" card-json)
@@ -75,18 +99,13 @@
     ;;drop card table
     (drop-card-table!)
     
-    ;;create card table
+    ;;create card table in mysql
     (create-card-table!)
     
-    ;;insert rows
+    ;;insert rows in mysql
     (load-card-table! card-map)))
     
-    ;;print totals again querying database
+    ;;print totals again querying mysql database
     ;;(println (sql/query db-spec ["Select Count(*), affiliation, faction from cards group by affiliation, faction"]))))
 
-    
-
-    
-        
-        
 
