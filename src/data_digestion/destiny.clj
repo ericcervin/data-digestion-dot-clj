@@ -31,6 +31,7 @@
       :cards
       [[:cardSet "varchar(64)"]
        [:position :int]
+       [:cardCode "varchar(8)"]
        [:affiliation "varchar(64)"]
        [:faction "varchar(64)"]
        [:name "varchar (64)"]
@@ -39,24 +40,26 @@
        [:cMinPoints :int]
        [:cMaxPoints :int]
        [:typeName "varchar(64)"]
-       [:rarity "varchar(64)"]])))
+       [:rarity "varchar(64)"]
+       [:imgSrc "varchar(64)"]])))
 
 (defn load-card-table! [mp]
   (sql/insert-multi! db-spec :cards
-     (map #(hash-map :cardSet (get % "set_name") :position (get % "position") 
+     (map #(hash-map :cardSet (get % "set_name") :position (get % "position") :cardCode (get % "code")
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
                      :name (get % "name")  :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
                      :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %)
-                     :typeName (get % "type_name") :rarity (get % "rarity")) mp)))
+                     :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))
     
   
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Affiliation" "Faction" "Name" "Type" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Rarity"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Rarity" "Img Src"]) "\n"))
     (doseq [i mp]
       (let [c-set (get i "set_name")
             c-position (get i "position")
+            c-code (get i "code")
             c-affiliation (get i "affiliation_name")
             c-faction (get i "faction_name")
             c-name (get i "name") 
@@ -66,8 +69,9 @@
             c-2d-points (:c-2d-points i)
             c-min-points (:c-min-points i)
             c-max-points (:c-max-points i)
-            c-rarity (get i "rarity_name")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-min-points c-max-points c-rarity]) "\n"))))))
+            c-rarity (get i "rarity_name")
+            c-image-src (get i "imagesrc")]
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-min-points c-max-points c-rarity c-image-src]) "\n"))))))
         
 
 (defn -main []
