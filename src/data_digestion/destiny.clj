@@ -5,7 +5,7 @@
 
 (def db-spec {:classname "org.sqlite.JDBC"
               :subprotocol "sqlite"
-              :subname "resources/destiny.db"})
+              :subname "resources/destiny/OUT/destiny.db"})
 
 (defn assoc-extended-points-fields [mp]
    (let [c-points (get mp "points")
@@ -20,15 +20,15 @@
   
 
 (defn drop-card-table! []
-  (if (.exists (io/as-file "resources/destiny.db"))
-      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"cards\""])) 0)
+  (if (.exists (io/as-file "resources/destiny/OUT/destiny.db"))
+      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"card\""])) 0)
           (sql/db-do-commands db-spec
-            (sql/drop-table-ddl :cards)))))
+            (sql/drop-table-ddl :card)))))
 
 (defn create-card-table! []
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
-      :cards
+      :card
       [[:cardSet "varchar(64)"]
        [:position :int]
        [:cardCode "varchar(8)"]
@@ -44,7 +44,7 @@
        [:imgSrc "varchar(64)"]])))
 
 (defn load-card-table! [mp]
-  (sql/insert-multi! db-spec :cards
+  (sql/insert-multi! db-spec :card
      (map #(hash-map :cardSet (get % "set_name") :position (get % "position") :cardCode (get % "code")
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
                      :name (get % "name")  :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
@@ -86,7 +86,7 @@
    
     
     ;;export all json
-    (spit "resources/all_cards.json" card-json)
+    (spit "resources/destiny/OUT/all_cards.json" card-json)
     
     ;;write counts of subsets (can compare with totals documented on Destiny wiki)
     (println (map #(str (first %) " " (count (last %))) (group-by #(get % "set_name") card-map)))
@@ -95,9 +95,9 @@
     (println (map #(str (first %) "\t" (count (last %)) "\n") (group-by #(str (get % "affiliation_name") "-"(get % "faction_name")) card-map)))
     
     ;;write reports
-    (export-card-tsv "resources/card_list_all.tsv" card-map)
-    (export-card-tsv "resources/card_list_villian_command.tsv" villain-command-cards)
-    (export-card-tsv "resources/card_list_villian_command_compatible.tsv" villain-command-compatible-cards)
+    (export-card-tsv "resources/destiny/OUT/card_list_all.tsv" card-map)
+    (export-card-tsv "resources/destiny/OUT/card_list_villian_command.tsv" villain-command-cards)
+    (export-card-tsv "resources/destiny/OUT/card_list_villian_command_compatible.tsv" villain-command-compatible-cards)
     
     
     ;;drop card table
@@ -110,6 +110,6 @@
     (load-card-table! card-map)))
     
     ;;print totals again querying mysql database
-    ;;(println (sql/query db-spec ["Select Count(*), affiliation, faction from cards group by affiliation, faction"]))))
+    ;;(println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
 
 
