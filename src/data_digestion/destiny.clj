@@ -13,10 +13,8 @@
          c-1d-points (get (clojure.string/split c-points #"/") 0)
          c-2d-points (get (clojure.string/split c-points #"/") 1 "")
          c-min-points c-1d-points
-         c-max-points (if (> (count c-2d-points) 0)
-                        c-2d-points
-                        c-1d-points)]
-     (merge mp {:c-points c-points :c-1d-points c-1d-points :c-2d-points c-2d-points :c-min-points c-min-points :c-max-points c-max-points})))
+         c-max-points (if (> (count c-2d-points) 0) c-2d-points c-1d-points)]
+    (merge mp {:c-points c-points :c-1d-points c-1d-points :c-2d-points c-2d-points :c-min-points c-min-points :c-max-points c-max-points})))
   
 
 (defn drop-card-table! []
@@ -34,11 +32,13 @@
        [:cardCode "varchar(8)"]
        [:affiliation "varchar(64)"]
        [:faction "varchar(64)"]
-       [:name "varchar (64)"]
+       [:name "varchar(64)"]
+       [:isUnique :int]
        [:c1dPoints :int] 
        [:c2dPoints :int]
        [:cMinPoints :int]
        [:cMaxPoints :int]
+       [:cSides "varchar(64)"]
        [:typeName "varchar(64)"]
        [:rarity "varchar(64)"]
        [:imgSrc "varchar(64)"]])))
@@ -47,15 +47,15 @@
   (sql/insert-multi! db-spec :card
      (map #(hash-map :cardSet (get % "set_name") :position (get % "position") :cardCode (get % "code")
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
-                     :name (get % "name")  :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
-                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %)
+                     :name (get % "name") :isUnique (get % "is_unique") :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
+                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cSides (get % "sides")
                      :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))
     
   
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Rarity" "Img Src"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "Is Unique" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Sides" "Rarity" "Img Src"]) "\n"))
     (doseq [i mp]
       (let [c-set (get i "set_name")
             c-position (get i "position")
@@ -64,14 +64,16 @@
             c-faction (get i "faction_name")
             c-name (get i "name") 
             c-type (get i "type_name")
+            c-is-unique (get i "is_unique")
             c-points (:c-points i)
             c-1d-points (:c-1d-points i)
             c-2d-points (:c-2d-points i)
             c-min-points (:c-min-points i)
             c-max-points (:c-max-points i)
+            c-sides (get i "sides")
             c-rarity (get i "rarity_name")
             c-image-src (get i "imagesrc")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-1d-points c-2d-points c-min-points c-max-points c-rarity c-image-src]) "\n"))))))
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-sides c-rarity c-image-src]) "\n"))))))
         
 
 (defn -main []
@@ -107,9 +109,9 @@
     (create-card-table!)
     
     ;;insert rows in mysql
-    (load-card-table! card-map)))
+    (load-card-table! card-map)
     
     ;;print totals again querying mysql database
-    ;;(println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
+    (println (sql/query db-spec ["Select Count(*), affiliation, faction, isUnique from card group by affiliation, faction, isUnique"]))))
 
 
