@@ -1,600 +1,600 @@
-Set	Position	Code	Affiliation	Faction	Name	Type	1d Cost	2d Cost	Min Cost	Max Cost	Rarity	Img Src
-Awakenings	1	01001	Villain	Command	Captain Phasma	Character	12	15	12	15	Legendary	https://swdestinydb.com/bundles/cards/en/01/01001.jpg
-Awakenings	2	01002	Villain	Command	First Order Stormtrooper	Character	7		7	7	Rare	https://swdestinydb.com/bundles/cards/en/01/01002.jpg
-Awakenings	3	01003	Villain	Command	General Grievous	Character	13	18	13	18	Rare	https://swdestinydb.com/bundles/cards/en/01/01003.jpg
-Awakenings	4	01004	Villain	Command	General Veers	Character	11	14	11	14	Rare	https://swdestinydb.com/bundles/cards/en/01/01004.jpg
-Awakenings	5	01005	Villain	Command	AT-ST	Support					Legendary	https://swdestinydb.com/bundles/cards/en/01/01005.jpg
-Awakenings	6	01006	Villain	Command	First Order TIE Fighter	Support					Rare	https://swdestinydb.com/bundles/cards/en/01/01006.jpg
-Awakenings	7	01007	Villain	Command	Commanding Presence	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01007.jpg
-Awakenings	8	01008	Villain	Command	F-11D Rifle	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/01/01008.jpg
-Awakenings	9	01009	Villain	Force	Count Dooku	Character	11	15	11	15	Rare	https://swdestinydb.com/bundles/cards/en/01/01009.jpg
-Awakenings	10	01010	Villain	Force	Darth Vader	Character	16	21	16	21	Legendary	https://swdestinydb.com/bundles/cards/en/01/01010.jpg
-Awakenings	11	01011	Villain	Force	Kylo Ren	Character	10	13	10	13	Starter	https://swdestinydb.com/bundles/cards/en/01/01011.jpg
-Awakenings	12	01012	Villain	Force	Nightsister	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/01/01012.jpg
-Awakenings	13	01013	Villain	Force	Force Choke	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01013.jpg
-Awakenings	14	01014	Villain	Force	Immobilize	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01014.jpg
-Awakenings	15	01015	Villain	Force	Kylo Ren's Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01015.jpg
-Awakenings	16	01016	Villain	Force	Sith Holocron	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01016.jpg
-Awakenings	17	01017	Villain	General	Infantry Grenades	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01017.jpg
-Awakenings	18	01018	Villain	General	Speeder Bike Scout	Support					Rare	https://swdestinydb.com/bundles/cards/en/01/01018.jpg
-Awakenings	19	01019	Villain	Rogue	Bala-Tik	Character	8	11	8	11	Rare	https://swdestinydb.com/bundles/cards/en/01/01019.jpg
-Awakenings	20	01020	Villain	Rogue	Jabba the Hutt	Character	11	14	11	14	Legendary	https://swdestinydb.com/bundles/cards/en/01/01020.jpg
-Awakenings	21	01021	Villain	Rogue	Jango Fett	Character	12	16	12	16	Rare	https://swdestinydb.com/bundles/cards/en/01/01021.jpg
-Awakenings	22	01022	Villain	Rogue	Tusken Raider	Character	9		9	9	Rare	https://swdestinydb.com/bundles/cards/en/01/01022.jpg
-Awakenings	23	01023	Villain	Rogue	Crime Lord	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01023.jpg
-Awakenings	24	01024	Villain	Rogue	Flame Thrower	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01024.jpg
-Awakenings	25	01025	Villain	Rogue	Gaffi Stick	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01025.jpg
-Awakenings	26	01026	Villain	Rogue	On The Hunt	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01026.jpg
-Awakenings	27	01027	Hero	Command	Admiral Ackbar	Character	10	14	10	14	Rare	https://swdestinydb.com/bundles/cards/en/01/01027.jpg
-Awakenings	28	01028	Hero	Command	Leia Organa	Character	12	16	12	16	Rare	https://swdestinydb.com/bundles/cards/en/01/01028.jpg
-Awakenings	29	01029	Hero	Command	Poe Dameron	Character	16	20	16	20	Legendary	https://swdestinydb.com/bundles/cards/en/01/01029.jpg
-Awakenings	30	01030	Hero	Command	Rebel Trooper	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/01/01030.jpg
-Awakenings	31	01031	Hero	Command	Launch Bay	Support					Legendary	https://swdestinydb.com/bundles/cards/en/01/01031.jpg
-Awakenings	32	01032	Hero	Command	Black One	Support					Legendary	https://swdestinydb.com/bundles/cards/en/01/01032.jpg
-Awakenings	33	01033	Hero	Command	Scout	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01033.jpg
-Awakenings	34	01034	Hero	Command	Survival Gear	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01034.jpg
-Awakenings	35	01035	Hero	Force	Luke Skywalker	Character	15	20	15	20	Legendary	https://swdestinydb.com/bundles/cards/en/01/01035.jpg
-Awakenings	36	01036	Hero	Force	Padawan	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/01/01036.jpg
-Awakenings	37	01037	Hero	Force	Qui-Gon Jinn	Character	13	17	13	17	Rare	https://swdestinydb.com/bundles/cards/en/01/01037.jpg
-Awakenings	38	01038	Hero	Force	Rey	Character	9	12	9	12	Starter	https://swdestinydb.com/bundles/cards/en/01/01038.jpg
-Awakenings	39	01039	Hero	Force	Force Protection	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01039.jpg
-Awakenings	40	01040	Hero	Force	Jedi Robes	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01040.jpg
-Awakenings	41	01041	Hero	Force	Luke Skywalker's Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01041.jpg
-Awakenings	42	01042	Hero	Force	One With The Force	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01042.jpg
-Awakenings	43	01043	Hero	General	BB-8	Support					Rare	https://swdestinydb.com/bundles/cards/en/01/01043.jpg
-Awakenings	44	01044	Hero	General	Rey's Staff	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01044.jpg
-Awakenings	45	01045	Hero	Rogue	Finn	Character	13	16	13	16	Starter	https://swdestinydb.com/bundles/cards/en/01/01045.jpg
-Awakenings	46	01046	Hero	Rogue	Han Solo	Character	14	18	14	18	Legendary	https://swdestinydb.com/bundles/cards/en/01/01046.jpg
-Awakenings	47	01047	Hero	Rogue	Hired Gun	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/01/01047.jpg
-Awakenings	48	01048	Hero	Rogue	Padme Amidala	Character	10	14	10	14	Rare	https://swdestinydb.com/bundles/cards/en/01/01048.jpg
-Awakenings	49	01049	Hero	Rogue	Millennium Falcon	Support					Legendary	https://swdestinydb.com/bundles/cards/en/01/01049.jpg
-Awakenings	50	01050	Hero	Rogue	Diplomatic Immunity	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01050.jpg
-Awakenings	51	01051	Hero	Rogue	DL-44 Heavy Blaster Pistol	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01051.jpg
-Awakenings	52	01052	Hero	Rogue	Infiltrate	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01052.jpg
-Awakenings	53	01053	Neutral	Command	Outpost	Support					Rare	https://swdestinydb.com/bundles/cards/en/01/01053.jpg
-Awakenings	54	01054	Neutral	Command	DH-17 Blaster Pistol	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01054.jpg
-Awakenings	55	01055	Neutral	Command	IQA-11 Blaster Rifle	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01055.jpg
-Awakenings	56	01056	Neutral	Command	Promotion	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01056.jpg
-Awakenings	57	01057	Neutral	Force	Force Throw	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/01/01057.jpg
-Awakenings	58	01058	Neutral	Force	Force Training	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01058.jpg
-Awakenings	59	01059	Neutral	Force	Lightsaber	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/01/01059.jpg
-Awakenings	60	01060	Neutral	Force	Mind Probe	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/01/01060.jpg
-Awakenings	61	01061	Neutral	General	Comlink	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01061.jpg
-Awakenings	62	01062	Neutral	General	Datapad	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01062.jpg
-Awakenings	63	01063	Neutral	General	Holdout Blaster	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01063.jpg
-Awakenings	64	01064	Neutral	Rogue	Black Market	Support					Rare	https://swdestinydb.com/bundles/cards/en/01/01064.jpg
-Awakenings	65	01065	Neutral	Rogue	Cunning	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01065.jpg
-Awakenings	66	01066	Neutral	Rogue	Jetpack	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/01/01066.jpg
-Awakenings	67	01067	Neutral	Rogue	Thermal Detonator	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/01/01067.jpg
-Awakenings	68	01068	Villain	Command	Cannon Fodder	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01068.jpg
-Awakenings	69	01069	Villain	Command	Closing the Net	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01069.jpg
-Awakenings	70	01070	Villain	Command	Endless Ranks	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01070.jpg
-Awakenings	71	01071	Villain	Command	Occupation	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01071.jpg
-Awakenings	72	01072	Villain	Command	Probe	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01072.jpg
-Awakenings	73	01073	Villain	Command	Sweep the Area	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01073.jpg
-Awakenings	74	01074	Villain	Command	Tactical Mastery	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01074.jpg
-Awakenings	75	01075	Villain	Command	The Best Defense...	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01075.jpg
-Awakenings	76	01076	Villain	Command	Drudge Work	Support					Common	https://swdestinydb.com/bundles/cards/en/01/01076.jpg
-Awakenings	77	01077	Villain	Command	Local Garrison	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01077.jpg
-Awakenings	78	01078	Villain	Command	Personal Escort	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/01/01078.jpg
-Awakenings	79	01079	Villain	Force	Abandon All Hope	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01079.jpg
-Awakenings	80	01080	Villain	Force	Boundless Ambition	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01080.jpg
-Awakenings	81	01081	Villain	Force	Enrage	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01081.jpg
-Awakenings	82	01082	Villain	Force	Feel Your Anger	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01082.jpg
-Awakenings	83	01083	Villain	Force	Force Strike	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01083.jpg
-Awakenings	84	01084	Villain	Force	Intimidate	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01084.jpg
-Awakenings	85	01085	Villain	Force	Isolation	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01085.jpg
-Awakenings	86	01086	Villain	Force	No Mercy	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01086.jpg
-Awakenings	87	01087	Villain	Force	Pulling the Strings	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01087.jpg
-Awakenings	88	01088	Villain	Force	Emperor's Favor	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01088.jpg
-Awakenings	89	01089	Villain	Force	Power of the Dark Side	Support					Starter	https://swdestinydb.com/bundles/cards/en/01/01089.jpg
-Awakenings	90	01090	Villain	Force	Hidden In Shadow	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01090.jpg
-Awakenings	91	01091	Villain	General	Nowhere to Run	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01091.jpg
-Awakenings	92	01092	Villain	Rogue	Ace in the Hole	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01092.jpg
-Awakenings	93	01093	Villain	Rogue	Armed to the Teeth	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01093.jpg
-Awakenings	94	01094	Villain	Rogue	Confiscation	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01094.jpg
-Awakenings	95	01095	Villain	Rogue	Fight Dirty	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01095.jpg
-Awakenings	96	01096	Villain	Rogue	Go for the Kill	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01096.jpg
-Awakenings	97	01097	Villain	Rogue	He Doesn't Like You	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01097.jpg
-Awakenings	98	01098	Villain	Rogue	Lying in Wait	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01098.jpg
-Awakenings	99	01099	Villain	Rogue	Backup Muscle	Support					Common	https://swdestinydb.com/bundles/cards/en/01/01099.jpg
-Awakenings	100	01100	Villain	Rogue	My Kind of Scum	Support					Common	https://swdestinydb.com/bundles/cards/en/01/01100.jpg
-Awakenings	101	01101	Villain	Rogue	Underworld Connections	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01101.jpg
-Awakenings	102	01102	Villain	Rogue	Prized Possession	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01102.jpg
-Awakenings	103	01103	Hero	Command	Commando Raid	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01103.jpg
-Awakenings	104	01104	Hero	Command	Defensive Position	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01104.jpg
-Awakenings	105	01105	Hero	Command	Field Medic	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01105.jpg
-Awakenings	106	01106	Hero	Command	Hit and Run	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01106.jpg
-Awakenings	107	01107	Hero	Command	It's a Trap!	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01107.jpg
-Awakenings	108	01108	Hero	Command	Natural Talent	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01108.jpg
-Awakenings	109	01109	Hero	Command	Rearm	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01109.jpg
-Awakenings	110	01110	Hero	Command	Retreat	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01110.jpg
-Awakenings	111	01111	Hero	Command	Strategic Planning	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01111.jpg
-Awakenings	112	01112	Hero	Command	Surgical Strike	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01112.jpg
-Awakenings	113	01113	Hero	Command	Resistance HQ	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01113.jpg
-Awakenings	114	01114	Hero	Force	Anticipate	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01114.jpg
-Awakenings	115	01115	Hero	Force	Defensive Stance	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01115.jpg
-Awakenings	116	01116	Hero	Force	Force Misdirection	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01116.jpg
-Awakenings	117	01117	Hero	Force	Heroism	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01117.jpg
-Awakenings	118	01118	Hero	Force	Noble Sacrifice	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01118.jpg
-Awakenings	119	01119	Hero	Force	Patience	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01119.jpg
-Awakenings	120	01120	Hero	Force	Return of the Jedi	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01120.jpg
-Awakenings	121	01121	Hero	Force	Riposte	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01121.jpg
-Awakenings	122	01122	Hero	Force	Willpower	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01122.jpg
-Awakenings	123	01123	Hero	Force	Jedi Council	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01123.jpg
-Awakenings	124	01124	Hero	Force	Awakening	Support					Starter	https://swdestinydb.com/bundles/cards/en/01/01124.jpg
-Awakenings	125	01125	Hero	Force	The Force is Strong	Support					Common	https://swdestinydb.com/bundles/cards/en/01/01125.jpg
-Awakenings	126	01126	Hero	General	Daring Escape	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01126.jpg
-Awakenings	127	01127	Hero	Rogue	Don't Get Cocky	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01127.jpg
-Awakenings	128	01128	Hero	Rogue	Draw Attention	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01128.jpg
-Awakenings	129	01129	Hero	Rogue	Hyperspace Jump	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01129.jpg
-Awakenings	130	01130	Hero	Rogue	Let The Wookiee Win	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01130.jpg
-Awakenings	131	01131	Hero	Rogue	Negotiate	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01131.jpg
-Awakenings	132	01132	Hero	Rogue	Scavenge	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01132.jpg
-Awakenings	133	01133	Hero	Rogue	Shoot First	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01133.jpg
-Awakenings	134	01134	Hero	Rogue	Smuggling	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01134.jpg
-Awakenings	135	01135	Hero	Rogue	Play the Odds	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01135.jpg
-Awakenings	136	01136	Hero	Rogue	Street Informants	Support					Common	https://swdestinydb.com/bundles/cards/en/01/01136.jpg
-Awakenings	137	01137	Hero	Rogue	Second Chance	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01137.jpg
-Awakenings	138	01138	Neutral	Command	Award Ceremony	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01138.jpg
-Awakenings	139	01139	Neutral	Command	Dug in	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01139.jpg
-Awakenings	140	01140	Neutral	Command	Firepower	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01140.jpg
-Awakenings	141	01141	Neutral	Command	Leadership	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01141.jpg
-Awakenings	142	01142	Neutral	Command	Logistics	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01142.jpg
-Awakenings	143	01143	Neutral	Command	Squad Tactics	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01143.jpg
-Awakenings	144	01144	Neutral	Command	Supporting Fire	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01144.jpg
-Awakenings	145	01145	Neutral	Force	Deflect	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01145.jpg
-Awakenings	146	01146	Neutral	Force	Disturbance in the Force	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01146.jpg
-Awakenings	147	01147	Neutral	Force	Mind Trick	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01147.jpg
-Awakenings	148	01148	Neutral	Force	The Power of the Force	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01148.jpg
-Awakenings	149	01149	Neutral	Force	Use The Force	Event					Starter	https://swdestinydb.com/bundles/cards/en/01/01149.jpg
-Awakenings	150	01150	Neutral	Force	It Binds All Things	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01150.jpg
-Awakenings	151	01151	Neutral	General	Aim	Event					Starter	https://swdestinydb.com/bundles/cards/en/01/01151.jpg
-Awakenings	152	01152	Neutral	General	All In	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01152.jpg
-Awakenings	153	01153	Neutral	General	Block	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01153.jpg
-Awakenings	154	01154	Neutral	General	Close Quarters Assault	Event					Starter	https://swdestinydb.com/bundles/cards/en/01/01154.jpg
-Awakenings	155	01155	Neutral	General	Dodge	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01155.jpg
-Awakenings	156	01156	Neutral	General	Flank	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01156.jpg
-Awakenings	157	01157	Neutral	General	Take Cover	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01157.jpg
-Awakenings	158	01158	Neutral	Rogue	Disarm	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01158.jpg
-Awakenings	159	01159	Neutral	Rogue	Electroshock	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01159.jpg
-Awakenings	160	01160	Neutral	Rogue	Reversal	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01160.jpg
-Awakenings	161	01161	Neutral	Rogue	Scramble	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01161.jpg
-Awakenings	162	01162	Neutral	Rogue	Unpredictable	Event					Common	https://swdestinydb.com/bundles/cards/en/01/01162.jpg
-Awakenings	163	01163	Neutral	Rogue	Infamous	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01163.jpg
-Awakenings	164	01164	Neutral	Rogue	Hunker Down	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/01/01164.jpg
-Awakenings	165	01165	Neutral	General	Command Center	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01165.jpg
-Awakenings	166	01166	Neutral	General	Echo Base	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01166.jpg
-Awakenings	167	01167	Neutral	General	Emperor's Throne Room	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/01/01167.jpg
-Awakenings	168	01168	Neutral	General	Frozen Wastes	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/01/01168.jpg
-Awakenings	169	01169	Neutral	General	Imperial Armory	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/01/01169.jpg
-Awakenings	170	01170	Neutral	General	Jedi Temple	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/01/01170.jpg
-Awakenings	171	01171	Neutral	General	Rebel War Room	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/01/01171.jpg
-Awakenings	172	01172	Neutral	General	Mos Eisley Spaceport	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/01/01172.jpg
-Awakenings	173	01173	Neutral	General	Separatist Base	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/01/01173.jpg
-Awakenings	174	01174	Neutral	General	Starship Graveyard	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/01/01174.jpg
-Spirit of Rebellion	1	02001	Villain	Command	Death Trooper	Character	10		10	10	Rare	https://swdestinydb.com/bundles/cards/en/02/02001.jpg
-Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
-Spirit of Rebellion	3	02003	Villain	Command	Director Krennic	Character	15	19	15	19	Legendary	https://swdestinydb.com/bundles/cards/en/02/02003.jpg
-Spirit of Rebellion	4	02004	Villain	Command	Tie Pilot	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
-Spirit of Rebellion	5	02005	Villain	Command	E-Web Emplacement	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02005.jpg
-Spirit of Rebellion	6	02006	Villain	Command	Imperial Discipline	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02006.jpg
-Spirit of Rebellion	7	02007	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02007.jpg
-Spirit of Rebellion	8	02008	Villain	Command	Z6 Riot Control Baton	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02008.jpg
-Spirit of Rebellion	9	02009	Villain	Force	Asajj Ventress	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/02/02009.jpg
-Spirit of Rebellion	10	02010	Villain	Force	Darth Vader	Character	13	17	13	17	Rare	https://swdestinydb.com/bundles/cards/en/02/02010.jpg
-Spirit of Rebellion	11	02011	Villain	Force	Palpatine	Character	21	28	21	28	Legendary	https://swdestinydb.com/bundles/cards/en/02/02011.jpg
-Spirit of Rebellion	12	02012	Villain	Force	Royal Guard	Character	9		9	9	Rare	https://swdestinydb.com/bundles/cards/en/02/02012.jpg
-Spirit of Rebellion	13	02013	Villain	Force	Command Shuttle	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02013.jpg
-Spirit of Rebellion	14	02014	Villain	Force	Force Lightning	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02014.jpg
-Spirit of Rebellion	15	02015	Villain	Force	Lightsaber Pike	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02015.jpg
-Spirit of Rebellion	16	02016	Villain	Force	Lure of Power	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02016.jpg
-Spirit of Rebellion	17	02017	Villain	General	Interrogation Droid	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02017.jpg
-Spirit of Rebellion	18	02018	Villain	Rogue	Aurra Sing	Character	14	18	14	18	Rare	https://swdestinydb.com/bundles/cards/en/02/02018.jpg
-Spirit of Rebellion	19	02019	Villain	Rogue	Guavian Enforcer	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/02/02019.jpg
-Spirit of Rebellion	20	02020	Villain	Rogue	IG-88	Character	15	20	15	20	Legendary	https://swdestinydb.com/bundles/cards/en/02/02020.jpg
-Spirit of Rebellion	21	02021	Villain	Rogue	Unkar Plutt	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/02/02021.jpg
-Spirit of Rebellion	22	02022	Villain	Rogue	Slave I	Support					Legendary	https://swdestinydb.com/bundles/cards/en/02/02022.jpg
-Spirit of Rebellion	23	02023	Villain	Rogue	Blackmail	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02023.jpg
-Spirit of Rebellion	24	02024	Villain	Rogue	Personal Shield	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02024.jpg
-Spirit of Rebellion	25	02025	Villain	Rogue	Vibroknucklers	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02025.jpg
-Spirit of Rebellion	26	02026	Hero	Command	Baze Malbus	Character	14	18	14	18	Legendary	https://swdestinydb.com/bundles/cards/en/02/02026.jpg
-Spirit of Rebellion	27	02027	Hero	Command	Mon Mothma	Character	11	14	11	14	Rare	https://swdestinydb.com/bundles/cards/en/02/02027.jpg
-Spirit of Rebellion	28	02028	Hero	Command	Rebel Commando	Character	10		10	10	Rare	https://swdestinydb.com/bundles/cards/en/02/02028.jpg
-Spirit of Rebellion	29	02029	Hero	Command	Temmin "Snap" Wexley	Character	9	12	9	12	Rare	https://swdestinydb.com/bundles/cards/en/02/02029.jpg
-Spirit of Rebellion	30	02030	Hero	Command	C-3PO	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02030.jpg
-Spirit of Rebellion	31	02031	Hero	Command	U-Wing	Support					Legendary	https://swdestinydb.com/bundles/cards/en/02/02031.jpg
-Spirit of Rebellion	32	02032	Hero	Command	A180 Blaster	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02032.jpg
-Spirit of Rebellion	33	02033	Hero	Command	Overkill	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02033.jpg
-Spirit of Rebellion	34	02034	Hero	Force	Jedi Acolyte	Character	9		9	9	Rare	https://swdestinydb.com/bundles/cards/en/02/02034.jpg
-Spirit of Rebellion	35	02035	Hero	Force	Chirrut Îmwe	Character	12	16	12	16	Rare	https://swdestinydb.com/bundles/cards/en/02/02035.jpg
-Spirit of Rebellion	36	02036	Hero	Force	Luminara Unduli	Character	13	17	13	17	Rare	https://swdestinydb.com/bundles/cards/en/02/02036.jpg
-Spirit of Rebellion	37	02037	Hero	Force	Obi-Wan Kenobi	Character	16	20	16	20	Legendary	https://swdestinydb.com/bundles/cards/en/02/02037.jpg
-Spirit of Rebellion	38	02038	Hero	Force	Delta-7 Interceptor	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02038.jpg
-Spirit of Rebellion	39	02039	Hero	Force	Handcrafted Light Bow	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02039.jpg
-Spirit of Rebellion	40	02040	Hero	Force	Force Heal	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02040.jpg
-Spirit of Rebellion	41	02041	Hero	Force	Journals of Ben Kenobi	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02041.jpg
-Spirit of Rebellion	42	02042	Hero	General	R2-D2	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02042.jpg
-Spirit of Rebellion	43	02043	Hero	Rogue	Chewbacca	Character	12	16	12	16	Legendary	https://swdestinydb.com/bundles/cards/en/02/02043.jpg
-Spirit of Rebellion	44	02044	Hero	Rogue	Jyn Erso	Character	15	20	15	20	Rare	https://swdestinydb.com/bundles/cards/en/02/02044.jpg
-Spirit of Rebellion	45	02045	Hero	Rogue	Maz Kanata	Character	8	11	8	11	Rare	https://swdestinydb.com/bundles/cards/en/02/02045.jpg
-Spirit of Rebellion	46	02046	Hero	Rogue	Outer Rim Smuggler	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/02/02046.jpg
-Spirit of Rebellion	47	02047	Hero	Rogue	Smuggling Freighter	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02047.jpg
-Spirit of Rebellion	48	02048	Hero	Rogue	Bowcaster	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02048.jpg
-Spirit of Rebellion	49	02049	Hero	Rogue	Lone Operative	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02049.jpg
-Spirit of Rebellion	50	02050	Hero	Rogue	Maz's Goggles	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02050.jpg
-Spirit of Rebellion	51	02051	Neutral	Command	Supply Line	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02051.jpg
-Spirit of Rebellion	52	02052	Neutral	Command	Astromech	Support					Rare	https://swdestinydb.com/bundles/cards/en/02/02052.jpg
-Spirit of Rebellion	53	02053	Neutral	Command	Rocket Launcher	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02053.jpg
-Spirit of Rebellion	54	02054	Neutral	Force	Force Push	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02054.jpg
-Spirit of Rebellion	55	02055	Neutral	Force	Force Speed	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/02/02055.jpg
-Spirit of Rebellion	56	02056	Neutral	Force	Makashi Training	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02056.jpg
-Spirit of Rebellion	57	02057	Neutral	General	Vibroknife	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02057.jpg
-Spirit of Rebellion	58	02058	Neutral	Rogue	Quadjumper	Support					Legendary	https://swdestinydb.com/bundles/cards/en/02/02058.jpg
-Spirit of Rebellion	59	02059	Neutral	Rogue	Ascension Gun	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02059.jpg
-Spirit of Rebellion	60	02060	Neutral	Rogue	Con Artist	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/02/02060.jpg
-Spirit of Rebellion	61	02061	Villain	Command	Battle Formation	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02061.jpg
-Spirit of Rebellion	62	02062	Villain	Command	Imperial War Machine	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02062.jpg
-Spirit of Rebellion	63	02063	Villain	Command	Lockdown	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02063.jpg
-Spirit of Rebellion	64	02064	Villain	Command	Sustained Fire	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02064.jpg
-Spirit of Rebellion	65	02065	Villain	Command	Traitor!	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02065.jpg
-Spirit of Rebellion	66	02066	Villain	Command	Trench Warfare	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02066.jpg
-Spirit of Rebellion	67	02067	Villain	Command	Undying Loyalty	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02067.jpg
-Spirit of Rebellion	68	02068	Villain	Command	We Have Them Now	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02068.jpg
-Spirit of Rebellion	69	02069	Villain	Command	Attrition	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02069.jpg
-Spirit of Rebellion	70	02070	Villain	Command	Imperial Inspection	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02070.jpg
-Spirit of Rebellion	71	02071	Villain	Force	Anger	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02071.jpg
-Spirit of Rebellion	72	02072	Villain	Force	Lightsaber Throw	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02072.jpg
-Spirit of Rebellion	73	02073	Villain	Force	Manipulate	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02073.jpg
-Spirit of Rebellion	74	02074	Villain	Force	No Disintegrations	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02074.jpg
-Spirit of Rebellion	75	02075	Villain	Force	Now You Will Die	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02075.jpg
-Spirit of Rebellion	76	02076	Villain	Force	Rise Again	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02076.jpg
-Spirit of Rebellion	77	02077	Villain	Force	The Price of Failure	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02077.jpg
-Spirit of Rebellion	78	02078	Villain	Force	Dark Presence	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02078.jpg
-Spirit of Rebellion	79	02079	Villain	Force	Now I Am The Master	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/02/02079.jpg
-Spirit of Rebellion	80	02080	Villain	General	Doubt	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02080.jpg
-Spirit of Rebellion	81	02081	Villain	Rogue	Arms Deal	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02081.jpg
-Spirit of Rebellion	82	02082	Villain	Rogue	Bait and Switch	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02082.jpg
-Spirit of Rebellion	83	02083	Villain	Rogue	Friends in High Places	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02083.jpg
-Spirit of Rebellion	84	02084	Villain	Rogue	Loose Ends	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02084.jpg
-Spirit of Rebellion	85	02085	Villain	Rogue	One-Quarter Portion	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02085.jpg
-Spirit of Rebellion	86	02086	Villain	Rogue	Relentless Pursuit	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02086.jpg
-Spirit of Rebellion	87	02087	Villain	Rogue	Scrap Buy	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02087.jpg
-Spirit of Rebellion	88	02088	Villain	Rogue	Salvage Stand	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02088.jpg
-Spirit of Rebellion	89	02089	Villain	Rogue	Armor Plating	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02089.jpg
-Spirit of Rebellion	90	02090	Hero	Command	Emergency Evacuation	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02090.jpg
-Spirit of Rebellion	91	02091	Hero	Command	Friendly Fire	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02091.jpg
-Spirit of Rebellion	92	02092	Hero	Command	Guerrilla Warfare	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02092.jpg
-Spirit of Rebellion	93	02093	Hero	Command	Our Only Hope	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02093.jpg
-Spirit of Rebellion	94	02094	Hero	Command	Rebel Assault	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02094.jpg
-Spirit of Rebellion	95	02095	Hero	Command	Sensor Placement	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02095.jpg
-Spirit of Rebellion	96	02096	Hero	Command	Spirit of Rebellion	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02096.jpg
-Spirit of Rebellion	97	02097	Hero	Command	Planetary Uprising	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02097.jpg
-Spirit of Rebellion	98	02098	Hero	Command	Spy Net	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02098.jpg
-Spirit of Rebellion	99	02099	Hero	Command	Tactical Aptitude	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/02/02099.jpg
-Spirit of Rebellion	100	02100	Hero	Force	Caution	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02100.jpg
-Spirit of Rebellion	101	02101	Hero	Force	Destiny	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02101.jpg
-Spirit of Rebellion	102	02102	Hero	Force	Determination	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02102.jpg
-Spirit of Rebellion	103	02103	Hero	Force	Guard	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02103.jpg
-Spirit of Rebellion	104	02104	Hero	Force	Krayt Dragon Howl	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02104.jpg
-Spirit of Rebellion	105	02105	Hero	Force	My Ally Is The Force	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02105.jpg
-Spirit of Rebellion	106	02106	Hero	Force	Synchronicity	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02106.jpg
-Spirit of Rebellion	107	02107	Hero	Force	Your Eyes Can Deceive You	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02107.jpg
-Spirit of Rebellion	108	02108	Hero	Force	Protective Mentor	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/02/02108.jpg
-Spirit of Rebellion	109	02109	Hero	General	Confidence	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02109.jpg
-Spirit of Rebellion	110	02110	Hero	Rogue	Garbage'll Do	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02110.jpg
-Spirit of Rebellion	111	02111	Hero	Rogue	Hold On!	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02111.jpg
-Spirit of Rebellion	112	02112	Hero	Rogue	Rebel	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02112.jpg
-Spirit of Rebellion	113	02113	Hero	Rogue	Long Con	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02113.jpg
-Spirit of Rebellion	114	02114	Hero	Rogue	Loth-Cat and Mouse	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02114.jpg
-Spirit of Rebellion	115	02115	Hero	Rogue	Never Tell Me The Odds	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02115.jpg
-Spirit of Rebellion	116	02116	Hero	Rogue	Planned Explosion	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02116.jpg
-Spirit of Rebellion	117	02117	Hero	Rogue	Double-Dealing	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02117.jpg
-Spirit of Rebellion	118	02118	Hero	Rogue	Life Debt	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02118.jpg
-Spirit of Rebellion	119	02119	Neutral	Command	Bombing Run	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02119.jpg
-Spirit of Rebellion	120	02120	Neutral	Command	Collateral Damage	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02120.jpg
-Spirit of Rebellion	121	02121	Neutral	Command	Salvo	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02121.jpg
-Spirit of Rebellion	122	02122	Neutral	Command	Suppression	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02122.jpg
-Spirit of Rebellion	123	02123	Neutral	Command	Aftermath	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02123.jpg
-Spirit of Rebellion	124	02124	Neutral	Command	Air Superiority	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02124.jpg
-Spirit of Rebellion	125	02125	Neutral	Command	Training	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02125.jpg
-Spirit of Rebellion	126	02126	Neutral	Command	Wingman	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/02/02126.jpg
-Spirit of Rebellion	127	02127	Neutral	Force	Decisive Blow	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02127.jpg
-Spirit of Rebellion	128	02128	Neutral	Force	High Ground	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02128.jpg
-Spirit of Rebellion	129	02129	Neutral	Force	Momentum Shift	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02129.jpg
-Spirit of Rebellion	130	02130	Neutral	Force	Overconfidence	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02130.jpg
-Spirit of Rebellion	131	02131	Neutral	Force	Premonitions	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02131.jpg
-Spirit of Rebellion	132	02132	Neutral	Force	Rejuvenate	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02132.jpg
-Spirit of Rebellion	133	02133	Neutral	Force	Trust Your Instincts	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02133.jpg
-Spirit of Rebellion	134	02134	Neutral	Force	Meditate	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02134.jpg
-Spirit of Rebellion	135	02135	Neutral	Force	Force Illusion	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02135.jpg
-Spirit of Rebellion	136	02136	Neutral	General	Evade	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02136.jpg
-Spirit of Rebellion	137	02137	Neutral	General	New Orders	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02137.jpg
-Spirit of Rebellion	138	02138	Neutral	General	Parry	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02138.jpg
-Spirit of Rebellion	139	02139	Neutral	General	Swiftness	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02139.jpg
-Spirit of Rebellion	140	02140	Neutral	General	Resolve	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02140.jpg
-Spirit of Rebellion	141	02141	Neutral	General	Ammo Belt	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/02/02141.jpg
-Spirit of Rebellion	142	02142	Neutral	Rogue	Bolt Hole	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02142.jpg
-Spirit of Rebellion	143	02143	Neutral	Rogue	Cheat	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02143.jpg
-Spirit of Rebellion	144	02144	Neutral	Rogue	Diversion	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02144.jpg
-Spirit of Rebellion	145	02145	Neutral	Rogue	"Fair" Trade	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02145.jpg
-Spirit of Rebellion	146	02146	Neutral	Rogue	Friends in Low Places	Event					Common	https://swdestinydb.com/bundles/cards/en/02/02146.jpg
-Spirit of Rebellion	147	02147	Neutral	Rogue	Sabotage	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02147.jpg
-Spirit of Rebellion	148	02148	Neutral	Rogue	Improvisation	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02148.jpg
-Spirit of Rebellion	149	02149	Neutral	Rogue	Outmaneuver	Support					Common	https://swdestinydb.com/bundles/cards/en/02/02149.jpg
-Spirit of Rebellion	150	02150	Neutral	Rogue	Fast Hands	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02150.jpg
-Spirit of Rebellion	151	02151	Neutral	General	Carbon-freezing Chamber	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02151.jpg
-Spirit of Rebellion	152	02152	Neutral	General	Cargo Hold	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02152.jpg
-Spirit of Rebellion	153	02153	Neutral	General	Docking Bay	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02153.jpg
-Spirit of Rebellion	154	02154	Neutral	General	Ewok Village	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02154.jpg
-Spirit of Rebellion	155	02155	Neutral	General	Maz's Castle	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02155.jpg
-Spirit of Rebellion	156	02156	Neutral	General	Moisture Farm	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02156.jpg
-Spirit of Rebellion	157	02157	Neutral	General	Otoh Gunga	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02157.jpg
-Spirit of Rebellion	158	02158	Neutral	General	Secluded Beach	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02158.jpg
-Spirit of Rebellion	159	02159	Neutral	General	Secret Facility	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/02/02159.jpg
-Spirit of Rebellion	160	02160	Neutral	General	War-Torn Streets	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/02/02160.jpg
-Empire at War	1	03001	Villain	Command	Ciena Ree	Character	8	11	8	11	Rare	https://swdestinydb.com/bundles/cards/en/03/03001.jpg
-Empire at War	2	03002	Villain	Command	General Hux	Character	11	14	11	14	Rare	https://swdestinydb.com/bundles/cards/en/03/03002.jpg
-Empire at War	3	03003	Villain	Command	MagnaGuard	Character	9		9	9	Rare	https://swdestinydb.com/bundles/cards/en/03/03003.jpg
-Empire at War	4	03004	Villain	Command	Thrawn	Character	14	17	14	17	Legendary	https://swdestinydb.com/bundles/cards/en/03/03004.jpg
-Empire at War	5	03005	Villain	Command	AT-DP	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03005.jpg
-Empire at War	6	03006	Villain	Command	Probe Droid	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03006.jpg
-Empire at War	7	03007	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/03/03007.jpg
-Empire at War	8	03008	Villain	Force	Quinlan Vos	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/03/03008.jpg
-Empire at War	9	03009	Villain	Force	Servant of the Dark Side	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/03/03009.jpg
-Empire at War	10	03010	Villain	Force	Seventh Sister	Character	11	14	11	14	Legendary	https://swdestinydb.com/bundles/cards/en/03/03010.jpg
-Empire at War	11	03011	Villain	Force	Grand Inquisitor	Character	14	19	14	19	Legendary	https://swdestinydb.com/bundles/cards/en/03/03011.jpg
-Empire at War	12	03012	Villain	Force	Darth Vader's TIE Advanced	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03012.jpg
-Empire at War	13	03013	Villain	Force	ID9 Seeker Droid	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03013.jpg
-Empire at War	14	03014	Villain	Force	Temptation	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03014.jpg
-Empire at War	15	03015	Villain	Force	Grand Inquisitor's Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/03/03015.jpg
-Empire at War	16	03016	Villain	Rogue	Bazine Netal	Character	7	10	7	10	Rare	https://swdestinydb.com/bundles/cards/en/03/03016.jpg
-Empire at War	17	03017	Villain	Rogue	Bossk	Character	11	15	11	15	Rare	https://swdestinydb.com/bundles/cards/en/03/03017.jpg
-Empire at War	18	03018	Villain	Rogue	Cad Bane	Character	13	17	13	17	Legendary	https://swdestinydb.com/bundles/cards/en/03/03018.jpg
-Empire at War	19	03019	Villain	Rogue	Gamorrean Guard	Character	10		10	10	Rare	https://swdestinydb.com/bundles/cards/en/03/03019.jpg
-Empire at War	20	03020	Villain	Rogue	Hound's Tooth	Support					Legendary	https://swdestinydb.com/bundles/cards/en/03/03020.jpg
-Empire at War	21	03021	Villain	Rogue	Cable Launcher	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03021.jpg
-Empire at War	22	03022	Villain	Rogue	LL-30 Blaster Pistol	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03022.jpg
-Empire at War	23	03023	Villain	Rogue	Relby-V10 Mortar Gun	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03023.jpg
-Empire at War	24	03024	Hero	Command	General Rieekan	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/03/03024.jpg
-Empire at War	25	03025	Hero	Command	Hera Syndulla	Character	9	12	9	12	Rare	https://swdestinydb.com/bundles/cards/en/03/03025.jpg
-Empire at War	26	03026	Hero	Command	K-2SO	Character	15	20	15	20	Legendary	https://swdestinydb.com/bundles/cards/en/03/03026.jpg
-Empire at War	27	03027	Hero	Command	Rookie Pilot	Character	7		7	7	Rare	https://swdestinydb.com/bundles/cards/en/03/03027.jpg
-Empire at War	28	03028	Hero	Command	Ghost	Support					Legendary	https://swdestinydb.com/bundles/cards/en/03/03028.jpg
-Empire at War	29	03029	Hero	Command	Y-Wing	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03029.jpg
-Empire at War	30	03030	Hero	Command	A280 Blaster Rifle	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03030.jpg
-Empire at War	31	03031	Hero	Force	Ahsoka Tano	Character	13	17	13	17	Legendary	https://swdestinydb.com/bundles/cards/en/03/03031.jpg
-Empire at War	32	03032	Hero	Force	Jedi Instructor	Character	8		8	8	Rare	https://swdestinydb.com/bundles/cards/en/03/03032.jpg
-Empire at War	33	03033	Hero	Force	Kanan Jarrus	Character	10	13	10	13	Rare	https://swdestinydb.com/bundles/cards/en/03/03033.jpg
-Empire at War	34	03034	Hero	Force	Mace Windu	Character	16	22	16	22	Legendary	https://swdestinydb.com/bundles/cards/en/03/03034.jpg
-Empire at War	35	03035	Hero	Force	Training Remote	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03035.jpg
-Empire at War	36	03036	Hero	Force	Master of the Council	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/03/03036.jpg
-Empire at War	37	03037	Hero	Force	Coordination	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03037.jpg
-Empire at War	38	03038	Hero	Rogue	Ezra Bridger	Character	7	10	7	10	Rare	https://swdestinydb.com/bundles/cards/en/03/03038.jpg
-Empire at War	39	03039	Hero	Rogue	Lando Calrissian	Character	13	16	13	16	Rare	https://swdestinydb.com/bundles/cards/en/03/03039.jpg
-Empire at War	40	03040	Hero	Rogue	Sabine Wren	Character	15	20	15	20	Legendary	https://swdestinydb.com/bundles/cards/en/03/03040.jpg
-Empire at War	41	03041	Hero	Rogue	Wookiee Warrior	Character	9		9	9	Rare	https://swdestinydb.com/bundles/cards/en/03/03041.jpg
-Empire at War	42	03042	Hero	Rogue	Chopper	Support					Legendary	https://swdestinydb.com/bundles/cards/en/03/03042.jpg
-Empire at War	43	03043	Hero	Rogue	Energy Slingshot	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03043.jpg
-Empire at War	44	03044	Hero	Rogue	Tough Haggler	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03044.jpg
-Empire at War	45	03045	Hero	General	T-47 Airspeeder	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03045.jpg
-Empire at War	46	03046	Neutral	Command	LR1K Sonic Cannon	Support					Legendary	https://swdestinydb.com/bundles/cards/en/03/03046.jpg
-Empire at War	47	03047	Neutral	Command	Electrostaff	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03047.jpg
-Empire at War	48	03048	Neutral	Command	Natural Pilot	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03048.jpg
-Empire at War	49	03049	Neutral	Force	Ancient Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/03/03049.jpg
-Empire at War	50	03050	Neutral	Force	Psychometry	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03050.jpg
-Empire at War	51	03051	Neutral	Force	Shoto Lightsaber	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03051.jpg
-Empire at War	52	03052	Neutral	Rogue	Weapons Cache	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03052.jpg
-Empire at War	53	03053	Neutral	Rogue	BD-1 Cutter Vibro-AX	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03053.jpg
-Empire at War	54	03054	Neutral	Rogue	Extortion	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03054.jpg
-Empire at War	55	03055	Neutral	Rogue	X-8 Night Sniper	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/03/03055.jpg
-Empire at War	56	03056	Neutral	General	Z-95 Headhunter	Support					Rare	https://swdestinydb.com/bundles/cards/en/03/03056.jpg
-Empire at War	57	03057	Neutral	General	Chance Cube	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03057.jpg
-Empire at War	58	03058	Neutral	General	EMP Grenades	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03058.jpg
-Empire at War	59	03059	Neutral	General	Lead by Example	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03059.jpg
-Empire at War	60	03060	Neutral	General	Scatterblaster	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/03/03060.jpg
-Empire at War	61	03061	Villain	Command	Commandeer	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03061.jpg
-Empire at War	62	03062	Villain	Command	Crossfire	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03062.jpg
-Empire at War	63	03063	Villain	Command	Drop Your Weapon!	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03063.jpg
-Empire at War	64	03064	Villain	Command	Imperial Backing	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03064.jpg
-Empire at War	65	03065	Villain	Command	Prepare for War	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03065.jpg
-Empire at War	66	03066	Villain	Command	Red Alert	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03066.jpg
-Empire at War	67	03067	Villain	Command	Ruthless Tactics	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03067.jpg
-Empire at War	68	03068	Villain	Command	Take Prisoner	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03068.jpg
-Empire at War	69	03069	Villain	Command	Imperial HQ	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03069.jpg
-Empire at War	70	03070	Villain	Force	As You Command	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03070.jpg
-Empire at War	71	03071	Villain	Force	Cornered Prey	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03071.jpg
-Empire at War	72	03072	Villain	Force	Indomitable	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03072.jpg
-Empire at War	73	03073	Villain	Force	It Will All Be Mine	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03073.jpg
-Empire at War	74	03074	Villain	Force	Kill Them All	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03074.jpg
-Empire at War	75	03075	Villain	Force	Unyielding	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03075.jpg
-Empire at War	76	03076	Villain	Force	Insidious	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03076.jpg
-Empire at War	77	03077	Villain	Force	Hate	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03077.jpg
-Empire at War	78	03078	Villain	Rogue	Anarchy	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03078.jpg
-Empire at War	79	03079	Villain	Rogue	Bounty Postings	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03079.jpg
-Empire at War	80	03080	Villain	Rogue	Buy Out	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03080.jpg
-Empire at War	81	03081	Villain	Rogue	Coercion	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03081.jpg
-Empire at War	82	03082	Villain	Rogue	Only Business Matters	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03082.jpg
-Empire at War	83	03083	Villain	Rogue	Pilfered Goods	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03083.jpg
-Empire at War	84	03084	Villain	Rogue	Twin Shadows	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03084.jpg
-Empire at War	85	03085	Villain	Rogue	Hutt Ties	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03085.jpg
-Empire at War	86	03086	Villain	Rogue	Deadly	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03086.jpg
-Empire at War	87	03087	Villain	General	No Survivors	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03087.jpg
-Empire at War	88	03088	Villain	General	Detention Center	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03088.jpg
-Empire at War	89	03089	Hero	Command	All Quiet On The Front	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03089.jpg
-Empire at War	90	03090	Hero	Command	Entrenched	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03090.jpg
-Empire at War	91	03091	Hero	Command	Fortuitous Strike	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03091.jpg
-Empire at War	92	03092	Hero	Command	Rearguard	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03092.jpg
-Empire at War	93	03093	Hero	Command	Reckless Reentry	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03093.jpg
-Empire at War	94	03094	Hero	Command	Strike Briefing	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03094.jpg
-Empire at War	95	03095	Hero	Command	Swift Strike	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03095.jpg
-Empire at War	96	03096	Hero	Command	Rally Aid	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03096.jpg
-Empire at War	97	03097	Hero	Command	Shield Generator	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03097.jpg
-Empire at War	98	03098	Hero	Force	At Peace	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03098.jpg
-Empire at War	99	03099	Hero	Force	Bestow	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03099.jpg
-Empire at War	100	03100	Hero	Force	Bring Balance	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03100.jpg
-Empire at War	101	03101	Hero	Force	Reaping The Crystal	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03101.jpg
-Empire at War	102	03102	Hero	Force	Secret Mission	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03102.jpg
-Empire at War	103	03103	Hero	Force	Trust The Force	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03103.jpg
-Empire at War	104	03104	Hero	Force	Funeral Pyre	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03104.jpg
-Empire at War	105	03105	Hero	Force	Yoda's Quarters	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03105.jpg
-Empire at War	106	03106	Hero	Force	Fearless	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03106.jpg
-Empire at War	107	03107	Hero	Rogue	Against The Odds	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03107.jpg
-Empire at War	108	03108	Hero	Rogue	Appraise	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03108.jpg
-Empire at War	109	03109	Hero	Rogue	Bad Feeling	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03109.jpg
-Empire at War	110	03110	Hero	Rogue	Double-Cross	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03110.jpg
-Empire at War	111	03111	Hero	Rogue	Impersonate	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03111.jpg
-Empire at War	112	03112	Hero	Rogue	Local Patrol	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03112.jpg
-Empire at War	113	03113	Hero	Rogue	Quick Escape	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03113.jpg
-Empire at War	114	03114	Hero	Rogue	Tenacity	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03114.jpg
-Empire at War	115	03115	Hero	Rogue	Running Interference	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03115.jpg
-Empire at War	116	03116	Hero	Rogue	Thermal Paint	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/03/03116.jpg
-Empire at War	117	03117	Hero	General	Defiance	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03117.jpg
-Empire at War	118	03118	Neutral	Command	Covering Fire	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03118.jpg
-Empire at War	119	03119	Neutral	Command	Deploy Squadron	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03119.jpg
-Empire at War	120	03120	Neutral	Command	Fall Back	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03120.jpg
-Empire at War	121	03121	Neutral	Command	Feint	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03121.jpg
-Empire at War	122	03122	Neutral	Command	Flanking Maneuver	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03122.jpg
-Empire at War	123	03123	Neutral	Command	Heat Of Battle	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03123.jpg
-Empire at War	124	03124	Neutral	Command	Pinned Down	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03124.jpg
-Empire at War	125	03125	Neutral	Command	The Day is Ours	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03125.jpg
-Empire at War	126	03126	Neutral	Command	Drop Zone	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03126.jpg
-Empire at War	127	03127	Neutral	Command	Tech Team	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03127.jpg
-Empire at War	128	03128	Neutral	Force	Battle of Wills	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03128.jpg
-Empire at War	129	03129	Neutral	Force	Force Vision	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03129.jpg
-Empire at War	130	03130	Neutral	Force	Lightsaber Pull	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03130.jpg
-Empire at War	131	03131	Neutral	Force	Lightsaber Training	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03131.jpg
-Empire at War	132	03132	Neutral	Force	No Surrender	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03132.jpg
-Empire at War	133	03133	Neutral	Force	Something familiar	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03133.jpg
-Empire at War	134	03134	Neutral	Force	Voices Cry Out	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03134.jpg
-Empire at War	135	03135	Neutral	Force	Keen Instincts	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03135.jpg
-Empire at War	136	03136	Neutral	Rogue	Battle Rage	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03136.jpg
-Empire at War	137	03137	Neutral	Rogue	Disable	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03137.jpg
-Empire at War	138	03138	Neutral	Rogue	Persuade	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03138.jpg
-Empire at War	139	03139	Neutral	Rogue	Pickpocket	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03139.jpg
-Empire at War	140	03140	Neutral	Rogue	Threaten	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03140.jpg
-Empire at War	141	03141	Neutral	Rogue	Trickery	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03141.jpg
-Empire at War	142	03142	Neutral	Rogue	Truce	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03142.jpg
-Empire at War	143	03143	Neutral	Rogue	Stolen Cache	Support					Common	https://swdestinydb.com/bundles/cards/en/03/03143.jpg
-Empire at War	144	03144	Neutral	Rogue	Hidden Agenda	Upgrade					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03144.jpg
-Empire at War	145	03145	Neutral	Rogue	Mandalorian Armor	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/03/03145.jpg
-Empire at War	146	03146	Neutral	General	Dangerous Mission	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03146.jpg
-Empire at War	147	03147	Neutral	General	Endurance	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03147.jpg
-Empire at War	148	03148	Neutral	General	Partnership	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03148.jpg
-Empire at War	149	03149	Neutral	General	Recycle	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03149.jpg
-Empire at War	150	03150	Neutral	General	Rend	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03150.jpg
-Empire at War	151	03151	Neutral	General	Roll On	Event					Common	https://swdestinydb.com/bundles/cards/en/03/03151.jpg
-Empire at War	152	03152	Neutral	General	Plastoid Armor	Upgrade					Common	https://swdestinydb.com/bundles/cards/en/03/03152.jpg
-Empire at War	153	03153	Neutral	General	B'Omarr Monastery	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/03/03153.jpg
-Empire at War	154	03154	Neutral	General	Fort Anaxes	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03154.jpg
-Empire at War	155	03155	Neutral	General	Garel Spaceport	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03155.jpg
-Empire at War	156	03156	Neutral	General	Imperial Academy	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03156.jpg
-Empire at War	157	03157	Neutral	General	Main Plaza	Battlefield					Common	https://swdestinydb.com/bundles/cards/en/03/03157.jpg
-Empire at War	158	03158	Neutral	General	Medical Center	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03158.jpg
-Empire at War	159	03159	Neutral	General	Port District	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03159.jpg
-Empire at War	160	03160	Neutral	General	Weapons Factory Alpha	Battlefield					Uncommon	https://swdestinydb.com/bundles/cards/en/03/03160.jpg
-Two-Player Game	1	04001	Villain	Force	Kylo Ren	Character	14	17	14	17	Starter	https://swdestinydb.com/bundles/cards/en/04/04001.jpg
-Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	10	14	10	14	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
-Two-Player Game	3	04003	Villain	Command	Droid Commandos	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04003.jpg
-Two-Player Game	4	04004	Villain	Command	Captain Phasma's Blaster	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04004.jpg
-Two-Player Game	5	04005	Villain	Command	Praetorian Guard	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04005.jpg
-Two-Player Game	6	04006	Villain	Force	Dark Counsel	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04006.jpg
-Two-Player Game	7	04007	Villain	Force	Crossguard Lightsaber	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04007.jpg
-Two-Player Game	8	04008	Villain	Force	Force Stasis	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04008.jpg
-Two-Player Game	9	04009	Villain	Force	Jedi Rival	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04009.jpg
-Two-Player Game	10	04010	Villain	Command	Armored Support	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04010.jpg
-Two-Player Game	11	04011	Villain	Command	First Strike	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04011.jpg
-Two-Player Game	12	04012	Neutral	Command	I Have You Now	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04012.jpg
-Two-Player Game	13	04013	Villain	Command	Imperial Envoy	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04013.jpg
-Two-Player Game	14	04014	Neutral	Command	Mobilize	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04014.jpg
-Two-Player Game	15	04015	Villain	Command	Tactical Mastery	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04015.jpg
-Two-Player Game	16	04016	Neutral	Force	As I Have Foreseen	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04016.jpg
-Two-Player Game	17	04017	Neutral	Force	Clash	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04017.jpg
-Two-Player Game	18	04018	Villain	Force	Intimidate	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04018.jpg
-Two-Player Game	19	04019	Villain	Force	Your Skills Are Complete	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04019.jpg
-Two-Player Game	20	04020	Villain	General	Doubt	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04020.jpg
-Two-Player Game	21	04021	Neutral	General	Parry	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04021.jpg
-Two-Player Game	22	04022	Villain	General	Subjugate	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04022.jpg
-Two-Player Game	23	04023	Neutral	General	Hangar Bay	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/04/04023.jpg
-Two-Player Game	24	04024	Hero	Force	Rey	Character	12	15	12	15	Starter	https://swdestinydb.com/bundles/cards/en/04/04024.jpg
-Two-Player Game	25	04025	Hero	Command	Poe Dameron	Character	11	15	11	15	Starter	https://swdestinydb.com/bundles/cards/en/04/04025.jpg
-Two-Player Game	26	04026	Hero	Command	Medical Droid	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04026.jpg
-Two-Player Game	27	04027	Hero	Command	Strike Team	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04027.jpg
-Two-Player Game	28	04028	Hero	Command	Teamwork	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04028.jpg
-Two-Player Game	29	04029	Hero	Command	Poe Dameron's Blaster	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04029.jpg
-Two-Player Game	30	04030	Hero	Force	Rey's Lightsaber	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04030.jpg
-Two-Player Game	31	04031	Hero	Force	Inner Strength	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/04/04031.jpg
-Two-Player Game	32	04032	Hero	Force	Luke's Protection	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04032.jpg
-Two-Player Game	33	04033	Hero	Command	Honor Guard	Support					Starter	https://swdestinydb.com/bundles/cards/en/04/04033.jpg
-Two-Player Game	34	04034	Neutral	Command	Direct Hit	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04034.jpg
-Two-Player Game	35	04035	Neutral	Command	Logistics	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04035.jpg
-Two-Player Game	36	04036	Neutral	Command	Recon	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04036.jpg
-Two-Player Game	37	04037	Hero	Command	Strategic Planning	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04037.jpg
-Two-Player Game	38	04038	Hero	Force	Concentrate	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04038.jpg
-Two-Player Game	39	04039	Hero	Force	Defensive Stance	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04039.jpg
-Two-Player Game	40	04040	Hero	Force	Distraction	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04040.jpg
-Two-Player Game	41	04041	Hero	Force	Do Or Do Not	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04041.jpg
-Two-Player Game	42	04042	Hero	Force	Fierce Resolve	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04042.jpg
-Two-Player Game	43	04043	Neutral	General	Evade	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04043.jpg
-Two-Player Game	44	04044	Neutral	General	Flank	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04044.jpg
-Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event					Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
-Two-Player Game	46	04046	Neutral	General	Obi-Wan's Hut	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/04/04046.jpg
-Legacies	2	05002	Villain	Force	Maul	Character	12	16	12	16	Legendary	https://swdestinydb.com/bundles/cards/en/05/05002.jpg
-Legacies	3	05003	Villain	Force	Mother Talzin	Character	9	12	9	12	Rare	https://swdestinydb.com/bundles/cards/en/05/05003.jpg
-Legacies	4	05004	Villain	Force	Palpatine	Character	16	20	16	20	Rare	https://swdestinydb.com/bundles/cards/en/05/05004.jpg
-Legacies	6	05006	Villain	Force	Crystal Ball	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/05/05006.jpg
-Legacies	8	05008	Villain	Force	Maul's Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/05/05008.jpg
-Legacies	9	05009	Villain	Command	Battle Droid	Character	6		6	6	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
-Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	9		9	9	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
-Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support					Rare	
-Legacies	18	05018	Villain	Rogue	Bib Fortuna	Character	9	12	9	12	Rare	https://swdestinydb.com/bundles/cards/en/05/05018.jpg
-Legacies	19	05019	Villain	Rogue	Boba Fett	Character	12	16	12	16	Starter	https://swdestinydb.com/bundles/cards/en/05/05019.jpg
-Legacies	20	05020	Villain	Rogue	Doctor Aphra	Character	11	14	11	14	Legendary	https://swdestinydb.com/bundles/cards/en/05/05020.jpg
-Legacies	21	05021	Villain	Rogue	Greedo	Character	7	11	7	11	Legendary	https://swdestinydb.com/bundles/cards/en/05/05021.jpg
-Legacies	23	05023	Villain	Rogue	Ark Angel	Support					Rare	https://swdestinydb.com/bundles/cards/en/05/05023.jpg
-Legacies	24	05024	Villain	Rogue	BT-1	Support					Rare	https://swdestinydb.com/bundles/cards/en/05/05024.jpg
-Legacies	25	05025	Villain	Rogue	Slave I	Support					Starter	https://swdestinydb.com/bundles/cards/en/05/05025.jpg
-Legacies	27	05027	Villain	Rogue	Wrist Rockets	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/05/05027.jpg
-Legacies	29	05029	Hero	Force	Aayla Secura	Character	9	12	9	12	Rare	https://swdestinydb.com/bundles/cards/en/05/05029.jpg
-Legacies	31	05031	Hero	Force	Luke Skywalker	Character	11	14	11	14	Starter	https://swdestinydb.com/bundles/cards/en/05/05031.jpg
-Legacies	32	05032	Hero	Force	Obi-Wan Kenobi	Character	15	19	15	19	Rare	https://swdestinydb.com/bundles/cards/en/05/05032.jpg
-Legacies	33	05033	Hero	Force	Yoda	Character	10	13	10	13	Legendary	https://swdestinydb.com/bundles/cards/en/05/05033.jpg
-Legacies	36	05036	Hero	Force	Force Meditation	Upgrade					Rare	https://swdestinydb.com/bundles/cards/en/05/05036.jpg
-Legacies	37	05037	Hero	Force	Obi-Wan Kenobi's Lightsaber	Upgrade					Legendary	https://swdestinydb.com/bundles/cards/en/05/05037.jpg
-Legacies	41	05041	Hero	Command	Wedge Antilles	Character	11	15	11	15	Rare	https://swdestinydb.com/bundles/cards/en/05/05041.jpg
-Legacies	43	05043	Hero	Command	Resistance Bomber	Support					Rare	https://swdestinydb.com/bundles/cards/en/05/05043.jpg
-Legacies	46	05046	Hero	Rogue	Han Solo	Character	11	14	11	14	Starter	https://swdestinydb.com/bundles/cards/en/05/05046.jpg
-Legacies	47	05047	Hero	Rogue	Jar Jar Binks	Character	7	9	7	9	Rare	https://swdestinydb.com/bundles/cards/en/05/05047.jpg
-Legacies	49	05049	Hero	Rogue	Saw Gerrera	Character	12	16	12	16	Legendary	https://swdestinydb.com/bundles/cards/en/05/05049.jpg
-Legacies	51	05051	Hero	Rogue	Runaway Boomas	Support					Rare	https://swdestinydb.com/bundles/cards/en/05/05051.jpg
-Legacies	52	05052	Hero	Rogue	Millennium Falcon	Support					Starter	https://swdestinydb.com/bundles/cards/en/05/05052.jpg
-Legacies	56	05056	Neutral	Force	Force Focus	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/05/05056.jpg
-Legacies	58	05058	Neutral	Force	Heirloom Lightsaber	Upgrade					Starter	https://swdestinydb.com/bundles/cards/en/05/05058.jpg
-Legacies	65	05065	Neutral	Rogue	Hondo Ohnaka	Character	12	15	12	15	Rare	https://swdestinydb.com/bundles/cards/en/05/05065.jpg
-Legacies	77	05077	Villain	Force	Double Strike	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05077.jpg
-Legacies	80	05080	Villain	Force	Snare	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05080.jpg
-Legacies	83	05083	Villain	Force	Nightsister Coven	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05083.jpg
-Legacies	92	05092	Villain	Rogue	Delve	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05092.jpg
-Legacies	94	05094	Villain	Rogue	In Pursuit	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05094.jpg
-Legacies	95	05095	Villain	Rogue	No Good To Me Dead	Event					Common	https://swdestinydb.com/bundles/cards/en/05/05095.jpg
-Legacies	100	05100	Hero	Force	Adapt	Event					Common	https://swdestinydb.com/bundles/cards/en/05/05100.jpg
-Legacies	101	05101	Hero	Force	Ataru Strike	Event					Rare	https://swdestinydb.com/bundles/cards/en/05/05101.jpg
-Legacies	106	05106	Hero	Force	Defensive Teaching	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05106.jpg
-Legacies	118	05118	Hero	Rogue	Explosive Tactics	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05118.jpg
-Legacies	119	05119	Hero	Rogue	Impulsive	Event					Common	https://swdestinydb.com/bundles/cards/en/05/05119.jpg
-Legacies	122	05122	Hero	Rogue	Maz's Vault	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05122.jpg
-Legacies	137	05137	Neutral	Command	Crash Landing	Event					Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
-Legacies	139	05139	Neutral	Command	Locked and Loaded	Event					Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
-Legacies	140	05140	Neutral	Command	Reinforce	Event					Uncommon	
-Legacies	141	05141	Neutral	Command	Strength in Numbers	Event					Common	
-Legacies	145	05145	Neutral	Command	Bubble Shield	Support					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
-Legacies	148	05148	Neutral	Rogue	Cantina Brawl	Event					Uncommon	https://swdestinydb.com/bundles/cards/en/05/05148.jpg
-Legacies	168	05168	Neutral	General	Espionage	Plot	1		1	1	Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
-Legacies	171	05171	Neutral	General	Profitable Connection	Plot	3		3	3	Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
-Legacies	174	05174	Neutral	General	Arid Wasteland	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/05/05174.jpg
-Legacies	178	05178	Neutral	General	Outer Rim Outpost	Battlefield					Starter	https://swdestinydb.com/bundles/cards/en/05/05178.jpg
-Rivals	1	06001	Neutral	Force	Anakin Skywalker	Character	10	13	10	13	Starter	https://swdestinydb.com/bundles/cards/en/06/06001.jpg
-Rivals	2	06002	Neutral	Command	Lobot	Character	10	13	10	13	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
-Rivals	3	06003	Neutral	Rogue	Ketsu Onyo	Character	11	14	11	14	Starter	https://swdestinydb.com/bundles/cards/en/06/06003.jpg
-Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	6		6	6	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
-Rivals	13	06013	Neutral	General	Resourceful	Event					Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
+Set	Position	Code	Affiliation	Faction	Name	Type	Is Unique	1d Cost	2d Cost	Min Cost	Max Cost	Sides	Rarity	Img Src
+Awakenings	1	01001	Villain	Command	Captain Phasma	Character	true	12	15	12	15	["1RD" "2RD" "1F" "1Dc" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01001.jpg
+Awakenings	2	01002	Villain	Command	First Order Stormtrooper	Character	false	7		7	7	["1RD" "2RD" "2RD1" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01002.jpg
+Awakenings	3	01003	Villain	Command	General Grievous	Character	true	13	18	13	18	["2MD" "2MD" "3MD1" "1Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01003.jpg
+Awakenings	4	01004	Villain	Command	General Veers	Character	true	11	14	11	14	["1RD" "2RD" "+2RD" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01004.jpg
+Awakenings	5	01005	Villain	Command	AT-ST	Support	false					["3RD" "4RD" "5RD1" "2Sh" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01005.jpg
+Awakenings	6	01006	Villain	Command	First Order TIE Fighter	Support	false					["1RD" "2RD" "3RD1" "1Dr" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01006.jpg
+Awakenings	7	01007	Villain	Command	Commanding Presence	Upgrade	false					["1F" "2F" "2Dr" "1R" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01007.jpg
+Awakenings	8	01008	Villain	Command	F-11D Rifle	Upgrade	false					["2RD1" "+1RD" "+2RD" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01008.jpg
+Awakenings	9	01009	Villain	Force	Count Dooku	Character	true	11	15	11	15	["1MD" "2MD" "1F" "2Dc1" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01009.jpg
+Awakenings	10	01010	Villain	Force	Darth Vader	Character	true	16	21	16	21	["2MD" "3MD" "2Dr" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01010.jpg
+Awakenings	11	01011	Villain	Force	Kylo Ren	Character	true	10	13	10	13	["1MD" "2MD1" "1Sh" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01011.jpg
+Awakenings	12	01012	Villain	Force	Nightsister	Character	false	8		8	8	["1RD" "2RD" "1Dr" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01012.jpg
+Awakenings	13	01013	Villain	Force	Force Choke	Upgrade	false					["2Dr" "1Dc" "1R" "Sp" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01013.jpg
+Awakenings	14	01014	Villain	Force	Immobilize	Upgrade	false					["1Dr" "1Sh" "1Sh" "2Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01014.jpg
+Awakenings	15	01015	Villain	Force	Kylo Ren's Lightsaber	Upgrade	true					["3MD1" "+2MD" "+3MD" "1Sh" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01015.jpg
+Awakenings	16	01016	Villain	Force	Sith Holocron	Upgrade	false					["1F" "+1R" "Sp" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01016.jpg
+Awakenings	17	01017	Villain	General	Infantry Grenades	Upgrade	false					["1RD" "2RD1" "1R" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01017.jpg
+Awakenings	18	01018	Villain	General	Speeder Bike Scout	Support	false					["2RD" "3RD1" "1Dr" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01018.jpg
+Awakenings	19	01019	Villain	Rogue	Bala-Tik	Character	true	8	11	8	11	["1RD" "+2RD" "1F" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01019.jpg
+Awakenings	20	01020	Villain	Rogue	Jabba the Hutt	Character	true	11	14	11	14	["1F" "1F" "2Dr" "2Dc" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01020.jpg
+Awakenings	21	01021	Villain	Rogue	Jango Fett	Character	true	12	16	12	16	["1RD" "2RD" "1MD" "1R" "+1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01021.jpg
+Awakenings	22	01022	Villain	Rogue	Tusken Raider	Character	false	9		9	9	["1RD" "1MD" "3MD1" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01022.jpg
+Awakenings	23	01023	Villain	Rogue	Crime Lord	Upgrade	false					["2F" "3Dr1" "2Sh" "2R" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01023.jpg
+Awakenings	24	01024	Villain	Rogue	Flame Thrower	Upgrade	false					["2MD" "4MD1" "1Dr" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01024.jpg
+Awakenings	25	01025	Villain	Rogue	Gaffi Stick	Upgrade	false					["2MD1" "+2MD" "1Dr" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01025.jpg
+Awakenings	26	01026	Villain	Rogue	On The Hunt	Upgrade	false					["+1RD" "+1MD" "1Dc" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01026.jpg
+Awakenings	27	01027	Hero	Command	Admiral Ackbar	Character	true	10	14	10	14	["1RD" "2F" "1Dc" "1R" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01027.jpg
+Awakenings	28	01028	Hero	Command	Leia Organa	Character	true	12	16	12	16	["1RD" "2RD" "2RD1" "1F" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01028.jpg
+Awakenings	29	01029	Hero	Command	Poe Dameron	Character	true	16	20	16	20	["2RD" "3RD1" "1Dr" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01029.jpg
+Awakenings	30	01030	Hero	Command	Rebel Trooper	Character	false	8		8	8	["1RD" "2RD" "+1RD" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01030.jpg
+Awakenings	31	01031	Hero	Command	Launch Bay	Support	false					["0RD" "0RD" "0Dr" "0Sh" "0Dc" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01031.jpg
+Awakenings	32	01032	Hero	Command	Black One	Support	true					["2RD" "3RD" "1Dr" "2Sh" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01032.jpg
+Awakenings	33	01033	Hero	Command	Scout	Upgrade	false					["1F" "2Dr1" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01033.jpg
+Awakenings	34	01034	Hero	Command	Survival Gear	Upgrade	false					["1MD" "1F" "1Sh" "2Sh" "1R" "+1R"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01034.jpg
+Awakenings	35	01035	Hero	Force	Luke Skywalker	Character	true	15	20	15	20	["2MD" "3MD" "1F" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01035.jpg
+Awakenings	36	01036	Hero	Force	Padawan	Character	false	8		8	8	["1MD" "1MD" "2MD" "1F" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01036.jpg
+Awakenings	37	01037	Hero	Force	Qui-Gon Jinn	Character	true	13	17	13	17	["1MD" "2MD" "1Sh" "2Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01037.jpg
+Awakenings	38	01038	Hero	Force	Rey	Character	true	9	12	9	12	["1MD" "+2MD" "1Dc" "1R" "+1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01038.jpg
+Awakenings	39	01039	Hero	Force	Force Protection	Upgrade	false					["1Dr" "1Dc" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01039.jpg
+Awakenings	40	01040	Hero	Force	Jedi Robes	Upgrade	false					["1F" "1F" "1Dr" "1R" "+1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01040.jpg
+Awakenings	41	01041	Hero	Force	Luke Skywalker's Lightsaber	Upgrade	true					["3MD1" "+3MD" "2Sh" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01041.jpg
+Awakenings	42	01042	Hero	Force	One With The Force	Upgrade	false					["3RD" "2F" "3F" "3Dr" "2Sh" "2R"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01042.jpg
+Awakenings	43	01043	Hero	General	BB-8	Support	true					["1F" "1Dr" "1Sh" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01043.jpg
+Awakenings	44	01044	Hero	General	Rey's Staff	Upgrade	true					["1MD" "1MD" "3MD1" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01044.jpg
+Awakenings	45	01045	Hero	Rogue	Finn	Character	true	13	16	13	16	["1RD" "2RD" "1MD" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01045.jpg
+Awakenings	46	01046	Hero	Rogue	Han Solo	Character	true	14	18	14	18	["2RD" "3RD1" "2Dr" "1R" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01046.jpg
+Awakenings	47	01047	Hero	Rogue	Hired Gun	Character	false	8		8	8	["2RD1" "3RD1" "1Dr" "1R" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01047.jpg
+Awakenings	48	01048	Hero	Rogue	Padme Amidala	Character	true	10	14	10	14	["2F" "1Dc" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01048.jpg
+Awakenings	49	01049	Hero	Rogue	Millennium Falcon	Support	true					["3RD" "4RD" "2F" "3Dc" "2R" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01049.jpg
+Awakenings	50	01050	Hero	Rogue	Diplomatic Immunity	Upgrade	false					["2F" "1Sh" "2Sh" "3Sh" "4Sh" "2Dr"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01050.jpg
+Awakenings	51	01051	Hero	Rogue	DL-44 Heavy Blaster Pistol	Upgrade	false					["3RD" "3RD1" "+2RD" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01051.jpg
+Awakenings	52	01052	Hero	Rogue	Infiltrate	Upgrade	false					["1Dr" "1Sh" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01052.jpg
+Awakenings	53	01053	Neutral	Command	Outpost	Support	false					["1F" "1Dr" "2Dr" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01053.jpg
+Awakenings	54	01054	Neutral	Command	DH-17 Blaster Pistol	Upgrade	false					["1RD" "2RD1" "+2RD" "1Sh" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01054.jpg
+Awakenings	55	01055	Neutral	Command	IQA-11 Blaster Rifle	Upgrade	false					["2RD" "+3RD" "1Dr" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01055.jpg
+Awakenings	56	01056	Neutral	Command	Promotion	Upgrade	false					["+1RD" "+1MD" "1F" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01056.jpg
+Awakenings	57	01057	Neutral	Force	Force Throw	Upgrade	false					["1RD" "1Dr" "2Dr" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01057.jpg
+Awakenings	58	01058	Neutral	Force	Force Training	Upgrade	false					["1RD" "+2MD" "1F" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01058.jpg
+Awakenings	59	01059	Neutral	Force	Lightsaber	Upgrade	false					["3MD1" "+2MD" "1Sh" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01059.jpg
+Awakenings	60	01060	Neutral	Force	Mind Probe	Upgrade	false					["3RD1" "2Dr" "2Dc" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/01/01060.jpg
+Awakenings	61	01061	Neutral	General	Comlink	Upgrade	false					["1F" "1F" "1Sh" "1R" "+1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01061.jpg
+Awakenings	62	01062	Neutral	General	Datapad	Upgrade	false					["1R" "+1R" "+1R" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01062.jpg
+Awakenings	63	01063	Neutral	General	Holdout Blaster	Upgrade	false					["1RD" "2RD1" "+2RD" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01063.jpg
+Awakenings	64	01064	Neutral	Rogue	Black Market	Support	false					["+2RD" "2F" "2Sh" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01064.jpg
+Awakenings	65	01065	Neutral	Rogue	Cunning	Upgrade	false					["1F" "1Dr" "1Dc" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01065.jpg
+Awakenings	66	01066	Neutral	Rogue	Jetpack	Upgrade	false					["+2RD" "+3RD" "1Dr" "2Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/01/01066.jpg
+Awakenings	67	01067	Neutral	Rogue	Thermal Detonator	Upgrade	false					["1Dc" "2Dc" "1R" "Sp" "Sp1" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01067.jpg
+Awakenings	68	01068	Villain	Command	Cannon Fodder	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01068.jpg
+Awakenings	69	01069	Villain	Command	Closing the Net	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01069.jpg
+Awakenings	70	01070	Villain	Command	Endless Ranks	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01070.jpg
+Awakenings	71	01071	Villain	Command	Occupation	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01071.jpg
+Awakenings	72	01072	Villain	Command	Probe	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01072.jpg
+Awakenings	73	01073	Villain	Command	Sweep the Area	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01073.jpg
+Awakenings	74	01074	Villain	Command	Tactical Mastery	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01074.jpg
+Awakenings	75	01075	Villain	Command	The Best Defense...	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01075.jpg
+Awakenings	76	01076	Villain	Command	Drudge Work	Support	false						Common	https://swdestinydb.com/bundles/cards/en/01/01076.jpg
+Awakenings	77	01077	Villain	Command	Local Garrison	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01077.jpg
+Awakenings	78	01078	Villain	Command	Personal Escort	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/01/01078.jpg
+Awakenings	79	01079	Villain	Force	Abandon All Hope	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01079.jpg
+Awakenings	80	01080	Villain	Force	Boundless Ambition	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01080.jpg
+Awakenings	81	01081	Villain	Force	Enrage	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01081.jpg
+Awakenings	82	01082	Villain	Force	Feel Your Anger	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01082.jpg
+Awakenings	83	01083	Villain	Force	Force Strike	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01083.jpg
+Awakenings	84	01084	Villain	Force	Intimidate	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01084.jpg
+Awakenings	85	01085	Villain	Force	Isolation	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01085.jpg
+Awakenings	86	01086	Villain	Force	No Mercy	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01086.jpg
+Awakenings	87	01087	Villain	Force	Pulling the Strings	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01087.jpg
+Awakenings	88	01088	Villain	Force	Emperor's Favor	Support	true						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01088.jpg
+Awakenings	89	01089	Villain	Force	Power of the Dark Side	Support	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01089.jpg
+Awakenings	90	01090	Villain	Force	Hidden In Shadow	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01090.jpg
+Awakenings	91	01091	Villain	General	Nowhere to Run	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01091.jpg
+Awakenings	92	01092	Villain	Rogue	Ace in the Hole	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01092.jpg
+Awakenings	93	01093	Villain	Rogue	Armed to the Teeth	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01093.jpg
+Awakenings	94	01094	Villain	Rogue	Confiscation	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01094.jpg
+Awakenings	95	01095	Villain	Rogue	Fight Dirty	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01095.jpg
+Awakenings	96	01096	Villain	Rogue	Go for the Kill	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01096.jpg
+Awakenings	97	01097	Villain	Rogue	He Doesn't Like You	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01097.jpg
+Awakenings	98	01098	Villain	Rogue	Lying in Wait	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01098.jpg
+Awakenings	99	01099	Villain	Rogue	Backup Muscle	Support	false						Common	https://swdestinydb.com/bundles/cards/en/01/01099.jpg
+Awakenings	100	01100	Villain	Rogue	My Kind of Scum	Support	false						Common	https://swdestinydb.com/bundles/cards/en/01/01100.jpg
+Awakenings	101	01101	Villain	Rogue	Underworld Connections	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01101.jpg
+Awakenings	102	01102	Villain	Rogue	Prized Possession	Upgrade	true						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01102.jpg
+Awakenings	103	01103	Hero	Command	Commando Raid	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01103.jpg
+Awakenings	104	01104	Hero	Command	Defensive Position	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01104.jpg
+Awakenings	105	01105	Hero	Command	Field Medic	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01105.jpg
+Awakenings	106	01106	Hero	Command	Hit and Run	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01106.jpg
+Awakenings	107	01107	Hero	Command	It's a Trap!	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01107.jpg
+Awakenings	108	01108	Hero	Command	Natural Talent	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01108.jpg
+Awakenings	109	01109	Hero	Command	Rearm	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01109.jpg
+Awakenings	110	01110	Hero	Command	Retreat	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01110.jpg
+Awakenings	111	01111	Hero	Command	Strategic Planning	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01111.jpg
+Awakenings	112	01112	Hero	Command	Surgical Strike	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01112.jpg
+Awakenings	113	01113	Hero	Command	Resistance HQ	Support	true						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01113.jpg
+Awakenings	114	01114	Hero	Force	Anticipate	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01114.jpg
+Awakenings	115	01115	Hero	Force	Defensive Stance	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01115.jpg
+Awakenings	116	01116	Hero	Force	Force Misdirection	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01116.jpg
+Awakenings	117	01117	Hero	Force	Heroism	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01117.jpg
+Awakenings	118	01118	Hero	Force	Noble Sacrifice	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01118.jpg
+Awakenings	119	01119	Hero	Force	Patience	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01119.jpg
+Awakenings	120	01120	Hero	Force	Return of the Jedi	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01120.jpg
+Awakenings	121	01121	Hero	Force	Riposte	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01121.jpg
+Awakenings	122	01122	Hero	Force	Willpower	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01122.jpg
+Awakenings	123	01123	Hero	Force	Jedi Council	Support	true						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01123.jpg
+Awakenings	124	01124	Hero	Force	Awakening	Support	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01124.jpg
+Awakenings	125	01125	Hero	Force	The Force is Strong	Support	false						Common	https://swdestinydb.com/bundles/cards/en/01/01125.jpg
+Awakenings	126	01126	Hero	General	Daring Escape	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01126.jpg
+Awakenings	127	01127	Hero	Rogue	Don't Get Cocky	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01127.jpg
+Awakenings	128	01128	Hero	Rogue	Draw Attention	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01128.jpg
+Awakenings	129	01129	Hero	Rogue	Hyperspace Jump	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01129.jpg
+Awakenings	130	01130	Hero	Rogue	Let The Wookiee Win	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01130.jpg
+Awakenings	131	01131	Hero	Rogue	Negotiate	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01131.jpg
+Awakenings	132	01132	Hero	Rogue	Scavenge	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01132.jpg
+Awakenings	133	01133	Hero	Rogue	Shoot First	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01133.jpg
+Awakenings	134	01134	Hero	Rogue	Smuggling	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01134.jpg
+Awakenings	135	01135	Hero	Rogue	Play the Odds	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01135.jpg
+Awakenings	136	01136	Hero	Rogue	Street Informants	Support	false						Common	https://swdestinydb.com/bundles/cards/en/01/01136.jpg
+Awakenings	137	01137	Hero	Rogue	Second Chance	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01137.jpg
+Awakenings	138	01138	Neutral	Command	Award Ceremony	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01138.jpg
+Awakenings	139	01139	Neutral	Command	Dug in	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01139.jpg
+Awakenings	140	01140	Neutral	Command	Firepower	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01140.jpg
+Awakenings	141	01141	Neutral	Command	Leadership	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01141.jpg
+Awakenings	142	01142	Neutral	Command	Logistics	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01142.jpg
+Awakenings	143	01143	Neutral	Command	Squad Tactics	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01143.jpg
+Awakenings	144	01144	Neutral	Command	Supporting Fire	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01144.jpg
+Awakenings	145	01145	Neutral	Force	Deflect	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01145.jpg
+Awakenings	146	01146	Neutral	Force	Disturbance in the Force	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01146.jpg
+Awakenings	147	01147	Neutral	Force	Mind Trick	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01147.jpg
+Awakenings	148	01148	Neutral	Force	The Power of the Force	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01148.jpg
+Awakenings	149	01149	Neutral	Force	Use The Force	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01149.jpg
+Awakenings	150	01150	Neutral	Force	It Binds All Things	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01150.jpg
+Awakenings	151	01151	Neutral	General	Aim	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01151.jpg
+Awakenings	152	01152	Neutral	General	All In	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01152.jpg
+Awakenings	153	01153	Neutral	General	Block	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01153.jpg
+Awakenings	154	01154	Neutral	General	Close Quarters Assault	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01154.jpg
+Awakenings	155	01155	Neutral	General	Dodge	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01155.jpg
+Awakenings	156	01156	Neutral	General	Flank	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01156.jpg
+Awakenings	157	01157	Neutral	General	Take Cover	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01157.jpg
+Awakenings	158	01158	Neutral	Rogue	Disarm	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01158.jpg
+Awakenings	159	01159	Neutral	Rogue	Electroshock	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01159.jpg
+Awakenings	160	01160	Neutral	Rogue	Reversal	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01160.jpg
+Awakenings	161	01161	Neutral	Rogue	Scramble	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01161.jpg
+Awakenings	162	01162	Neutral	Rogue	Unpredictable	Event	false						Common	https://swdestinydb.com/bundles/cards/en/01/01162.jpg
+Awakenings	163	01163	Neutral	Rogue	Infamous	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01163.jpg
+Awakenings	164	01164	Neutral	Rogue	Hunker Down	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/01/01164.jpg
+Awakenings	165	01165	Neutral	General	Command Center	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01165.jpg
+Awakenings	166	01166	Neutral	General	Echo Base	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01166.jpg
+Awakenings	167	01167	Neutral	General	Emperor's Throne Room	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/01/01167.jpg
+Awakenings	168	01168	Neutral	General	Frozen Wastes	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01168.jpg
+Awakenings	169	01169	Neutral	General	Imperial Armory	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/01/01169.jpg
+Awakenings	170	01170	Neutral	General	Jedi Temple	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/01/01170.jpg
+Awakenings	171	01171	Neutral	General	Rebel War Room	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/01/01171.jpg
+Awakenings	172	01172	Neutral	General	Mos Eisley Spaceport	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/01/01172.jpg
+Awakenings	173	01173	Neutral	General	Separatist Base	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/01/01173.jpg
+Awakenings	174	01174	Neutral	General	Starship Graveyard	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/01/01174.jpg
+Spirit of Rebellion	1	02001	Villain	Command	Death Trooper	Character	false	10		10	10	["1RD" "1RD" "2RD" "+2RD" "1Dr" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02001.jpg
+Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	true	12	15	12	15	["1RD" "1MD" "2MD1" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
+Spirit of Rebellion	3	02003	Villain	Command	Director Krennic	Character	true	15	19	15	19	["2RD" "1F" "2Dr" "2Dc" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02003.jpg
+Spirit of Rebellion	4	02004	Villain	Command	Tie Pilot	Character	false	8		8	8	["+1RD" "+2RD" "+3RD1" "1F" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
+Spirit of Rebellion	5	02005	Villain	Command	E-Web Emplacement	Support	false					["1RD" "1RD1" "2RD" "2RD1" "2Sh" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02005.jpg
+Spirit of Rebellion	6	02006	Villain	Command	Imperial Discipline	Upgrade	false					["+1RD" "+1MD" "1Sh" "1R" "+1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02006.jpg
+Spirit of Rebellion	7	02007	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	false					["1RD" "+2RD" "+2RD" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02007.jpg
+Spirit of Rebellion	8	02008	Villain	Command	Z6 Riot Control Baton	Upgrade	false					["2MD" "2MD" "3MD1" "1R" "-" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02008.jpg
+Spirit of Rebellion	9	02009	Villain	Force	Asajj Ventress	Character	true	12	15	12	15	["1MD" "2MD" "1F" "1Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02009.jpg
+Spirit of Rebellion	10	02010	Villain	Force	Darth Vader	Character	true	13	17	13	17	["1RD" "2MD" "3MD1" "1Dc" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02010.jpg
+Spirit of Rebellion	11	02011	Villain	Force	Palpatine	Character	true	21	28	21	28	["2RD" "3RD" "2Dc" "2Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02011.jpg
+Spirit of Rebellion	12	02012	Villain	Force	Royal Guard	Character	false	9		9	9	["1MD" "2MD" "+2MD" "1Sh" "1Sh" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02012.jpg
+Spirit of Rebellion	13	02013	Villain	Force	Command Shuttle	Support	false					["2RD" "2Sh" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02013.jpg
+Spirit of Rebellion	14	02014	Villain	Force	Force Lightning	Upgrade	false					["2RD" "3RD1" "4RD1" "Sp" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02014.jpg
+Spirit of Rebellion	15	02015	Villain	Force	Lightsaber Pike	Upgrade	false					["1MD" "+2MD" "+4MD1" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02015.jpg
+Spirit of Rebellion	16	02016	Villain	Force	Lure of Power	Upgrade	false					["+1X" "+1X" "+2X" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02016.jpg
+Spirit of Rebellion	17	02017	Villain	General	Interrogation Droid	Support	false					["1Dr" "1Dc" "1Dc" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02017.jpg
+Spirit of Rebellion	18	02018	Villain	Rogue	Aurra Sing	Character	true	14	18	14	18	["1RD" "2RD" "2RD" "1Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02018.jpg
+Spirit of Rebellion	19	02019	Villain	Rogue	Guavian Enforcer	Character	false	8		8	8	["1RD" "2RD" "+1RD" "+1R" "+1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02019.jpg
+Spirit of Rebellion	20	02020	Villain	Rogue	IG-88	Character	true	15	20	15	20	["2RD" "3RD" "1Sh" "2Sh1" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02020.jpg
+Spirit of Rebellion	21	02021	Villain	Rogue	Unkar Plutt	Character	true	12	15	12	15	["1F" "1Dr" "2Dr" "1R" "+2R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02021.jpg
+Spirit of Rebellion	22	02022	Villain	Rogue	Slave I	Support	true					["2RD" "3RD" "4RD1" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02022.jpg
+Spirit of Rebellion	23	02023	Villain	Rogue	Blackmail	Upgrade	false					["2Dc" "3Dc" "2Dr" "3Dr" "3Sh" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02023.jpg
+Spirit of Rebellion	24	02024	Villain	Rogue	Personal Shield	Upgrade	false					["1Sh" "2Sh" "3Sh1" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02024.jpg
+Spirit of Rebellion	25	02025	Villain	Rogue	Vibroknucklers	Upgrade	false					["1MD" "1MD" "2MD" "1Dc" "2Dc" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02025.jpg
+Spirit of Rebellion	26	02026	Hero	Command	Baze Malbus	Character	true	14	18	14	18	["2RD" "3RD1" "+2RD" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02026.jpg
+Spirit of Rebellion	27	02027	Hero	Command	Mon Mothma	Character	true	11	14	11	14	["1F" "2F" "1Sh" "1R" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02027.jpg
+Spirit of Rebellion	28	02028	Hero	Command	Rebel Commando	Character	false	10		10	10	["1RD" "2RD" "1Dc" "1R" "Sp1" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02028.jpg
+Spirit of Rebellion	29	02029	Hero	Command	Temmin "Snap" Wexley	Character	true	9	12	9	12	["1RD" "1Dr" "2Dr" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02029.jpg
+Spirit of Rebellion	30	02030	Hero	Command	C-3PO	Support	true					["1F" "1Dc" "1R" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02030.jpg
+Spirit of Rebellion	31	02031	Hero	Command	U-Wing	Support	false					["3RD" "3RD" "2F" "2R" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02031.jpg
+Spirit of Rebellion	32	02032	Hero	Command	A180 Blaster	Upgrade	false					["2RD" "+2RD" "1Dr" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02032.jpg
+Spirit of Rebellion	33	02033	Hero	Command	Overkill	Upgrade	false					["+1RD" "+2RD" "+3RD" "+3RD" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02033.jpg
+Spirit of Rebellion	34	02034	Hero	Force	Jedi Acolyte	Character	false	9		9	9	["1MD" "1F" "2F" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02034.jpg
+Spirit of Rebellion	35	02035	Hero	Force	Chirrut Îmwe	Character	true	12	16	12	16	["1RD" "+2RD" "2MD" "+1MD" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02035.jpg
+Spirit of Rebellion	36	02036	Hero	Force	Luminara Unduli	Character	true	13	17	13	17	["1MD" "2MD" "1F" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02036.jpg
+Spirit of Rebellion	37	02037	Hero	Force	Obi-Wan Kenobi	Character	true	16	20	16	20	["1MD" "3MD" "1F" "2F" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02037.jpg
+Spirit of Rebellion	38	02038	Hero	Force	Delta-7 Interceptor	Support	false					["2RD" "3RD1" "1F" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02038.jpg
+Spirit of Rebellion	39	02039	Hero	Force	Handcrafted Light Bow	Upgrade	false					["2RD" "2MD" "1Sh" "1Dc" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02039.jpg
+Spirit of Rebellion	40	02040	Hero	Force	Force Heal	Upgrade	false					["1Sh" "1R" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02040.jpg
+Spirit of Rebellion	41	02041	Hero	Force	Journals of Ben Kenobi	Upgrade	true					["+1MD" "1R" "1R" "-" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02041.jpg
+Spirit of Rebellion	42	02042	Hero	General	R2-D2	Support	true					["1MD" "1F" "1Dr" "1R" "Sp" "Sp"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02042.jpg
+Spirit of Rebellion	43	02043	Hero	Rogue	Chewbacca	Character	true	12	16	12	16	["1RD" "2RD1" "2MD" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02043.jpg
+Spirit of Rebellion	44	02044	Hero	Rogue	Jyn Erso	Character	true	15	20	15	20	["2RD" "2RD" "1Dc" "2Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02044.jpg
+Spirit of Rebellion	45	02045	Hero	Rogue	Maz Kanata	Character	true	8	11	8	11	["1RD" "1F" "1F" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02045.jpg
+Spirit of Rebellion	46	02046	Hero	Rogue	Outer Rim Smuggler	Character	false	8		8	8	["1RD" "2RD" "1Dr" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02046.jpg
+Spirit of Rebellion	47	02047	Hero	Rogue	Smuggling Freighter	Support	false					["1Dr" "2Dr" "1R" "2R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02047.jpg
+Spirit of Rebellion	48	02048	Hero	Rogue	Bowcaster	Upgrade	false					["2RD" "4RD1" "+3RD" "2Dr" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02048.jpg
+Spirit of Rebellion	49	02049	Hero	Rogue	Lone Operative	Upgrade	false					["2MD" "2Dc" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02049.jpg
+Spirit of Rebellion	50	02050	Hero	Rogue	Maz's Goggles	Upgrade	true					["1F" "2F" "1R" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02050.jpg
+Spirit of Rebellion	51	02051	Neutral	Command	Supply Line	Support	false					["1F" "1R" "+1R" "+1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02051.jpg
+Spirit of Rebellion	52	02052	Neutral	Command	Astromech	Support	false					["1F" "2F" "1Sh" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02052.jpg
+Spirit of Rebellion	53	02053	Neutral	Command	Rocket Launcher	Upgrade	false					["3RD1" "3RD1" "4RD1" "Sp1" "-" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02053.jpg
+Spirit of Rebellion	54	02054	Neutral	Force	Force Push	Upgrade	false					["2RD" "2RD" "2Dc" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02054.jpg
+Spirit of Rebellion	55	02055	Neutral	Force	Force Speed	Upgrade	false					["1F" "1Sh" "Sp" "Sp" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02055.jpg
+Spirit of Rebellion	56	02056	Neutral	Force	Makashi Training	Upgrade	false					["+1MD" "+2MD" "+2MD" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02056.jpg
+Spirit of Rebellion	57	02057	Neutral	General	Vibroknife	Upgrade	false					["1MD" "1MD" "+2MD" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02057.jpg
+Spirit of Rebellion	58	02058	Neutral	Rogue	Quadjumper	Support	false					["2F" "1Sh" "2Sh" "1R" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02058.jpg
+Spirit of Rebellion	59	02059	Neutral	Rogue	Ascension Gun	Upgrade	false					["1RD" "2RD" "1F" "2Dc1" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02059.jpg
+Spirit of Rebellion	60	02060	Neutral	Rogue	Con Artist	Upgrade	false					["2Dr" "2Dr" "1Dc" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/02/02060.jpg
+Spirit of Rebellion	61	02061	Villain	Command	Battle Formation	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02061.jpg
+Spirit of Rebellion	62	02062	Villain	Command	Imperial War Machine	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02062.jpg
+Spirit of Rebellion	63	02063	Villain	Command	Lockdown	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02063.jpg
+Spirit of Rebellion	64	02064	Villain	Command	Sustained Fire	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02064.jpg
+Spirit of Rebellion	65	02065	Villain	Command	Traitor!	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02065.jpg
+Spirit of Rebellion	66	02066	Villain	Command	Trench Warfare	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02066.jpg
+Spirit of Rebellion	67	02067	Villain	Command	Undying Loyalty	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02067.jpg
+Spirit of Rebellion	68	02068	Villain	Command	We Have Them Now	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02068.jpg
+Spirit of Rebellion	69	02069	Villain	Command	Attrition	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02069.jpg
+Spirit of Rebellion	70	02070	Villain	Command	Imperial Inspection	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02070.jpg
+Spirit of Rebellion	71	02071	Villain	Force	Anger	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02071.jpg
+Spirit of Rebellion	72	02072	Villain	Force	Lightsaber Throw	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02072.jpg
+Spirit of Rebellion	73	02073	Villain	Force	Manipulate	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02073.jpg
+Spirit of Rebellion	74	02074	Villain	Force	No Disintegrations	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02074.jpg
+Spirit of Rebellion	75	02075	Villain	Force	Now You Will Die	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02075.jpg
+Spirit of Rebellion	76	02076	Villain	Force	Rise Again	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02076.jpg
+Spirit of Rebellion	77	02077	Villain	Force	The Price of Failure	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02077.jpg
+Spirit of Rebellion	78	02078	Villain	Force	Dark Presence	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02078.jpg
+Spirit of Rebellion	79	02079	Villain	Force	Now I Am The Master	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/02/02079.jpg
+Spirit of Rebellion	80	02080	Villain	General	Doubt	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02080.jpg
+Spirit of Rebellion	81	02081	Villain	Rogue	Arms Deal	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02081.jpg
+Spirit of Rebellion	82	02082	Villain	Rogue	Bait and Switch	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02082.jpg
+Spirit of Rebellion	83	02083	Villain	Rogue	Friends in High Places	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02083.jpg
+Spirit of Rebellion	84	02084	Villain	Rogue	Loose Ends	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02084.jpg
+Spirit of Rebellion	85	02085	Villain	Rogue	One-Quarter Portion	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02085.jpg
+Spirit of Rebellion	86	02086	Villain	Rogue	Relentless Pursuit	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02086.jpg
+Spirit of Rebellion	87	02087	Villain	Rogue	Scrap Buy	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02087.jpg
+Spirit of Rebellion	88	02088	Villain	Rogue	Salvage Stand	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02088.jpg
+Spirit of Rebellion	89	02089	Villain	Rogue	Armor Plating	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02089.jpg
+Spirit of Rebellion	90	02090	Hero	Command	Emergency Evacuation	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02090.jpg
+Spirit of Rebellion	91	02091	Hero	Command	Friendly Fire	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02091.jpg
+Spirit of Rebellion	92	02092	Hero	Command	Guerrilla Warfare	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02092.jpg
+Spirit of Rebellion	93	02093	Hero	Command	Our Only Hope	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02093.jpg
+Spirit of Rebellion	94	02094	Hero	Command	Rebel Assault	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02094.jpg
+Spirit of Rebellion	95	02095	Hero	Command	Sensor Placement	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02095.jpg
+Spirit of Rebellion	96	02096	Hero	Command	Spirit of Rebellion	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02096.jpg
+Spirit of Rebellion	97	02097	Hero	Command	Planetary Uprising	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02097.jpg
+Spirit of Rebellion	98	02098	Hero	Command	Spy Net	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02098.jpg
+Spirit of Rebellion	99	02099	Hero	Command	Tactical Aptitude	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/02/02099.jpg
+Spirit of Rebellion	100	02100	Hero	Force	Caution	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02100.jpg
+Spirit of Rebellion	101	02101	Hero	Force	Destiny	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02101.jpg
+Spirit of Rebellion	102	02102	Hero	Force	Determination	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02102.jpg
+Spirit of Rebellion	103	02103	Hero	Force	Guard	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02103.jpg
+Spirit of Rebellion	104	02104	Hero	Force	Krayt Dragon Howl	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02104.jpg
+Spirit of Rebellion	105	02105	Hero	Force	My Ally Is The Force	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02105.jpg
+Spirit of Rebellion	106	02106	Hero	Force	Synchronicity	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02106.jpg
+Spirit of Rebellion	107	02107	Hero	Force	Your Eyes Can Deceive You	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02107.jpg
+Spirit of Rebellion	108	02108	Hero	Force	Protective Mentor	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/02/02108.jpg
+Spirit of Rebellion	109	02109	Hero	General	Confidence	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02109.jpg
+Spirit of Rebellion	110	02110	Hero	Rogue	Garbage'll Do	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02110.jpg
+Spirit of Rebellion	111	02111	Hero	Rogue	Hold On!	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02111.jpg
+Spirit of Rebellion	112	02112	Hero	Rogue	Rebel	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02112.jpg
+Spirit of Rebellion	113	02113	Hero	Rogue	Long Con	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02113.jpg
+Spirit of Rebellion	114	02114	Hero	Rogue	Loth-Cat and Mouse	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02114.jpg
+Spirit of Rebellion	115	02115	Hero	Rogue	Never Tell Me The Odds	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02115.jpg
+Spirit of Rebellion	116	02116	Hero	Rogue	Planned Explosion	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02116.jpg
+Spirit of Rebellion	117	02117	Hero	Rogue	Double-Dealing	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02117.jpg
+Spirit of Rebellion	118	02118	Hero	Rogue	Life Debt	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02118.jpg
+Spirit of Rebellion	119	02119	Neutral	Command	Bombing Run	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02119.jpg
+Spirit of Rebellion	120	02120	Neutral	Command	Collateral Damage	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02120.jpg
+Spirit of Rebellion	121	02121	Neutral	Command	Salvo	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02121.jpg
+Spirit of Rebellion	122	02122	Neutral	Command	Suppression	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02122.jpg
+Spirit of Rebellion	123	02123	Neutral	Command	Aftermath	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02123.jpg
+Spirit of Rebellion	124	02124	Neutral	Command	Air Superiority	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02124.jpg
+Spirit of Rebellion	125	02125	Neutral	Command	Training	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02125.jpg
+Spirit of Rebellion	126	02126	Neutral	Command	Wingman	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/02/02126.jpg
+Spirit of Rebellion	127	02127	Neutral	Force	Decisive Blow	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02127.jpg
+Spirit of Rebellion	128	02128	Neutral	Force	High Ground	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02128.jpg
+Spirit of Rebellion	129	02129	Neutral	Force	Momentum Shift	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02129.jpg
+Spirit of Rebellion	130	02130	Neutral	Force	Overconfidence	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02130.jpg
+Spirit of Rebellion	131	02131	Neutral	Force	Premonitions	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02131.jpg
+Spirit of Rebellion	132	02132	Neutral	Force	Rejuvenate	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02132.jpg
+Spirit of Rebellion	133	02133	Neutral	Force	Trust Your Instincts	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02133.jpg
+Spirit of Rebellion	134	02134	Neutral	Force	Meditate	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02134.jpg
+Spirit of Rebellion	135	02135	Neutral	Force	Force Illusion	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02135.jpg
+Spirit of Rebellion	136	02136	Neutral	General	Evade	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02136.jpg
+Spirit of Rebellion	137	02137	Neutral	General	New Orders	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02137.jpg
+Spirit of Rebellion	138	02138	Neutral	General	Parry	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02138.jpg
+Spirit of Rebellion	139	02139	Neutral	General	Swiftness	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02139.jpg
+Spirit of Rebellion	140	02140	Neutral	General	Resolve	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02140.jpg
+Spirit of Rebellion	141	02141	Neutral	General	Ammo Belt	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/02/02141.jpg
+Spirit of Rebellion	142	02142	Neutral	Rogue	Bolt Hole	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02142.jpg
+Spirit of Rebellion	143	02143	Neutral	Rogue	Cheat	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02143.jpg
+Spirit of Rebellion	144	02144	Neutral	Rogue	Diversion	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02144.jpg
+Spirit of Rebellion	145	02145	Neutral	Rogue	"Fair" Trade	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02145.jpg
+Spirit of Rebellion	146	02146	Neutral	Rogue	Friends in Low Places	Event	false						Common	https://swdestinydb.com/bundles/cards/en/02/02146.jpg
+Spirit of Rebellion	147	02147	Neutral	Rogue	Sabotage	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02147.jpg
+Spirit of Rebellion	148	02148	Neutral	Rogue	Improvisation	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02148.jpg
+Spirit of Rebellion	149	02149	Neutral	Rogue	Outmaneuver	Support	false						Common	https://swdestinydb.com/bundles/cards/en/02/02149.jpg
+Spirit of Rebellion	150	02150	Neutral	Rogue	Fast Hands	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02150.jpg
+Spirit of Rebellion	151	02151	Neutral	General	Carbon-freezing Chamber	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02151.jpg
+Spirit of Rebellion	152	02152	Neutral	General	Cargo Hold	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02152.jpg
+Spirit of Rebellion	153	02153	Neutral	General	Docking Bay	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02153.jpg
+Spirit of Rebellion	154	02154	Neutral	General	Ewok Village	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02154.jpg
+Spirit of Rebellion	155	02155	Neutral	General	Maz's Castle	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02155.jpg
+Spirit of Rebellion	156	02156	Neutral	General	Moisture Farm	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02156.jpg
+Spirit of Rebellion	157	02157	Neutral	General	Otoh Gunga	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02157.jpg
+Spirit of Rebellion	158	02158	Neutral	General	Secluded Beach	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02158.jpg
+Spirit of Rebellion	159	02159	Neutral	General	Secret Facility	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/02/02159.jpg
+Spirit of Rebellion	160	02160	Neutral	General	War-Torn Streets	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/02/02160.jpg
+Empire at War	1	03001	Villain	Command	Ciena Ree	Character	true	8	11	8	11	["1RD" "+2RD" "1Dr" "1R" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03001.jpg
+Empire at War	2	03002	Villain	Command	General Hux	Character	true	11	14	11	14	["1RD" "2F" "1Dc" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03002.jpg
+Empire at War	3	03003	Villain	Command	MagnaGuard	Character	false	9		9	9	["1MD" "2MD1" "2MD1" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03003.jpg
+Empire at War	4	03004	Villain	Command	Thrawn	Character	true	14	17	14	17	["1F" "2F" "1Dr" "1Sh" "2R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03004.jpg
+Empire at War	5	03005	Villain	Command	AT-DP	Support	false					["2RD" "+2RD" "3RD1" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03005.jpg
+Empire at War	6	03006	Villain	Command	Probe Droid	Support	false					["1Dr" "1Dr" "1R" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03006.jpg
+Empire at War	7	03007	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade	false					["1RD" "2RD" "3RD" "4RD1" "5RD1" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03007.jpg
+Empire at War	8	03008	Villain	Force	Quinlan Vos	Character	true	12	15	12	15	["2MD" "+2MD" "1Dc" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03008.jpg
+Empire at War	9	03009	Villain	Force	Servant of the Dark Side	Character	false	8		8	8	["1MD" "3MD1" "1F" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03009.jpg
+Empire at War	10	03010	Villain	Force	Seventh Sister	Character	true	11	14	11	14	["1MD" "2MD" "1Dr" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03010.jpg
+Empire at War	11	03011	Villain	Force	Grand Inquisitor	Character	true	14	19	14	19	["2MD" "3MD1" "2F" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03011.jpg
+Empire at War	12	03012	Villain	Force	Darth Vader's TIE Advanced	Support	true					["2RD" "3RD1" "+3RD" "2Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03012.jpg
+Empire at War	13	03013	Villain	Force	ID9 Seeker Droid	Upgrade	false					["0MD" "0F" "0Dr" "0Dc" "0Sh" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03013.jpg
+Empire at War	14	03014	Villain	Force	Temptation	Upgrade	false					["1Dr" "1Dc" "Sp" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03014.jpg
+Empire at War	15	03015	Villain	Force	Grand Inquisitor's Lightsaber	Upgrade	true					["3MD" "3MD1" "+3MD" "2Sh" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03015.jpg
+Empire at War	16	03016	Villain	Rogue	Bazine Netal	Character	true	7	10	7	10	["1Dr" "1Dc" "2Sh1" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03016.jpg
+Empire at War	17	03017	Villain	Rogue	Bossk	Character	true	11	15	11	15	["1RD" "+2RD" "3MD1" "1Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03017.jpg
+Empire at War	18	03018	Villain	Rogue	Cad Bane	Character	true	13	17	13	17	["2RD" "3RD1" "2Dc1" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03018.jpg
+Empire at War	19	03019	Villain	Rogue	Gamorrean Guard	Character	false	10		10	10	["1MD" "3MD1" "+2MD" "1Dr" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03019.jpg
+Empire at War	20	03020	Villain	Rogue	Hound's Tooth	Support	true					["1Dr" "1Sh" "3Sh1" "2R1" "4R2" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03020.jpg
+Empire at War	21	03021	Villain	Rogue	Cable Launcher	Upgrade	false					["1Dr" "1Dc" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03021.jpg
+Empire at War	22	03022	Villain	Rogue	LL-30 Blaster Pistol	Upgrade	false					["1RD" "1RD" "+2RD" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03022.jpg
+Empire at War	23	03023	Villain	Rogue	Relby-V10 Mortar Gun	Upgrade	false					["2RD" "2RD" "+3RD" "2Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03023.jpg
+Empire at War	24	03024	Hero	Command	General Rieekan	Character	true	12	15	12	15	["1F" "2F" "1Sh" "2Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03024.jpg
+Empire at War	25	03025	Hero	Command	Hera Syndulla	Character	true	9	12	9	12	["1RD" "1F" "1Sh" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03025.jpg
+Empire at War	26	03026	Hero	Command	K-2SO	Character	true	15	20	15	20	["2MD" "3MD" "1Dc" "2Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03026.jpg
+Empire at War	27	03027	Hero	Command	Rookie Pilot	Character	false	7		7	7	["+2RD" "+2RD" "1Sh" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03027.jpg
+Empire at War	28	03028	Hero	Command	Ghost	Support	true					["2RD" "3RD1" "2Dr" "2Sh" "2R" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03028.jpg
+Empire at War	29	03029	Hero	Command	Y-Wing	Support	false					["2RD" "2Dr" "Sp" "Sp" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03029.jpg
+Empire at War	30	03030	Hero	Command	A280 Blaster Rifle	Upgrade	false					["2RD1" "+1RD" "+2RD" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03030.jpg
+Empire at War	31	03031	Hero	Force	Ahsoka Tano	Character	true	13	17	13	17	["2MD" "2MD" "1Dc" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03031.jpg
+Empire at War	32	03032	Hero	Force	Jedi Instructor	Character	false	8		8	8	["1RD" "1MD" "1F" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03032.jpg
+Empire at War	33	03033	Hero	Force	Kanan Jarrus	Character	true	10	13	10	13	["1RD" "2MD" "1F" "1Dr" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03033.jpg
+Empire at War	34	03034	Hero	Force	Mace Windu	Character	true	16	22	16	22	["2MD" "2MD" "4MD1" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03034.jpg
+Empire at War	35	03035	Hero	Force	Training Remote	Support	false					["+1X" "+1X" "+1X" "+2X1" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03035.jpg
+Empire at War	36	03036	Hero	Force	Master of the Council	Upgrade	true					["+3MD" "+4MD" "2Sh" "2R" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03036.jpg
+Empire at War	37	03037	Hero	Force	Coordination	Upgrade	false					["1F" "1F" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03037.jpg
+Empire at War	38	03038	Hero	Rogue	Ezra Bridger	Character	true	7	10	7	10	["1RD" "+2RD" "1Dr" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03038.jpg
+Empire at War	39	03039	Hero	Rogue	Lando Calrissian	Character	true	13	16	13	16	["1RD" "1F" "2Dc1" "1R" "3R1" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03039.jpg
+Empire at War	40	03040	Hero	Rogue	Sabine Wren	Character	true	15	20	15	20	["2RD" "3RD" "3Dr1" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03040.jpg
+Empire at War	41	03041	Hero	Rogue	Wookiee Warrior	Character	false	9		9	9	["2MD1" "3MD1" "1Dc" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03041.jpg
+Empire at War	42	03042	Hero	Rogue	Chopper	Support	true					["1MD" "1MD" "1Dr" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03042.jpg
+Empire at War	43	03043	Hero	Rogue	Energy Slingshot	Upgrade	false					["1RD" "1RD" "1Dr" "1Dr" "1Dc" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03043.jpg
+Empire at War	44	03044	Hero	Rogue	Tough Haggler	Upgrade	false					["2Dr" "1R" "+2R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03044.jpg
+Empire at War	45	03045	Hero	General	T-47 Airspeeder	Support	false					["2RD" "2RD" "1Dc" "1Sh" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03045.jpg
+Empire at War	46	03046	Neutral	Command	LR1K Sonic Cannon	Support	false					["3RD" "4RD1" "5RD2" "6RD3" "-" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03046.jpg
+Empire at War	47	03047	Neutral	Command	Electrostaff	Upgrade	false					["+1MD" "+2MD" "+3MD" "1Dr" "1Sh" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03047.jpg
+Empire at War	48	03048	Neutral	Command	Natural Pilot	Upgrade	false					["+2RD" "+3RD" "2F" "2Dr" "2Sh" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03048.jpg
+Empire at War	49	03049	Neutral	Force	Ancient Lightsaber	Upgrade	false					["1MD" "1MD" "+3MD" "1Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03049.jpg
+Empire at War	50	03050	Neutral	Force	Psychometry	Upgrade	false					["1F" "2Dr" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03050.jpg
+Empire at War	51	03051	Neutral	Force	Shoto Lightsaber	Upgrade	false					["1MD" "+1MD" "+2MD" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03051.jpg
+Empire at War	52	03052	Neutral	Rogue	Weapons Cache	Support	false					["+2RD" "1F" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03052.jpg
+Empire at War	53	03053	Neutral	Rogue	BD-1 Cutter Vibro-AX	Upgrade	false					["2MD" "3MD1" "3MD1" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03053.jpg
+Empire at War	54	03054	Neutral	Rogue	Extortion	Upgrade	false					["1Dc" "1R" "+1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03054.jpg
+Empire at War	55	03055	Neutral	Rogue	X-8 Night Sniper	Upgrade	false					["1RD" "3RD1" "+2RD" "1Dr" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03055.jpg
+Empire at War	56	03056	Neutral	General	Z-95 Headhunter	Support	false					["1RD" "2RD1" "3RD1" "1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03056.jpg
+Empire at War	57	03057	Neutral	General	Chance Cube	Upgrade	false					["1R" "2R" "3R" "-" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03057.jpg
+Empire at War	58	03058	Neutral	General	EMP Grenades	Upgrade	false					["1Dr" "2Dr" "2Dc1" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03058.jpg
+Empire at War	59	03059	Neutral	General	Lead by Example	Upgrade	false					["+1RD" "+2RD" "1F" "1F" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03059.jpg
+Empire at War	60	03060	Neutral	General	Scatterblaster	Upgrade	false					["2RD" "+3RD" "1Dr" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/03/03060.jpg
+Empire at War	61	03061	Villain	Command	Commandeer	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03061.jpg
+Empire at War	62	03062	Villain	Command	Crossfire	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03062.jpg
+Empire at War	63	03063	Villain	Command	Drop Your Weapon!	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03063.jpg
+Empire at War	64	03064	Villain	Command	Imperial Backing	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03064.jpg
+Empire at War	65	03065	Villain	Command	Prepare for War	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03065.jpg
+Empire at War	66	03066	Villain	Command	Red Alert	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03066.jpg
+Empire at War	67	03067	Villain	Command	Ruthless Tactics	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03067.jpg
+Empire at War	68	03068	Villain	Command	Take Prisoner	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03068.jpg
+Empire at War	69	03069	Villain	Command	Imperial HQ	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03069.jpg
+Empire at War	70	03070	Villain	Force	As You Command	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03070.jpg
+Empire at War	71	03071	Villain	Force	Cornered Prey	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03071.jpg
+Empire at War	72	03072	Villain	Force	Indomitable	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03072.jpg
+Empire at War	73	03073	Villain	Force	It Will All Be Mine	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03073.jpg
+Empire at War	74	03074	Villain	Force	Kill Them All	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03074.jpg
+Empire at War	75	03075	Villain	Force	Unyielding	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03075.jpg
+Empire at War	76	03076	Villain	Force	Insidious	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03076.jpg
+Empire at War	77	03077	Villain	Force	Hate	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03077.jpg
+Empire at War	78	03078	Villain	Rogue	Anarchy	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03078.jpg
+Empire at War	79	03079	Villain	Rogue	Bounty Postings	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03079.jpg
+Empire at War	80	03080	Villain	Rogue	Buy Out	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03080.jpg
+Empire at War	81	03081	Villain	Rogue	Coercion	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03081.jpg
+Empire at War	82	03082	Villain	Rogue	Only Business Matters	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03082.jpg
+Empire at War	83	03083	Villain	Rogue	Pilfered Goods	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03083.jpg
+Empire at War	84	03084	Villain	Rogue	Twin Shadows	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03084.jpg
+Empire at War	85	03085	Villain	Rogue	Hutt Ties	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03085.jpg
+Empire at War	86	03086	Villain	Rogue	Deadly	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03086.jpg
+Empire at War	87	03087	Villain	General	No Survivors	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03087.jpg
+Empire at War	88	03088	Villain	General	Detention Center	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03088.jpg
+Empire at War	89	03089	Hero	Command	All Quiet On The Front	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03089.jpg
+Empire at War	90	03090	Hero	Command	Entrenched	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03090.jpg
+Empire at War	91	03091	Hero	Command	Fortuitous Strike	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03091.jpg
+Empire at War	92	03092	Hero	Command	Rearguard	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03092.jpg
+Empire at War	93	03093	Hero	Command	Reckless Reentry	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03093.jpg
+Empire at War	94	03094	Hero	Command	Strike Briefing	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03094.jpg
+Empire at War	95	03095	Hero	Command	Swift Strike	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03095.jpg
+Empire at War	96	03096	Hero	Command	Rally Aid	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03096.jpg
+Empire at War	97	03097	Hero	Command	Shield Generator	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03097.jpg
+Empire at War	98	03098	Hero	Force	At Peace	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03098.jpg
+Empire at War	99	03099	Hero	Force	Bestow	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03099.jpg
+Empire at War	100	03100	Hero	Force	Bring Balance	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03100.jpg
+Empire at War	101	03101	Hero	Force	Reaping The Crystal	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03101.jpg
+Empire at War	102	03102	Hero	Force	Secret Mission	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03102.jpg
+Empire at War	103	03103	Hero	Force	Trust The Force	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03103.jpg
+Empire at War	104	03104	Hero	Force	Funeral Pyre	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03104.jpg
+Empire at War	105	03105	Hero	Force	Yoda's Quarters	Support	true						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03105.jpg
+Empire at War	106	03106	Hero	Force	Fearless	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03106.jpg
+Empire at War	107	03107	Hero	Rogue	Against The Odds	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03107.jpg
+Empire at War	108	03108	Hero	Rogue	Appraise	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03108.jpg
+Empire at War	109	03109	Hero	Rogue	Bad Feeling	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03109.jpg
+Empire at War	110	03110	Hero	Rogue	Double-Cross	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03110.jpg
+Empire at War	111	03111	Hero	Rogue	Impersonate	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03111.jpg
+Empire at War	112	03112	Hero	Rogue	Local Patrol	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03112.jpg
+Empire at War	113	03113	Hero	Rogue	Quick Escape	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03113.jpg
+Empire at War	114	03114	Hero	Rogue	Tenacity	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03114.jpg
+Empire at War	115	03115	Hero	Rogue	Running Interference	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03115.jpg
+Empire at War	116	03116	Hero	Rogue	Thermal Paint	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/03/03116.jpg
+Empire at War	117	03117	Hero	General	Defiance	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03117.jpg
+Empire at War	118	03118	Neutral	Command	Covering Fire	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03118.jpg
+Empire at War	119	03119	Neutral	Command	Deploy Squadron	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03119.jpg
+Empire at War	120	03120	Neutral	Command	Fall Back	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03120.jpg
+Empire at War	121	03121	Neutral	Command	Feint	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03121.jpg
+Empire at War	122	03122	Neutral	Command	Flanking Maneuver	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03122.jpg
+Empire at War	123	03123	Neutral	Command	Heat Of Battle	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03123.jpg
+Empire at War	124	03124	Neutral	Command	Pinned Down	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03124.jpg
+Empire at War	125	03125	Neutral	Command	The Day is Ours	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03125.jpg
+Empire at War	126	03126	Neutral	Command	Drop Zone	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03126.jpg
+Empire at War	127	03127	Neutral	Command	Tech Team	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03127.jpg
+Empire at War	128	03128	Neutral	Force	Battle of Wills	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03128.jpg
+Empire at War	129	03129	Neutral	Force	Force Vision	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03129.jpg
+Empire at War	130	03130	Neutral	Force	Lightsaber Pull	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03130.jpg
+Empire at War	131	03131	Neutral	Force	Lightsaber Training	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03131.jpg
+Empire at War	132	03132	Neutral	Force	No Surrender	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03132.jpg
+Empire at War	133	03133	Neutral	Force	Something familiar	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03133.jpg
+Empire at War	134	03134	Neutral	Force	Voices Cry Out	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03134.jpg
+Empire at War	135	03135	Neutral	Force	Keen Instincts	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03135.jpg
+Empire at War	136	03136	Neutral	Rogue	Battle Rage	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03136.jpg
+Empire at War	137	03137	Neutral	Rogue	Disable	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03137.jpg
+Empire at War	138	03138	Neutral	Rogue	Persuade	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03138.jpg
+Empire at War	139	03139	Neutral	Rogue	Pickpocket	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03139.jpg
+Empire at War	140	03140	Neutral	Rogue	Threaten	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03140.jpg
+Empire at War	141	03141	Neutral	Rogue	Trickery	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03141.jpg
+Empire at War	142	03142	Neutral	Rogue	Truce	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03142.jpg
+Empire at War	143	03143	Neutral	Rogue	Stolen Cache	Support	false						Common	https://swdestinydb.com/bundles/cards/en/03/03143.jpg
+Empire at War	144	03144	Neutral	Rogue	Hidden Agenda	Upgrade	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03144.jpg
+Empire at War	145	03145	Neutral	Rogue	Mandalorian Armor	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/03/03145.jpg
+Empire at War	146	03146	Neutral	General	Dangerous Mission	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03146.jpg
+Empire at War	147	03147	Neutral	General	Endurance	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03147.jpg
+Empire at War	148	03148	Neutral	General	Partnership	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03148.jpg
+Empire at War	149	03149	Neutral	General	Recycle	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03149.jpg
+Empire at War	150	03150	Neutral	General	Rend	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03150.jpg
+Empire at War	151	03151	Neutral	General	Roll On	Event	false						Common	https://swdestinydb.com/bundles/cards/en/03/03151.jpg
+Empire at War	152	03152	Neutral	General	Plastoid Armor	Upgrade	false						Common	https://swdestinydb.com/bundles/cards/en/03/03152.jpg
+Empire at War	153	03153	Neutral	General	B'Omarr Monastery	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/03/03153.jpg
+Empire at War	154	03154	Neutral	General	Fort Anaxes	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03154.jpg
+Empire at War	155	03155	Neutral	General	Garel Spaceport	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03155.jpg
+Empire at War	156	03156	Neutral	General	Imperial Academy	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03156.jpg
+Empire at War	157	03157	Neutral	General	Main Plaza	Battlefield	false						Common	https://swdestinydb.com/bundles/cards/en/03/03157.jpg
+Empire at War	158	03158	Neutral	General	Medical Center	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03158.jpg
+Empire at War	159	03159	Neutral	General	Port District	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03159.jpg
+Empire at War	160	03160	Neutral	General	Weapons Factory Alpha	Battlefield	false						Uncommon	https://swdestinydb.com/bundles/cards/en/03/03160.jpg
+Two-Player Game	1	04001	Villain	Force	Kylo Ren	Character	true	14	17	14	17	["1MD" "2MD" "2MD1" "1Dr" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04001.jpg
+Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	true	10	14	10	14	["1RD" "2RD" "1F" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
+Two-Player Game	3	04003	Villain	Command	Droid Commandos	Support	false					["2RD" "3RD" "3RD1" "2Dc" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04003.jpg
+Two-Player Game	4	04004	Villain	Command	Captain Phasma's Blaster	Upgrade	true					["1RD" "2RD" "3RD1" "+3RD" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04004.jpg
+Two-Player Game	5	04005	Villain	Command	Praetorian Guard	Upgrade	false					["1MD" "1MD" "+2MD" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04005.jpg
+Two-Player Game	6	04006	Villain	Force	Dark Counsel	Upgrade	false					["1F" "1F" "1R" "Sp" "-" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04006.jpg
+Two-Player Game	7	04007	Villain	Force	Crossguard Lightsaber	Upgrade	false					["1MD" "+2MD" "1Sh" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04007.jpg
+Two-Player Game	8	04008	Villain	Force	Force Stasis	Upgrade	false					["1Dr" "1Sh" "1R" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04008.jpg
+Two-Player Game	9	04009	Villain	Force	Jedi Rival	Upgrade	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04009.jpg
+Two-Player Game	10	04010	Villain	Command	Armored Support	Support	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04010.jpg
+Two-Player Game	11	04011	Villain	Command	First Strike	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04011.jpg
+Two-Player Game	12	04012	Neutral	Command	I Have You Now	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04012.jpg
+Two-Player Game	13	04013	Villain	Command	Imperial Envoy	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04013.jpg
+Two-Player Game	14	04014	Neutral	Command	Mobilize	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04014.jpg
+Two-Player Game	15	04015	Villain	Command	Tactical Mastery	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04015.jpg
+Two-Player Game	16	04016	Neutral	Force	As I Have Foreseen	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04016.jpg
+Two-Player Game	17	04017	Neutral	Force	Clash	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04017.jpg
+Two-Player Game	18	04018	Villain	Force	Intimidate	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04018.jpg
+Two-Player Game	19	04019	Villain	Force	Your Skills Are Complete	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04019.jpg
+Two-Player Game	20	04020	Villain	General	Doubt	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04020.jpg
+Two-Player Game	21	04021	Neutral	General	Parry	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04021.jpg
+Two-Player Game	22	04022	Villain	General	Subjugate	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04022.jpg
+Two-Player Game	23	04023	Neutral	General	Hangar Bay	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04023.jpg
+Two-Player Game	24	04024	Hero	Force	Rey	Character	true	12	15	12	15	["1MD" "2MD" "1Dc" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04024.jpg
+Two-Player Game	25	04025	Hero	Command	Poe Dameron	Character	true	11	15	11	15	["1RD" "2RD" "2F" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04025.jpg
+Two-Player Game	26	04026	Hero	Command	Medical Droid	Support	false					["1Sh" "1R" "Sp" "Sp" "-" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04026.jpg
+Two-Player Game	27	04027	Hero	Command	Strike Team	Support	false					["2RD" "3RD" "3RD1" "+4RD" "2Dr" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04027.jpg
+Two-Player Game	28	04028	Hero	Command	Teamwork	Upgrade	false					["+2RD" "+2MD" "1R" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04028.jpg
+Two-Player Game	29	04029	Hero	Command	Poe Dameron's Blaster	Upgrade	true					["2RD" "+2RD" "1Dr" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04029.jpg
+Two-Player Game	30	04030	Hero	Force	Rey's Lightsaber	Upgrade	true					["2MD" "3MD1" "+2MD" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04030.jpg
+Two-Player Game	31	04031	Hero	Force	Inner Strength	Upgrade	false					["1F" "2Sh" "1R" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/04/04031.jpg
+Two-Player Game	32	04032	Hero	Force	Luke's Protection	Support	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04032.jpg
+Two-Player Game	33	04033	Hero	Command	Honor Guard	Support	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04033.jpg
+Two-Player Game	34	04034	Neutral	Command	Direct Hit	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04034.jpg
+Two-Player Game	35	04035	Neutral	Command	Logistics	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04035.jpg
+Two-Player Game	36	04036	Neutral	Command	Recon	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04036.jpg
+Two-Player Game	37	04037	Hero	Command	Strategic Planning	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04037.jpg
+Two-Player Game	38	04038	Hero	Force	Concentrate	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04038.jpg
+Two-Player Game	39	04039	Hero	Force	Defensive Stance	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04039.jpg
+Two-Player Game	40	04040	Hero	Force	Distraction	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04040.jpg
+Two-Player Game	41	04041	Hero	Force	Do Or Do Not	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04041.jpg
+Two-Player Game	42	04042	Hero	Force	Fierce Resolve	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04042.jpg
+Two-Player Game	43	04043	Neutral	General	Evade	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04043.jpg
+Two-Player Game	44	04044	Neutral	General	Flank	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04044.jpg
+Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
+Two-Player Game	46	04046	Neutral	General	Obi-Wan's Hut	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/04/04046.jpg
+Legacies	2	05002	Villain	Force	Maul	Character	true	12	16	12	16	["2MD" "3RD1" "1Dr" "1Dc" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05002.jpg
+Legacies	3	05003	Villain	Force	Mother Talzin	Character	true	9	12	9	12	["1RD" "2RD" "1F" "1Dc" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05003.jpg
+Legacies	4	05004	Villain	Force	Palpatine	Character	true	16	20	16	20	["2RD" "2MD" "2ID" "1R" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05004.jpg
+Legacies	6	05006	Villain	Force	Crystal Ball	Upgrade	false					["1F" "1F" "1R" "+1R" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05006.jpg
+Legacies	8	05008	Villain	Force	Maul's Lightsaber	Upgrade	true					["2MD" "+2MD" "+3MD" "+4MD" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05008.jpg
+Legacies	9	05009	Villain	Command	Battle Droid	Character	false	6		6	6	["1RD" "1ID" "1ID" "+2ID" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
+Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9	["1RD" "2RD" "3ID" "1R" "-" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
+Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false					["1Sh" "2Sh" "1R" "1R" "Sp" "-"]	Rare	
+Legacies	18	05018	Villain	Rogue	Bib Fortuna	Character	true	9	12	9	12	["1F" "1Dr" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05018.jpg
+Legacies	19	05019	Villain	Rogue	Boba Fett	Character	true	12	16	12	16	["2RD" "2MD" "1Dr" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05019.jpg
+Legacies	20	05020	Villain	Rogue	Doctor Aphra	Character	true	11	14	11	14	["2RD1" "2ID" "1Dc" "2Sh" "1R" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05020.jpg
+Legacies	21	05021	Villain	Rogue	Greedo	Character	true	7	11	7	11	["1RD" "2RD" "2ID" "1Dr" "-" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05021.jpg
+Legacies	23	05023	Villain	Rogue	Ark Angel	Support	true					["1RD" "2ID" "1Sh" "2Sh1" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05023.jpg
+Legacies	24	05024	Villain	Rogue	BT-1	Support	true					["1MD" "3MD1" "1ID" "2ID" "1Dr" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05024.jpg
+Legacies	25	05025	Villain	Rogue	Slave I	Support	true					["2RD" "2ID" "3ID1" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05025.jpg
+Legacies	27	05027	Villain	Rogue	Wrist Rockets	Upgrade	false					["2RD" "4ID1" "1Dc" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05027.jpg
+Legacies	29	05029	Hero	Force	Aayla Secura	Character	true	9	12	9	12	["1MD" "2MD" "2ID" "1R" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05029.jpg
+Legacies	31	05031	Hero	Force	Luke Skywalker	Character	true	11	14	11	14	["1RD" "2RD" "1MD" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05031.jpg
+Legacies	32	05032	Hero	Force	Obi-Wan Kenobi	Character	true	15	19	15	19	["3MD" "3MD1" "1Sh" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05032.jpg
+Legacies	33	05033	Hero	Force	Yoda	Character	true	10	13	10	13	["2F" "1Dr" "1Dc" "1Sh" "Sp" "Sp"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05033.jpg
+Legacies	36	05036	Hero	Force	Force Meditation	Upgrade	false					["1F" "1Sh" "1R" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05036.jpg
+Legacies	37	05037	Hero	Force	Obi-Wan Kenobi's Lightsaber	Upgrade	true					["2MD" "+3MD" "2Sh" "2Sh" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05037.jpg
+Legacies	41	05041	Hero	Command	Wedge Antilles	Character	true	11	15	11	15	["2ID" "+3ID" "1Dr" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05041.jpg
+Legacies	43	05043	Hero	Command	Resistance Bomber	Support	false					["3ID" "3ID" "6ID2" "2Dr" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05043.jpg
+Legacies	46	05046	Hero	Rogue	Han Solo	Character	true	11	14	11	14	["2RD" "2RD1" "1Dc" "1R" "+1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05046.jpg
+Legacies	47	05047	Hero	Rogue	Jar Jar Binks	Character	true	7	9	7	9	["1ID" "1Dr" "1Dc" "1Sh" "1R" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05047.jpg
+Legacies	49	05049	Hero	Rogue	Saw Gerrera	Character	true	12	16	12	16	["2ID" "3ID" "1Dr" "1R" "Sp" "-"]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05049.jpg
+Legacies	51	05051	Hero	Rogue	Runaway Boomas	Support	false					["2ID" "2ID" "3ID" "-" "-" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05051.jpg
+Legacies	52	05052	Hero	Rogue	Millennium Falcon	Support	true					["2RD" "3RD" "4ID1" "2Sh" "2R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05052.jpg
+Legacies	56	05056	Neutral	Force	Force Focus	Upgrade	false					["1Sh" "1R" "1R" "Sp" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05056.jpg
+Legacies	58	05058	Neutral	Force	Heirloom Lightsaber	Upgrade	false					["1MD" "2MD" "3MD" "1Sh" "1R" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/05/05058.jpg
+Legacies	65	05065	Neutral	Rogue	Hondo Ohnaka	Character	true	12	15	12	15	["1F" "2Dr" "1Dc" "Sp" "Sp" "-"]	Rare	https://swdestinydb.com/bundles/cards/en/05/05065.jpg
+Legacies	77	05077	Villain	Force	Double Strike	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05077.jpg
+Legacies	80	05080	Villain	Force	Snare	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05080.jpg
+Legacies	83	05083	Villain	Force	Nightsister Coven	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05083.jpg
+Legacies	92	05092	Villain	Rogue	Delve	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05092.jpg
+Legacies	94	05094	Villain	Rogue	In Pursuit	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05094.jpg
+Legacies	95	05095	Villain	Rogue	No Good To Me Dead	Event	false						Common	https://swdestinydb.com/bundles/cards/en/05/05095.jpg
+Legacies	100	05100	Hero	Force	Adapt	Event	false						Common	https://swdestinydb.com/bundles/cards/en/05/05100.jpg
+Legacies	101	05101	Hero	Force	Ataru Strike	Event	false						Rare	https://swdestinydb.com/bundles/cards/en/05/05101.jpg
+Legacies	106	05106	Hero	Force	Defensive Teaching	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05106.jpg
+Legacies	118	05118	Hero	Rogue	Explosive Tactics	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05118.jpg
+Legacies	119	05119	Hero	Rogue	Impulsive	Event	false						Common	https://swdestinydb.com/bundles/cards/en/05/05119.jpg
+Legacies	122	05122	Hero	Rogue	Maz's Vault	Support	true						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05122.jpg
+Legacies	137	05137	Neutral	Command	Crash Landing	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
+Legacies	139	05139	Neutral	Command	Locked and Loaded	Event	false						Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
+Legacies	140	05140	Neutral	Command	Reinforce	Event	false						Uncommon	
+Legacies	141	05141	Neutral	Command	Strength in Numbers	Event	false						Common	
+Legacies	145	05145	Neutral	Command	Bubble Shield	Support	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
+Legacies	148	05148	Neutral	Rogue	Cantina Brawl	Event	false						Uncommon	https://swdestinydb.com/bundles/cards/en/05/05148.jpg
+Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1		Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
+Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3		Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
+Legacies	174	05174	Neutral	General	Arid Wasteland	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/05/05174.jpg
+Legacies	178	05178	Neutral	General	Outer Rim Outpost	Battlefield	false						Starter	https://swdestinydb.com/bundles/cards/en/05/05178.jpg
+Rivals	1	06001	Neutral	Force	Anakin Skywalker	Character	true	10	13	10	13	["2MD" "2MD1" "1Sh" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/06/06001.jpg
+Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13	["1RD" "1F" "1Sh" "1R" "Sp" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
+Rivals	3	06003	Neutral	Rogue	Ketsu Onyo	Character	true	11	14	11	14	["2RD" "2MD" "1Dr" "1Dc" "1Sh" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/06/06003.jpg
+Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6	["1RD" "2RD1" "1Dr" "1R" "-" "-"]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
+Rivals	13	06013	Neutral	General	Resourceful	Event	false						Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
