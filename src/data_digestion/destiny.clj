@@ -109,9 +109,9 @@
     (create-card-table!)
     
     ;;insert rows in mysql
-    (load-card-table! card-map)
+    (load-card-table! card-map)))
     
     ;;print totals again querying mysql database
-    (println (sql/query db-spec ["Select Count(*), affiliation, faction, isUnique from card group by affiliation, faction, isUnique"]))))
+    ;;(println (sql/query db-spec ["Select Count(*), affiliation, faction, isUnique from card group by affiliation, faction, isUnique"]))))
 
 
