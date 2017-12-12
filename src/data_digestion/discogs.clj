@@ -22,7 +22,8 @@
       [[:title "varchar(256)"]
        [:artist "varchar(64)"]
        [:label "varchar(64)"]
-       [:year :int]]))) 
+       [:year :int]
+       [:dateadded :datetime]]))) 
        
 
 (defn load-release-table! [mp]
@@ -32,9 +33,9 @@
 
 (defn export-discog-tsv [file sq]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Title" "Artist" "Label" "Year"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Title" "Artist" "Label" "Year" "Date Added"]) "\n"))
     (doseq [i sq]
-      (.write writer (str (clojure.string/join "\t" [(:title i) (:artist i) (:label i) (:year i)]) "\n")))))
+      (.write writer (str (clojure.string/join "\t" [(:title i) (:artist i) (:label i) (:year i) (:dateadded i)]) "\n")))))
         
 
 
@@ -43,7 +44,9 @@
   {:title  (clojure.string/replace (get-in rl ["basic_information" "title"]) #"\t" "")
    :artist (get-in rl ["basic_information" "artists" 0 "name"])
    :label (get-in rl ["basic_information" "labels"  0 "name"])          
-   :year   (get-in rl ["basic_information" "year"])})
+   :year   (get-in rl ["basic_information" "year"])
+   :dateadded (get rl "date_added")})
+   
 
 (defn -main []
   (let  [discog-json (slurp "https://api.discogs.com/users/ericcervin/collection")
@@ -67,5 +70,8 @@
     
     ;;print total rows in table
     (println (sql/query db-spec ["Select Count(*) from release"]))))
+    
+    ;;(sql/query db-spec ["Select substr(dateadded,0,5) as Year, substr(dateadded,6,2) as Month, Count(*) from release group by substr(dateadded,0,5), substr(dateadded,6,2)"])
+    
 
 
