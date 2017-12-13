@@ -62,8 +62,10 @@ Two-Player Game	13	04013	Villain	Command	Imperial Envoy	Event	false							Starte
 Two-Player Game	15	04015	Villain	Command	Tactical Mastery	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04015.jpg
 Legacies	9	05009	Villain	Command	Battle Droid	Character	false	6		6	6	6	[1RD 1ID 1ID +2ID - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
 Legacies	10	05010	Villain	Command	Kallus	Character	true	14	18	14	18	12	[1RD 2RD 1MD 3MD1 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05010.jpg
+Legacies	11	05011	Villain	Command	Nute Gunray	Character	true	8	11	8	11	8	[1ID 1F 2Dr 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05011.jpg
 Legacies	12	05012	Villain	Command	Tarkin	Character	true	13	16	13	16	11	[2ID 1F 2F 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05012.jpg
 Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9	9	[1RD 2RD 3ID 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
 Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false						[1Sh 2Sh 1R 1R Sp -]	Rare	
 Legacies	16	05016	Villain	Command	Grand Moff	Upgrade	false						[2ID 3ID 2F 3F 2Dc 2R]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05016.jpg
+Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false							Uncommon	
 Legacies	90	05090	Villain	Command	Three Steps Ahead	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05090.jpg

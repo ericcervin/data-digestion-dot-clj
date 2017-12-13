@@ -201,7 +201,7 @@ Spirit of Rebellion	25	02025	Villain	Rogue	Vibroknucklers	Upgrade	false						[1M
 Spirit of Rebellion	26	02026	Hero	Command	Baze Malbus	Character	true	14	18	14	18	11	[2RD 3RD1 +2RD 1R Sp -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02026.jpg
 Spirit of Rebellion	27	02027	Hero	Command	Mon Mothma	Character	true	11	14	11	14	9	[1F 2F 1Sh 1R 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02027.jpg
 Spirit of Rebellion	28	02028	Hero	Command	Rebel Commando	Character	false	10		10	10	10	[1RD 2RD 1Dc 1R Sp1 -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02028.jpg
-Spirit of Rebellion	29	02029	Hero	Command	Temmin "Snap" Wexley	Character	true	9	12	9	12	8	[1RD 1Dr 2Dr 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02029.jpg
+Spirit of Rebellion	29	02029	Hero	Command	Temmin Snap Wexley	Character	true	9	12	9	12	8	[1RD 1Dr 2Dr 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02029.jpg
 Spirit of Rebellion	30	02030	Hero	Command	C-3PO	Support	true						[1F 1Dc 1R 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02030.jpg
 Spirit of Rebellion	31	02031	Hero	Command	U-Wing	Support	false						[3RD 3RD 2F 2R Sp Sp]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02031.jpg
 Spirit of Rebellion	32	02032	Hero	Command	A180 Blaster	Upgrade	false						[2RD +2RD 1Dr Sp Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02032.jpg
@@ -317,7 +317,7 @@ Spirit of Rebellion	141	02141	Neutral	General	Ammo Belt	Upgrade	false							Comm
 Spirit of Rebellion	142	02142	Neutral	Rogue	Bolt Hole	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02142.jpg
 Spirit of Rebellion	143	02143	Neutral	Rogue	Cheat	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02143.jpg
 Spirit of Rebellion	144	02144	Neutral	Rogue	Diversion	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02144.jpg
-Spirit of Rebellion	145	02145	Neutral	Rogue	"Fair" Trade	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02145.jpg
+Spirit of Rebellion	145	02145	Neutral	Rogue	Fair Trade	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02145.jpg
 Spirit of Rebellion	146	02146	Neutral	Rogue	Friends in Low Places	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02146.jpg
 Spirit of Rebellion	147	02147	Neutral	Rogue	Sabotage	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02147.jpg
 Spirit of Rebellion	148	02148	Neutral	Rogue	Improvisation	Support	false							Common	https://swdestinydb.com/bundles/cards/en/02/02148.jpg
@@ -540,14 +540,16 @@ Two-Player Game	44	04044	Neutral	General	Flank	Event	false							Starter	https:/
 Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
 Two-Player Game	46	04046	Neutral	General	Obi-Wan's Hut	Battlefield	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04046.jpg
 Legacies	1	05001	Villain	Force	Dark Advisor	Character	false	8		8	8	8	[1ID 2ID 1F 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05001.jpg
-Legacies	2	05002	Villain	Force	Maul	Character	true	12	16	12	16	11	[2MD 3RD1 1Dr 1Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05002.jpg
+Legacies	2	05002	Villain	Force	Maul	Character	true	12	16	12	16	11	[2MD 3MD1 1Dr 1Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05002.jpg
 Legacies	3	05003	Villain	Force	Mother Talzin	Character	true	9	12	9	12	9	[1RD 2RD 1F 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05003.jpg
 Legacies	4	05004	Villain	Force	Palpatine	Character	true	16	20	16	20	12	[2RD 2MD 2ID 1R 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05004.jpg
 Legacies	5	05005	Villain	Force	Kylo Ren's Starfighter	Support	true						[1RD 2RD 1Sh Sp Sp -]	Legendary	
-Legacies	6	05006	Villain	Force	Crystal Ball	Upgrade	false						[1F 1F 1R +1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05006.jpg
+Legacies	6	05006	Villain	Force	Force Rend	Upgrade	false						[2RD +2RD 1R Sp Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05006.jpg
+Legacies	7	05007	Villain	Force	Crystal Ball	Upgrade	false						[1F 1F 1R +1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05007.jpg
 Legacies	8	05008	Villain	Force	Maul's Lightsaber	Upgrade	true						[2MD +2MD +3MD +4MD 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05008.jpg
 Legacies	9	05009	Villain	Command	Battle Droid	Character	false	6		6	6	6	[1RD 1ID 1ID +2ID - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
 Legacies	10	05010	Villain	Command	Kallus	Character	true	14	18	14	18	12	[1RD 2RD 1MD 3MD1 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05010.jpg
+Legacies	11	05011	Villain	Command	Nute Gunray	Character	true	8	11	8	11	8	[1ID 1F 2Dr 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05011.jpg
 Legacies	12	05012	Villain	Command	Tarkin	Character	true	13	16	13	16	11	[2ID 1F 2F 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05012.jpg
 Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9	9	[1RD 2RD 3ID 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
 Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false						[1Sh 2Sh 1R 1R Sp -]	Rare	
@@ -560,6 +562,7 @@ Legacies	23	05023	Villain	Rogue	Ark Angel	Support	true						[1RD 2ID 1Sh 2Sh1 1R
 Legacies	24	05024	Villain	Rogue	BT-1	Support	true						[1MD 3MD1 1ID 2ID 1Dr -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05024.jpg
 Legacies	25	05025	Villain	Rogue	Slave I	Support	true						[2RD 2ID 3ID1 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05025.jpg
 Legacies	27	05027	Villain	Rogue	Wrist Rockets	Upgrade	false						[2RD 4ID1 1Dc 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05027.jpg
+Legacies	28	05028	Villain	General	BB-9E	Support	true						[1MD 1ID 1Dr 1Dc Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05028.jpg
 Legacies	29	05029	Hero	Force	Aayla Secura	Character	true	9	12	9	12	10	[1MD 2MD 2ID 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05029.jpg
 Legacies	31	05031	Hero	Force	Luke Skywalker	Character	true	11	14	11	14	11	[1RD 2RD 1MD 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05031.jpg
 Legacies	32	05032	Hero	Force	Obi-Wan Kenobi	Character	true	15	19	15	19	12	[3MD 3MD1 1Sh 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05032.jpg
@@ -576,23 +579,30 @@ Legacies	47	05047	Hero	Rogue	Jar Jar Binks	Character	true	7	9	7	9	7	[1ID 1Dr 1Dc
 Legacies	49	05049	Hero	Rogue	Saw Gerrera	Character	true	12	16	12	16	11	[2ID 3ID 1Dr 1R Sp -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05049.jpg
 Legacies	51	05051	Hero	Rogue	Runaway Boomas	Support	false						[2ID 2ID 3ID - - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05051.jpg
 Legacies	52	05052	Hero	Rogue	Millennium Falcon	Support	true						[2RD 3RD 4ID1 2Sh 2R -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05052.jpg
+Legacies	54	05054	Hero	Rogue	Zeb Orrelios' Bo-Rifle	Upgrade	true						[+2RD +3RD +2MD +3MD 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05054.jpg
 Legacies	56	05056	Neutral	Force	Force Focus	Upgrade	false						[1Sh 1R 1R Sp Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05056.jpg
+Legacies	57	05057	Neutral	Force	Force Wave	Upgrade	false						[2ID 2ID 1R Sp1 Sp1 -]	Legendary	
 Legacies	58	05058	Neutral	Force	Heirloom Lightsaber	Upgrade	false						[1MD 2MD 3MD 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05058.jpg
-Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false						[2RD 2ID 3ID 4ID1 1Sh -]	Rare	
+Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false						[2RD 2ID 3ID 4ID1 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05060.jpg
 Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false						[1RD +2RD 2ID 1Sh 1R -]	Rare	
 Legacies	65	05065	Neutral	Rogue	Hondo Ohnaka	Character	true	12	15	12	15	10	[1F 2Dr 1Dc Sp Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05065.jpg
+Legacies	67	05067	Neutral	Rogue	Bartering	Upgrade	false						[1F 1Dc 1R +1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05067.jpg
 Legacies	69	05069	Neutral	Rogue	Vibrocutlass	Upgrade	false						[2MD 3MD1 4MD1 2Dr 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05069.jpg
 Legacies	71	05071	Neutral	General	Canto Bight Pistol	Upgrade	false						[3RD1 2ID 1Sh 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05071.jpg
 Legacies	77	05077	Villain	Force	Double Strike	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05077.jpg
 Legacies	80	05080	Villain	Force	Snare	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05080.jpg
+Legacies	81	05081	Villain	Force	Spell of Removal	Event	false							Common	
 Legacies	83	05083	Villain	Force	Nightsister Coven	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05083.jpg
+Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false							Uncommon	
 Legacies	90	05090	Villain	Command	Three Steps Ahead	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05090.jpg
 Legacies	92	05092	Villain	Rogue	Delve	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05092.jpg
+Legacies	93	05093	Villain	Rogue	Free-For-All	Event	false							Uncommon	
 Legacies	94	05094	Villain	Rogue	In Pursuit	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05094.jpg
 Legacies	95	05095	Villain	Rogue	No Good To Me Dead	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05095.jpg
 Legacies	99	05099	Villain	General	Outnumber	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05099.jpg
 Legacies	100	05100	Hero	Force	Adapt	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05100.jpg
-Legacies	101	05101	Hero	Force	Ataru Strike	Event	false							Rare	https://swdestinydb.com/bundles/cards/en/05/05101.jpg
+Legacies	101	05101	Hero	Force	Ataru Strike	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05101.jpg
+Legacies	103	05103	Hero	Force	Investigate	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05103.jpg
 Legacies	106	05106	Hero	Force	Defensive Teaching	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05106.jpg
 Legacies	110	05110	Hero	Command	Final Moment	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05110.jpg
 Legacies	111	05111	Hero	Command	Light 'Em Up	Event	false							Common	
@@ -601,6 +611,7 @@ Legacies	115	05115	Hero	Command	Suppression Field	Support	false							Uncommon	h
 Legacies	118	05118	Hero	Rogue	Explosive Tactics	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05118.jpg
 Legacies	119	05119	Hero	Rogue	Impulsive	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05119.jpg
 Legacies	122	05122	Hero	Rogue	Maz's Vault	Support	true							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05122.jpg
+Legacies	130	05130	Neutral	Force	Mislead	Event	false							Common	
 Legacies	136	05136	Neutral	Command	Crackdown	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05136.jpg
 Legacies	137	05137	Neutral	Command	Crash Landing	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
 Legacies	139	05139	Neutral	Command	Locked and Loaded	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
@@ -611,6 +622,8 @@ Legacies	148	05148	Neutral	Rogue	Cantina Brawl	Event	false							Uncommon	https:
 Legacies	155	05155	Neutral	Rogue	Quick Draw	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05155.jpg
 Legacies	157	05157	Neutral	Rogue	Well-Connected	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05157.jpg
 Legacies	161	05161	Neutral	General	No Cheating	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05161.jpg
+Legacies	165	05165	Neutral	General	Scrap Heap	Support	false							Uncommon	
+Legacies	167	05167	Neutral	General	Quickdraw Holster	Upgrade	false							Common	
 Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
 Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
 Legacies	174	05174	Neutral	General	Arid Wasteland	Battlefield	false							Starter	https://swdestinydb.com/bundles/cards/en/05/05174.jpg
@@ -619,4 +632,9 @@ Rivals	1	06001	Neutral	Force	Anakin Skywalker	Character	true	10	13	10	13	10	[2MD
 Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13	9	[1RD 1F 1Sh 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
 Rivals	3	06003	Neutral	Rogue	Ketsu Onyo	Character	true	11	14	11	14	9	[2RD 2MD 1Dr 1Dc 1Sh -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06003.jpg
 Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6	6	[1RD 2RD1 1Dr 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
+Rivals	6	06006	Neutral	Force	Crafted Lightsaber	Upgrade	false						[2MD 2MD1 +3MD 1R 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06006.jpg
+Rivals	8	06008	Neutral	Command	Fang Fighter	Support	false						[2RD 3RD 1Dc 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06008.jpg
 Rivals	13	06013	Neutral	General	Resourceful	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
+Rivals	16	06016	Neutral	General	T-21 Repeating Blaster	Upgrade	false						[2RD +2RD 1Dr 1R Sp1 -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06016.jpg
+Rivals	17	06017	Neutral	General	Vibrosword	Upgrade	false						[1MD 3MD1 +2MD 1Dc 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06017.jpg
+Rivals	20	06020	Neutral	General	Sith Temple	Battlefield	false							Starter	https://swdestinydb.com/bundles/cards/en/06/06020.jpg

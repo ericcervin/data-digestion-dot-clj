@@ -81,7 +81,8 @@ Two-Player Game	36	04036	Neutral	Command	Recon	Event	false							Starter	https:/
 Two-Player Game	43	04043	Neutral	General	Evade	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04043.jpg
 Two-Player Game	44	04044	Neutral	General	Flank	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04044.jpg
 Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
-Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false						[2RD 2ID 3ID 4ID1 1Sh -]	Rare	
+Legacies	28	05028	Villain	General	BB-9E	Support	true						[1MD 1ID 1Dr 1Dc Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05028.jpg
+Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false						[2RD 2ID 3ID 4ID1 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05060.jpg
 Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false						[1RD +2RD 2ID 1Sh 1R -]	Rare	
 Legacies	71	05071	Neutral	General	Canto Bight Pistol	Upgrade	false						[3RD1 2ID 1Sh 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05071.jpg
 Legacies	99	05099	Villain	General	Outnumber	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05099.jpg
@@ -92,8 +93,13 @@ Legacies	140	05140	Neutral	Command	Reinforce	Event	false							Uncommon
 Legacies	141	05141	Neutral	Command	Strength in Numbers	Event	false							Common	
 Legacies	145	05145	Neutral	Command	Bubble Shield	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
 Legacies	161	05161	Neutral	General	No Cheating	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05161.jpg
+Legacies	165	05165	Neutral	General	Scrap Heap	Support	false							Uncommon	
+Legacies	167	05167	Neutral	General	Quickdraw Holster	Upgrade	false							Common	
 Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
 Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
 Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13	9	[1RD 1F 1Sh 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
 Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6	6	[1RD 2RD1 1Dr 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
+Rivals	8	06008	Neutral	Command	Fang Fighter	Support	false						[2RD 3RD 1Dc 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06008.jpg
 Rivals	13	06013	Neutral	General	Resourceful	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
+Rivals	16	06016	Neutral	General	T-21 Repeating Blaster	Upgrade	false						[2RD +2RD 1Dr 1R Sp1 -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06016.jpg
+Rivals	17	06017	Neutral	General	Vibrosword	Upgrade	false						[1MD 3MD1 +2MD 1Dc 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06017.jpg
