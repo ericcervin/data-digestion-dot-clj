@@ -1,105 +1,106 @@
-Set	Position	Code	Affiliation	Faction	Name	Type	Is Unique	1d Cost	2d Cost	Min Cost	Max Cost	Health	Sides	Rarity	Img Src
-Awakenings	17	01017	Villain	General	Infantry Grenades	Upgrade	false						[1RD 2RD1 1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01017.jpg
-Awakenings	18	01018	Villain	General	Speeder Bike Scout	Support	false						[2RD 3RD1 1Dr 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01018.jpg
-Awakenings	53	01053	Neutral	Command	Outpost	Support	false						[1F 1Dr 2Dr 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01053.jpg
-Awakenings	54	01054	Neutral	Command	DH-17 Blaster Pistol	Upgrade	false						[1RD 2RD1 +2RD 1Sh - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01054.jpg
-Awakenings	55	01055	Neutral	Command	IQA-11 Blaster Rifle	Upgrade	false						[2RD +3RD 1Dr 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01055.jpg
-Awakenings	56	01056	Neutral	Command	Promotion	Upgrade	false						[+1RD +1MD 1F 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01056.jpg
-Awakenings	61	01061	Neutral	General	Comlink	Upgrade	false						[1F 1F 1Sh 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01061.jpg
-Awakenings	62	01062	Neutral	General	Datapad	Upgrade	false						[1R +1R +1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01062.jpg
-Awakenings	63	01063	Neutral	General	Holdout Blaster	Upgrade	false						[1RD 2RD1 +2RD 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01063.jpg
-Awakenings	91	01091	Villain	General	Nowhere to Run	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01091.jpg
-Awakenings	138	01138	Neutral	Command	Award Ceremony	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01138.jpg
-Awakenings	139	01139	Neutral	Command	Dug in	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01139.jpg
-Awakenings	140	01140	Neutral	Command	Firepower	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01140.jpg
-Awakenings	141	01141	Neutral	Command	Leadership	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01141.jpg
-Awakenings	142	01142	Neutral	Command	Logistics	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01142.jpg
-Awakenings	143	01143	Neutral	Command	Squad Tactics	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01143.jpg
-Awakenings	144	01144	Neutral	Command	Supporting Fire	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01144.jpg
-Awakenings	151	01151	Neutral	General	Aim	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/01/01151.jpg
-Awakenings	152	01152	Neutral	General	All In	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01152.jpg
-Awakenings	153	01153	Neutral	General	Block	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01153.jpg
-Awakenings	154	01154	Neutral	General	Close Quarters Assault	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/01/01154.jpg
-Awakenings	155	01155	Neutral	General	Dodge	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01155.jpg
-Awakenings	156	01156	Neutral	General	Flank	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01156.jpg
-Awakenings	157	01157	Neutral	General	Take Cover	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01157.jpg
-Spirit of Rebellion	17	02017	Villain	General	Interrogation Droid	Support	false						[1Dr 1Dc 1Dc 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02017.jpg
-Spirit of Rebellion	51	02051	Neutral	Command	Supply Line	Support	false						[1F 1R +1R +1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02051.jpg
-Spirit of Rebellion	52	02052	Neutral	Command	Astromech	Support	false						[1F 2F 1Sh 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02052.jpg
-Spirit of Rebellion	53	02053	Neutral	Command	Rocket Launcher	Upgrade	false						[3RD1 3RD1 4RD1 Sp1 - -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02053.jpg
-Spirit of Rebellion	57	02057	Neutral	General	Vibroknife	Upgrade	false						[1MD 1MD +2MD 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02057.jpg
-Spirit of Rebellion	80	02080	Villain	General	Doubt	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02080.jpg
-Spirit of Rebellion	119	02119	Neutral	Command	Bombing Run	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02119.jpg
-Spirit of Rebellion	120	02120	Neutral	Command	Collateral Damage	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02120.jpg
-Spirit of Rebellion	121	02121	Neutral	Command	Salvo	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02121.jpg
-Spirit of Rebellion	122	02122	Neutral	Command	Suppression	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02122.jpg
-Spirit of Rebellion	123	02123	Neutral	Command	Aftermath	Support	false							Common	https://swdestinydb.com/bundles/cards/en/02/02123.jpg
-Spirit of Rebellion	124	02124	Neutral	Command	Air Superiority	Support	false							Common	https://swdestinydb.com/bundles/cards/en/02/02124.jpg
-Spirit of Rebellion	125	02125	Neutral	Command	Training	Upgrade	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02125.jpg
-Spirit of Rebellion	126	02126	Neutral	Command	Wingman	Upgrade	false							Common	https://swdestinydb.com/bundles/cards/en/02/02126.jpg
-Spirit of Rebellion	136	02136	Neutral	General	Evade	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02136.jpg
-Spirit of Rebellion	137	02137	Neutral	General	New Orders	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02137.jpg
-Spirit of Rebellion	138	02138	Neutral	General	Parry	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02138.jpg
-Spirit of Rebellion	139	02139	Neutral	General	Swiftness	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02139.jpg
-Spirit of Rebellion	140	02140	Neutral	General	Resolve	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02140.jpg
-Spirit of Rebellion	141	02141	Neutral	General	Ammo Belt	Upgrade	false							Common	https://swdestinydb.com/bundles/cards/en/02/02141.jpg
-Empire at War	46	03046	Neutral	Command	LR1K Sonic Cannon	Support	false						[3RD 4RD1 5RD2 6RD3 - -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03046.jpg
-Empire at War	47	03047	Neutral	Command	Electrostaff	Upgrade	false						[+1MD +2MD +3MD 1Dr 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03047.jpg
-Empire at War	48	03048	Neutral	Command	Natural Pilot	Upgrade	false						[+2RD +3RD 2F 2Dr 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03048.jpg
-Empire at War	56	03056	Neutral	General	Z-95 Headhunter	Support	false						[1RD 2RD1 3RD1 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03056.jpg
-Empire at War	57	03057	Neutral	General	Chance Cube	Upgrade	false						[1R 2R 3R - - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03057.jpg
-Empire at War	58	03058	Neutral	General	EMP Grenades	Upgrade	false						[1Dr 2Dr 2Dc1 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03058.jpg
-Empire at War	59	03059	Neutral	General	Lead by Example	Upgrade	false						[+1RD +2RD 1F 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03059.jpg
-Empire at War	60	03060	Neutral	General	Scatterblaster	Upgrade	false						[2RD +3RD 1Dr Sp Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03060.jpg
-Empire at War	87	03087	Villain	General	No Survivors	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03087.jpg
-Empire at War	88	03088	Villain	General	Detention Center	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03088.jpg
-Empire at War	118	03118	Neutral	Command	Covering Fire	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03118.jpg
-Empire at War	119	03119	Neutral	Command	Deploy Squadron	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03119.jpg
-Empire at War	120	03120	Neutral	Command	Fall Back	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03120.jpg
-Empire at War	121	03121	Neutral	Command	Feint	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03121.jpg
-Empire at War	122	03122	Neutral	Command	Flanking Maneuver	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03122.jpg
-Empire at War	123	03123	Neutral	Command	Heat Of Battle	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03123.jpg
-Empire at War	124	03124	Neutral	Command	Pinned Down	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03124.jpg
-Empire at War	125	03125	Neutral	Command	The Day is Ours	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03125.jpg
-Empire at War	126	03126	Neutral	Command	Drop Zone	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03126.jpg
-Empire at War	127	03127	Neutral	Command	Tech Team	Support	false							Common	https://swdestinydb.com/bundles/cards/en/03/03127.jpg
-Empire at War	146	03146	Neutral	General	Dangerous Mission	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03146.jpg
-Empire at War	147	03147	Neutral	General	Endurance	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03147.jpg
-Empire at War	148	03148	Neutral	General	Partnership	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03148.jpg
-Empire at War	149	03149	Neutral	General	Recycle	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03149.jpg
-Empire at War	150	03150	Neutral	General	Rend	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03150.jpg
-Empire at War	151	03151	Neutral	General	Roll On	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03151.jpg
-Empire at War	152	03152	Neutral	General	Plastoid Armor	Upgrade	false							Common	https://swdestinydb.com/bundles/cards/en/03/03152.jpg
-Two-Player Game	12	04012	Neutral	Command	I Have You Now	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04012.jpg
-Two-Player Game	14	04014	Neutral	Command	Mobilize	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04014.jpg
-Two-Player Game	20	04020	Villain	General	Doubt	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04020.jpg
-Two-Player Game	21	04021	Neutral	General	Parry	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04021.jpg
-Two-Player Game	22	04022	Villain	General	Subjugate	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04022.jpg
-Two-Player Game	34	04034	Neutral	Command	Direct Hit	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04034.jpg
-Two-Player Game	35	04035	Neutral	Command	Logistics	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04035.jpg
-Two-Player Game	36	04036	Neutral	Command	Recon	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04036.jpg
-Two-Player Game	43	04043	Neutral	General	Evade	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04043.jpg
-Two-Player Game	44	04044	Neutral	General	Flank	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04044.jpg
-Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
-Legacies	28	05028	Villain	General	BB-9E	Support	true						[1MD 1ID 1Dr 1Dc Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05028.jpg
-Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false						[2RD 2ID 3ID 4ID1 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05060.jpg
-Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false						[1RD +2RD 2ID 1Sh 1R -]	Rare	
-Legacies	71	05071	Neutral	General	Canto Bight Pistol	Upgrade	false						[3RD1 2ID 1Sh 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05071.jpg
-Legacies	99	05099	Villain	General	Outnumber	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05099.jpg
-Legacies	136	05136	Neutral	Command	Crackdown	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05136.jpg
-Legacies	137	05137	Neutral	Command	Crash Landing	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
-Legacies	139	05139	Neutral	Command	Locked and Loaded	Event	false							Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
-Legacies	140	05140	Neutral	Command	Reinforce	Event	false							Uncommon	
-Legacies	141	05141	Neutral	Command	Strength in Numbers	Event	false							Common	
-Legacies	145	05145	Neutral	Command	Bubble Shield	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
-Legacies	161	05161	Neutral	General	No Cheating	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05161.jpg
-Legacies	165	05165	Neutral	General	Scrap Heap	Support	false							Uncommon	
-Legacies	167	05167	Neutral	General	Quickdraw Holster	Upgrade	false							Common	
-Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
-Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
-Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13	9	[1RD 1F 1Sh 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
-Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6	6	[1RD 2RD1 1Dr 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
-Rivals	8	06008	Neutral	Command	Fang Fighter	Support	false						[2RD 3RD 1Dc 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06008.jpg
-Rivals	13	06013	Neutral	General	Resourceful	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
-Rivals	16	06016	Neutral	General	T-21 Repeating Blaster	Upgrade	false						[2RD +2RD 1Dr 1R Sp1 -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06016.jpg
-Rivals	17	06017	Neutral	General	Vibrosword	Upgrade	false						[1MD 3MD1 +2MD 1Dc 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06017.jpg
+Set	Position	Code	Affiliation	Faction	Name	Type	Is Unique	1d Points	2d Points	Min Points	Max Points	Cost	Health	Sides	Rarity	Img Src
+Awakenings	17	01017	Villain	General	Infantry Grenades	Upgrade	false					2		[1RD 2RD1 1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01017.jpg
+Awakenings	18	01018	Villain	General	Speeder Bike Scout	Support	false					3		[2RD 3RD1 1Dr 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01018.jpg
+Awakenings	53	01053	Neutral	Command	Outpost	Support	false					2		[1F 1Dr 2Dr 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01053.jpg
+Awakenings	54	01054	Neutral	Command	DH-17 Blaster Pistol	Upgrade	false					1		[1RD 2RD1 +2RD 1Sh - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01054.jpg
+Awakenings	55	01055	Neutral	Command	IQA-11 Blaster Rifle	Upgrade	false					3		[2RD +3RD 1Dr 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01055.jpg
+Awakenings	56	01056	Neutral	Command	Promotion	Upgrade	false					1		[+1RD +1MD 1F 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01056.jpg
+Awakenings	61	01061	Neutral	General	Comlink	Upgrade	false					2		[1F 1F 1Sh 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01061.jpg
+Awakenings	62	01062	Neutral	General	Datapad	Upgrade	false					1		[1R +1R +1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01062.jpg
+Awakenings	63	01063	Neutral	General	Holdout Blaster	Upgrade	false					2		[1RD 2RD1 +2RD 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01063.jpg
+Awakenings	91	01091	Villain	General	Nowhere to Run	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01091.jpg
+Awakenings	138	01138	Neutral	Command	Award Ceremony	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/01/01138.jpg
+Awakenings	139	01139	Neutral	Command	Dug in	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01139.jpg
+Awakenings	140	01140	Neutral	Command	Firepower	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/01/01140.jpg
+Awakenings	141	01141	Neutral	Command	Leadership	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01141.jpg
+Awakenings	142	01142	Neutral	Command	Logistics	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01142.jpg
+Awakenings	143	01143	Neutral	Command	Squad Tactics	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01143.jpg
+Awakenings	144	01144	Neutral	Command	Supporting Fire	Support	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01144.jpg
+Awakenings	151	01151	Neutral	General	Aim	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/01/01151.jpg
+Awakenings	152	01152	Neutral	General	All In	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01152.jpg
+Awakenings	153	01153	Neutral	General	Block	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/01/01153.jpg
+Awakenings	154	01154	Neutral	General	Close Quarters Assault	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/01/01154.jpg
+Awakenings	155	01155	Neutral	General	Dodge	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/01/01155.jpg
+Awakenings	156	01156	Neutral	General	Flank	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01156.jpg
+Awakenings	157	01157	Neutral	General	Take Cover	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01157.jpg
+Spirit of Rebellion	17	02017	Villain	General	Interrogation Droid	Support	false					2		[1Dr 1Dc 1Dc 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02017.jpg
+Spirit of Rebellion	51	02051	Neutral	Command	Supply Line	Support	false					1		[1F 1R +1R +1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02051.jpg
+Spirit of Rebellion	52	02052	Neutral	Command	Astromech	Support	false					2		[1F 2F 1Sh 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02052.jpg
+Spirit of Rebellion	53	02053	Neutral	Command	Rocket Launcher	Upgrade	false					3		[3RD1 3RD1 4RD1 Sp1 - -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02053.jpg
+Spirit of Rebellion	57	02057	Neutral	General	Vibroknife	Upgrade	false					2		[1MD 1MD +2MD 1Dc 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02057.jpg
+Spirit of Rebellion	80	02080	Villain	General	Doubt	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02080.jpg
+Spirit of Rebellion	119	02119	Neutral	Command	Bombing Run	Event	false					0			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02119.jpg
+Spirit of Rebellion	120	02120	Neutral	Command	Collateral Damage	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02120.jpg
+Spirit of Rebellion	121	02121	Neutral	Command	Salvo	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02121.jpg
+Spirit of Rebellion	122	02122	Neutral	Command	Suppression	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02122.jpg
+Spirit of Rebellion	123	02123	Neutral	Command	Aftermath	Support	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02123.jpg
+Spirit of Rebellion	124	02124	Neutral	Command	Air Superiority	Support	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02124.jpg
+Spirit of Rebellion	125	02125	Neutral	Command	Training	Upgrade	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02125.jpg
+Spirit of Rebellion	126	02126	Neutral	Command	Wingman	Upgrade	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02126.jpg
+Spirit of Rebellion	136	02136	Neutral	General	Evade	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02136.jpg
+Spirit of Rebellion	137	02137	Neutral	General	New Orders	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02137.jpg
+Spirit of Rebellion	138	02138	Neutral	General	Parry	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02138.jpg
+Spirit of Rebellion	139	02139	Neutral	General	Swiftness	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02139.jpg
+Spirit of Rebellion	140	02140	Neutral	General	Resolve	Support	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02140.jpg
+Spirit of Rebellion	141	02141	Neutral	General	Ammo Belt	Upgrade	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02141.jpg
+Empire at War	46	03046	Neutral	Command	LR1K Sonic Cannon	Support	false					5		[3RD 4RD1 5RD2 6RD3 - -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03046.jpg
+Empire at War	47	03047	Neutral	Command	Electrostaff	Upgrade	false					2		[+1MD +2MD +3MD 1Dr 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03047.jpg
+Empire at War	48	03048	Neutral	Command	Natural Pilot	Upgrade	false					4		[+2RD +3RD 2F 2Dr 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03048.jpg
+Empire at War	56	03056	Neutral	General	Z-95 Headhunter	Support	false					2		[1RD 2RD1 3RD1 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03056.jpg
+Empire at War	57	03057	Neutral	General	Chance Cube	Upgrade	false					0		[1R 2R 3R - - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03057.jpg
+Empire at War	58	03058	Neutral	General	EMP Grenades	Upgrade	false					2		[1Dr 2Dr 2Dc1 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03058.jpg
+Empire at War	59	03059	Neutral	General	Lead by Example	Upgrade	false					2		[+1RD +2RD 1F 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03059.jpg
+Empire at War	60	03060	Neutral	General	Scatterblaster	Upgrade	false					3		[2RD +3RD 1Dr Sp Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03060.jpg
+Empire at War	87	03087	Villain	General	No Survivors	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03087.jpg
+Empire at War	88	03088	Villain	General	Detention Center	Support	false					3			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03088.jpg
+Empire at War	118	03118	Neutral	Command	Covering Fire	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03118.jpg
+Empire at War	119	03119	Neutral	Command	Deploy Squadron	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03119.jpg
+Empire at War	120	03120	Neutral	Command	Fall Back	Event	false					4			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03120.jpg
+Empire at War	121	03121	Neutral	Command	Feint	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03121.jpg
+Empire at War	122	03122	Neutral	Command	Flanking Maneuver	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03122.jpg
+Empire at War	123	03123	Neutral	Command	Heat Of Battle	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/03/03123.jpg
+Empire at War	124	03124	Neutral	Command	Pinned Down	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03124.jpg
+Empire at War	125	03125	Neutral	Command	The Day is Ours	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/03/03125.jpg
+Empire at War	126	03126	Neutral	Command	Drop Zone	Support	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03126.jpg
+Empire at War	127	03127	Neutral	Command	Tech Team	Support	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03127.jpg
+Empire at War	146	03146	Neutral	General	Dangerous Mission	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03146.jpg
+Empire at War	147	03147	Neutral	General	Endurance	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03147.jpg
+Empire at War	148	03148	Neutral	General	Partnership	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03148.jpg
+Empire at War	149	03149	Neutral	General	Recycle	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03149.jpg
+Empire at War	150	03150	Neutral	General	Rend	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03150.jpg
+Empire at War	151	03151	Neutral	General	Roll On	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03151.jpg
+Empire at War	152	03152	Neutral	General	Plastoid Armor	Upgrade	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03152.jpg
+Two-Player Game	12	04012	Neutral	Command	I Have You Now	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04012.jpg
+Two-Player Game	14	04014	Neutral	Command	Mobilize	Event	false					3			Starter	https://swdestinydb.com/bundles/cards/en/04/04014.jpg
+Two-Player Game	20	04020	Villain	General	Doubt	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/04/04020.jpg
+Two-Player Game	21	04021	Neutral	General	Parry	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04021.jpg
+Two-Player Game	22	04022	Villain	General	Subjugate	Event	false					2			Starter	https://swdestinydb.com/bundles/cards/en/04/04022.jpg
+Two-Player Game	34	04034	Neutral	Command	Direct Hit	Event	false					2			Starter	https://swdestinydb.com/bundles/cards/en/04/04034.jpg
+Two-Player Game	35	04035	Neutral	Command	Logistics	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/04/04035.jpg
+Two-Player Game	36	04036	Neutral	Command	Recon	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04036.jpg
+Two-Player Game	43	04043	Neutral	General	Evade	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04043.jpg
+Two-Player Game	44	04044	Neutral	General	Flank	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04044.jpg
+Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
+Legacies	28	05028	Villain	General	BB-9E	Support	true					1		[1MD 1ID 1Dr 1Dc Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05028.jpg
+Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false					4		[2RD 2ID 3ID 4ID1 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05060.jpg
+Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false					2		[1RD +2RD 2ID 1Sh 1R -]	Rare	
+Legacies	71	05071	Neutral	General	Canto Bight Pistol	Upgrade	false					3		[3RD1 2ID 1Sh 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05071.jpg
+Legacies	99	05099	Villain	General	Outnumber	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05099.jpg
+Legacies	136	05136	Neutral	Command	Crackdown	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/05/05136.jpg
+Legacies	137	05137	Neutral	Command	Crash Landing	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
+Legacies	139	05139	Neutral	Command	Locked and Loaded	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
+Legacies	140	05140	Neutral	Command	Reinforce	Event	false					1			Uncommon	
+Legacies	141	05141	Neutral	Command	Strength in Numbers	Event	false					1			Common	
+Legacies	145	05145	Neutral	Command	Bubble Shield	Support	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
+Legacies	161	05161	Neutral	General	No Cheating	Event	false					0			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05161.jpg
+Legacies	165	05165	Neutral	General	Scrap Heap	Support	false					1			Uncommon	
+Legacies	167	05167	Neutral	General	Quickdraw Holster	Upgrade	false					0			Common	
+Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1				Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
+Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3				Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
+Legacies	173	05173	Neutral	General	Taking Ground	Plot	false	2		2	2				Common	https://swdestinydb.com/bundles/cards/en/05/05173.jpg
+Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13		9	[1RD 1F 1Sh 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
+Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6		6	[1RD 2RD1 1Dr 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg
+Rivals	8	06008	Neutral	Command	Fang Fighter	Support	false					3		[2RD 3RD 1Dc 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06008.jpg
+Rivals	13	06013	Neutral	General	Resourceful	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/06/06013.jpg
+Rivals	16	06016	Neutral	General	T-21 Repeating Blaster	Upgrade	false					3		[2RD +2RD 1Dr 1R Sp1 -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06016.jpg
+Rivals	17	06017	Neutral	General	Vibrosword	Upgrade	false					3		[1MD 3MD1 +2MD 1Dc 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06017.jpg

@@ -1,71 +1,73 @@
-Set	Position	Code	Affiliation	Faction	Name	Type	Is Unique	1d Cost	2d Cost	Min Cost	Max Cost	Health	Sides	Rarity	Img Src
-Awakenings	1	01001	Villain	Command	Captain Phasma	Character	true	12	15	12	15	11	[1RD 2RD 1F 1Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01001.jpg
-Awakenings	2	01002	Villain	Command	First Order Stormtrooper	Character	false	7		7	7	7	[1RD 2RD 2RD1 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01002.jpg
-Awakenings	3	01003	Villain	Command	General Grievous	Character	true	13	18	13	18	10	[2MD 2MD 3MD1 1Dr 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01003.jpg
-Awakenings	4	01004	Villain	Command	General Veers	Character	true	11	14	11	14	9	[1RD 2RD +2RD 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01004.jpg
-Awakenings	5	01005	Villain	Command	AT-ST	Support	false						[3RD 4RD 5RD1 2Sh Sp Sp]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01005.jpg
-Awakenings	6	01006	Villain	Command	First Order TIE Fighter	Support	false						[1RD 2RD 3RD1 1Dr Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01006.jpg
-Awakenings	7	01007	Villain	Command	Commanding Presence	Upgrade	false						[1F 2F 2Dr 1R Sp Sp]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01007.jpg
-Awakenings	8	01008	Villain	Command	F-11D Rifle	Upgrade	false						[2RD1 +1RD +2RD 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/01/01008.jpg
-Awakenings	68	01068	Villain	Command	Cannon Fodder	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01068.jpg
-Awakenings	69	01069	Villain	Command	Closing the Net	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01069.jpg
-Awakenings	70	01070	Villain	Command	Endless Ranks	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01070.jpg
-Awakenings	71	01071	Villain	Command	Occupation	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01071.jpg
-Awakenings	72	01072	Villain	Command	Probe	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01072.jpg
-Awakenings	73	01073	Villain	Command	Sweep the Area	Event	false							Common	https://swdestinydb.com/bundles/cards/en/01/01073.jpg
-Awakenings	74	01074	Villain	Command	Tactical Mastery	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01074.jpg
-Awakenings	75	01075	Villain	Command	The Best Defense...	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01075.jpg
-Awakenings	76	01076	Villain	Command	Drudge Work	Support	false							Common	https://swdestinydb.com/bundles/cards/en/01/01076.jpg
-Awakenings	77	01077	Villain	Command	Local Garrison	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/01/01077.jpg
-Awakenings	78	01078	Villain	Command	Personal Escort	Upgrade	false							Common	https://swdestinydb.com/bundles/cards/en/01/01078.jpg
-Spirit of Rebellion	1	02001	Villain	Command	Death Trooper	Character	false	10		10	10	10	[1RD 1RD 2RD +2RD 1Dr -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02001.jpg
-Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	true	12	15	12	15	11	[1RD 1MD 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
-Spirit of Rebellion	3	02003	Villain	Command	Director Krennic	Character	true	15	19	15	19	12	[2RD 1F 2Dr 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02003.jpg
-Spirit of Rebellion	4	02004	Villain	Command	Tie Pilot	Character	false	8		8	8	7	[+1RD +2RD +3RD1 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
-Spirit of Rebellion	5	02005	Villain	Command	E-Web Emplacement	Support	false						[1RD 1RD1 2RD 2RD1 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02005.jpg
-Spirit of Rebellion	6	02006	Villain	Command	Imperial Discipline	Upgrade	false						[+1RD +1MD 1Sh 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02006.jpg
-Spirit of Rebellion	7	02007	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	false						[1RD +2RD +2RD 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02007.jpg
-Spirit of Rebellion	8	02008	Villain	Command	Z6 Riot Control Baton	Upgrade	false						[2MD 2MD 3MD1 1R - -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02008.jpg
-Spirit of Rebellion	61	02061	Villain	Command	Battle Formation	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02061.jpg
-Spirit of Rebellion	62	02062	Villain	Command	Imperial War Machine	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02062.jpg
-Spirit of Rebellion	63	02063	Villain	Command	Lockdown	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02063.jpg
-Spirit of Rebellion	64	02064	Villain	Command	Sustained Fire	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02064.jpg
-Spirit of Rebellion	65	02065	Villain	Command	Traitor!	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02065.jpg
-Spirit of Rebellion	66	02066	Villain	Command	Trench Warfare	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02066.jpg
-Spirit of Rebellion	67	02067	Villain	Command	Undying Loyalty	Event	false							Common	https://swdestinydb.com/bundles/cards/en/02/02067.jpg
-Spirit of Rebellion	68	02068	Villain	Command	We Have Them Now	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02068.jpg
-Spirit of Rebellion	69	02069	Villain	Command	Attrition	Support	false							Common	https://swdestinydb.com/bundles/cards/en/02/02069.jpg
-Spirit of Rebellion	70	02070	Villain	Command	Imperial Inspection	Support	false							Uncommon	https://swdestinydb.com/bundles/cards/en/02/02070.jpg
-Empire at War	1	03001	Villain	Command	Ciena Ree	Character	true	8	11	8	11	9	[1RD +2RD 1Dr 1R 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03001.jpg
-Empire at War	2	03002	Villain	Command	General Hux	Character	true	11	14	11	14	11	[1RD 2F 1Dc 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03002.jpg
-Empire at War	3	03003	Villain	Command	MagnaGuard	Character	false	9		9	9	8	[1MD 2MD1 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03003.jpg
-Empire at War	4	03004	Villain	Command	Thrawn	Character	true	14	17	14	17	12	[1F 2F 1Dr 1Sh 2R -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03004.jpg
-Empire at War	5	03005	Villain	Command	AT-DP	Support	false						[2RD +2RD 3RD1 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03005.jpg
-Empire at War	6	03006	Villain	Command	Probe Droid	Support	false						[1Dr 1Dr 1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03006.jpg
-Empire at War	7	03007	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade	false						[1RD 2RD 3RD 4RD1 5RD1 -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03007.jpg
-Empire at War	61	03061	Villain	Command	Commandeer	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03061.jpg
-Empire at War	62	03062	Villain	Command	Crossfire	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03062.jpg
-Empire at War	63	03063	Villain	Command	Drop Your Weapon!	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03063.jpg
-Empire at War	64	03064	Villain	Command	Imperial Backing	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03064.jpg
-Empire at War	65	03065	Villain	Command	Prepare for War	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03065.jpg
-Empire at War	66	03066	Villain	Command	Red Alert	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03066.jpg
-Empire at War	67	03067	Villain	Command	Ruthless Tactics	Event	false							Common	https://swdestinydb.com/bundles/cards/en/03/03067.jpg
-Empire at War	68	03068	Villain	Command	Take Prisoner	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/03/03068.jpg
-Empire at War	69	03069	Villain	Command	Imperial HQ	Support	false							Common	https://swdestinydb.com/bundles/cards/en/03/03069.jpg
-Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	true	10	14	10	14	10	[1RD 2RD 1F 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
-Two-Player Game	3	04003	Villain	Command	Droid Commandos	Support	false						[2RD 3RD 3RD1 2Dc Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04003.jpg
-Two-Player Game	4	04004	Villain	Command	Captain Phasma's Blaster	Upgrade	true						[1RD 2RD 3RD1 +3RD 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04004.jpg
-Two-Player Game	5	04005	Villain	Command	Praetorian Guard	Upgrade	false						[1MD 1MD +2MD 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04005.jpg
-Two-Player Game	10	04010	Villain	Command	Armored Support	Support	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04010.jpg
-Two-Player Game	11	04011	Villain	Command	First Strike	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04011.jpg
-Two-Player Game	13	04013	Villain	Command	Imperial Envoy	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04013.jpg
-Two-Player Game	15	04015	Villain	Command	Tactical Mastery	Event	false							Starter	https://swdestinydb.com/bundles/cards/en/04/04015.jpg
-Legacies	9	05009	Villain	Command	Battle Droid	Character	false	6		6	6	6	[1RD 1ID 1ID +2ID - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
-Legacies	10	05010	Villain	Command	Kallus	Character	true	14	18	14	18	12	[1RD 2RD 1MD 3MD1 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05010.jpg
-Legacies	11	05011	Villain	Command	Nute Gunray	Character	true	8	11	8	11	8	[1ID 1F 2Dr 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05011.jpg
-Legacies	12	05012	Villain	Command	Tarkin	Character	true	13	16	13	16	11	[2ID 1F 2F 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05012.jpg
-Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9	9	[1RD 2RD 3ID 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
-Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false						[1Sh 2Sh 1R 1R Sp -]	Rare	
-Legacies	16	05016	Villain	Command	Grand Moff	Upgrade	false						[2ID 3ID 2F 3F 2Dc 2R]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05016.jpg
-Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false							Uncommon	
-Legacies	90	05090	Villain	Command	Three Steps Ahead	Event	false							Uncommon	https://swdestinydb.com/bundles/cards/en/05/05090.jpg
+Set	Position	Code	Affiliation	Faction	Name	Type	Is Unique	1d Points	2d Points	Min Points	Max Points	Cost	Health	Sides	Rarity	Img Src
+Awakenings	1	01001	Villain	Command	Captain Phasma	Character	true	12	15	12	15		11	[1RD 2RD 1F 1Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01001.jpg
+Awakenings	2	01002	Villain	Command	First Order Stormtrooper	Character	false	7		7	7		7	[1RD 2RD 2RD1 1R - -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01002.jpg
+Awakenings	3	01003	Villain	Command	General Grievous	Character	true	13	18	13	18		10	[2MD 2MD 3MD1 1Dr 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01003.jpg
+Awakenings	4	01004	Villain	Command	General Veers	Character	true	11	14	11	14		9	[1RD 2RD +2RD 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01004.jpg
+Awakenings	5	01005	Villain	Command	AT-ST	Support	false					6		[3RD 4RD 5RD1 2Sh Sp Sp]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01005.jpg
+Awakenings	6	01006	Villain	Command	First Order TIE Fighter	Support	false					3		[1RD 2RD 3RD1 1Dr Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01006.jpg
+Awakenings	7	01007	Villain	Command	Commanding Presence	Upgrade	false					3		[1F 2F 2Dr 1R Sp Sp]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01007.jpg
+Awakenings	8	01008	Villain	Command	F-11D Rifle	Upgrade	false					2		[2RD1 +1RD +2RD 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/01/01008.jpg
+Awakenings	68	01068	Villain	Command	Cannon Fodder	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01068.jpg
+Awakenings	69	01069	Villain	Command	Closing the Net	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/01/01069.jpg
+Awakenings	70	01070	Villain	Command	Endless Ranks	Event	false					5			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01070.jpg
+Awakenings	71	01071	Villain	Command	Occupation	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/01/01071.jpg
+Awakenings	72	01072	Villain	Command	Probe	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01072.jpg
+Awakenings	73	01073	Villain	Command	Sweep the Area	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01073.jpg
+Awakenings	74	01074	Villain	Command	Tactical Mastery	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01074.jpg
+Awakenings	75	01075	Villain	Command	The Best Defense...	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01075.jpg
+Awakenings	76	01076	Villain	Command	Drudge Work	Support	false					0			Common	https://swdestinydb.com/bundles/cards/en/01/01076.jpg
+Awakenings	77	01077	Villain	Command	Local Garrison	Support	false					3			Uncommon	https://swdestinydb.com/bundles/cards/en/01/01077.jpg
+Awakenings	78	01078	Villain	Command	Personal Escort	Upgrade	false					1			Common	https://swdestinydb.com/bundles/cards/en/01/01078.jpg
+Spirit of Rebellion	1	02001	Villain	Command	Death Trooper	Character	false	10		10	10		10	[1RD 1RD 2RD +2RD 1Dr -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02001.jpg
+Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	true	12	15	12	15		11	[1RD 1MD 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
+Spirit of Rebellion	3	02003	Villain	Command	Director Krennic	Character	true	15	19	15	19		12	[2RD 1F 2Dr 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02003.jpg
+Spirit of Rebellion	4	02004	Villain	Command	Tie Pilot	Character	false	8		8	8		7	[+1RD +2RD +3RD1 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
+Spirit of Rebellion	5	02005	Villain	Command	E-Web Emplacement	Support	false					3		[1RD 1RD1 2RD 2RD1 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02005.jpg
+Spirit of Rebellion	6	02006	Villain	Command	Imperial Discipline	Upgrade	false					1		[+1RD +1MD 1Sh 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02006.jpg
+Spirit of Rebellion	7	02007	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	false					2		[1RD +2RD +2RD 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02007.jpg
+Spirit of Rebellion	8	02008	Villain	Command	Z6 Riot Control Baton	Upgrade	false					3		[2MD 2MD 3MD1 1R - -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02008.jpg
+Spirit of Rebellion	61	02061	Villain	Command	Battle Formation	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02061.jpg
+Spirit of Rebellion	62	02062	Villain	Command	Imperial War Machine	Event	false					0			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02062.jpg
+Spirit of Rebellion	63	02063	Villain	Command	Lockdown	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02063.jpg
+Spirit of Rebellion	64	02064	Villain	Command	Sustained Fire	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02064.jpg
+Spirit of Rebellion	65	02065	Villain	Command	Traitor!	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02065.jpg
+Spirit of Rebellion	66	02066	Villain	Command	Trench Warfare	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02066.jpg
+Spirit of Rebellion	67	02067	Villain	Command	Undying Loyalty	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/02/02067.jpg
+Spirit of Rebellion	68	02068	Villain	Command	We Have Them Now	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02068.jpg
+Spirit of Rebellion	69	02069	Villain	Command	Attrition	Support	false					1			Common	https://swdestinydb.com/bundles/cards/en/02/02069.jpg
+Spirit of Rebellion	70	02070	Villain	Command	Imperial Inspection	Support	false					0			Uncommon	https://swdestinydb.com/bundles/cards/en/02/02070.jpg
+Empire at War	1	03001	Villain	Command	Ciena Ree	Character	true	8	11	8	11		9	[1RD +2RD 1Dr 1R 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03001.jpg
+Empire at War	2	03002	Villain	Command	General Hux	Character	true	11	14	11	14		11	[1RD 2F 1Dc 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03002.jpg
+Empire at War	3	03003	Villain	Command	MagnaGuard	Character	false	9		9	9		8	[1MD 2MD1 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03003.jpg
+Empire at War	4	03004	Villain	Command	Thrawn	Character	true	14	17	14	17		12	[1F 2F 1Dr 1Sh 2R -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03004.jpg
+Empire at War	5	03005	Villain	Command	AT-DP	Support	false					3		[2RD +2RD 3RD1 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03005.jpg
+Empire at War	6	03006	Villain	Command	Probe Droid	Support	false					1		[1Dr 1Dr 1R Sp - -]	Rare	https://swdestinydb.com/bundles/cards/en/03/03006.jpg
+Empire at War	7	03007	Villain	Command	T-7 Ion Disruptor Rifle	Upgrade	false					5		[1RD 2RD 3RD 4RD1 5RD1 -]	Legendary	https://swdestinydb.com/bundles/cards/en/03/03007.jpg
+Empire at War	61	03061	Villain	Command	Commandeer	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03061.jpg
+Empire at War	62	03062	Villain	Command	Crossfire	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03062.jpg
+Empire at War	63	03063	Villain	Command	Drop Your Weapon!	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03063.jpg
+Empire at War	64	03064	Villain	Command	Imperial Backing	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03064.jpg
+Empire at War	65	03065	Villain	Command	Prepare for War	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03065.jpg
+Empire at War	66	03066	Villain	Command	Red Alert	Event	false					3			Common	https://swdestinydb.com/bundles/cards/en/03/03066.jpg
+Empire at War	67	03067	Villain	Command	Ruthless Tactics	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/03/03067.jpg
+Empire at War	68	03068	Villain	Command	Take Prisoner	Event	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/03/03068.jpg
+Empire at War	69	03069	Villain	Command	Imperial HQ	Support	false					1			Common	https://swdestinydb.com/bundles/cards/en/03/03069.jpg
+Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	true	10	14	10	14		10	[1RD 2RD 1F 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
+Two-Player Game	3	04003	Villain	Command	Droid Commandos	Support	false					4		[2RD 3RD 3RD1 2Dc Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04003.jpg
+Two-Player Game	4	04004	Villain	Command	Captain Phasma's Blaster	Upgrade	true					3		[1RD 2RD 3RD1 +3RD 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04004.jpg
+Two-Player Game	5	04005	Villain	Command	Praetorian Guard	Upgrade	false					2		[1MD 1MD +2MD 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04005.jpg
+Two-Player Game	10	04010	Villain	Command	Armored Support	Support	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04010.jpg
+Two-Player Game	11	04011	Villain	Command	First Strike	Event	false					2			Starter	https://swdestinydb.com/bundles/cards/en/04/04011.jpg
+Two-Player Game	13	04013	Villain	Command	Imperial Envoy	Event	false					2			Starter	https://swdestinydb.com/bundles/cards/en/04/04013.jpg
+Two-Player Game	15	04015	Villain	Command	Tactical Mastery	Event	false					1			Starter	https://swdestinydb.com/bundles/cards/en/04/04015.jpg
+Legacies	9	05009	Villain	Command	Battle Droid	Character	false	6		6	6		6	[1RD 1ID 1ID +2ID - -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05009.jpg
+Legacies	10	05010	Villain	Command	Kallus	Character	true	14	18	14	18		12	[1RD 2RD 1MD 3MD1 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05010.jpg
+Legacies	11	05011	Villain	Command	Nute Gunray	Character	true	8	11	8	11		8	[1ID 1F 2Dr 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05011.jpg
+Legacies	12	05012	Villain	Command	Tarkin	Character	true	13	16	13	16		11	[2ID 1F 2F 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05012.jpg
+Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9		9	[1RD 2RD 3ID 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
+Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false					2		[1Sh 2Sh 1R 1R Sp -]	Rare	
+Legacies	16	05015	Villain	Command	Fragmentation Grenade	Upgrade	false					1		[1ID 1ID 1ID 2ID 3ID -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05015.jpg
+Legacies	16	05016	Villain	Command	Grand Moff	Upgrade	false					4		[2ID 3ID 2F 3F 2Dc 2R]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05016.jpg
+Legacies	17	05017	Villain	Command	Kallus' Bo-Rifle	Upgrade	true					3		[2RD +4RD1 +3MD +3MD 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05017.jpg
+Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false					2			Uncommon	
+Legacies	90	05090	Villain	Command	Three Steps Ahead	Event	false					3			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05090.jpg
