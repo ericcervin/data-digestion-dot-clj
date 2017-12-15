@@ -38,6 +38,7 @@
        [:c2dPoints :int]
        [:cMinPoints :int]
        [:cMaxPoints :int]
+       [:cCost :int]
        [:cHealth :int]
        [:cSides "varchar(64)"]
        [:typeName "varchar(64)"]
@@ -49,21 +50,21 @@
      (map #(hash-map :cardSet (get % "set_name") :position (get % "position") :cardCode (get % "code")
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
                      :name (get % "name") :isUnique (get % "is_unique") :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
-                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cHealth (get % "health") :cSides (get % "sides")
+                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cCost (get % "cost") :cHealth (get % "health") :cSides (get % "sides")
                      :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))
     
   
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "Is Unique" "1d Cost" "2d Cost" "Min Cost" "Max Cost" "Health" "Sides" "Rarity" "Img Src"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "Is Unique" "1d Points" "2d Points" "Min Points" "Max Points" "Cost" "Health" "Sides" "Rarity" "Img Src"]) "\n"))
     (doseq [i mp]
       (let [c-set (get i "set_name")
             c-position (get i "position")
             c-code (get i "code")
             c-affiliation (get i "affiliation_name")
             c-faction (get i "faction_name")
-            c-name (get i "name") 
+            c-name (clojure.string/replace (get i "name") #"(\t|\")" "") 
             c-type (get i "type_name")
             c-is-unique (get i "is_unique")
             c-points (:c-points i)
@@ -71,11 +72,12 @@
             c-2d-points (:c-2d-points i)
             c-min-points (:c-min-points i)
             c-max-points (:c-max-points i)
+            c-cost (get i "cost")
             c-health (get i "health")
             c-sides (clojure.string/replace (get i "sides" "") "\"" "")
             c-rarity (get i "rarity_name")
             c-image-src (get i "imagesrc")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-health c-sides c-rarity c-image-src]) "\n"))))))
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-cost c-health c-sides c-rarity c-image-src]) "\n"))))))
         
 
 (defn -main []
