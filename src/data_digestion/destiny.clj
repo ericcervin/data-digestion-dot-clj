@@ -3,9 +3,7 @@
             [clojure.java.io :as io]
             [clojure.java.jdbc :as sql]))
 
-(def db-spec {:classname "org.sqlite.JDBC"
-              :subprotocol "sqlite"
-              :subname "resources/destiny/OUT/destiny.db"})
+(def db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/destiny/OUT/destiny.db"})
 
 (defn assoc-extended-points-fields [mp]
    (let [c-points (get mp "points")
@@ -27,17 +25,11 @@
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
       :card
-      [[:cardSet "varchar(64)"]
-       [:position :int]
-       [:cardCode "varchar(8)"]
-       [:affiliation "varchar(64)"]
-       [:faction "varchar(64)"]
-       [:name "varchar(64)"]
-       [:isUnique :int]
-       [:c1dPoints :int] 
-       [:c2dPoints :int]
-       [:cMinPoints :int]
-       [:cMaxPoints :int]
+      [[:cardSet "varchar(64)"][:position :int][:cardCode "varchar(8)"]
+       [:affiliation "varchar(64)"][:faction "varchar(64)"]
+       [:name "varchar(64)"][:isUnique :int]
+       [:c1dPoints :int][:c2dPoints :int]
+       [:cMinPoints :int][:cMaxPoints :int]
        [:cCost :int]
        [:cHealth :int]
        [:cSides "varchar(64)"]
@@ -51,34 +43,22 @@
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
                      :name (get % "name") :isUnique (get % "is_unique") :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
                      :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cCost (get % "cost") :cHealth (get % "health") :cSides (get % "sides")
-                     :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))
-    
-  
+                     :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))    
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
     (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "Is Unique" "1d Points" "2d Points" "Min Points" "Max Points" "Cost" "Health" "Sides" "Rarity" "Img Src"]) "\n"))
     (doseq [i mp]
-      (let [c-set (get i "set_name")
-            c-position (get i "position")
-            c-code (get i "code")
-            c-affiliation (get i "affiliation_name")
-            c-faction (get i "faction_name")
-            c-name (clojure.string/replace (get i "name") #"(\t|\")" "") 
-            c-type (get i "type_name")
-            c-is-unique (get i "is_unique")
-            c-points (:c-points i)
-            c-1d-points (:c-1d-points i)
-            c-2d-points (:c-2d-points i)
-            c-min-points (:c-min-points i)
-            c-max-points (:c-max-points i)
-            c-cost (get i "cost")
-            c-health (get i "health")
-            c-sides (clojure.string/replace (get i "sides" "") "\"" "")
-            c-rarity (get i "rarity_name")
-            c-image-src (get i "imagesrc")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-cost c-health c-sides c-rarity c-image-src]) "\n"))))))
-        
+      (let [{c-set "set_name" c-position "position" c-code "code"} i
+            {c-affiliation "affiliation_name" c-faction "faction_name"} i
+            {c-type "type_name" c-is-unique "is_unique"} i
+             c-name (clojure.string/replace (i "name") #"(\t|\")" "")
+            {c-1d-points :c-1d-points c-2d-points :c-2d-points c-min-points :c-min-points c-max-points :c-max-points } i
+            {c-cost "cost" c-health "health"} i
+             c-sides (clojure.string/replace (i "sides" "") "\"" "")
+             c-rarity (i "rarity_name")
+             c-image-src (get i "imagesrc")]
+        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-cost c-health c-sides c-rarity c-image-src]) "\n"))))))        
 
 (defn -main []
   (let [card-json (slurp "https://swdestinydb.com/api/public/cards/")
@@ -88,8 +68,6 @@
         villain-command-compatible-cards (filter #(or (and (= (get % "affiliation_name") "Villain") (= (get % "faction_name") "General"))
                                                       (and (= (get % "affiliation_name") "Neutral") (= (get % "faction_name") "General") (not (= (get % "type_name") "Battlefield")))
                                                       (and (= (get % "affiliation_name") "Neutral") (= (get % "faction_name") "Command"))) card-map)]
-    
-   
     
     ;;export all json
     (spit "resources/destiny/OUT/all_cards.json" card-json)
@@ -104,7 +82,6 @@
     (export-card-tsv "resources/destiny/OUT/card_list_all.tsv" card-map)
     (export-card-tsv "resources/destiny/OUT/card_list_villian_command.tsv" villain-command-cards)
     (export-card-tsv "resources/destiny/OUT/card_list_villian_command_compatible.tsv" villain-command-compatible-cards)
-    
     
     ;;drop card table
     (drop-card-table!)
