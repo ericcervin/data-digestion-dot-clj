@@ -49,16 +49,13 @@
   (with-open [writer (io/writer file)]
     (.write writer (str (clojure.string/join "\t" ["Set" "Position" "Code" "Affiliation" "Faction" "Name" "Type" "Is Unique" "1d Points" "2d Points" "Min Points" "Max Points" "Cost" "Health" "Sides" "Rarity" "Img Src"]) "\n"))
     (doseq [i mp]
-      (let [{c-set "set_name" c-position "position" c-code "code"} i
-            {c-affiliation "affiliation_name" c-faction "faction_name"} i
-            {c-type "type_name" c-is-unique "is_unique"} i
-             c-name (clojure.string/replace (i "name") #"(\t|\")" "")
-            {c-1d-points :c-1d-points c-2d-points :c-2d-points c-min-points :c-min-points c-max-points :c-max-points } i
-            {c-cost "cost" c-health "health"} i
-             c-sides (clojure.string/replace (i "sides" "") "\"" "")
-             c-rarity (i "rarity_name")
-             c-image-src (get i "imagesrc")]
-        (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-cost c-health c-sides c-rarity c-image-src]) "\n"))))))        
+      (let [{c-set "set_name" c-position "position" c-code "code" c-affiliation "affiliation_name" c-faction "faction_name"
+              c-name "name" c-type "type_name" c-is-unique "is_unique" c-1d-points :c-1d-points c-2d-points :c-2d-points
+              c-min-points :c-min-points c-max-points :c-max-points  c-cost "cost" c-health "health" c-sides "sides" 
+              c-rarity "rarity_name" c-image-src "imagesrc"} i
+              c-sides (if (some? c-sides) (clojure.string/replace c-sides "\"" "")) 
+              c-name (clojure.string/replace c-name #"(\t|\")" "")]
+           (.write writer (str (clojure.string/join "\t" [c-set c-position c-code c-affiliation c-faction c-name c-type c-is-unique c-1d-points c-2d-points c-min-points c-max-points c-cost c-health c-sides c-rarity c-image-src]) "\n"))))))        
 
 (defn -main []
   (let [card-json (slurp "https://swdestinydb.com/api/public/cards/")
