@@ -8,6 +8,11 @@ destiny.clj - Downloads Star Wars Destiny game data from api.
               Exports files containing useful (to me) subsets of that data. 
               Exports data to local SQLite database.
               
+
 discogs.clj - Downloads list of releases in my record collection using the Discogs api.
               Exports basic release information into a tsv file.
               Exports data to local SQLite database.
+              
+philosophy_usa.clj Imports data taken from National Center for Education Statistics.
+                   #s of philosophy/religious studies degrees 
+                   completed at US Universities in the 2014 - 2015 academic year.
