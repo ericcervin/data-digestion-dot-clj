@@ -48,7 +48,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 101994,Reid State Technical College,I65 and Hwy 83,Evergreen,AL,36401
 102030,Bishop State Community College,351 North Broad Street,Mobile,AL,36603-5898
 102049,Samford University,800 Lakeshore Drive,Birmingham,AL,35229-2240
-102058,Selma University,"1501 Lapsley St, Dinkins Hall",Selma,AL,36701
+102058,Selma University,1501 Lapsley St Dinkins Hall,Selma,AL,36701
 102067,Shelton State Community College,9500 Old Greensboro Rd,Tuscaloosa,AL,35405-8522
 102076,Snead State Community College,102 Elder Street,Boaz,AL,35957-0734
 102094,University of South Alabama,307 N University Blvd,Mobile,AL,36688-0002
@@ -58,7 +58,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 102298,Talladega College,627 W Battle St,Talladega,AL,35160
 102313,H Councill Trenholm State Community College,1225 Air Base Blvd,Montgomery,AL,36108-3199
 102368,Troy University,University Avenue,Troy,AL,36082-0001
-102377,Tuskegee University,"Kresge Center, 3rd Floor",Tuskegee,AL,36088-1920
+102377,Tuskegee University,Kresge Center 3rd Floor,Tuskegee,AL,36088-1920
 102395,United States Sports Academy,One Academy Drive,Daphne,AL,36526-7055
 102429,Bevill State Community College,1411 Indiana Avenue,Jasper,AL,35501
 102553,University of Alaska Anchorage,3211 Providence Drive,Anchorage,AK,99508
@@ -69,8 +69,8 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 102711,AVTEC-Alaska's Institute of Technology,809 Second Avenue,Seward,AK,99664-0889
 102845,Charter College-Anchorage,2221 E Northern Lights Blvd Ste 120,Anchorage,AK,99508
 103501,Alaska Career College,1415 E Tudor Road,Anchorage,AK,99507-1033
-103529,University of Alaska System of Higher Education,"910 Yukon Drive, Suite 202 Butrovich Building",Fairbanks,AK,99775-5000
-103644,Everest College-Phoenix,"10400 N. 25th Avenue, Suite 190",Phoenix,AZ,85021-1641
+103529,University of Alaska System of Higher Education,910 Yukon Drive Suite 202 Butrovich Building,Fairbanks,AK,99775-5000
+103644,Everest College-Phoenix,10400 N. 25th Avenue Suite 190,Phoenix,AZ,85021-1641
 103723,Collins College,4750 S 44th Place,Phoenix,AZ,85040
 103732,Empire Beauty School-Paradise Valley,12827 N Tatum Blvd,Phoenix,AZ,85032
 103741,Empire Beauty School-Tucson,3030 E Speedway Blvd,Tucson,AZ,85716
@@ -78,19 +78,19 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 103787,American Indian College Inc,10020 N 15th Ave,Phoenix,AZ,85021
 103811,American Institute of Technology,440 S 54th Avenue,Phoenix,AZ,85043-4729
 103893,Carrington College-Phoenix,8503 N 27th Ave.,Phoenix,AZ,85051-4063
-103909,Carrington College-Mesa,"1001 Southern Ave., Ste. 130",Mesa,AZ,85210
-103927,Carrington College-Tucson,"201 N. Bonita Ave., Suite 101",Tucson,AZ,85745
+103909,Carrington College-Mesa,1001 Southern Ave Ste. 130,Mesa,AZ,85210
+103927,Carrington College-Tucson,201 N. Bonita Ave. Suite 101,Tucson,AZ,85745
 103945,CollegeAmerica-Flagstaff,399 Malpais,Flagstaff,AZ,86001
 103954,Arizona Academy of Beauty-East,5631 E Speedway Blvd,Tucson,AZ,85712
 103963,Arizona Automotive Institute,6829 N 46th Ave,Glendale,AZ,85301-3579
-104090,Brookline College-Phoenix,"2445 W. Dunlap Ave., Ste. 100",Phoenix,AZ,85021
+104090,Brookline College-Phoenix,2445 W. Dunlap Ave. Ste. 100,Phoenix,AZ,85021
 104151,Arizona State University-Tempe,University Drive and Mill Avenue,Tempe,AZ,85287
 104160,Arizona Western College,2020 S. Avenue 8E,Yuma,AZ,85365-8834
 104179,University of Arizona,1401 E University,Tucson,AZ,85721-0066
 104188,Southwest University of Visual Arts-Tucson,2525 N Country Club Rd,Tucson,AZ,85716
 104346,Central Arizona College,8470 N Overfield Rd,Coolidge,AZ,85128-9030
 104364,Brown Mackie College-Tucson,4585 E Speedway Blvd.,Tucson,AZ,85712
-104391,Charles of Italy Beauty College,"1987 McCulloch Blvd, Suite 205",Lake Havasu City,AZ,86403
+104391,Charles of Italy Beauty College,1987 McCulloch Blvd Suite 205,Lake Havasu City,AZ,86403
 104425,Cochise County Community College District,4190 W Highway 80,Douglas,AZ,85607-6190
 104434,Empire Beauty School-Flagstaff,1790 E Rte 66,Flagstaff,AZ,86004
 104443,Empire Beauty School-Chandler,2978 N Alma School Rd #1-3,Chandler,AZ,85224
@@ -110,7 +110,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 105206,Mohave Community College,1971 Jagerson Ave,Kingman,AZ,86409-1238
 105215,Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division,2844 W Deer Valley Rd,Phoenix,AZ,85027
 105297,Dine College,"Route 12, One Circle Drive",Tsaile,AZ,86556
-105330,Northern Arizona University,"1900 S. Knoles Dr, Babbitt Administrative Center, Room 200",Flagstaff,AZ,86011-4092
+105330,Northern Arizona University,1900 S. Knoles Dr Babbitt Administrative Center Room 200,Flagstaff,AZ,86011-4092
 105349,Northland Pioneer College,2251 E. Navajo Blvd.,Holbrook,AZ,86025-0610
 105367,Ottawa University-Phoenix,9414 North 25th Avenue,Phoenix,AZ,85021
 105428,Phoenix College,1202 W Thomas Rd,Phoenix,AZ,85013
@@ -600,7 +600,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 126289,Arapahoe Community College,5900 S. Santa Fe Dr.,Littleton,CO,80160-9002
 126359,Bel-Rea Institute of Animal Technology,1681 S Dayton St,Denver,CO,80247
 126401,Everest College-Colorado Springs,1815 Jet Wing Drive,Colorado Springs,CO,80916
-126562,University of Colorado Denver/Anschutz Medical Campus,"1380 Lawrence Street, Lawrence Street Center, Suite 1400",Denver,CO,80217-3364
+126562,University of Colorado Denver/Anschutz Medical Campus,1380 Lawrence Street Lawrence Street Center Suite 1400,Denver,CO,80217-3364
 126580,University of Colorado Colorado Springs,1420 Austin Bluffs Parkway,Colorado Springs,CO,80918
 126605,Redstone College,10851 W 120th Ave,Broomfield,CO,80021-3465
 126614,University of Colorado Boulder,Regent Drive at Broadway,Boulder,CO,80309-0017
@@ -731,11 +731,11 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 131098,Wesley College,120 N State St,Dover,DE,19901-3875
 131113,Wilmington University,320 Dupont Hwy,New Castle,DE,19720
 131159,American University,4400 Massachusetts Ave NW,Washington,DC,20016-8001
-131283,Catholic University of America,"620 Michigan Avenue, NE",Washington,DC,20064
+131283,Catholic University of America,620 Michigan Avenue NE,Washington,DC,20064
 131399,University of the District of Columbia,4200 Connecticut Ave NW,Washington,DC,20008
 131405,Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,"487 Michigan Ave, NE",Washington,DC,20017-1585
-131450,Gallaudet University,"800 Florida Ave, NE",Washington,DC,20002-3695
-131469,George Washington University,"2121 I Street, NW",Washington,DC,20052
+131450,Gallaudet University,800 Florida Ave NE,Washington,DC,20002-3695
+131469,George Washington University,2121 I Street NW,Washington,DC,20052
 131496,Georgetown University,37th and O St NW,Washington,DC,20057-0001
 131520,Howard University,2400 Sixth St NW,Washington,DC,20059-0001
 131742,Medtech Institute,6565 Arlington Boulevard,Falls Church,VA,22042
@@ -911,7 +911,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 138901,Atlanta Metropolitan State College,"1630 Metropolitan Parkway, SW",Atlanta,GA,30310-4448
 138929,Atlanta's John Marshall Law School,1422 West Peachtree Street NW,Atlanta,GA,30309
 138938,Atlanta School of Massage,2 Dunwoody Park South,Atlanta,GA,30338
-138947,Clark Atlanta University,"223 James P Brawley Drive, SW",Atlanta,GA,30314-4391
+138947,Clark Atlanta University,223 James P Brawley Drive SW,Atlanta,GA,30314-4391
 138956,Augusta Technical College,3200 Augusta Tech Drive,Augusta,GA,30906
 139010,Bainbridge State College,2500 E Shotwell St,Bainbridge,GA,39819
 139074,Bauder College,"384 Northyards Blvd., Suite 190",Atlanta,GA,30313
@@ -935,14 +935,14 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 139579,South University-Savannah,709 Mall Blvd,Savannah,GA,31406
 139621,East Georgia State College,131 College Cir,Swainsboro,GA,30401
 139630,Emmanuel College,181 Springs St,Franklin Springs,GA,30639
-139658,Emory University,"408 Administration Building, 201 Dowman Drive",Atlanta,GA,30322
+139658,Emory University,408 Administration Building 201 Dowman Drive,Atlanta,GA,30322
 139700,Georgia Highlands College,"3175 Cedartown Highway, S.E.",Rome,GA,30161-3897
 139719,Fort Valley State University,1005 State University Dr,Fort Valley,GA,31030-4313
 139746,Grady Health System Professional Schools,"80 Jesse Hill Jr Drive, SE",Atlanta,GA,30303-3050
 139755,Georgia Institute of Technology-Main Campus,225 North Ave,Atlanta,GA,30332-0530
 139764,Georgia Southwestern State University,800 Georgia Southwestern State University Dr.,Americus,GA,31709-4693
 139861,Georgia College and State University,231 W Hancock Street,Milledgeville,GA,31061
-139931,Georgia Southern University,"Brannen Hall, Room 2015, 2670 Southern Drive",Statesboro,GA,30460-8126
+139931,Georgia Southern University,Brannen Hall Room 2015 2670 Southern Drive,Statesboro,GA,30460-8126
 139940,Georgia State University,33 gilmer st,Atlanta,GA,30303-3083
 139959,University of Georgia,Administration Building,Athens,GA,30602
 139968,Gordon State College,419 College Dr,Barnesville,GA,30204
@@ -962,7 +962,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 140562,Morehouse School of Medicine,720 Westview Dr SW,Atlanta,GA,30310-1495
 140599,Moultrie Technical College,800 Veterans Parkway North,Moultrie,GA,31788
 140678,North Georgia Technical College,1500 Georgia Hwy 197 N,Clarkesville,GA,30523
-140696,Oglethorpe University,"4484 Peachtree Road, NE",Atlanta,GA,30319-2797
+140696,Oglethorpe University,4484 Peachtree Road NE,Atlanta,GA,30319-2797
 140720,Paine College,1235 15th St,Augusta,GA,30901-3182
 140818,Piedmont College,1021 Central Ave,Demorest,GA,30535-0010
 140827,Portfolio Center,125 Bennett St NW,Atlanta,GA,30309
@@ -987,15 +987,15 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 141468,Heald College-Honolulu,1500 Kapiolani Blvd,Honolulu,HI,96814
 141486,Chaminade University of Honolulu,3140 Waialae Avenue,Honolulu,HI,96816-1578
 141565,University of Hawaii at Hilo,200 W Kawili St,Hilo,HI,96720-4091
-141574,University of Hawaii at Manoa,"2500 Campus Road, Hawaii Hall",Honolulu,HI,96822-2217
+141574,University of Hawaii at Manoa,2500 Campus Road Hawaii Hall,Honolulu,HI,96822-2217
 141608,Hawaii Institute of Hair Design,1128 Nuuanu Avenue,Honolulu,HI,96817-5195
-141644,Hawaii Pacific University,"1164 Bishop Street, Suite 800",Honolulu,HI,96813
+141644,Hawaii Pacific University,1164 Bishop Street Suite 800,Honolulu,HI,96813
 141680,Honolulu Community College,874 Dillingham Blvd,Honolulu,HI,96817-4505
 141796,Kapiolani Community College,4303 Diamond Head Road,Honolulu,HI,96816-4421
 141802,Kauai Community College,3-1901 Kaumualii Highway,Lihue,HI,96766-9500
 141811,Leeward Community College,96-045 Ala Ike,Pearl City,HI,96782-3366
 141839,University of Hawaii Maui College,310 W Kaahumanu Ave,Kahului,HI,96732-1617
-141848,Med-Assist School of Hawaii Inc,"345 Queen Street, Suite # 400",Honolulu,HI,96813
+141848,Med-Assist School of Hawaii Inc,345 Queen Street Suite # 400,Honolulu,HI,96813
 141936,World Medicine Institute,1073 Hind Iuka Drive,Honolulu,HI,96821
 141945,Travel Institute of the Pacific,1314 S King St Ste 1164,Honolulu,HI,96814
 141963,University of Hawaii System Office,2444 Dole St,Honolulu,HI,96822-2399
@@ -1407,7 +1407,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 155283,Concorde Career College-Kansas City,3239 Broadway,Kansas City,MO,64111-2407
 155292,Kansas City Kansas Community College,7250 State Ave,Kansas City,KS,66112
 155308,Kansas Christian College,7401 Metcalf,Overland Park,KS,66204-1975
-155317,University of Kansas,"Strong Hall, 1450 Jayhawk Blvd, Room 230",Lawrence,KS,66045
+155317,University of Kansas,Strong Hall 1450 Jayhawk Blvd Room 230,Lawrence,KS,66045
 155335,Newman University,3100 McCormick Ave,Wichita,KS,67213-2097
 155353,Old Town Barber College-Wichita,1211 E Douglas,Wichita,KS,67211-1605
 155399,Kansas State University,Anderson Hall,Manhattan,KS,66506
@@ -1645,7 +1645,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 163046,Loyola University Maryland,4501 N Charles St,Baltimore,MD,21210-2699
 163107,Maryland Beauty Academy,152 Chartley Dr,Reisterstown,MD,21136-2331
 163204,University of Maryland-University College,3501 University Blvd East,Adelphi,MD,20783-8010
-163259,"University of Maryland, Baltimore",620 West Lexington St,Baltimore,MD,21201-1627
+163259,University of Maryland Baltimore,620 West Lexington St,Baltimore,MD,21201-1627
 163268,University of Maryland-Baltimore County,1000 Hilltop Circle,Baltimore,MD,21250
 163286,University of Maryland-College Park, ,College Park,MD,20742
 163295,Maryland Institute College of Art,1300 Mount Royal Avenue,Baltimore,MD,21217-4134
@@ -1821,7 +1821,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 168573,Northwestern Technological Institute,24567 Northwestern Hwy Ste 200,Southfield,MI,48075
 168591,Alma College,614 W Superior,Alma,MI,48801-1599
 168607,Alpena Community College,665 Johnson St,Alpena,MI,49707
-168740,Andrews University,"4150 Administration Drive, Room 136",Berrien Springs,MI,49104
+168740,Andrews University,4150 Administration Drive Room 136,Berrien Springs,MI,49104
 168786,Aquinas College,1607 Robinson Road SE,Grand Rapids,MI,49506-1799
 168838,Baker College of Owosso,1020 S. Washington Street,Owosso,MI,48867
 168847,Baker College,1050 West Bristol Road,Flint,MI,48507-5508
@@ -1862,7 +1862,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 170091,Great Lakes Christian College,6211 W Willow Hwy,Lansing,MI,48917-1299
 170240,Henry Ford College,5101 Evergreen Rd,Dearborn,MI,48128-1495
 170286,Hillsdale College,33 E College St,Hillsdale,MI,49242
-170301,Hope College,"100 E. 8th Street, Suite 260",Holland,MI,49422-9000
+170301,Hope College,100 E. 8th Street Suite 260,Holland,MI,49422-9000
 170417,ITT Technical Institute-Wyoming,1980 Metro Court S.W.,Wyoming,MI,49519
 170444,Jackson College,2111 Emmons Rd,Jackson,MI,49201-8399
 170514,Wright Beauty Academy,6666 Lovers Ln,Portage,MI,49002
@@ -2045,7 +2045,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 175980,Millsaps College,1701 N State St,Jackson,MS,39210-0001
 175999,Board of Trustees-Mississippi State Institutions of Higher Learning,3825 Ridgewood Rd,Jackson,MS,39211
 176008,Mississippi Delta Community College,Hwy 3 and Cherry St,Moorhead,MS,38761
-176017,University of Mississippi,"Oxford, Mississippi",University,MS,38677-1848
+176017,University of Mississippi,Oxford Mississippi,University,MS,38677-1848
 176035,Mississippi University for Women,1100 College Street,Columbus,MS,39701
 176044,Mississippi Valley State University,14000 Highway 82 West,Itta Bena,MS,38941-1400
 176053,Mississippi College,200 South Capitol Street,Clinton,MS,39058
@@ -2169,7 +2169,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 179511,St Louis College of Health Careers-St Louis,909 South Taylor Avenue,Saint Louis,MO,63110
 179539,State Fair Community College,3201 W 16th Street,Sedalia,MO,65301-2199
 179548,Stephens College,1200 E Broadway,Columbia,MO,65215
-179557,Southeast Missouri State University,"One University Plaza, MS4675",Cape Girardeau,MO,63701
+179557,Southeast Missouri State University,One University Plaza MS4675,Cape Girardeau,MO,63701
 179566,Missouri State University-Springfield,901 S National,Springfield,MO,65897
 179645,Three Rivers Community College,2080 Three Rivers Blvd,Poplar Bluff,MO,63901
 179715,North Central Missouri College,1301 Main St,Trenton,MO,64683
@@ -2201,7 +2201,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 180391,Modern Beauty School Inc,2036 Mullan Road,Missoula,MT,59808
 180416,Montana Tech of the University of Montana,1300 W Park St,Butte,MT,59701-8997
 180461,Montana State University,Montana State University,Bozeman,MT,59717
-180489,The University of Montana,"Missoula, Montana",Missoula,MT,59812
+180489,The University of Montana,Missoula Montana,Missoula,MT,59812
 180522,Montana State University-Northern,300 W 11th St,Havre,MT,59501
 180595,Rocky Mountain College,1511 Poly Drive,Billings,MT,59102-1796
 180647,Salish Kootenai College,58138 US  Highway 93,Pablo,MT,59855
@@ -2277,7 +2277,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 182999,New England School of Hair Design,12 Interchange Dr,West Lebanon,NH,3784
 183026,Southern New Hampshire University,2500 North River Road,Manchester,NH,03106-1045
 183035,New Hampshire Institute for Therapeutic Arts,153 Lowell Rd,Hudson,NH,3051
-183044,University of New Hampshire-Main Campus,"105 Main St., Thompson Hall",Durham,NH,03824-3547
+183044,University of New Hampshire-Main Campus,105 Main St. Thompson Hall,Durham,NH,03824-3547
 183062,Keene State College,229 Main Street,Keene,NH,03435-1506
 183071,University of New Hampshire at Manchester,88 Commercial Street,Manchester,NH,03101-1113
 183080,Plymouth State University,17 High Street,Plymouth,NH,03264-1595
@@ -2367,7 +2367,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 186335,Roman Academy of Beauty Culture,431 Lafayette Ave,Hawthorne,NJ,7506
 186371,Rutgers University-Camden,406 Penn,Camden,NJ,8102
 186380,Rutgers University-New Brunswick,83 Somerset St,New Brunswick,NJ,08901-1281
-186399,Rutgers University-Newark,"249 University Avenue, Blumenthal Hall",Newark,NJ,7102
+186399,Rutgers University-Newark,249 University Avenue Blumenthal Hall,Newark,NJ,7102
 186405,St Francis Medical Center-School of Radiologic Technology,601 Hamilton Ave,Trenton,NJ,08629-1986
 186423,Saint Francis Medical Center School of Nursing,601 Hamilton Ave,Trenton,NJ,08629-1986
 186432,Saint Peter's University,2641 Kennedy Blvd,Jersey City,NJ,07306-5997
@@ -2391,7 +2391,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 187602,De Wolff College Hair Styling and Cosmetology,1500 Eubank N E,Albuquerque,NM,87112-4413
 187620,New Mexico State University-Dona Ana,2800 N. Sonoma Ranch Blvd.,Las Cruces,NM,88011
 187639,Clovis Community College,417 Schepps Blvd,Clovis,NM,88101-8381
-187648,Eastern New Mexico University-Main Campus,"ENMU Station 2, 1500 S Ave K",Portales,NM,88130
+187648,Eastern New Mexico University-Main Campus,ENMU Station 2 1500 S Ave K,Portales,NM,88130
 187666,Eastern New Mexico University-Roswell Campus,52 University Blvd,Roswell,NM,88202-6000
 187745,Institute of American Indian and Alaska Native Culture,83 Avan Nu Po Road,Santa Fe,NM,87508-1300
 187897,New Mexico Highlands University,University Ave,Las Vegas,NM,87701
@@ -2678,7 +2678,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 196112,SUNY Polytechnic Institute,100 Seymour Rd,Utica,NY,13502
 196121,SUNY College at Brockport,350 New Campus Dr,Brockport,NY,14420-2919
 196130,SUNY Buffalo State,1300 Elmwood Ave,Buffalo,NY,14222
-196149,SUNY College at Cortland,"Miller Administration Building, Graham Avenue",Cortland,NY,13045-0900
+196149,SUNY College at Cortland,Miller Administration Building Graham Avenue,Cortland,NY,13045-0900
 196158,SUNY at Fredonia,280 Central Ave,Fredonia,NY,14063-1136
 196167,SUNY College at Geneseo,1 College Circle,Geneseo,NY,14454-1465
 196176,State University of New York at New Paltz,1 Hawk Drive,New Paltz,NY,12561-2443
@@ -2879,7 +2879,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 200226,Mayville State University,330 Third Street NE,Mayville,ND,58257-1299
 200253,Minot State University,500 University Ave W,Minot,ND,58707
 200262,Moler Barber College,16 S Eighth St,Fargo,ND,58103-1805
-200280,University of North Dakota,"264 Centennial Drive, Stop 8193",Grand Forks,ND,58202-8193
+200280,University of North Dakota,264 Centennial Drive Stop 8193,Grand Forks,ND,58202-8193
 200305,North Dakota State College of Science,800 N 6th St,Wahpeton,ND,58076-0002
 200314,Dakota College at Bottineau,105 Simrall Blvd,Bottineau,ND,58318-1198
 200332,North Dakota State University-Main Campus,1301  12th Avenue North,Fargo,ND,58108-6050
@@ -2988,7 +2988,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 203474,Kent State University at Trumbull,4314 Mahoning Ave N.W.,Warren,OH,44483
 203483,Kent State University at Tuscarawas,330 University Dr N.E.,New Philadelphia,OH,44663-9403
 203492,Kent State University at Salem,2491 State Route 45 South,Salem,OH,44460
-203517,Kent State University at Kent,"Executive Office, 2nd Floor Library",Kent,OH,44242-0001
+203517,Kent State University at Kent,Executive Office 2nd Floor Library,Kent,OH,44242-0001
 203526,Kent State University at Geauga,14111 Claridon-Troy Rd,Burton,OH,44021
 203535,Kenyon College,Kenyon College,Gambier,OH,43022
 203544,Kettering College,3737 Southern Blvd,Kettering,OH,45429-1299
@@ -3378,7 +3378,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 213987,Mercyhurst University,501 E 38th St,Erie,PA,16546
 213996,Messiah College,One College Ave,Mechanicsburg,PA,17055
 214023,Metropolitan Career Center Computer Technology Institute,"100 South Broad Street, Suite 830",Philadelphia,PA,19110
-214041,Millersville University of Pennsylvania,"1 South George Street, Lyle Hall",Millersville,PA,17551-0302
+214041,Millersville University of Pennsylvania,1 South George Street Lyle Hall,Millersville,PA,17551-0302
 214069,Misericordia University,301 Lake St,Dallas,PA,18612-1098
 214111,Montgomery County Community College,340 Dekalb Pike,Blue Bell,PA,19422-0796
 214148,Moore College of Art and Design,20th and the Parkway,Philadelphia,PA,19103-1179
@@ -3521,7 +3521,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 217402,Providence College,1 Cunningham Square,Providence,RI,02918-0001
 217420,Rhode Island College,600 Mount Pleasant Ave,Providence,RI,2908
 217475,Community College of Rhode Island,400 East Ave,Warwick,RI,02886-1807
-217484,University of Rhode Island,"Green Hall, 35 Campus Avenue",Kingston,RI,2881
+217484,University of Rhode Island,Green Hall 35 Campus Avenue,Kingston,RI,2881
 217493,Rhode Island School of Design,2 College St,Providence,RI,02903-2784
 217518,Roger Williams University,One Old Ferry Road,Bristol,RI,02809-2921
 217536,Salve Regina University,100 Ochre Point Avenue,Newport,RI,02840-4192
@@ -3802,7 +3802,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 225849,ITT Technical Institute-Arlington,551 Ryan Plaza Dr,Arlington,TX,76011
 225858,ITT Technical Institute-Houston West,2950 S Gessner,Houston,TX,77063-3751
 225876,Jacksonville College-Main Campus,105 B J Albritton Dr,Jacksonville,TX,75766-4759
-225885,Jarvis Christian College,"PR 7631,Hwy 80 E",Hawkins,TX,75765-1470
+225885,Jarvis Christian College,PR 7631 Hwy 80 E,Hawkins,TX,75765-1470
 225991,KD Conservatory College of Film and Dramatic Arts,2600 Stemmons Fwy Ste 117,Dallas,TX,75207
 226019,Kilgore College,1100 Broadway,Kilgore,TX,75662-3299
 226091,Lamar University,4400 MLK Blvd,Beaumont,TX,77705
@@ -3873,7 +3873,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 228316,Southwest Texas Junior College,2401 Garner Field Rd,Uvalde,TX,78801-6297
 228325,Southwestern Assemblies of God University,1200 Sycamore,Waxahachie,TX,75165
 228343,Southwestern University,1001 University Ave,Georgetown,TX,78626
-228431,Stephen F Austin State University,"2008 Alumin Drive, Rusk 206",Nacogdoches,TX,75961
+228431,Stephen F Austin State University,2008 Alumin Drive Rusk 206,Nacogdoches,TX,75961
 228459,Texas State University,601 University Dr,San Marcos,TX,78666
 228468,Southwestern Adventist University,100 W Hillcrest,Keene,TX,76059
 228486,Southwestern Christian College,200 Bowser Circle,Terrell,TX,75160-4812
@@ -3888,7 +3888,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 228680,Texas State Technical College-Waco,3801 Campus Drive,Waco,TX,76705
 228699,Texarkana College,2500 N Robison Rd,Texarkana,TX,75599
 228705,Texas A & M University-Kingsville,955 University Blvd,Kingsville,TX,78363
-228723,Texas A & M University-College Station,"JKW Administration Building, Suite 100",College Station,TX,77843-1248
+228723,Texas A & M University-College Station,JKW Administration Building Suite 100,College Station,TX,77843-1248
 228732,Texas A & M University-System Office,301 Tarrow,College Station,TX,77840-7896
 228769,The University of Texas at Arlington,701 S. Nedderman Dr.,Arlington,TX,76013
 228778,The University of Texas at Austin,110 Inner Campus Drive,Austin,TX,78712
@@ -3954,7 +3954,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 230728,Utah State University,Old Main Hill,Logan,UT,84322-1400
 230737,Utah Valley University,800 W University Parkway,Orem,UT,84058-5999
 230746,Salt Lake Community College,4600 S Redwood Rd,Salt Lake City,UT,84123
-230764,University of Utah,"201 Presidents Circle, ROOM 201",Salt Lake City,UT,84112-9008
+230764,University of Utah,201 Presidents Circle ROOM 201,Salt Lake City,UT,84112-9008
 230782,Weber State University,3850 Dixon Parkway Dr. Dept. 1031,Ogden,UT,84408-1031
 230807,Westminster College,1840 South 1300 East,Salt Lake City,UT,84105
 230816,Bennington College,One College Drive,Bennington,VT,05201-6003
@@ -4059,7 +4059,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 233842,Union Presbyterian Seminary,3401 Brook Rd,Richmond,VA,23227
 233897,The University of Virginia's College at Wise,1 College Avenue,Wise,VA,24293-4400
 233903,Virginia Highlands Community College,100 VHCC Drive,Abingdon,VA,24212-0828
-233921,Virginia Polytechnic Institute and State University,"210 Burruss Hall, 800 Drillfield Dr.",Blacksburg,VA,24061-0131
+233921,Virginia Polytechnic Institute and State University,210 Burruss Hall 800 Drillfield Dr.,Blacksburg,VA,24061-0131
 233949,Virginia Western Community College,3093 Colonial Ave,Roanoke,VA,24015
 234030,Virginia Commonwealth University,910 W Franklin St,Richmond,VA,23284-2512
 234076,University of Virginia-Main Campus,1827 University Avenue,Charlottesville,VA,22903-2628
@@ -4195,7 +4195,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 237996,West Virginia Junior College-Morgantown,148 Willey St,Morgantown,WV,26505
 238005,International Beauty School 4,201 West King Street,Martinsburg,WV,25401
 238014,West Virginia Northern Community College,1704 Market St.,Wheeling,WV,26003-3699
-238032,West Virginia University,"Stewart Hall, 1500 University Avenue",Morgantown,WV,26506-6201
+238032,West Virginia University,Stewart Hall 1500 University Avenue,Morgantown,WV,26506-6201
 238078,Wheeling Jesuit University,316 Washington Ave,Wheeling,WV,26003
 238096,Wood County School of Practical Nursing,300 Campus Drive,Parkersburg,WV,26104
 238166,Advanced Institute of Hair Design-Glendale,5780 N. Port Washington Rd.,Glendale,WI,53217
@@ -4216,7 +4216,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 238786,Gill-Tech Academy of Hair Design,230 S. McCarthy Rd,Appleton,WI,54914-8613
 238810,The Salon Professional Academy-Eau Claire,3408 Mall Drive,Eau Claire,WI,54701-7633
 238892,ITT Technical Institute-Greenfield,6300 W Layton Ave,Greenfield,WI,53220-4612
-238980,Lakeland College,"W3718 South Drive, Cth M",Plymouth,WI,53073
+238980,Lakeland College,W3718 South Drive Cth M,Plymouth,WI,53073
 239008,Lakeshore Technical College,1290 North Avenue,Cleveland,WI,53015-1414
 239017,Lawrence University,College Ave,Appleton,WI,54911
 239071,Maranatha Baptist University,745 West Main Street,Watertown,WI,53094
@@ -4279,7 +4279,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 240727,University of Wyoming,Corner of Ninth and Ivinson,Laramie,WY,82071
 240736,American Samoa Community College,PO Box 2609,Pago Pago,AS,96799-2609
 240745,Guam Community College,1 Sesame Street,Mangilao,GU,96913
-240754,University of Guam,"303 University Drive, UOG Station",Mangilao,GU,96923
+240754,University of Guam,303 University Drive UOG Station,Mangilao,GU,96923
 240790,Northern Marianas College,As Terlaje Campus,Saipan,MP,96950-1250
 240879,Institute of Beauty Careers,199 Llorens Torres Ave Corner To Coll y Toste St,Arecibo,PR,613
 240985,Educational Technical College-Recinto de Bayamon,1685 CARR #2 KL 11.2,Bayamon,PR,959
@@ -4577,7 +4577,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 366678,ITT Technical Institute-Austin,"6330 Highway 290 East, Ste 150",Austin,TX,78723
 366696,ITT Technical Institute-Houston North,15651 North Freeway,Houston,TX,77090
 366711,California State University-San Marcos,333 S Twin Oaks Valley Rd,San Marcos,CA,92096-0001
-366748,Argosy University-Hawaii,"1001 Bishop Street, Suite 400",Honolulu,HI,96813
+366748,Argosy University-Hawaii,1001 Bishop Street Suite 400,Honolulu,HI,96813
 366793,Baptist Theological Seminary at Richmond,8040 Villa Park Drive,Henrico,VA,23228
 366960,Brightwood College-Modesto,5172 Kiernan Court,Salida,CA,95368
 367024,Kaplan University-Des Moines Campus,4655 121st Street,Urbandale,IA,50323
@@ -5579,7 +5579,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 441760,Lamar Institute of Technology,855 E Lavaca,Beaumont,TX,77705
 441779,MJ's Beauty Academy Inc,3662 W Camp Wisdom Rd,Dallas,TX,75237
 441788,Aviation Institute of Maintenance-Dallas,400 E Airport Freeway,Irving,TX,75061
-441830,Healing Mountain Massage School,"363 South 500 East, Suite 210",Salt Lake City,UT,84102-4002
+441830,Healing Mountain Massage School,363 South 500 East Suite 210,Salt Lake City,UT,84102-4002
 441858,Eastern Virginia Career College,"10304 Spotsylvania Ave, Suite 400",Fredericksburg,VA,22408
 441876,Rudy & Kelly Academy-A Paul Mitchell Partner School,"1920 Centerville Turnpike, Suite 114",Virginia Beach,VA,23464
 441885,Associated Training Services,7190 Elder Lane,Sun Prairie,WI,53590
@@ -5743,7 +5743,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 444662,Moore Career College,11207 Proverbs Ave Ste B,Baton Rouge,LA,70816
 444671,Industrial Technical College,Francisco Vega No. 15,Humacao,PR,791
 444680,Institute of Beauty Occupation and Technology Course,500 Calle Concepcion Vera,Moca,PR,676
-444699,Institute of Clinical Acupuncture & Oriental Med,"100 N. Beretania Street, Suite 203B",Honolulu,HI,96817
+444699,Institute of Clinical Acupuncture & Oriental Med,100 N. Beretania Street Suite 203B,Honolulu,HI,96817
 444705,Institute of Hair Design,1601 1/2 N Harrison,Shawnee,OK,74804
 444714,MedTech Institute-Atlanta Campus,4501 Circle 75 Pky Ste D-4100,Atlanta,GA,30339
 444723,Jones International University,9697 East Mineral Avenue,Centennial,CO,80112
@@ -6483,7 +6483,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 457226,Horizon University,5331 Mt. Alifan Drive,San Diego,CA,92111-2622
 457244,San Diego Culinary Institute,8024 La Mesa Blvd,La Mesa,CA,91942
 457253,Beyond 21st Century Beauty Academy,13640 Imperial Hwy Ste 6-8,Santa Fe Springs,CA,90670
-457271,Academy for Jewish Religion-California,"3250 Wilshire Boulevard, Suite 550",Los Angeles,CA,90010
+457271,Academy for Jewish Religion-California,3250 Wilshire Boulevard Suite 550,Los Angeles,CA,90010
 457299,Angeles College,3440 Wilshire Blvd Ste 310,Los Angeles,CA,90010
 457314,Angeles Institute,"11688 SOUTH STREET, SUITE 205",ARTESIA,CA,90701-6610
 457323,Paul Mitchell the School-Temecula,27536 Ynez Rd Ste E-1,Temecula,CA,92591
@@ -6820,7 +6820,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 461564,Nashville Barber and Style Academy,969 Madison Square,Madison,TN,37115
 461573,American Trade School,3925 Industrial Drive,Saint Ann,MO,63074-1807
 461582,Estelle Skin Care and Spa Institute,"10024 Skokie Blvd, #301",Skokie,IL,60077-9945
-461591,Paul Mitchell the School-Honolulu,"1123 Eleventh Avenue, Suite 102",Honolulu,HI,96816-2433
+461591,Paul Mitchell the School-Honolulu,1123 Eleventh Avenue Suite 102,Honolulu,HI,96816-2433
 461607,Elite Cosmetology School,"56300 Twentynine Palms Highway, Suite 113",Yucca Valley,CA,92284-2860
 461625,American Technical Institute,"Ave Castiglioni U-27, Bayamon Garden",Bayamon,PR,00957-0000
 461643,Bergin University of Canine Studies,5860 Labath Avenue,Rohnert Park,CA,94928
@@ -7188,7 +7188,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 480930,Paul Mitchell the School-Woodbridge,14445 Potomac Mills Road,Woodbridge,VA,22192
 480967,College of the Muscogee Nation,2170 Raven Circle,Okmulgee,OK,74447-0917
 480976,The Salon Professional Academy-Huntsville,"4925 University Drive, Suite 134",Huntsville,AL,35816
-480985,Midwives College of Utah,"1174 East Graystone Way, Suite #2",Salt Lake City,UT,84106
+480985,Midwives College of Utah,1174 East Graystone Way Suite #2,Salt Lake City,UT,84106
 480994,Aspen Beauty Academy of Laurel,3535 Fort Meade Road,Laurel,MD,20724
 481003,M T Training Center,1801 S. Great Southwest Parkway,Grand Prairie,TX,75150-5153
 481021,Berks Career & Technology Center,1057 County Road,Leesport,PA,19533-9112
@@ -7339,7 +7339,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 483230,Fab School,9571 Pittsburgh Avenue,Rancho Cucamonga,CA,91730
 483258,Networks Barber College,508 Burnham Ave,Calumet City,IL,60409
 483276,JB's Hair Design and Barber College,6008 S. Western,Oklahoma City,OK,73139
-483285,Graduate School USA,"600 Maryland Avenue, SW",Washington,DC,20024
+483285,Graduate School USA,600 Maryland Avenue SW,Washington,DC,20024
 483319,Virginia College-Lubbock,5005 50th Street,Lubbock,TX,79414
 483328,Paul Mitchell the School-Lombard,106 Yorktown Center,Lombard,IL,60148
 483337,Paul Mitchell the School-Greenville,1215 A Woodruff Road,Greenville,SC,29607
@@ -7560,7 +7560,7 @@ UNITID,INSTNM,ADDR,CITY,STABBR,ZIP
 486594,Wave Leadership College,1000 North Great Neck Road,Virginia Beach,VA,23454-2140
 486600,Saint Joseph's School of Nursing,816 West Lancaster Boulevard,Lancaster,CA,93534-2304
 486619,Academy of Professional Cosmetology,2600 West Hudson Road Suite A,Rogers,AR,72756-2028
-486691,Empire Beauty School-Northlake,"Briarcliff Village, 2190 Henderson Mill Road",Atlanta,GA,30345-3762
+486691,Empire Beauty School-Northlake,Briarcliff Village, 2190 Henderson Mill Road,Atlanta,GA,30345-3762
 486707,Ross Medical Education Center-Huntsville,"930 Old Monrovia Road, NW",Huntsville,AL,35806-2509
 486716,Ross Medical Education Center-Knoxville,206 N Seven Oaks Dr,Knoxville,TN,37922-2367
 486725,Branford Hall Career Institute-Woodland Park,1225 McBride Ave,Woodland Park,NJ,7424
