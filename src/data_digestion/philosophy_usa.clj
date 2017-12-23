@@ -5,7 +5,6 @@
 
 (def db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/philosophy_usa/OUT/philosophy-usa.db"})
 
-
 (defn drop-completion-table! []
   (if (.exists (io/as-file "resources/philosophy_usa/OUT/philosophy-usa.db"))
       (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"completion\""])) 0)
@@ -17,6 +16,12 @@
       (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"institution\""])) 0)
           (sql/db-do-commands db-spec
             (sql/drop-table-ddl :institution)))))
+
+(defn drop-cipcode-table! []
+  (if (.exists (io/as-file "resources/philosophy_usa/OUT/philosophy-usa.db"))
+      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"cipcode\""])) 0)
+          (sql/db-do-commands db-spec
+            (sql/drop-table-ddl :cipcode)))))
 
 (defn create-completion-table! []
   (sql/db-do-commands db-spec
@@ -36,16 +41,28 @@
        [:city "varchar(64)"]
        [:stabbr "varchar(4)"]
        [:zip "varchar(16)"]])))
-       
+
+(defn create-cipcode-table! []
+  (sql/db-do-commands db-spec
+    (sql/create-table-ddl
+      :cipcode
+      [[:cipcode "varchar(16)"]
+       [:ciptitle "varchar(64)"]])))
 
 (defn load-completion-table! [sq]
   (sql/insert-multi! db-spec :completion sq))
 
 (defn load-institution-table! [sq]
   (sql/insert-multi! db-spec :institution sq))
+
+(defn load-cipcode-table! [sq]
+  (sql/insert-multi! db-spec :cipcode sq))
     
 (defn cmpn-row-map [[inst cip _ _ _ all_cnt]] {:inst inst :cip cip :all_cnt (Integer. all_cnt)})
+
 (defn inst-row-map [[unitid instnm addr city stabbr zip]] {:unitid unitid :instnm instnm :addr addr :city city :stabbr stabbr :zip zip})
+
+(defn cip-row-map  [[_ cipcode ciptitle]] {:cipcode cipcode :ciptitle ciptitle})
 
 (defn -main []
   ;;completions
@@ -62,22 +79,33 @@
   
     (println (sql/query db-spec ["Select Count(*) as completion_table_rows from completion"]))
       
-    (println (sql/query db-spec ["Select Sum(all_cnt) total_completions from completion"]))
-  
-  ;;institutions
+   
+    
+    ;;institutions
     (let [institution-file (slurp "resources/philosophy_usa/in/Institutions_Name_and_Addr.csv")
           i-file-lines (clojure.string/split  institution-file #"\r\n")
           i-file-arrays (map #(clojure.string/split  % #",") i-file-lines)
-          i-file-maps (map inst-row-map (rest i-file-arrays))])
+          i-file-maps (map inst-row-map (rest i-file-arrays))]
         
-    (drop-institution-table!)
+     (drop-institution-table!)
     
-    (create-institution-table!)
+     (create-institution-table!)
     
-    (load-institution-table! i-file-maps)
-    
-    
-    (println (sql/query db-spec ["Select Count(*) as institution_table_rows from institution"]))))
+     (load-institution-table! i-file-maps)
       
-      
+     (println (sql/query db-spec ["Select Count(*) as institution_table_rows from institution"])))
+        
+    ;;cip codes (Classification of Instructional Programs)
+    (let [cipcode_file (slurp "resources/philosophy_usa/in/CIPCode2010_38_only.csv")
+          cip-file-lines (clojure.string/split  cipcode_file #"\r\n")
+          cip-file-arrays (map #(clojure.string/split  % #",") cip-file-lines)
+          cip-file-maps (map cip-row-map (rest cip-file-arrays))]
+        
+     (drop-cipcode-table!)
+    
+     (create-cipcode-table!)
+    
+     (load-cipcode-table! cip-file-maps)
+    
+     (println (sql/query db-spec ["Select Count(*) as cipcode_table_rows from cipcode"])))))
 
