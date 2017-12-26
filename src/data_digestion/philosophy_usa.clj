@@ -34,6 +34,12 @@
       :cipcode
       [[:cipcode "varchar(16)"][:ciptitle "varchar(64)"]])))
 
+(defn create-alcode-table! []
+  (sql/db-do-commands db-spec
+    (sql/create-table-ddl
+      :alcode
+      [[:alcode :int][:alvalue "varchar(64)"]])))
+
 
 (defn load-table! [db sq] (sql/insert-multi! db-spec (keyword db) sq))
     
@@ -42,6 +48,8 @@
 (defn inst-row-map [[unitid instnm addr city stabbr zip]] {:unitid unitid :instnm instnm :addr addr :city city :stabbr stabbr :zip zip})
 
 (defn cip-row-map  [[_ cipcode ciptitle]] {:cipcode cipcode :ciptitle ciptitle})
+
+(defn alcode-row-map  [[alcode alvalue]] {:alcode alcode :alvalue alvalue})
 
 (defn -main []
   ;;completions
@@ -56,33 +64,44 @@
     
     (load-table! "completion" c-file-maps)
   
-    (println (sql/query db-spec ["Select Count(*) as completion_table_rows from completion"]))
+    (println (sql/query db-spec ["Select Count(*) as completion_table_rows from completion"])))
       
     ;;institutions
-    (let [institution-file (slurp "resources/philosophy_usa/in/Institutions_Name_and_Addr.csv")
-          i-file-lines (clojure.string/split  institution-file #"\r\n")
-          i-file-arrays (map #(clojure.string/split  % #",") i-file-lines)
-          i-file-maps (map inst-row-map (rest i-file-arrays))]
-        
-     (drop-table! "institution")
+  (let [institution-file (slurp "resources/philosophy_usa/in/Institutions_Name_and_Addr.csv")
+        i-file-lines (clojure.string/split  institution-file #"\r\n")
+        i-file-arrays (map #(clojure.string/split  % #",") i-file-lines)
+        i-file-maps (map inst-row-map (rest i-file-arrays))]
     
-     (create-institution-table!)
+    (drop-table! "institution")
+    (create-institution-table!)
+    (load-table! "institution" i-file-maps)
     
-     (load-table! "institution" i-file-maps)
-      
-     (println (sql/query db-spec ["Select Count(*) as institution_table_rows from institution"])))
-        
+    (println (sql/query db-spec ["Select Count(*) as institution_table_rows from institution"])))
+    
     ;;cip codes (Classification of Instructional Programs)
-    (let [cipcode_file (slurp "resources/philosophy_usa/in/CIPCode2010_38_only.csv")
-          cip-file-lines (clojure.string/split  cipcode_file #"\r\n")
-          cip-file-arrays (map #(clojure.string/split  % #",") cip-file-lines)
-          cip-file-maps (map cip-row-map (rest cip-file-arrays))]
-        
-     (drop-table! "cipcode")
+  (let [cipcode_file (slurp "resources/philosophy_usa/in/CIPCode2010_38_only.csv")
+        cip-file-lines (clojure.string/split  cipcode_file #"\r\n")
+        cip-file-arrays (map #(clojure.string/split  % #",") cip-file-lines)
+        cip-file-maps (map cip-row-map (rest cip-file-arrays))]
     
-     (create-cipcode-table!)
+    (drop-table! "cipcode")
+    (create-cipcode-table!)
+    (load-table! "cipcode" cip-file-maps)
     
-     (load-table! "cipcode" cip-file-maps)
+    (println (sql/query db-spec ["Select Count(*) as cipcode_table_rows from cipcode"])))
     
-     (println (sql/query db-spec ["Select Count(*) as cipcode_table_rows from cipcode"])))))
-
+    ;;award levels
+  (let [alcode_file (slurp "resources/philosophy_usa/in/Award_Level.csv")
+        alcode-file-lines (clojure.string/split  alcode_file #"\r\n")
+        alcode-file-arrays (map #(clojure.string/split  % #",") alcode-file-lines)
+        alcode-file-maps (map alcode-row-map (rest alcode-file-arrays))]
+    
+    (drop-table! "alcode")
+    (create-alcode-table!)
+    (load-table! "alcode" alcode-file-maps)
+    
+    (println (sql/query db-spec ["Select Count(*) as alcode_table_rows from alcode"]))))
+    
+      
+      
+      
