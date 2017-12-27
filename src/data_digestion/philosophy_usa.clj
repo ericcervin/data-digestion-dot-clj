@@ -15,7 +15,7 @@
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
       :completion
-      [[:inst "varchar(16)"][:cip "varchar(16)"][:all_cnt :int]])))
+      [[:inst "varchar(16)"][:cip "varchar(16)"][:awlevel :int][:all_cnt :int]])))
 
 (defn create-institution-table! []
   (sql/db-do-commands db-spec
@@ -43,7 +43,7 @@
 
 (defn load-table! [db sq] (sql/insert-multi! db-spec (keyword db) sq))
     
-(defn cmpn-row-map [[inst cip _ _ _ all_cnt]] {:inst inst :cip cip :all_cnt (Integer. all_cnt)})
+(defn cmpn-row-map [[inst cip _ awlevel _ all_cnt]] {:inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
 
 (defn inst-row-map [[unitid instnm addr city stabbr zip]] {:unitid unitid :instnm instnm :addr addr :city city :stabbr stabbr :zip zip})
 
@@ -101,6 +101,12 @@
     (load-table! "alcode" alcode-file-maps)
     
     (println (sql/query db-spec ["Select Count(*) as alcode_table_rows from alcode"]))))
+    
+    ;;(println (sql/query db-spec ["Select alcode, alvalue, Count(*) 
+    ;;                             from alcode join completion
+    ;;                             on alcode.alcode = completion.awlevel
+    ;;                             group by alcode, alvalue"]))))
+    
     
       
       
