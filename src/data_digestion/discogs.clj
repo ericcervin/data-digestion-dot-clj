@@ -41,7 +41,7 @@
 
 
 (defn basic-release-info [rl]
-  {:title  (clojure.string/replace (get-in rl ["basic_information" "title"]) #"\t" "")
+  {:title  (clojure.string/replace (get-in rl ["basic_information" "title"]) #"(\t|\")" "")
    :artist (get-in rl ["basic_information" "artists" 0 "name"])
    :label (get-in rl ["basic_information" "labels"  0 "name"])          
    :year   (get-in rl ["basic_information" "year"])
@@ -62,10 +62,10 @@
     ;;drop release table
     (drop-release-table!)
     
-    ;;create release table in mysql
+    ;;create release table in sqlite
     (create-release-table!)
     
-    ;;insert rows in mysql
+    ;;insert rows in sqlite
     (load-release-table! basic-info)
     
     ;;print total rows in table

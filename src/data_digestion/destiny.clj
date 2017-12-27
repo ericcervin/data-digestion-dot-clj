@@ -83,13 +83,13 @@
     ;;drop card table
     (drop-card-table!)
     
-    ;;create card table in mysql
+    ;;create card table in sqlite
     (create-card-table!)
     
-    ;;insert rows in mysql
+    ;;insert rows in sqlite
     (load-card-table! card-map)
     
-    ;;print totals again querying mysql database
+    ;;print totals again querying sqlite database
     (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
 
 
