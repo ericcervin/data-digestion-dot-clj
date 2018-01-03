@@ -83,26 +83,42 @@ Two-Player Game	44	04044	Neutral	General	Flank	Event	false					1			Starter	https
 Two-Player Game	45	04045	Neutral	General	Sound The Alarm	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/04/04045.jpg
 Legacies	28	05028	Villain	General	BB-9E	Support	true					1		[1MD 1ID 1Dr 1Dc Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05028.jpg
 Legacies	60	05060	Neutral	Command	Ground Battalion	Support	false					4		[2RD 2ID 3ID 4ID1 1Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05060.jpg
-Legacies	61	05061	Neutral	Command	Lookout Post	Support	false					2		[+2ID +3ID +3ID 1Sh 1R -]	Rare	
-Legacies	62	05062	Neutral	Command	Auto Cannon	Upgrade	false					3		[3RD1 +4RD1 3ID +4ID 1R -]	Rare	
-Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false					2		[1RD +2RD 2ID 1Sh 1R -]	Rare	
+Legacies	61	05061	Neutral	Command	Lookout Post	Support	false					2		[+2ID +3ID +3ID 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05061.jpg
+Legacies	62	05062	Neutral	Command	Auto Cannon	Upgrade	false					3		[3RD1 +4RD1 3ID +4ID 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05062.jpg
+Legacies	63	05063	Neutral	Command	E-11 Blaster	Upgrade	false					2		[1RD +2RD 2ID 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05063.jpg
 Legacies	64	05064	Neutral	Command	74-Z Speeder Bike	Upgrade	false					2		[2RD1 1F 1F 1Sh 1R -]	Starter	
-Legacies	70	05070	Neutral	General	Modified HWK-290	Support	false					2		[2RD 3RD1 3ID 4ID1 1R -]	Rare	
+Legacies	70	05070	Neutral	General	Modified HWK-290	Support	false					2		[2RD 3RD1 3ID 4ID1 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05070.jpg
 Legacies	71	05071	Neutral	General	Canto Bight Pistol	Upgrade	false					3		[3RD1 2ID 1Sh 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05071.jpg
 Legacies	72	05072	Neutral	General	Hidden Blaster	Upgrade	false					2		[1RD +2RD +2RD 1Dr 1R -]	Starter	
-Legacies	74	05074	Neutral	General	Stun Baton	Upgrade	false					2		[1MD 2MD 1Dr 1Sh 1R -]	Rare	
+Legacies	73	05073	Neutral	General	Hunting Rifle	Upgrade	false					1		[1RD 2RD1 1Dr 1R - -]	Starter	
+Legacies	74	05074	Neutral	General	Stun Baton	Upgrade	false					2		[1MD 2MD 1Dr 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05074.jpg
 Legacies	99	05099	Villain	General	Outnumber	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05099.jpg
 Legacies	136	05136	Neutral	Command	Crackdown	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/05/05136.jpg
 Legacies	137	05137	Neutral	Command	Crash Landing	Event	false					0			Starter	https://swdestinydb.com/bundles/cards/en/05/05137.jpg
+Legacies	138	05138	Neutral	Command	Law and Order	Event	false					3			Common	
 Legacies	139	05139	Neutral	Command	Locked and Loaded	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05139.jpg
 Legacies	140	05140	Neutral	Command	Reinforce	Event	false					1			Uncommon	
 Legacies	141	05141	Neutral	Command	Strength in Numbers	Event	false					2			Common	
+Legacies	142	05142	Neutral	Command	Sudden Impact	Event	false					1			Uncommon	
+Legacies	143	05143	Neutral	Command	Superior Position	Event	false					1			Common	
+Legacies	144	05144	Neutral	Command	Target Intel	Event	false					0			Common	
 Legacies	145	05145	Neutral	Command	Bubble Shield	Support	false					1			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05145.jpg
+Legacies	146	05146	Neutral	Command	Cover Team	Support	false					1			Common	
+Legacies	158	05158	Neutral	General	Defend	Event	false					2			Common	
+Legacies	159	05159	Neutral	General	Dive	Event	false					2			Common	
+Legacies	160	05160	Neutral	General	Ice Storm	Event	false					0			Common	
 Legacies	161	05161	Neutral	General	No Cheating	Event	false					0			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05161.jpg
+Legacies	162	05162	Neutral	General	Shelter	Event	false					1			Common	
+Legacies	163	05163	Neutral	General	Backup Specialist	Support	false					1			Common	
+Legacies	164	05164	Neutral	General	Remote Stockpile	Support	false					1			Common	
 Legacies	165	05165	Neutral	General	Scrap Heap	Support	false					1			Uncommon	
+Legacies	166	05166	Neutral	General	Bodyguard	Upgrade	false					1			Uncommon	
 Legacies	167	05167	Neutral	General	Quickdraw Holster	Upgrade	false					0			Common	
 Legacies	168	05168	Neutral	General	Espionage	Plot	false	1		1	1				Uncommon	https://swdestinydb.com/bundles/cards/en/05/05168.jpg
+Legacies	169	05169	Neutral	General	Fortify	Plot	false	2		2	2				Uncommon	
+Legacies	170	05170	Neutral	General	Preemptive Strike	Plot	false	3		3	3				Uncommon	
 Legacies	171	05171	Neutral	General	Profitable Connection	Plot	false	3		3	3				Uncommon	https://swdestinydb.com/bundles/cards/en/05/05171.jpg
+Legacies	172	05172	Neutral	General	Stolen Intel	Plot	false	2		2	2				Common	
 Legacies	173	05173	Neutral	General	Taking Ground	Plot	false	2		2	2				Common	https://swdestinydb.com/bundles/cards/en/05/05173.jpg
 Rivals	2	06002	Neutral	Command	Lobot	Character	true	10	13	10	13		9	[1RD 1F 1Sh 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06002.jpg
 Rivals	4	06004	Neutral	General	Jawa Scavenger	Character	false	6		6	6		6	[1RD 2RD1 1Dr 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/06/06004.jpg

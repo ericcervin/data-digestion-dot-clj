@@ -65,9 +65,15 @@ Legacies	10	05010	Villain	Command	Kallus	Character	true	14	18	14	18		12	[1RD 2RD
 Legacies	11	05011	Villain	Command	Nute Gunray	Character	true	8	11	8	11		8	[1ID 1F 2Dr 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05011.jpg
 Legacies	12	05012	Villain	Command	Tarkin	Character	true	13	16	13	16		11	[2ID 1F 2F 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05012.jpg
 Legacies	13	05013	Villain	Command	Veteran Stormtrooper	Character	false	9		9	9		9	[1RD 2RD 3ID 1R - -]	Starter	https://swdestinydb.com/bundles/cards/en/05/05013.jpg
-Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false					2		[1Sh 2Sh 1R 1R Sp -]	Rare	
+Legacies	14	05014	Villain	Command	Separatist Landing Craft	Support	false					2		[1Sh 2Sh 1R 1R Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05014.jpg
 Legacies	15	05015	Villain	Command	Fragmentation Grenade	Upgrade	false					1		[1ID 1ID 1ID 2ID 3ID -]	Rare	https://swdestinydb.com/bundles/cards/en/05/05015.jpg
 Legacies	16	05016	Villain	Command	Grand Moff	Upgrade	false					4		[2ID 3ID 2F 3F 2Dc 2R]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05016.jpg
 Legacies	17	05017	Villain	Command	Kallus' Bo-Rifle	Upgrade	true					3		[2RD +4RD1 +3MD +3MD 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/05/05017.jpg
-Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false					2			Uncommon	
+Legacies	84	05084	Villain	Command	Battle Fatigue	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05084.jpg
+Legacies	85	05085	Villain	Command	Crush the Rebellion	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05085.jpg
+Legacies	86	05086	Villain	Command	Imperial Might	Event	false					2			Common	https://swdestinydb.com/bundles/cards/en/05/05086.jpg
+Legacies	87	05087	Villain	Command	Scorched Earth	Event	false					2			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05087.jpg
+Legacies	88	05088	Villain	Command	Shrapnel Blast	Event	false					1			Common	https://swdestinydb.com/bundles/cards/en/05/05088.jpg
+Legacies	89	05089	Villain	Command	Target Practice	Event	false					0			Common	https://swdestinydb.com/bundles/cards/en/05/05089.jpg
 Legacies	90	05090	Villain	Command	Three Steps Ahead	Event	false					3			Uncommon	https://swdestinydb.com/bundles/cards/en/05/05090.jpg
+Legacies	91	05091	Villain	Command	Command Bridge	Support	false					1			Uncommon	
