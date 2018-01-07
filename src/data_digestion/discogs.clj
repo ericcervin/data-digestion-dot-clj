@@ -3,17 +3,13 @@
             [clojure.java.io :as io]
             [clojure.java.jdbc :as sql]))
 
-(def db-spec {:classname "org.sqlite.JDBC"
-              :subprotocol "sqlite"
-              :subname "resources/discogs/OUT/discogs.db"})
+(def db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/discogs/OUT/discogs.db"})
 
-
-
-(defn drop-release-table! []
-  (if (.exists (io/as-file "resources/discogs/OUT/discogs.db"))
-      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"release\""])) 0)
+(defn drop-table! [tbname]
+  (if (.exists (io/as-file (:subname db-spec)))
+      (if (> (count (sql/query db-spec [(str "Select * from sqlite_master where type = \"table\" and name = \"" tbname "\"")])) 0)
           (sql/db-do-commands db-spec
-            (sql/drop-table-ddl :release)))))
+            (sql/drop-table-ddl (keyword tbname))))))
 
 (defn create-release-table! []
   (sql/db-do-commands db-spec
@@ -24,20 +20,16 @@
        [:label "varchar(64)"]
        [:year :int]
        [:dateadded :datetime]]))) 
-       
 
 (defn load-release-table! [mp]
   (sql/insert-multi! db-spec :release mp))
     
-  
 
 (defn export-discog-tsv [file sq]
   (with-open [writer (io/writer file)]
     (.write writer (str (clojure.string/join "\t" ["Title" "Artist" "Label" "Year" "Date Added"]) "\n"))
     (doseq [i sq]
       (.write writer (str (clojure.string/join "\t" [(:title i) (:artist i) (:label i) (:year i) (:dateadded i)]) "\n")))))
-        
-
 
 
 (defn basic-release-info [rl]
@@ -60,7 +52,7 @@
     (export-discog-tsv "resources/discogs/OUT/discogs_list_all.tsv" basic-info)
     
     ;;drop release table
-    (drop-release-table!)
+    (drop-table! "release")
     
     ;;create release table in sqlite
     (create-release-table!)

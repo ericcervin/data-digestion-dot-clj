@@ -5,11 +5,11 @@
 
 (def db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/philosophy_usa/OUT/philosophy-usa.db"})
 
-(defn drop-table! [dbname]
-  (if (.exists (io/as-file "resources/philosophy_usa/OUT/philosophy-usa.db"))
-      (if (> (count (sql/query db-spec [(str "Select * from sqlite_master where type = \"table\" and name = \"" dbname "\"")])) 0)
+(defn drop-table! [tbname]
+  (if (.exists (io/as-file (:subname db-spec)))
+      (if (> (count (sql/query db-spec [(str "Select * from sqlite_master where type = \"table\" and name = \"" tbname "\"")])) 0)
           (sql/db-do-commands db-spec
-            (sql/drop-table-ddl (keyword dbname))))))
+            (sql/drop-table-ddl (keyword tbname))))))
 
 (defn create-completion-table! []
   (sql/db-do-commands db-spec
@@ -101,13 +101,4 @@
     (load-table! "alcode" alcode-file-maps)
     
     (println (sql/query db-spec ["Select Count(*) as alcode_table_rows from alcode"]))))
-    
-    ;;(println (sql/query db-spec ["Select alcode, alvalue, Count(*) 
-    ;;                             from alcode join completion
-    ;;                             on alcode.alcode = completion.awlevel
-    ;;                             group by alcode, alvalue"]))))
-    
-    
-      
-      
-      
+

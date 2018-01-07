@@ -15,11 +15,11 @@
     (merge mp {:c-points c-points :c-1d-points c-1d-points :c-2d-points c-2d-points :c-min-points c-min-points :c-max-points c-max-points})))
   
 
-(defn drop-card-table! []
-  (if (.exists (io/as-file "resources/destiny/OUT/destiny.db"))
-      (if (> (count (sql/query db-spec ["Select * from sqlite_master where type = \"table\" and name = \"card\""])) 0)
+(defn drop-table! [tbname]
+  (if (.exists (io/as-file (:subname db-spec)))
+      (if (> (count (sql/query db-spec [(str "Select * from sqlite_master where type = \"table\" and name = \"" tbname "\"")])) 0)
           (sql/db-do-commands db-spec
-            (sql/drop-table-ddl :card)))))
+            (sql/drop-table-ddl (keyword tbname))))))
 
 (defn create-card-table! []
   (sql/db-do-commands db-spec
@@ -81,7 +81,7 @@
     (export-card-tsv "resources/destiny/OUT/card_list_villian_command_compatible.tsv" villain-command-compatible-cards)
     
     ;;drop card table
-    (drop-card-table!)
+    (drop-table! "card")
     
     ;;create card table in sqlite
     (create-card-table!)
