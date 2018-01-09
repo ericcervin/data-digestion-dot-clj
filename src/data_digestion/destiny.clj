@@ -35,6 +35,7 @@
        [:cSides "varchar(64)"]
        [:typeName "varchar(64)"]
        [:rarity "varchar(64)"]
+       [:text "varchar(256)"]
        [:imgSrc "varchar(64)"]])))
 
 (defn load-card-table! [mp]
@@ -43,7 +44,7 @@
                      :affiliation (get % "affiliation_name") :faction (get % "faction_name")
                      :name (get % "name") :isUnique (get % "is_unique") :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
                      :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cCost (get % "cost") :cHealth (get % "health") :cSides (get % "sides")
-                     :typeName (get % "type_name") :rarity (get % "rarity_name") :imgSrc (get % "imagesrc")) mp)))    
+                     :typeName (get % "type_name") :rarity (get % "rarity_name") :text (get % "text") :imgSrc (get % "imagesrc")) mp)))    
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
@@ -91,5 +92,9 @@
     
     ;;print totals again querying sqlite database
     (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
+    
+    
+    ;;(println (take 6 (sql/query db-spec ["Select name, text from card where cardset = \"Legacies\""])))))
+    
 
 
