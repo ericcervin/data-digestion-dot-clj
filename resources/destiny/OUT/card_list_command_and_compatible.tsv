@@ -11,7 +11,7 @@ Awakenings	17	01017	Villain	General	Infantry Grenades	Upgrade	false					2		[1RD 
 Awakenings	18	01018	Villain	General	Speeder Bike Scout	Support	false					3		[2RD 3RD1 1Dr 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01018.jpg
 Awakenings	27	01027	Hero	Command	Admiral Ackbar	Character	true	10	14	10	14		9	[1RD 2F 1Dc 1R 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01027.jpg
 Awakenings	28	01028	Hero	Command	Leia Organa	Character	true	12	16	12	16		11	[1RD 2RD 2RD1 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01028.jpg
-Awakenings	29	01029	Hero	Command	Poe Dameron	Character	true	16	20	16	20		12	[2RD 3RD1 1Dr 1R Sp -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01029.jpg
+Awakenings	29	01029	Hero	Command	Poe Dameron	Character	true	14	18	14	18		12	[2RD 3RD1 1Dr 1R Sp -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01029.jpg
 Awakenings	30	01030	Hero	Command	Rebel Trooper	Character	false	8		8	8		7	[1RD 2RD +1RD 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/01/01030.jpg
 Awakenings	31	01031	Hero	Command	Launch Bay	Support	false					5		[0RD 0RD 0Dr 0Sh 0Dc -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01031.jpg
 Awakenings	32	01032	Hero	Command	Black One	Support	true					4		[2RD 3RD 1Dr 2Sh Sp -]	Legendary	https://swdestinydb.com/bundles/cards/en/01/01032.jpg
@@ -75,9 +75,9 @@ Awakenings	172	01172	Neutral	General	Mos Eisley Spaceport	Battlefield	false					
 Awakenings	173	01173	Neutral	General	Separatist Base	Battlefield	false								Common	https://swdestinydb.com/bundles/cards/en/01/01173.jpg
 Awakenings	174	01174	Neutral	General	Starship Graveyard	Battlefield	false								Starter	https://swdestinydb.com/bundles/cards/en/01/01174.jpg
 Spirit of Rebellion	1	02001	Villain	Command	Death Trooper	Character	false	10		10	10		10	[1RD 1RD 2RD +2RD 1Dr -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02001.jpg
-Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	true	12	15	12	15		11	[1RD 1MD 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
+Spirit of Rebellion	2	02002	Villain	Command	FN-2199	Character	true	10	13	10	13		11	[1RD 1MD 2MD1 1Sh 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02002.jpg
 Spirit of Rebellion	3	02003	Villain	Command	Director Krennic	Character	true	15	19	15	19		12	[2RD 1F 2Dr 2Dc 1R -]	Legendary	https://swdestinydb.com/bundles/cards/en/02/02003.jpg
-Spirit of Rebellion	4	02004	Villain	Command	Tie Pilot	Character	false	8		8	8		7	[+1RD +2RD +3RD1 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
+Spirit of Rebellion	4	02004	Villain	Command	TIE Pilot	Character	false	8		8	8		7	[+1RD +2RD +3RD1 1F 1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02004.jpg
 Spirit of Rebellion	5	02005	Villain	Command	E-Web Emplacement	Support	false					3		[1RD 1RD1 2RD 2RD1 2Sh -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02005.jpg
 Spirit of Rebellion	6	02006	Villain	Command	Imperial Discipline	Upgrade	false					1		[+1RD +1MD 1Sh 1R +1R -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02006.jpg
 Spirit of Rebellion	7	02007	Villain	Command	DT-29 Heavy Blaster Pistol	Upgrade	false					2		[1RD +2RD +2RD 1Sh Sp -]	Rare	https://swdestinydb.com/bundles/cards/en/02/02007.jpg
@@ -211,7 +211,7 @@ Empire at War	157	03157	Neutral	General	Main Plaza	Battlefield	false								Comm
 Empire at War	158	03158	Neutral	General	Medical Center	Battlefield	false								Uncommon	https://swdestinydb.com/bundles/cards/en/03/03158.jpg
 Empire at War	159	03159	Neutral	General	Port District	Battlefield	false								Uncommon	https://swdestinydb.com/bundles/cards/en/03/03159.jpg
 Empire at War	160	03160	Neutral	General	Weapons Factory Alpha	Battlefield	false								Uncommon	https://swdestinydb.com/bundles/cards/en/03/03160.jpg
-Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	true	10	14	10	14		10	[1RD 2RD 1F 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
+Two-Player Game	2	04002	Villain	Command	Captain Phasma	Character	true	9	13	9	13		10	[1RD 2RD 1F 1R Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04002.jpg
 Two-Player Game	3	04003	Villain	Command	Droid Commandos	Support	false					4		[2RD 3RD 3RD1 2Dc Sp -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04003.jpg
 Two-Player Game	4	04004	Villain	Command	Captain Phasma's Blaster	Upgrade	true					3		[1RD 2RD 3RD1 +3RD 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04004.jpg
 Two-Player Game	5	04005	Villain	Command	Praetorian Guard	Upgrade	false					2		[1MD 1MD +2MD 1Sh 1R -]	Starter	https://swdestinydb.com/bundles/cards/en/04/04005.jpg
