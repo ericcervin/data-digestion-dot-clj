@@ -25,26 +25,36 @@
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
       :card
-      [[:cardSet "varchar(64)"][:position :int][:cardCode "varchar(8)"]
-       [:affiliation "varchar(64)"][:faction "varchar(64)"]
-       [:name "varchar(64)"][:isUnique :int]
-       [:c1dPoints :int][:c2dPoints :int]
+      [[:cardSet "varchar(64)"]
+       [:cardSetCode "varchar(8)"]
+       [:position :int]
+       [:cardCode "varchar(8)"]
+       [:affiliation "varchar(64)"]
+       [:faction "varchar(64)"]
+       [:factionCode "varchar(8)"]
+       [:name "varchar(64)"]
+       [:isUnique :int]
+       [:c1dPoints :int]
+       [:c2dPoints :int]
        [:cMinPoints :int][:cMaxPoints :int]
        [:cCost :int]
        [:cHealth :int]
        [:cSides "varchar(64)"]
        [:typeName "varchar(64)"]
        [:rarity "varchar(64)"]
+       [:rarityCode "varchar(4)"]
        [:text "varchar(256)"]
        [:imgSrc "varchar(64)"]])))
 
 (defn load-card-table! [mp]
   (sql/insert-multi! db-spec :card
-     (map #(hash-map :cardSet (get % "set_name") :position (get % "position") :cardCode (get % "code")
-                     :affiliation (get % "affiliation_name") :faction (get % "faction_name")
-                     :name (get % "name") :isUnique (get % "is_unique") :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) 
-                     :cMinPoints (:c-min-points %) :cMaxPoints (:c-max-points %) :cCost (get % "cost") :cHealth (get % "health") :cSides (get % "sides")
-                     :typeName (get % "type_name") :rarity (get % "rarity_name") :text (get % "text") :imgSrc (get % "imagesrc")) mp)))    
+     (map #(hash-map :cardSet (get % "set_name") :cardSetCode (get % "set_code") :position (get % "position") 
+                     :cardCode (get % "code") :affiliation (get % "affiliation_name") :faction (get % "faction_name") 
+                     :factionCode (get % "faction_code") :name (get % "name") :isUnique (get % "is_unique") 
+                     :c1dPoints (:c-1d-points %) :c2dPoints (:c-2d-points %) :cMinPoints (:c-min-points %) 
+                     :cMaxPoints (:c-max-points %) :cCost (get % "cost") :cHealth (get % "health")
+                     :cSides (get % "sides") :typeName (get % "type_name") :rarity (get % "rarity_name")
+                     :rarityCode (get % "rarity_code") :text (get % "text") :imgSrc (get % "imagesrc")) mp)))    
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
@@ -96,7 +106,7 @@
     (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
     
     
-    ;;(println (take 6 (sql/query db-spec ["Select name, text from card where cardset = \"Legacies\""])))))
+   
     
 
 
