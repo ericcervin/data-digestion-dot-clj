@@ -76,34 +76,37 @@
                                                            (or (= (get % "faction_name") "Command") (= (get % "faction_name") "General")))
                                                       card-map)
         command-and-compatible-cards (filter #(or (= (get % "faction_name") "Command") (= (get % "faction_name") "General"))                                                    
-                                       card-map)]
-    
-    ;;export all json
-    (spit "resources/destiny/OUT/all_cards.json" card-json)
-    
-    ;;write counts of subsets (can compare with totals documented on Destiny wiki)
-    (println (map #(str (first %) " " (count (last %))) (group-by #(get % "set_name") card-map)))
-    
-    ;;some more subtotals
-    (println (map #(str (first %) "\t" (count (last %)) "\n") (group-by #(str (get % "affiliation_name") "-"(get % "faction_name")) card-map)))
-    
-    ;;write reports
-    (export-card-tsv "resources/destiny/OUT/card_list_all.tsv" card-map)
-    (export-card-tsv "resources/destiny/OUT/card_list_villain_command_and_compatible.tsv" villain-command-and-compatible-cards)
-    (export-card-tsv "resources/destiny/OUT/card_list_command_and_compatible.tsv" command-and-compatible-cards)
-    
-    
-    ;;drop card table
-    (drop-table! "card")
-    
-    ;;create card table in sqlite
-    (create-card-table!)
-    
-    ;;insert rows in sqlite
-    (load-card-table! card-map)
-    
-    ;;print totals again querying sqlite database
-    (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
+                                       card-map)
+        
+        rogue-cards (filter #(= (get % "faction_name") "Rogue") card-map)]
+  
+   ;;export all json
+   (spit "resources/destiny/OUT/all_cards.json" card-json)
+  
+   ;;write counts of subsets (can compare with totals documented on Destiny wiki)
+   (println (map #(str (first %) " " (count (last %))) (group-by #(get % "set_name") card-map)))
+  
+   ;;some more subtotals
+   (println (map #(str (first %) "\t" (count (last %)) "\n") (group-by #(str (get % "affiliation_name") "-"(get % "faction_name")) card-map)))
+  
+   ;;write reports
+   (export-card-tsv "resources/destiny/OUT/card_list_all.tsv" card-map)
+   (export-card-tsv "resources/destiny/OUT/card_list_villain_command_and_compatible.tsv" villain-command-and-compatible-cards)
+   (export-card-tsv "resources/destiny/OUT/card_list_command_and_compatible.tsv" command-and-compatible-cards)
+   (export-card-tsv "resources/destiny/OUT/card_list_rogue.tsv" rogue-cards)
+  
+  
+   ;;drop card table
+   (drop-table! "card")
+  
+   ;;create card table in sqlite
+   (create-card-table!)
+  
+   ;;insert rows in sqlite
+   (load-card-table! card-map)
+  
+   ;;print totals again querying sqlite database
+   (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
     
     
    
