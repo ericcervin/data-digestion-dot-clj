@@ -78,7 +78,8 @@
         command-and-compatible-cards (filter #(or (= (get % "faction_name") "Command") (= (get % "faction_name") "General"))                                                    
                                        card-map)
         
-        rogue-cards (filter #(= (get % "faction_name") "Rogue") card-map)]
+        rogue-cards (filter #(= (get % "faction_name") "Rogue") card-map)
+        force-cards (filter #(= (get % "faction_name") "Force") card-map)]
   
    ;;export all json
    (spit "resources/destiny/OUT/all_cards.json" card-json)
@@ -94,19 +95,20 @@
    (export-card-tsv "resources/destiny/OUT/card_list_villain_command_and_compatible.tsv" villain-command-and-compatible-cards)
    (export-card-tsv "resources/destiny/OUT/card_list_command_and_compatible.tsv" command-and-compatible-cards)
    (export-card-tsv "resources/destiny/OUT/card_list_rogue.tsv" rogue-cards)
-  
-  
-   ;;drop card table
-   (drop-table! "card")
-  
-   ;;create card table in sqlite
-   (create-card-table!)
-  
-   ;;insert rows in sqlite
-   (load-card-table! card-map)
-  
-   ;;print totals again querying sqlite database
-   (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
+   (export-card-tsv "resources/destiny/OUT/card_list_force.tsv" force-cards)
+    
+    
+    ;;drop card table
+    (drop-table! "card")
+    
+    ;;create card table in sqlite
+    (create-card-table!)
+    
+    ;;insert rows in sqlite
+    (load-card-table! card-map)
+    
+    ;;print totals again querying sqlite database
+    (println (sql/query db-spec ["Select Count(*), affiliation, faction from card group by affiliation, faction"]))))
     
     
    
