@@ -1,4 +1,5 @@
 ;;virtual team members so not multiple vaders
+;;make sure char-code come through as strings
 ;;add to readme dot md
 
 (ns data-digestion.destiny-every-team  
@@ -130,7 +131,7 @@
 
 (defn dedupe-teams [tms]
   (let [unique-team-map (reduce #(assoc %1 (:team-name %2) %2) {} tms)]
-    (vals unique-team-map)))
+    (sort-by :team-name (vals unique-team-map))))
    
 
 (defn -main []
@@ -143,13 +144,32 @@
         one-char-teams (map new-team all-chars)
         two-char-teams (for [t one-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
                             (add-char-to-team t c))
-        unique-two-char-teams (dedupe-teams two-char-teams)]
-  
-  ;;103 unique. 33 nonunique. 239 one char teams     
-   (println (str (count all-chars) " chars " 
-                 (count unique-chars) " unique chars " 
-                 (count one-char-teams) " one char teams "
-                 (count two-char-teams) " two char teams "
-                 (count unique-two-char-teams) " unique two char teams ")) 
-   (println (take 5 (map :team-name two-char-teams)))))
+        unique-two-char-teams (dedupe-teams two-char-teams)
+        three-char-teams (for [t unique-two-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+                           (add-char-to-team t c))
+        unique-three-char-teams (dedupe-teams three-char-teams)
+        four-char-teams (for [t unique-three-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+                          (add-char-to-team t c))
+        unique-four-char-teams (dedupe-teams four-char-teams)
+        five-char-teams (for [t unique-four-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+                          (add-char-to-team t c))
+        unique-five-char-teams (dedupe-teams five-char-teams)
+        all-unique-teams (concat one-char-teams unique-two-char-teams unique-three-char-teams unique-four-char-teams unique-five-char-teams)
+        teams-26-to-30-points (filter #(and (>= (:team-points %) 26) (<= (:team-points %) 30)) all-unique-teams)]
+    
+    ;;103 unique. 33 nonunique. 239 one char teams     
+    (println (str (count all-chars) " chars \n" 
+               (count unique-chars) " unique chars \n" 
+               (count one-char-teams) " one char teams \n"
+               (count two-char-teams) " two char teams \n"
+               (count unique-two-char-teams) " unique two char teams \n"
+               (count three-char-teams) " three char teams \n"
+               (count unique-three-char-teams) " unique three char teams \n"
+               (count four-char-teams) " four char teams \n"
+               (count unique-four-char-teams) " unique four char teams \n"
+               (count five-char-teams) " five char teams \n"
+               (count unique-five-char-teams) " unique five char teams \n"
+               (count all-unique-teams) " unique teams \n"
+               (count teams-26-to-30-points) " 26 to 30 point teams\n")))) 
+    ;;(println (take 15 (map :team-name unique-five-char-teams)))))
   
