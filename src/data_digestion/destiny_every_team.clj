@@ -1,5 +1,5 @@
 ;;add code to not get PhasmaYoda and YodaPhasma -- only do the combination if they are in alpha order
-;;virtual team members so not multiplevaders
+;;virtual team members so not multiple vaders
 ;;add to readme dot md
 ;;add function that checks that every set of teams is within a range of cost values
 
@@ -100,13 +100,18 @@
         team-mems (:team-mems t)]
     (or (and (= char-uniq 1) (= 0 (count (some #{char-code} team-mems))))
         (= char-uniq 0))))
-
-
       
 (defn valid-new-mem? [t c]
   (and (unique-to-team? t c)
        (affiliation-compatible? t c)))
        
+(defn within-point-limit? [t c low high]
+  (let [team-points (:team-points t)
+        char-points (:char-points c)
+        total-points (+ team-points char-points)]
+     (and (>= total-points low) (<= total-points high))))
+  
+  
 
 (defn add-char-to-team [t,c]
   (let [team-name (str (:team-name t) "_" (:char-name c))
@@ -130,7 +135,7 @@
         all-chars (concat one-dice-chars two-dice-chars)
         
         one-char-teams (map new-team all-chars)
-        two-char-teams (for [t one-char-teams c all-chars :when (valid-new-mem? t c)]
+        two-char-teams (for [t one-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
                             (add-char-to-team t c))]
   
   ;;103 unique. 33 nonunique. 239 one char teams     
