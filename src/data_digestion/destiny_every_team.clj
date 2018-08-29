@@ -1,7 +1,5 @@
-;;add code to not get PhasmaYoda and YodaPhasma -- only do the combination if they are in alpha order
 ;;virtual team members so not multiple vaders
 ;;add to readme dot md
-;;add function that checks that every set of teams is within a range of cost values
 
 (ns data-digestion.destiny-every-team  
   (:require [clojure.data.json :as json]
@@ -114,7 +112,11 @@
   
 
 (defn add-char-to-team [t,c]
-  (let [team-name (str (:team-name t) "_" (:char-name c))
+  (let [old-team-name (:team-name t)
+        char-name (:char-name c)
+        split-old-team-name (clojure.string/split old-team-name #"_")
+        all-names (conj split-old-team-name char-name)
+        team-name (apply str (interpose "_" (sort all-names)))
         old-team-affiliation (:team-affiliation t)
         team-affiliation (if (=  old-team-affiliation "Neutral") 
                              (:char-affiliation c)
@@ -126,6 +128,10 @@
     :team-points team-points
     :team-mems team-mems}))
 
+(defn dedupe-teams [tms]
+  (let [unique-team-map (reduce #(assoc %1 (:team-name %2) %2) {} tms)]
+    (vals unique-team-map)))
+   
 
 (defn -main []
   (let [chars (character-query)
@@ -136,12 +142,14 @@
         
         one-char-teams (map new-team all-chars)
         two-char-teams (for [t one-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
-                            (add-char-to-team t c))]
+                            (add-char-to-team t c))
+        unique-two-char-teams (dedupe-teams two-char-teams)]
   
   ;;103 unique. 33 nonunique. 239 one char teams     
    (println (str (count all-chars) " chars " 
                  (count unique-chars) " unique chars " 
                  (count one-char-teams) " one char teams "
-                 (count two-char-teams) " two char teams ")) 
+                 (count two-char-teams) " two char teams "
+                 (count unique-two-char-teams) " unique two char teams ")) 
    (println (take 5 (map :team-name two-char-teams)))))
   
