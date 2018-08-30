@@ -1,6 +1,7 @@
 ;;virtual team members so not multiple vaders
 ;;make sure char-code come through as strings
 ;;add to readme dot md
+;;add holocron point changes
 
 (ns data-digestion.destiny-every-team  
   (:require [clojure.data.json :as json]
@@ -45,7 +46,8 @@
            "08134" {:nickname "Han3" :dupes ["01046" "05046" "08134"]}})
 
 (defn character-query [] (let [db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/destiny/OUT/destiny.db"}
-                               qry "Select cardsetcode, position, isunique, cardcode, name, factioncode, affiliation, cminpoints, cmaxpoints
+                               qry "Select cardsetcode, position, isunique, cardcode, name, 
+                                    factioncode, affiliation, cminpoints, cmaxpoints, cHealth
                                     from card 
                                     where typename = \"Character\" "
                                results (sql/query db-spec [qry] {:as-arrays? false})]
@@ -63,25 +65,35 @@
         short-char-name (clojure.string/replace name #" " "")
         char-name (if (= dice 2)  (str "e" short-char-name) short-char-name)
         char-affiliation (:affiliation c)
+        char-faction (:factioncode c)
         char-points (if (= dice 2) (:cmaxpoints c) (:cminpoints c))
         char-code (:cardcode c)
-        char-uniq (:isunique c)]
+        char-uniq (:isunique c)
+        char-health (:chealth c)]
     {:char-name char-name 
      :char-affiliation char-affiliation
+     :char-faction char-faction
      :char-points char-points
      :char-code char-code
-     :char-uniq char-uniq}))
+     :char-uniq char-uniq
+     :char-health char-health}))
 
 
 (defn new-team [c]
   (let [team-name (:char-name c)
         team-affiliation (:char-affiliation c)
+        team-faction (conj #{} (:char-faction c))
+        team-faction-count (count team-faction)
         team-points (:char-points c)
-        team-mems [(:char-code c)]]
+        team-mems [(:char-code c)]
+        team-health (:char-health c)]
    {:team-name team-name 
     :team-affiliation team-affiliation
+    :team-faction team-faction
+    :team-faction-count team-faction-count
     :team-points team-points
-    :team-mems team-mems}))
+    :team-mems team-mems
+    :team-health team-health}))
 
 
 
@@ -122,12 +134,18 @@
         team-affiliation (if (=  old-team-affiliation "Neutral") 
                              (:char-affiliation c)
                              old-team-affiliation)
+        team-faction (conj (:team-faction t) (:char-faction c))
+        team-faction-count (count team-faction)
         team-points (+ (:team-points t) (:char-points c))
-        team-mems (conj (:team-mems t) (:char-code c))]
+        team-mems (conj (:team-mems t) (:char-code c))
+        team-health (+ (:team-health t) (:char-health c))]
    {:team-name team-name 
     :team-affiliation team-affiliation
+    :team-faction team-faction
+    :team-faction-count team-faction-count
     :team-points team-points
-    :team-mems team-mems}))
+    :team-mems team-mems
+    :team-health team-health}))
 
 (defn dedupe-teams [tms]
   (let [unique-team-map (reduce #(assoc %1 (:team-name %2) %2) {} tms)]
@@ -143,33 +161,33 @@
         
         one-char-teams (map new-team all-chars)
         two-char-teams (for [t one-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
-                            (add-char-to-team t c))
-        unique-two-char-teams (dedupe-teams two-char-teams)
-        three-char-teams (for [t unique-two-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
-                           (add-char-to-team t c))
-        unique-three-char-teams (dedupe-teams three-char-teams)
-        four-char-teams (for [t unique-three-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
-                          (add-char-to-team t c))
-        unique-four-char-teams (dedupe-teams four-char-teams)
-        five-char-teams (for [t unique-four-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
-                          (add-char-to-team t c))
-        unique-five-char-teams (dedupe-teams five-char-teams)
-        all-unique-teams (concat one-char-teams unique-two-char-teams unique-three-char-teams unique-four-char-teams unique-five-char-teams)
-        teams-26-to-30-points (filter #(and (>= (:team-points %) 26) (<= (:team-points %) 30)) all-unique-teams)]
+                         (add-char-to-team t c))]
+        ;;unique-two-char-teams (dedupe-teams two-char-teams)]))
+        ;;three-char-teams (for [t unique-two-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+        ;;                   (add-char-to-team t c)]))
+        ;;unique-three-char-teams (dedupe-teams three-char-teams)
+        ;;four-char-teams (for [t unique-three-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+        ;;                  (add-char-to-team t c))
+        ;;unique-four-char-teams (dedupe-teams four-char-teams)
+        ;;five-char-teams (for [t unique-four-char-teams c all-chars :when (and (valid-new-mem? t c) (within-point-limit? t c 0 30))]
+        ;;                  (add-char-to-team t c))
+        ;;unique-five-char-teams (dedupe-teams five-char-teams)
+        ;;all-unique-teams (concat one-char-teams unique-two-char-teams unique-three-char-teams unique-four-char-teams unique-five-char-teams)
+        ;;teams-26-to-30-points (filter #(and (>= (:team-points %) 26) (<= (:team-points %) 30)) all-unique-teams)]
     
     ;;103 unique. 33 nonunique. 239 one char teams     
-    (println (str (count all-chars) " chars \n" 
-               (count unique-chars) " unique chars \n" 
-               (count one-char-teams) " one char teams \n"
-               (count two-char-teams) " two char teams \n"
-               (count unique-two-char-teams) " unique two char teams \n"
-               (count three-char-teams) " three char teams \n"
-               (count unique-three-char-teams) " unique three char teams \n"
-               (count four-char-teams) " four char teams \n"
-               (count unique-four-char-teams) " unique four char teams \n"
-               (count five-char-teams) " five char teams \n"
-               (count unique-five-char-teams) " unique five char teams \n"
-               (count all-unique-teams) " unique teams \n"
-               (count teams-26-to-30-points) " 26 to 30 point teams\n")))) 
-    ;;(println (take 15 (map :team-name unique-five-char-teams)))))
+    ;; (println (str (count all-chars) " chars \n" 
+    ;;            (count unique-chars) " unique chars \n" 
+    ;;            (count one-char-teams) " one char teams \n"
+    ;;            (count two-char-teams) " two char teams \n"
+    ;;            (count unique-two-char-teams) " unique two char teams \n"
+    ;;            (count three-char-teams) " three char teams \n"
+    ;;            (count unique-three-char-teams) " unique three char teams \n"
+    ;;            (count four-char-teams) " four char teams \n"
+    ;;            (count unique-four-char-teams) " unique four char teams \n"
+    ;;            (count five-char-teams) " five char teams \n"
+    ;;            (count unique-five-char-teams) " unique five char teams \n"
+    ;;            (count all-unique-teams) " unique teams \n"
+    ;;            (count teams-26-to-30-points) " 26 to 30 point teams\n")] 
+    (println (take 5 two-char-teams))))
   
