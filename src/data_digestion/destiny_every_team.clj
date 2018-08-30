@@ -45,6 +45,16 @@
            "07088" {:nickname "Anakin2" :dupes ["01010" "02010" "06001" "07088"]}
            "08134" {:nickname "Han3" :dupes ["01046" "05046" "08134"]}})
 
+
+(def force-balance
+    {"05029" 1
+     "04002" 1
+     "03040" 1
+     "02021" 1
+     "02002" 2
+     "01029" 2})
+
+
 (defn character-query [] (let [db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/destiny/OUT/destiny.db"}
                                qry "Select cardsetcode, position, isunique, cardcode, name, 
                                     factioncode, affiliation, cminpoints, cmaxpoints, cHealth
@@ -61,13 +71,15 @@
 
 
 (defn new-char [c,dice]
-  (let [name (char-nickname c)
+  (let [char-code (:cardcode c)
+        name (char-nickname c)
         short-char-name (clojure.string/replace name #" " "")
         char-name (if (= dice 2)  (str "e" short-char-name) short-char-name)
         char-affiliation (:affiliation c)
         char-faction (:factioncode c)
         char-points (if (= dice 2) (:cmaxpoints c) (:cminpoints c))
-        char-code (:cardcode c)
+        f-bal (get force-balance char-code 0)
+        char-points (+ char-points f-bal)
         char-uniq (:isunique c)
         char-health (:chealth c)]
     {:char-name char-name 
@@ -189,5 +201,5 @@
     ;;            (count unique-five-char-teams) " unique five char teams \n"
     ;;            (count all-unique-teams) " unique teams \n"
     ;;            (count teams-26-to-30-points) " 26 to 30 point teams\n")] 
-    (println (take 5 two-char-teams))))
+    (println (take 100 two-char-teams))))
   
