@@ -170,6 +170,14 @@
   (let [unique-team-map (reduce #(assoc %1 (:team-name %2) %2) {} tms)]
     (sort-by :team-name (vals unique-team-map))))
    
+(defn export-team-tsv [file mp]
+  (with-open [writer (io/writer file)]
+    (.write writer (str (clojure.string/join "\t" ["Team" "Affiliation" "Faction Count" "Factions" "Health" "Points"]) "\n"))
+    (doseq [i mp]
+      (let [{team-name :team-name team-affiliation :team-affiliation team-faction-count :team-faction-count
+             team-faction :team-faction team-health :team-health team-points :team-points} i
+            team-faction (clojure.string/join "_" (sort team-faction))] 
+        (.write writer (str (clojure.string/join "\t" [team-name team-affiliation team-faction-count team-faction team-health team-points]) "\n"))))))  
 
 (defn -main []
   (let [chars (character-query)
@@ -195,18 +203,21 @@
         teams-26-to-30-points (filter #(and (>= (:team-points %) 26) (<= (:team-points %) 30)) all-unique-teams)]
     
     ;;103 unique. 33 nonunique. 239 one char teams     
-     (println (str (count all-chars) " chars \n" 
-                (count unique-chars) " unique chars \n" 
-                (count one-char-teams) " one char teams \n"
-                (count two-char-teams) " two char teams \n"
-                (count unique-two-char-teams) " unique two char teams \n"
-                (count three-char-teams) " three char teams \n"
-                (count unique-three-char-teams) " unique three char teams \n"
-                (count four-char-teams) " four char teams \n"
-                (count unique-four-char-teams) " unique four char teams \n"
-                (count five-char-teams) " five char teams \n"
-                (count unique-five-char-teams) " unique five char teams \n"
-                (count all-unique-teams) " unique teams \n"
-                (count teams-26-to-30-points) " 26 to 30 point teams\n")) 
-    (println (take 5 teams-26-to-30-points))))
+     (println (str 
+                ;;(count all-chars) " chars \n" 
+                ;;(count unique-chars) " unique chars \n" 
+                ;;(count one-char-teams) " one char teams \n"
+                ;;(count two-char-teams) " two char teams \n"
+                ;;(count unique-two-char-teams) " unique two char teams \n"
+                ;;(count three-char-teams) " three char teams \n"
+                ;;(count unique-three-char-teams) " unique three char teams \n"
+                ;;(count four-char-teams) " four char teams \n"
+                ;;(count unique-four-char-teams) " unique four char teams \n"
+                ;;(count five-char-teams) " five char teams \n"
+                ;;(count unique-five-char-teams) " unique five char teams \n"
+                ;;(count all-unique-teams) " unique teams \n"
+                (count teams-26-to-30-points) " 26 to 30 point teams\n"))
+    (export-team-tsv "resources/destiny/OUT/every_team_26_to_30_pts.tsv" teams-26-to-30-points)))  
+    
+    ;;(println (take 5 teams-26-to-30-points))))
   
