@@ -9,6 +9,9 @@ destiny.clj - Downloads Star Wars Destiny game data from api.
               Exports data to local SQLite database.
               
 
+destiny_every_team.clj - Pulls all Star Wars characters from the SQLite database from destiny.clj.
+                         Considering the rules of Star Wars Destiny, exports every possible character team.
+
 discogs.clj - Downloads list of releases in my record collection using the Discogs api.
               Exports basic release information into a tsv file.
               Exports data to local SQLite database.
