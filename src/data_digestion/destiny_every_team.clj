@@ -1,6 +1,3 @@
-;;add to readme dot md
-
-
 (ns data-digestion.destiny-every-team  
   (:require [clojure.data.json :as json]
             [clojure.java.io :as io]
@@ -73,7 +70,7 @@
         char-aliases (get-in char-nicknames [char-code :dupes] [char-code])
         name (char-nickname c)
         short-char-name (clojure.string/replace name #" " "")
-        char-name (if (= dice 2)  (str "e" short-char-name) short-char-name)
+        char-name (if (= dice 2)  (str "E" short-char-name) short-char-name)
         char-affiliation (:affiliation c)
         char-faction (:factioncode c)
         char-points (if (= dice 2) (:cmaxpoints c) (:cminpoints c))
@@ -158,7 +155,7 @@
         team-mems (conj (:team-mems t) (:char-code c))
         team-health (+ (:team-health t) (:char-health c))]
    {:team-name team-name 
-    :team-alaises team-aliases
+    :team-aliases team-aliases
     :team-affiliation team-affiliation
     :team-faction team-faction
     :team-faction-count team-faction-count
@@ -172,12 +169,14 @@
    
 (defn export-team-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Team" "Affiliation" "Faction Count" "Factions" "Health" "Points"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Team" "Affiliation" "Faction Count" "Affiliation/Faction Count" "Factions" "Member Count" "Health" "Points"]) "\n"))
     (doseq [i mp]
       (let [{team-name :team-name team-affiliation :team-affiliation team-faction-count :team-faction-count
-             team-faction :team-faction team-health :team-health team-points :team-points} i
-            team-faction (clojure.string/join "_" (sort team-faction))] 
-        (.write writer (str (clojure.string/join "\t" [team-name team-affiliation team-faction-count team-faction team-health team-points]) "\n"))))))  
+             team-faction :team-faction team-health :team-health team-mems :team-mems team-points :team-points} i
+            team-faction (clojure.string/join "_" (sort team-faction))
+            team-member-count (count team-mems)
+            team_affiliation_faction_count (str team-affiliation "_" team-faction-count)] 
+        (.write writer (str (clojure.string/join "\t" [team-name team-affiliation team-faction-count team_affiliation_faction_count team-faction team-member-count team-health team-points]) "\n"))))))  
 
 (defn -main []
   (let [chars (character-query)
@@ -219,5 +218,5 @@
                 (count teams-26-to-30-points) " 26 to 30 point teams\n"))
     (export-team-tsv "resources/destiny/OUT/every_team_26_to_30_pts.tsv" teams-26-to-30-points)))  
     
-    ;;(println (take 5 teams-26-to-30-points))))
+    ;;(println (filter #(= "Anakin1_Anakin2_CassianAndor" (:team-name %)) teams-26-to-30-points))))
   
