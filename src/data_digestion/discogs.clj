@@ -41,11 +41,11 @@
    
 
 (defn -main []
-  (let  [discog-json (slurp "https://api.discogs.com/users/ericcervin/collection")
+  (let  [discog-json (slurp "https://api.discogs.com/users/ericcervin/collection/folders/0/releases")
          discog-map  (json/read-str discog-json)
          page-count  (get-in discog-map ["pagination" "pages"])
          page-seq (for [i (range 1 (inc page-count))]
-                       (slurp (str "https://api.discogs.com/users/ericcervin/collection?per_page=50&page=" i)))
+                       (slurp (str "https://api.discogs.com/users/ericcervin/collection/folders/0/releases?per_page=50&page=" i)))
          basic-info (flatten (map #(map basic-release-info (get (json/read-str %) "releases")) page-seq))]
     
     ;;write tsv report
