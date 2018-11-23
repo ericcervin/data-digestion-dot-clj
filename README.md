@@ -24,3 +24,8 @@ gematria.clj - See: https://en.wikipedia.org/wiki/Gematria
 philosophy_usa.clj - Imports data taken from National Center for Education Statistics.
                      #s of philosophy/religious studies degrees 
                      completed at US universities in the 2014 - 2015 academic year.
+                     
+wh_champions.clj - Downloads Warhammer Age of Sigmar: Champions game data from api. 
+                   Makes local copy of all JSON data.
+                   Exports files containing useful (to me) subsets of that data. 
+                   
