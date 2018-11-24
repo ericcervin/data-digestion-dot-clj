@@ -28,4 +28,5 @@ philosophy_usa.clj - Imports data taken from National Center for Education Stati
 wh_champions.clj - Downloads Warhammer Age of Sigmar: Champions game data from api. 
                    Makes local copy of all JSON data.
                    Exports files containing useful (to me) subsets of that data. 
-                   
+                   Exports data to local SQLite database.
+
