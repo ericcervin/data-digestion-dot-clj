@@ -1,27 +1,69 @@
-Number	Faction	Category	Name
-26	Death	Champion	Skulking Necromancer
-27	Death	Champion	Keldrek, the Knight of Shrouds
-29	Death	Champion	Bloody Vampire Queen
-89	Death	Unit	Ethereal Horde
-93	Death	Unit	Frenzied Vargheist
-97	Death	Unit	Murderous Vargheist
-101	Death	Unit	Skeletal Legion
-104	Death	Unit	Zombie Dragon
-160	Death	Spell	Born from Blood
-164	Death	Spell	Grave Call
-165	Death	Spell	Return of the Fallen
-213	Death	Ability	Frightful Strike
-243	Death	Blessing	Armies of the Dead
-25	Death	Champion	Hungering Vampire Lord
-31	Death	Champion	Neferata, Mortarch of Blood
-86	Death	Unit	Charging Black Knight
-90	Death	Unit	Fearsome Crypt Flayer
-98	Death	Unit	Ravenous Crypt Ghoul
-99	Death	Unit	Shrieking Terrorgheist
-100	Death	Unit	Skeletal Icon Bearer
-102	Death	Unit	Skeleton Warriors
-162	Death	Spell	Dark Mist
-163	Death	Spell	Frightful Touch
-209	Death	Ability	Commanding the Dead
-214	Death	Ability	Serve in Death
-251	Death	Blessing	Supernatural Horror
+Number	Faction	Category	Class	Name	Rarity
+26	Death	Champion	Wizard	Skulking Necromancer	Common
+27	Death	Champion	Warrior	Keldrek, the Knight of Shrouds	Rare
+29	Death	Champion	Warrior Wizard	Bloody Vampire Queen	Rare
+89	Death	Unit		Ethereal Horde	Common
+93	Death	Unit		Frenzied Vargheist	Rare
+97	Death	Unit		Murderous Vargheist	Common
+101	Death	Unit		Skeletal Legion	Uncommon
+104	Death	Unit		Zombie Dragon	Common
+160	Death	Spell		Born from Blood	Uncommon
+164	Death	Spell		Grave Call	Common
+165	Death	Spell		Return of the Fallen	Common
+213	Death	Ability	Warrior	Frightful Strike	Rare
+243	Death	Blessing		Armies of the Dead	Uncommon
+25	Death	Champion	Warrior Wizard	Hungering Vampire Lord	Uncommon
+31	Death	Champion	Warrior Wizard	Neferata, Mortarch of Blood	Rare
+86	Death	Unit		Charging Black Knight	Uncommon
+90	Death	Unit		Fearsome Crypt Flayer	Rare
+98	Death	Unit		Ravenous Crypt Ghoul	Common
+99	Death	Unit		Shrieking Terrorgheist	Rare
+100	Death	Unit		Skeletal Icon Bearer	Uncommon
+102	Death	Unit		Skeleton Warriors	Uncommon
+162	Death	Spell		Dark Mist	Uncommon
+163	Death	Spell		Frightful Touch	Uncommon
+209	Death	Ability	Wizard	Commanding the Dead	Common
+214	Death	Ability	Any	Serve in Death	Uncommon
+251	Death	Blessing		Supernatural Horror	Common
+19	Death	Champion	Warrior	Spirit Torment	Common
+22	Death	Champion	Warrior	Crypt Haunter Courtier	Common
+94	Death	Unit		Grimghast Reapers	Common
+96	Death	Unit		Infected Terrorgheist	Rare
+159	Death	Spell		Black Hunger	Rare
+161	Death	Spell		Claws of the Grave	Rare
+168	Death	Spell		Soul Stealer	Common
+207	Death	Ability	Warrior	Bloody Thirst	Uncommon
+210	Death	Ability	Warrior	Cursed Strike	Common
+211	Death	Ability	Wizard	Deathly Resolve	Rare
+212	Death	Ability	Any	Devour	Common
+244	Death	Blessing		Carrion Feast	Common
+250	Death	Blessing		Orb of Immortality	Exclusive
+18	Death	Champion	Warrior	Hell Knight	Common
+20	Death	Champion	Warrior	Barrows Wight King	Uncommon
+23	Death	Champion	Warrior	Varghulf Courtier	Uncommon
+24	Death	Champion	Warrior	Reaping Cairn Wraith	Uncommon
+30	Death	Champion	Warrior Wizard	Coven Throne	Rare
+87	Death	Unit		Crypt Shield Black Knight	Common
+91	Death	Unit		Feasting Vargheist	Common
+92	Death	Unit		Freakish Crypt Horror	Common
+95	Death	Unit		Hungry Fell Bats	Uncommon
+103	Death	Unit		Unhallowed Mortis Engine	Rare
+167	Death	Spell		Soul Feast	Uncommon
+208	Death	Ability	Any	Call of the Grave	Common
+246	Death	Blessing		Cursed Altar	Uncommon
+253	Death	Blessing		Turmoil of Souls	Common
+17	Death	Champion	Warrior	Skeleton Champion	Common
+21	Death	Champion	Warrior	Crypt Infernal Courtier	Common
+28	Death	Champion	Warrior Wizard	Abhorrant Ghoul King	Uncommon
+32	Death	Champion	Wizard	Nagash, Supreme Lord of the Undead	Rare
+85	Death	Unit		Bat Swarm	Common
+88	Death	Unit		Crypt Shield Skeletons	Uncommon
+166	Death	Spell		Scrying Pool	Common
+169	Death	Spell		Terrify	Rare
+170	Death	Spell		Unholy Vitality	Common
+245	Death	Blessing		Cloak of Mists and Shadows	Uncommon
+247	Death	Blessing		Deathless Thralls	Common
+248	Death	Blessing		Morbid Terror	Common
+249	Death	Blessing		Necromantic Bloodline	Common
+252	Death	Blessing		The Royal Hunt	Uncommon
+254	Death	Blessing		Unholy Power	Uncommon

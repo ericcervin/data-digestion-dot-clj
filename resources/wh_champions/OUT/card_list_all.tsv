@@ -1,101 +1,279 @@
-Number	Faction	Category	Name
-1	Chaos	Champion	Chaos Champion
-4	Chaos	Champion	Bloodreaver Chieftain
-5	Chaos	Champion	Exalted Deathbringer
-6	Chaos	Champion	Blood Throne of Khorne
-10	Chaos	Champion	Valkia the Bloody
-26	Death	Champion	Skulking Necromancer
-27	Death	Champion	Keldrek, the Knight of Shrouds
-29	Death	Champion	Bloody Vampire Queen
-39	Destruction	Champion	Frenzied Warchanter
-41	Destruction	Champion	Kunnin' Grot Shaman
-42	Destruction	Champion	Rip-Tooth Megaboss
-47	Destruction	Champion	Megaboss on Maw-Krusha
-48	Destruction	Champion	Gordrakk, Fist of Gork
-49	Order	Champion	Liberator-Prime
-59	Order	Champion	Vandus Hammerhand
-75	Chaos	Unit	Pack of Bloodletters
-83	Chaos	Unit	Twisting Screamer
-89	Death	Unit	Ethereal Horde
-93	Death	Unit	Frenzied Vargheist
-97	Death	Unit	Murderous Vargheist
-101	Death	Unit	Skeletal Legion
-104	Death	Unit	Zombie Dragon
-106	Destruction	Unit	Banner Carrier
-110	Destruction	Unit	Crowded Wolf Chariot
-112	Destruction	Unit	Gore-Choppa Brute
-115	Destruction	Unit	Orruk Scrappers
-120	Destruction	Unit	Stomping Maw-Krusha
-122	Destruction	Unit	Sweeping Gore-Grunta
-125	Order	Unit	Aetherwing Scout
-126	Order	Unit	Akhelian Barrier Guard
-145	Any	Spell	Arcane Bolt
-156	Chaos	Spell	Rejoice in Slaughter
-157	Chaos	Spell	Searing Firestorm
-160	Death	Spell	Born from Blood
-164	Death	Spell	Grave Call
-165	Death	Spell	Return of the Fallen
-175	Destruction	Spell	Feast of Mork
-177	Destruction	Spell	Gaze of Mork
-182	Destruction	Spell	War Chant
-185	Order	Spell	Light of Sigmar
-189	Order	Spell	Searing Light
-191	Order	Spell	Stand Fast
-205	Chaos	Ability	Gift of Change
-213	Death	Ability	Frightful Strike
-216	Destruction	Ability	Grot Ambush
-220	Destruction	Ability	Reckless Inspiration
-234	Chaos	Blessing	Favour of the Gods
-242	Chaos	Blessing	Wanton Destruction
-243	Death	Blessing	Armies of the Dead
-258	Destruction	Blessing	Frenzied Charge
-272	Order	Blessing	Lliandra's Last Lament
-273	Order	Blessing	Pennant of Sigmaron
-276	Order	Blessing	Storm's Descent
-15	Chaos	Champion	Bloodthirster of Unfettered Fury
-25	Death	Champion	Hungering Vampire Lord
-31	Death	Champion	Neferata, Mortarch of Blood
-33	Destruction	Champion	Grot Boss
-40	Destruction	Champion	Grot Shaman Spider Rider
-44	Destruction	Champion	Snazzgar Stinkmullett
-50	Order	Champion	Knight-Azyros
-52	Order	Champion	Isharann Soulrender
-58	Order	Champion	Lord-Relictor
-69	Chaos	Unit	Charging Bloodcrusher
-84	Chaos	Unit	Vulcharc Acolyte
-86	Death	Unit	Charging Black Knight
-90	Death	Unit	Fearsome Crypt Flayer
-98	Death	Unit	Ravenous Crypt Ghoul
-99	Death	Unit	Shrieking Terrorgheist
-100	Death	Unit	Skeletal Icon Bearer
-102	Death	Unit	Skeleton Warriors
-117	Destruction	Unit	Pouncing Wolf Rider
-123	Destruction	Unit	Trampling Grunta
-129	Order	Unit	Celestial Prosecutor
-130	Order	Unit	Disruptive Liberator
-132	Order	Unit	Gryph-Charger Pack
-133	Order	Unit	Hurricane Raptor
-139	Order	Unit	Skybolt Judicator
-140	Order	Unit	Stardrake
-141	Order	Unit	Stormstrike Fulminator
-144	Order	Unit	Swift Namarti Reaver
-162	Death	Spell	Dark Mist
-163	Death	Spell	Frightful Touch
-184	Order	Spell	Inspired Glory
-209	Death	Ability	Commanding the Dead
-214	Death	Ability	Serve in Death
-215	Destruction	Ability	Deadly Chop
-219	Destruction	Ability	Rallying Cry
-225	Order	Ability	Gift of Sigmar
-227	Order	Ability	Lord of the Host
-228	Order	Ability	Piercing Shot
-231	Chaos	Blessing	Bathe in Blood
-236	Chaos	Blessing	Skull Throne
-241	Chaos	Blessing	Unrivalled Battle-Lust
-251	Death	Blessing	Supernatural Horror
-255	Destruction	Blessing	Bellowing Blade
-264	Destruction	Blessing	Strength from Victory
-265	Destruction	Blessing	Ushering of the Waaagh!
-266	Destruction	Blessing	Waaagh! then Waaagh! Again
-3	Chaos	Champion	Runemarked Deathbringer
-12	Chaos	Champion	Marakarr Blood-Sky
+Number	Faction	Category	Class	Name	Rarity
+1	Chaos	Champion	Warrior	Chaos Champion	Common
+4	Chaos	Champion	Warrior	Bloodreaver Chieftain	Common
+5	Chaos	Champion	Warrior	Exalted Deathbringer	Uncommon
+6	Chaos	Champion	Warrior	Blood Throne of Khorne	Common
+10	Chaos	Champion	Warrior	Valkia the Bloody	Rare
+26	Death	Champion	Wizard	Skulking Necromancer	Common
+27	Death	Champion	Warrior	Keldrek, the Knight of Shrouds	Rare
+29	Death	Champion	Warrior Wizard	Bloody Vampire Queen	Rare
+39	Destruction	Champion	Warrior	Frenzied Warchanter	Common
+41	Destruction	Champion	Wizard	Kunnin' Grot Shaman	Rare
+42	Destruction	Champion	Warrior	Rip-Tooth Megaboss	Common
+47	Destruction	Champion	Warrior	Megaboss on Maw-Krusha	Rare
+48	Destruction	Champion	Warrior	Gordrakk, Fist of Gork	Rare
+49	Order	Champion	Warrior	Liberator-Prime	Common
+59	Order	Champion	Warrior	Vandus Hammerhand	Rare
+75	Chaos	Unit		Pack of Bloodletters	Common
+83	Chaos	Unit		Twisting Screamer	Common
+89	Death	Unit		Ethereal Horde	Common
+93	Death	Unit		Frenzied Vargheist	Rare
+97	Death	Unit		Murderous Vargheist	Common
+101	Death	Unit		Skeletal Legion	Uncommon
+104	Death	Unit		Zombie Dragon	Common
+106	Destruction	Unit		Banner Carrier	Rare
+110	Destruction	Unit		Crowded Wolf Chariot	Rare
+112	Destruction	Unit		Gore-Choppa Brute	Uncommon
+115	Destruction	Unit		Orruk Scrappers	Common
+120	Destruction	Unit		Stomping Maw-Krusha	Common
+122	Destruction	Unit		Sweeping Gore-Grunta	Uncommon
+125	Order	Unit		Aetherwing Scout	Rare
+126	Order	Unit		Akhelian Barrier Guard	Common
+145	Any	Spell		Arcane Bolt	Common
+156	Chaos	Spell		Rejoice in Slaughter	Uncommon
+157	Chaos	Spell		Searing Firestorm	Common
+160	Death	Spell		Born from Blood	Uncommon
+164	Death	Spell		Grave Call	Common
+165	Death	Spell		Return of the Fallen	Common
+175	Destruction	Spell		Feast of Mork	Common
+177	Destruction	Spell		Gaze of Mork	Common
+182	Destruction	Spell		War Chant	Uncommon
+185	Order	Spell		Light of Sigmar	Uncommon
+189	Order	Spell		Searing Light	Uncommon
+191	Order	Spell		Stand Fast	Rare
+205	Chaos	Ability	Wizard	Gift of Change	Uncommon
+213	Death	Ability	Warrior	Frightful Strike	Rare
+216	Destruction	Ability	Warrior	Grot Ambush	Rare
+220	Destruction	Ability	Wizard	Reckless Inspiration	Uncommon
+234	Chaos	Blessing		Favour of the Gods	Uncommon
+242	Chaos	Blessing		Wanton Destruction	Uncommon
+243	Death	Blessing		Armies of the Dead	Uncommon
+258	Destruction	Blessing		Frenzied Charge	Uncommon
+272	Order	Blessing		Lliandra's Last Lament	Uncommon
+273	Order	Blessing		Pennant of Sigmaron	Common
+276	Order	Blessing		Storm's Descent	Uncommon
+15	Chaos	Champion	Warrior	Bloodthirster of Unfettered Fury	Uncommon
+25	Death	Champion	Warrior Wizard	Hungering Vampire Lord	Uncommon
+31	Death	Champion	Warrior Wizard	Neferata, Mortarch of Blood	Rare
+33	Destruction	Champion	Warrior	Grot Boss	Uncommon
+40	Destruction	Champion	Wizard	Grot Shaman Spider Rider	Common
+44	Destruction	Champion	Wizard	Snazzgar Stinkmullett	Rare
+50	Order	Champion	Warrior	Knight-Azyros	Common
+52	Order	Champion	Warrior	Isharann Soulrender	Uncommon
+58	Order	Champion	Wizard	Lord-Relictor	Uncommon
+69	Chaos	Unit		Charging Bloodcrusher	Common
+84	Chaos	Unit		Vulcharc Acolyte	Uncommon
+86	Death	Unit		Charging Black Knight	Uncommon
+90	Death	Unit		Fearsome Crypt Flayer	Rare
+98	Death	Unit		Ravenous Crypt Ghoul	Common
+99	Death	Unit		Shrieking Terrorgheist	Rare
+100	Death	Unit		Skeletal Icon Bearer	Uncommon
+102	Death	Unit		Skeleton Warriors	Uncommon
+117	Destruction	Unit		Pouncing Wolf Rider	Common
+123	Destruction	Unit		Trampling Grunta	Rare
+129	Order	Unit		Celestial Prosecutor	Rare
+130	Order	Unit		Disruptive Liberator	Common
+132	Order	Unit		Gryph-Charger Pack	Rare
+133	Order	Unit		Hurricane Raptor	Rare
+139	Order	Unit		Skybolt Judicator	Uncommon
+140	Order	Unit		Stardrake	Uncommon
+141	Order	Unit		Stormstrike Fulminator	Common
+144	Order	Unit		Swift Namarti Reaver	Uncommon
+162	Death	Spell		Dark Mist	Uncommon
+163	Death	Spell		Frightful Touch	Uncommon
+184	Order	Spell		Inspired Glory	Rare
+209	Death	Ability	Wizard	Commanding the Dead	Common
+214	Death	Ability	Any	Serve in Death	Uncommon
+215	Destruction	Ability	Any	Deadly Chop	Common
+219	Destruction	Ability	Any	Rallying Cry	Common
+225	Order	Ability	Wizard	Gift of Sigmar	Common
+227	Order	Ability	Warrior	Lord of the Host	Rare
+228	Order	Ability	Warrior	Piercing Shot	Common
+231	Chaos	Blessing		Bathe in Blood	Uncommon
+236	Chaos	Blessing		Skull Throne	Common
+241	Chaos	Blessing		Unrivalled Battle-Lust	Common
+251	Death	Blessing		Supernatural Horror	Common
+255	Destruction	Blessing		Bellowing Blade	Common
+264	Destruction	Blessing		Strength from Victory	Common
+265	Destruction	Blessing		Ushering of the Waaagh!	Exclusive
+266	Destruction	Blessing		Waaagh! then Waaagh! Again	Uncommon
+3	Chaos	Champion	Warrior	Runemarked Deathbringer	Common
+12	Chaos	Champion	Warrior	Marakarr Blood-Sky	Rare
+19	Death	Champion	Warrior	Spirit Torment	Common
+22	Death	Champion	Warrior	Crypt Haunter Courtier	Common
+35	Destruction	Champion	Warrior	Gore-Grunta Boss	Common
+53	Order	Champion	Warrior	Lotann	Rare
+54	Order	Champion	Warrior	Knight-Heraldor	Common
+61	Order	Champion	Warrior	Lord-Castellant	Uncommon
+62	Order	Champion	Warrior	Vorrus Starstrike	Rare
+68	Chaos	Unit		Capricious Flamer	Uncommon
+70	Chaos	Unit		Fanatical Skullfiend	Common
+71	Chaos	Unit		Fearless Khorgoraths	Rare
+72	Chaos	Unit		Frenzied Bloodreaver	Uncommon
+76	Chaos	Unit		Pink Horror Conjurer	Common
+81	Chaos	Unit		Starving Flesh Hounds	Common
+94	Death	Unit		Grimghast Reapers	Common
+96	Death	Unit		Infected Terrorgheist	Rare
+108	Destruction	Unit		Brute Smashas	Common
+109	Destruction	Unit		Cowardly Grots	Rare
+118	Destruction	Unit		Prowling Wolf	Rare
+131	Order	Unit		Enraged Allopex	Uncommon
+136	Order	Unit		Paladin Decimator	Common
+138	Order	Unit		Razorshell Leviadon	Uncommon
+142	Order	Unit		Strike Force Liberator	Common
+159	Death	Spell		Black Hunger	Rare
+161	Death	Spell		Claws of the Grave	Rare
+168	Death	Spell		Soul Stealer	Common
+171	Destruction	Spell		Battle Glory	Common
+178	Destruction	Spell		Glory of War	Uncommon
+183	Order	Spell		Comet Strike	Common
+186	Order	Spell		Lightning Strike	Common
+196	Any	Ability	Warrior	Opportunity Strike	Common
+197	Any	Ability	Wizard	Scatter the Forces	Uncommon
+199	Chaos	Ability	Wizard	Blood for the Blood God	Uncommon
+207	Death	Ability	Warrior	Bloody Thirst	Uncommon
+210	Death	Ability	Warrior	Cursed Strike	Common
+211	Death	Ability	Wizard	Deathly Resolve	Rare
+212	Death	Ability	Any	Devour	Common
+217	Destruction	Ability	Warrior	Mob Rule	Common
+226	Order	Ability	Warrior	Jaws of Death	Common
+233	Chaos	Blessing		Chaos Runeblade	Common
+237	Chaos	Blessing		Spelleater Curse	Uncommon
+239	Chaos	Blessing		Total Carnage	Uncommon
+240	Chaos	Blessing		Tzeentch's Fortune	Common
+244	Death	Blessing		Carrion Feast	Common
+250	Death	Blessing		Orb of Immortality	Exclusive
+257	Destruction	Blessing		Cruisin' for a Bruisin'	Uncommon
+259	Destruction	Blessing		Little Waaagh!	Common
+269	Order	Blessing		Blessed Weapons	Common
+277	Order	Blessing		Swift Judgement	Common
+278	Order	Blessing		Tides of Death	Uncommon
+2	Chaos	Champion	Warrior	Aspiring Deathbringer	Uncommon
+11	Chaos	Champion	Wizard	Curseling	Uncommon
+13	Chaos	Champion	Wizard	Lord of Change	Uncommon
+18	Death	Champion	Warrior	Hell Knight	Common
+20	Death	Champion	Warrior	Barrows Wight King	Uncommon
+23	Death	Champion	Warrior	Varghulf Courtier	Uncommon
+24	Death	Champion	Warrior	Reaping Cairn Wraith	Uncommon
+30	Death	Champion	Warrior Wizard	Coven Throne	Rare
+34	Destruction	Champion	Warrior	Orruk Boss	Common
+37	Destruction	Champion	Warrior	Massive Choppa Warboss	Common
+38	Destruction	Champion	Wizard	Sneaky Grot Shaman	Uncommon
+45	Destruction	Champion	Wizard	Bonesplitter Shaman	Uncommon
+51	Order	Champion	Warrior	Lochian Prince	Common
+55	Order	Champion	Wizard	Lord-Veritant	Common
+56	Order	Champion	Wizard	Isharann Soulscryer	Uncommon
+60	Order	Champion	Warrior	Lord-Aquilor	Uncommon
+63	Order	Champion	Wizard	Aspect of the Sea	Rare
+64	Order	Champion	Warrior Wizard	Celestant-Prime	Rare
+66	Chaos	Unit		Blood Warrior Berserker	Uncommon
+73	Chaos	Unit		Gore-Slick Skullreaper	Common
+77	Chaos	Unit		Rampaging Bloodreavers	Rare
+78	Chaos	Unit		Reckless Juggernaut	Common
+82	Chaos	Unit		Transmogrifying Flamer	Uncommon
+87	Death	Unit		Crypt Shield Black Knight	Common
+91	Death	Unit		Feasting Vargheist	Common
+92	Death	Unit		Freakish Crypt Horror	Common
+95	Death	Unit		Hungry Fell Bats	Uncommon
+103	Death	Unit		Unhallowed Mortis Engine	Rare
+107	Destruction	Unit		Big Stabba Crew	Uncommon
+111	Destruction	Unit		Frenzied Warboar	Common
+113	Destruction	Unit		Grot Slashas	Common
+116	Destruction	Unit		Orruk Shield Bashers	Common
+121	Destruction	Unit		Surprising Skulkers	Uncommon
+135	Order	Unit		Namarti Soul Feeder	Uncommon
+143	Order	Unit		Sweeping Namarti Thrall	Common
+148	Chaos	Spell		Blood Sacrifice	Uncommon
+151	Chaos	Spell		Flow of Chaos	Rare
+152	Chaos	Spell		Hellfire Blast	Common
+153	Chaos	Spell		Infernal Gateway	Rare
+158	Chaos	Spell		Summon Daemon	Uncommon
+167	Death	Spell		Soul Feast	Uncommon
+173	Destruction	Spell		Call of War	Rare
+174	Destruction	Spell		Empower the Hordes	Rare
+180	Destruction	Spell		Putrid Puke	Common
+181	Destruction	Spell		Waaagh! Ceremony	Uncommon
+190	Order	Spell		Seeker of Souls	Rare
+192	Order	Spell		Storm-Shield	Common
+193	Order	Spell		Surge of Justice	Uncommon
+198	Any	Ability	Any	Tactical Formation	Uncommon
+202	Chaos	Ability	Warrior	Frenzied Devotion	Rare
+206	Chaos	Ability	Warrior	Scorn of Sorcery	Common
+208	Death	Ability	Any	Call of the Grave	Common
+221	Destruction	Ability	Warrior	Waaagh! Call	Uncommon
+223	Order	Ability	Wizard	Celestial Fate	Rare
+224	Order	Ability	Warrior	Divine Vengeance	Uncommon
+229	Order	Ability	Any	Restoring the Forge	Uncommon
+246	Death	Blessing		Cursed Altar	Uncommon
+253	Death	Blessing		Turmoil of Souls	Common
+256	Destruction	Blessing		Collar of Domination	Uncommon
+260	Destruction	Blessing		Might of Gork	Common
+261	Destruction	Blessing		Prophet of the Waaagh!	Uncommon
+262	Destruction	Blessing		Renewed War-Lust	Common
+263	Destruction	Blessing		Smash and Bash	Common
+267	Order	Blessing		Abjuration	Uncommon
+268	Order	Blessing		Armour of Destiny	Common
+270	Order	Blessing		Divine Blast	Common
+275	Order	Blessing		Storm Forge	Exclusive
+7	Chaos	Champion	Wizard	Iridescent Horror	Common
+8	Chaos	Champion	Wizard	Gaunt Summoner	Common
+9	Chaos	Champion	Warrior	Skarr Bloodwrath	Rare
+14	Chaos	Champion	Wizard	Kairos Fateweaver	Rare
+16	Chaos	Champion	Warrior Wizard	Archaon	Rare
+17	Death	Champion	Warrior	Skeleton Champion	Common
+21	Death	Champion	Warrior	Crypt Infernal Courtier	Common
+28	Death	Champion	Warrior Wizard	Abhorrant Ghoul King	Uncommon
+32	Death	Champion	Wizard	Nagash, Supreme Lord of the Undead	Rare
+36	Destruction	Champion	Warrior	Savage Boar Boss	Uncommon
+43	Destruction	Champion	Warrior	Warboss Recruiter	Uncommon
+46	Destruction	Champion	Warrior	Loud-Mouthed Megaboss	Rare
+57	Order	Champion	Warrior	Protector-Prime	Common
+65	Chaos	Unit		Acolyte Scroll Bearer	Uncommon
+67	Chaos	Unit		Bloodfury Wrathmonger	Rare
+74	Chaos	Unit		Insatiable Bloodreaver	Common
+79	Chaos	Unit		Skullreaper Icon Bearer	Rare
+80	Chaos	Unit		Slashing Screamer	Rare
+85	Death	Unit		Bat Swarm	Common
+88	Death	Unit		Crypt Shield Skeletons	Uncommon
+105	Destruction	Unit		Arachnarok Spider	Common
+114	Destruction	Unit		Meat Shield Grots	Common
+119	Destruction	Unit		Show-Off Grots	Uncommon
+124	Destruction	Unit		Waaagh! Chanter	Uncommon
+127	Order	Unit		Alpha Gryph-Charger	Common
+128	Order	Unit		Biovoltaic Morrsarr Guard	Rare
+134	Order	Unit		Longstrike Raptor	Common
+137	Order	Unit		Paladin Protector	Common
+146	Any	Spell		Mystic Shield	Uncommon
+147	Chaos	Spell		Blood Feast	Common
+149	Chaos	Spell		Blue Flame	Common
+150	Chaos	Spell		Chaotic Restoration	Common
+154	Chaos	Spell		Khorne's Chosen	Uncommon
+155	Chaos	Spell		Pain-Induced Fury	Rare
+166	Death	Spell		Scrying Pool	Common
+169	Death	Spell		Terrify	Rare
+170	Death	Spell		Unholy Vitality	Common
+172	Destruction	Spell		Brutish Resilience	Uncommon
+176	Destruction	Spell		Foot of Gork	Rare
+179	Destruction	Spell		Invigorating Chant	Common
+187	Order	Spell		Righteousness	Common
+188	Order	Spell		Sanction	Uncommon
+194	Order	Spell		Warding Light	Common
+195	Any	Ability	Warrior	Brutal Smash	Uncommon
+200	Chaos	Ability	Any	Blood Hunt	Common
+201	Chaos	Ability	Warrior	Daemonic Fury	Common
+203	Chaos	Ability	Warrior	Furious Strike	Common
+204	Chaos	Ability	Wizard	Gaze of Khorne	Rare
+218	Destruction	Ability	Warrior	Mosh Pit	Rare
+222	Destruction	Ability	Wizard	Waaagh! Infusion	Common
+230	Order	Ability	Any	Triumphant Smash	Common
+232	Chaos	Blessing		Berserker Rage	Common
+235	Chaos	Blessing		Outrageous Carnage	Common
+238	Chaos	Blessing		The Path of Skulls	Exclusive
+245	Death	Blessing		Cloak of Mists and Shadows	Uncommon
+247	Death	Blessing		Deathless Thralls	Common
+248	Death	Blessing		Morbid Terror	Common
+249	Death	Blessing		Necromantic Bloodline	Common
+252	Death	Blessing		The Royal Hunt	Uncommon
+254	Death	Blessing		Unholy Power	Uncommon
+271	Order	Blessing		Healing Storm	Common
+274	Order	Blessing		Savage Loyalty	Uncommon
