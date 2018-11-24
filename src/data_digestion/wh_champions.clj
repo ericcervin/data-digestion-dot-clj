@@ -5,6 +5,35 @@
             [clojure.java.jdbc :as sql]))
 
 
+(def db-spec {:classname "org.sqlite.JDBC" :subprotocol "sqlite" :subname "resources/wh_champions/OUT/wh_champions.db"})
+
+(defn create-card-table! []
+  (sql/db-do-commands db-spec
+    (sql/create-table-ddl
+      :card
+      [[:cardNumber :int]
+       [:alliance "varchar(64)"]
+       [:category "varchar(64)"]
+       [:class "varchar(64)"]
+       [:name "varchar(64)"]
+       [:rarity "varchar(64)"]])))
+       
+
+(defn drop-table! [tbname]
+  (if (.exists (io/as-file (:subname db-spec)))
+      (if (> (count (sql/query db-spec [(str "Select * from sqlite_master where type = \"table\" and name = \"" tbname "\"")])) 0)
+          (sql/db-do-commands db-spec
+            (sql/drop-table-ddl (keyword tbname))))))
+
+(defn load-card-table! [mp]
+  (sql/insert-multi! db-spec :card
+     (map #(hash-map :cardNumber (get-in % [:_source :collectorNumber])
+                     :alliance (get-in % [:_source :alliance])
+                     :category (get-in % [:_source :category :en])
+                     :class (get-in % [:_source :class :en])
+                     :name (get-in % [:_source :name])
+                     :rarity (get-in % [:_source :rarity])) mp))) 
+
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
     (.write writer (str (clojure.string/join "\t" ["Number" "Alliance" "Category" "Class" "Name" "Rarity"]) "\n"))
@@ -27,7 +56,7 @@
         all-cards (get-in response-body [:hits :hits])
         death-cards (filter #(= (get-in % [:_source :alliance]) "Death") all-cards)]
         
-      ;;write counts of subsets (can compare with totals documented on Warhammer Champions)
+      ;;write counts of subsets (can compare with totals documented on Warhammer Champions site)
      (println (map #(str (first %) " " (count (last %))) (group-by #(get-in % [:_source :alliance]) all-cards)))
      (println (map #(str (first %) " " (count (last %))) (group-by #(get-in % [:_source :rarity]) all-cards)))
      (println (map #(str (first %) " " (count (last %))) (group-by #(get-in % [:_source :category :en]) all-cards)))
@@ -43,6 +72,18 @@
      (export-card-tsv "resources/wh_champions/OUT/card_list_all.tsv" all-cards)
      (export-card-tsv "resources/wh_champions/OUT/card_list_death.tsv" death-cards) 
        
-     (println (str "Total Cards: "card-count))))
+     (println (str "Total Cards: "card-count))
      
-      
+      ;;drop card table
+     (drop-table! "card")
+
+      ;;create card table in sqlite
+     (create-card-table!)
+    
+      ;;insert rows in sqlite
+     (load-card-table! all-cards)
+    
+      ;;print totals again querying sqlite database)
+     (println (sql/query db-spec ["Select Count(*), Alliance from card group by Alliance"]))))
+    
+    
