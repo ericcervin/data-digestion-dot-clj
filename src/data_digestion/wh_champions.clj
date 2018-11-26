@@ -84,6 +84,6 @@
      (load-card-table! all-cards)
     
       ;;print totals again querying sqlite database)
-     (println (sql/query db-spec ["Select Count(*), Alliance from card group by Alliance"]))))
+     (println (sql/query db-spec ["Select Count(*), Alliance from card group by Alliance"]))
     
-    
+     (sp/close! c)))
