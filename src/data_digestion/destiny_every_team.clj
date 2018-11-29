@@ -8,19 +8,22 @@
           {"01001" {:nickname "Phasma1" :dupes ["01001" "04002"]} 
            "01003" {:nickname "Grievous1" :dupes ["01003" "07021"]} 
            "01009" {:nickname "Dooku1" :dupes ["01009" "07001"]} 
-           "01010" {:nickname "Vader1" :dupes ["01010" "02010" "06001" "07088"]} 
+           "01010" {:nickname "Vader1" :dupes ["01010" "02010" "06001" "07088" "08001"]} 
            "01011" {:nickname "Kylo1" :dupes ["01011" "04001"]} 
            "01020" {:nickname "Jabba1" :dupes ["01020" "07036"]} 
-           "01028" {:nickname "Leia1" :dupes ["01028" "07073"]}
+           "01028" {:nickname "Leia1" :dupes ["01028" "07073" "08090"]}
            "01029" {:nickname "Poe1" :dupes ["01029" "04025"]}
            "01035" {:nickname "Luke1" :dupes ["01035" "05031" "07056"]}
+           "01037" {:nickname "Qui-Gon1" :dupes ["01037" "08058"]}
            "01038" {:nickname "Rey1" :dupes ["01038" "04024"]}
            "01045" {:nickname "Finn1" :dupes ["01045" "05039"]}
            "01046" {:nickname "Han1" :dupes ["01046" "05046" "08134"]}
-           "02010" {:nickname "Vader2" :dupes ["01010" "02010" "06001" "07088"]}
+           "02010" {:nickname "Vader2" :dupes ["01010" "02010" "06001" "07088" "08001"]}
            "02011" {:nickname "Palpatine1" :dupes ["02011" "05004"]}
            "02037" {:nickname "Obi-Wan1" :dupes ["02037" "05032"]}
+           "02044" {:nickname "Jyn1" :dupes ["02044" "08074"]}
            "03038" {:nickname "Ezra1" :dupes ["03038" "07054"]}
+           "03039" {:nickname "Lando1" :dupes ["03039" "08089"]}
            "04001" {:nickname "Kylo2" :dupes ["01011" "04001"]}
            "04002" {:nickname "Phasma2" :dupes ["01001" "04002"]}
            "04024" {:nickname "Rey2" :dupes ["01038" "04024"]}
@@ -30,14 +33,19 @@
            "05032" {:nickname "Obi-Wan2" :dupes ["02037" "05032"]}
            "05039" {:nickname "Finn2" :dupes ["01045" "05039"]}
            "05046" {:nickname "Han2" :dupes ["01046" "05046" "08134"]}
-           "06001" {:nickname "Anakin1" :dupes ["01010" "02010" "06001" "07088"]}
+           "06001" {:nickname "Anakin1" :dupes ["01010" "02010" "06001" "07088" "08001"]}
            "07001" {:nickname "Dooku2" :dupes ["01009" "07001"]}
            "07021" {:nickname "Grievous2" :dupes ["01003" "07021"]}
            "07036" {:nickname "Jabba2" :dupes ["01020" "07036"]}
            "07054" {:nickname "Ezra2" :dupes ["03038" "07054"]}
            "07056" {:nickname "Luke3" :dupes ["01035" "05031" "07056"]}
-           "07073" {:nickname "Leia2" :dupes ["01028" "07073"]}
-           "07088" {:nickname "Anakin2" :dupes ["01010" "02010" "06001" "07088"]}
+           "07073" {:nickname "Leia2" :dupes ["01028" "07073" "08090"]}
+           "07088" {:nickname "Anakin2" :dupes ["01010" "02010" "06001" "07088" "08001"]}
+           "08001" {:nickname "Vader3" :dupes ["01010" "02010" "06001" "07088" "08001"]}
+           "08058" {:nickname "Qui-Gon2" :dupes ["01037" "08058"]}
+           "08074" {:nickname "Jyn2" :dupes ["02044" "08074"]}
+           "08089" {:nickname "Lando2" :dupes ["03039" "08089"]}
+           "08090" {:nickname "Leia3" :dupes ["01028" "07073" "08090"]}
            "08134" {:nickname "Han3" :dupes ["01046" "05046" "08134"]}})
 
 
@@ -201,7 +209,7 @@
         all-unique-teams (concat one-char-teams unique-two-char-teams unique-three-char-teams unique-four-char-teams unique-five-char-teams)
         teams-26-to-30-points (filter #(and (>= (:team-points %) 26) (<= (:team-points %) 30)) all-unique-teams)]
     
-    ;;103 unique. 33 nonunique. 239 one char teams     
+       
      (println (str 
                 ;;(count all-chars) " chars \n" 
                 ;;(count unique-chars) " unique chars \n" 
