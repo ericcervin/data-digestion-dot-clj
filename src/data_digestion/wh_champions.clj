@@ -11,7 +11,9 @@
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
       :card
-      [[:cardNumber :int]
+      [[:setNum :int]
+       [:setName "varchar(64)"]
+       [:cardNumber :int]
        [:alliance "varchar(64)"]
        [:category "varchar(64)"]
        [:class "varchar(64)"]
@@ -27,7 +29,9 @@
 
 (defn load-card-table! [mp]
   (sql/insert-multi! db-spec :card
-     (map #(hash-map :cardNumber (get-in % [:_source :collectorNumber])
+     (map #(hash-map :setNum (:number (first (get-in % [:_source :set])))
+                     :setName (:name (first (get-in % [:_source :set])))
+                     :cardNumber (get-in % [:_source :collectorNumber])
                      :alliance (get-in % [:_source :alliance])
                      :category (get-in % [:_source :category :en])
                      :class (get-in % [:_source :class :en])
@@ -36,15 +40,19 @@
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Number" "Alliance" "Category" "Class" "Name" "Rarity"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "SetNum""Number" "Alliance" "Category" "Class" "Name" "Rarity"]) "\n"))
     (doseq [i mp]
-      (let [c-number (get-in i [:_source :collectorNumber])
+      (let [s-set (first (get-in i [:_source :set]))
+            s-number (:number s-set)
+            s-name (:name s-set)
+            c-number (get-in i [:_source :collectorNumber])
             c-alliance (get-in i [:_source :alliance])
             c-category (get-in i [:_source :category :en])
             c-class (get-in i [:_source :class :en])
             c-name (get-in i [:_source :name])
-            c-rarity (get-in i [:_source :rarity])]
-        (.write writer (str (clojure.string/join "\t" [c-number c-alliance c-category c-class c-name c-rarity]) "\n"))))))        
+            c-rarity (get-in i [:_source :rarity])
+            ]
+        (.write writer (str (clojure.string/join "\t" [s-number s-name c-number c-alliance c-category c-class c-name c-rarity]) "\n"))))))        
 
 (defn -main []
   (let [c (sp/client {:hosts ["https://carddatabase.warhammerchampions.com"]})
@@ -85,5 +93,6 @@
     
       ;;print totals again querying sqlite database)
      (println (sql/query db-spec ["Select Count(*), Alliance from card group by Alliance"]))
+     (println (sql/query db-spec ["Select setName, Count(*) from card group by setName"]))
     
      (sp/close! c)))
