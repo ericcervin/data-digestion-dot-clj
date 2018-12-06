@@ -1,69 +1,95 @@
-Number	Alliance	Category	Class	Name	Rarity
-26	Death	Champion	Wizard	Skulking Necromancer	Common
-27	Death	Champion	Warrior	Keldrek, the Knight of Shrouds	Rare
-29	Death	Champion	Warrior Wizard	Bloody Vampire Queen	Rare
-89	Death	Unit		Ethereal Horde	Common
-93	Death	Unit		Frenzied Vargheist	Rare
-97	Death	Unit		Murderous Vargheist	Common
-101	Death	Unit		Skeletal Legion	Uncommon
-104	Death	Unit		Zombie Dragon	Common
-160	Death	Spell		Born from Blood	Uncommon
-164	Death	Spell		Grave Call	Common
-165	Death	Spell		Return of the Fallen	Common
-213	Death	Ability	Warrior	Frightful Strike	Rare
-243	Death	Blessing		Armies of the Dead	Uncommon
-25	Death	Champion	Warrior Wizard	Hungering Vampire Lord	Uncommon
-31	Death	Champion	Warrior Wizard	Neferata, Mortarch of Blood	Rare
-86	Death	Unit		Charging Black Knight	Uncommon
-90	Death	Unit		Fearsome Crypt Flayer	Rare
-98	Death	Unit		Ravenous Crypt Ghoul	Common
-99	Death	Unit		Shrieking Terrorgheist	Rare
-100	Death	Unit		Skeletal Icon Bearer	Uncommon
-102	Death	Unit		Skeleton Warriors	Uncommon
-162	Death	Spell		Dark Mist	Uncommon
-163	Death	Spell		Frightful Touch	Uncommon
-209	Death	Ability	Wizard	Commanding the Dead	Common
-214	Death	Ability	Any	Serve in Death	Uncommon
-251	Death	Blessing		Supernatural Horror	Common
-19	Death	Champion	Warrior	Spirit Torment	Common
-22	Death	Champion	Warrior	Crypt Haunter Courtier	Common
-94	Death	Unit		Grimghast Reapers	Common
-96	Death	Unit		Infected Terrorgheist	Rare
-159	Death	Spell		Black Hunger	Rare
-161	Death	Spell		Claws of the Grave	Rare
-168	Death	Spell		Soul Stealer	Common
-207	Death	Ability	Warrior	Bloody Thirst	Uncommon
-210	Death	Ability	Warrior	Cursed Strike	Common
-211	Death	Ability	Wizard	Deathly Resolve	Rare
-212	Death	Ability	Any	Devour	Common
-244	Death	Blessing		Carrion Feast	Common
-250	Death	Blessing		Orb of Immortality	Exclusive
-18	Death	Champion	Warrior	Hell Knight	Common
-20	Death	Champion	Warrior	Barrows Wight King	Uncommon
-23	Death	Champion	Warrior	Varghulf Courtier	Uncommon
-24	Death	Champion	Warrior	Reaping Cairn Wraith	Uncommon
-30	Death	Champion	Warrior Wizard	Coven Throne	Rare
-87	Death	Unit		Crypt Shield Black Knight	Common
-91	Death	Unit		Feasting Vargheist	Common
-92	Death	Unit		Freakish Crypt Horror	Common
-95	Death	Unit		Hungry Fell Bats	Uncommon
-103	Death	Unit		Unhallowed Mortis Engine	Rare
-167	Death	Spell		Soul Feast	Uncommon
-208	Death	Ability	Any	Call of the Grave	Common
-246	Death	Blessing		Cursed Altar	Uncommon
-253	Death	Blessing		Turmoil of Souls	Common
-17	Death	Champion	Warrior	Skeleton Champion	Common
-21	Death	Champion	Warrior	Crypt Infernal Courtier	Common
-28	Death	Champion	Warrior Wizard	Abhorrant Ghoul King	Uncommon
-32	Death	Champion	Wizard	Nagash, Supreme Lord of the Undead	Rare
-85	Death	Unit		Bat Swarm	Common
-88	Death	Unit		Crypt Shield Skeletons	Uncommon
-166	Death	Spell		Scrying Pool	Common
-169	Death	Spell		Terrify	Rare
-170	Death	Spell		Unholy Vitality	Common
-245	Death	Blessing		Cloak of Mists and Shadows	Uncommon
-247	Death	Blessing		Deathless Thralls	Common
-248	Death	Blessing		Morbid Terror	Common
-249	Death	Blessing		Necromantic Bloodline	Common
-252	Death	Blessing		The Royal Hunt	Uncommon
-254	Death	Blessing		Unholy Power	Uncommon
+Set	SetNum	Number	Alliance	Category	Class	Name	Rarity
+1	Champions	26	Death	Champion	Wizard	Skulking Necromancer	Common
+1	Champions	27	Death	Champion	Warrior	Keldrek, the Knight of Shrouds	Rare
+1	Champions	29	Death	Champion	Warrior Wizard	Bloody Vampire Queen	Rare
+2	Onslaught	6	Death	Champion	Warrior	Accursed Wight King	Uncommon
+1	Champions	89	Death	Unit		Ethereal Horde	Common
+1	Champions	93	Death	Unit		Frenzied Vargheist	Rare
+1	Champions	97	Death	Unit		Murderous Vargheist	Common
+1	Champions	101	Death	Unit		Skeletal Legion	Uncommon
+1	Champions	104	Death	Unit		Zombie Dragon	Common
+2	Onslaught	37	Death	Unit		Scrabbling Horror	Common
+1	Champions	160	Death	Spell		Born from Blood	Uncommon
+1	Champions	164	Death	Spell		Grave Call	Common
+1	Champions	165	Death	Spell		Return of the Fallen	Common
+1	Champions	213	Death	Ability	Warrior	Frightful Strike	Rare
+1	Champions	243	Death	Blessing		Armies of the Dead	Uncommon
+1	Champions	25	Death	Champion	Warrior Wizard	Hungering Vampire Lord	Uncommon
+1	Champions	31	Death	Champion	Warrior Wizard	Neferata, Mortarch of Blood	Rare
+2	Onslaught	9	Death	Champion	Wizard	Lady Olynder, Mortarch of Grief	Rare
+1	Champions	86	Death	Unit		Charging Black Knight	Uncommon
+1	Champions	90	Death	Unit		Fearsome Crypt Flayer	Rare
+1	Champions	98	Death	Unit		Ravenous Crypt Ghoul	Common
+1	Champions	99	Death	Unit		Shrieking Terrorgheist	Rare
+1	Champions	100	Death	Unit		Skeletal Icon Bearer	Uncommon
+1	Champions	102	Death	Unit		Skeleton Warriors	Uncommon
+2	Onslaught	33	Death	Unit		Looming Harridan	Uncommon
+2	Onslaught	36	Death	Unit		Myrmourn Banshees	Rare
+1	Champions	162	Death	Spell		Dark Mist	Uncommon
+1	Champions	163	Death	Spell		Frightful Touch	Uncommon
+2	Onslaught	71	Death	Spell		Lifestealer	Common
+2	Onslaught	72	Death	Spell		Soul Cage	Uncommon
+2	Onslaught	73	Death	Spell		Spectral Lure	Common
+1	Champions	209	Death	Ability	Wizard	Commanding the Dead	Common
+1	Champions	214	Death	Ability	Any	Serve in Death	Uncommon
+2	Onslaught	93	Death	Ability	Warrior	Feeding Frenzy	Uncommon
+2	Onslaught	94	Death	Ability	Any	Fuel the Gravetide	Common
+1	Champions	251	Death	Blessing		Supernatural Horror	Common
+2	Onslaught	120	Death	Blessing		Midnight Mark	Common
+1	Champions	19	Death	Champion	Warrior	Spirit Torment	Common
+1	Champions	22	Death	Champion	Warrior	Crypt Haunter Courtier	Common
+2	Onslaught	7	Death	Champion	Warrior	Crawlocke the Jailor	Rare
+2	Onslaught	8	Death	Champion	Wizard	Twisted Necromancer	Uncommon
+2	Onslaught	10	Death	Champion	Warrior Wizard	Bloodseeker Sanguinarch	Uncommon
+1	Champions	94	Death	Unit		Grimghast Reapers	Common
+1	Champions	96	Death	Unit		Infected Terrorgheist	Rare
+2	Onslaught	31	Death	Unit		Balefire Corpse Cart	Common
+2	Onslaught	32	Death	Unit		Blood Knight Kastellan	Rare
+2	Onslaught	35	Death	Unit		Hexwraiths	Common
+1	Champions	159	Death	Spell		Black Hunger	Rare
+1	Champions	161	Death	Spell		Claws of the Grave	Rare
+1	Champions	168	Death	Spell		Soul Stealer	Common
+1	Champions	207	Death	Ability	Warrior	Bloody Thirst	Uncommon
+1	Champions	210	Death	Ability	Warrior	Cursed Strike	Common
+1	Champions	211	Death	Ability	Wizard	Deathly Resolve	Rare
+1	Champions	212	Death	Ability	Any	Devour	Common
+1	Champions	244	Death	Blessing		Carrion Feast	Common
+1	Champions	250	Death	Blessing		Orb of Immortality	Exclusive
+2	Onslaught	121	Death	Blessing		No Rest for the Wicked	Uncommon
+1	Champions	18	Death	Champion	Warrior	Hell Knight	Common
+1	Champions	20	Death	Champion	Warrior	Barrows Wight King	Uncommon
+1	Champions	23	Death	Champion	Warrior	Varghulf Courtier	Uncommon
+1	Champions	24	Death	Champion	Warrior	Reaping Cairn Wraith	Uncommon
+1	Champions	30	Death	Champion	Warrior Wizard	Coven Throne	Rare
+1	Champions	87	Death	Unit		Crypt Shield Black Knight	Common
+1	Champions	91	Death	Unit		Feasting Vargheist	Common
+1	Champions	92	Death	Unit		Freakish Crypt Horror	Common
+1	Champions	95	Death	Unit		Hungry Fell Bats	Uncommon
+1	Champions	103	Death	Unit		Unhallowed Mortis Engine	Rare
+1	Champions	167	Death	Spell		Soul Feast	Uncommon
+1	Champions	208	Death	Ability	Any	Call of the Grave	Common
+2	Onslaught	95	Death	Ability	Any	Grasp from the Grave	Uncommon
+2	Onslaught	96	Death	Ability	Wizard	Rewrought from Death	Rare
+1	Champions	246	Death	Blessing		Cursed Altar	Uncommon
+1	Champions	253	Death	Blessing		Turmoil of Souls	Common
+1	Champions	17	Death	Champion	Warrior	Skeleton Champion	Common
+1	Champions	21	Death	Champion	Warrior	Crypt Infernal Courtier	Common
+1	Champions	28	Death	Champion	Warrior Wizard	Abhorrant Ghoul King	Uncommon
+1	Champions	32	Death	Champion	Wizard	Nagash, Supreme Lord of the Undead	Rare
+1	Champions	85	Death	Unit		Bat Swarm	Common
+1	Champions	88	Death	Unit		Crypt Shield Skeletons	Uncommon
+2	Onslaught	30	Death	Unit		Ancient Skeletons	Uncommon
+2	Onslaught	34	Death	Unit		Haunting Chainrasp Horde	Common
+2	Onslaught	38	Death	Unit		Shambling Ghoul Horde	Uncommon
+1	Champions	166	Death	Spell		Scrying Pool	Common
+1	Champions	169	Death	Spell		Terrify	Rare
+1	Champions	170	Death	Spell		Unholy Vitality	Common
+2	Onslaught	74	Death	Spell		Wraithstorm	Rare
+2	Onslaught	92	Death	Ability	Warrior	Barrow's Will	Common
+1	Champions	245	Death	Blessing		Cloak of Mists and Shadows	Uncommon
+1	Champions	247	Death	Blessing		Deathless Thralls	Common
+1	Champions	248	Death	Blessing		Morbid Terror	Common
+1	Champions	249	Death	Blessing		Necromantic Bloodline	Common
+1	Champions	252	Death	Blessing		The Royal Hunt	Uncommon
+1	Champions	254	Death	Blessing		Unholy Power	Uncommon
+2	Onslaught	122	Death	Blessing		Reaper of Sorrows	Common
