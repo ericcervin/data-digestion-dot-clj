@@ -40,7 +40,7 @@
 
 (defn export-card-tsv [file mp]
   (with-open [writer (io/writer file)]
-    (.write writer (str (clojure.string/join "\t" ["Set" "SetNum""Number" "Alliance" "Category" "Class" "Name" "Rarity"]) "\n"))
+    (.write writer (str (clojure.string/join "\t" ["Set" "SetName" "Number" "Alliance" "Category" "Class" "Name" "Rarity"]) "\n"))
     (doseq [i mp]
       (let [s-set (first (get-in i [:_source :set]))
             s-number (:number s-set)
@@ -50,8 +50,8 @@
             c-category (get-in i [:_source :category :en])
             c-class (get-in i [:_source :class :en])
             c-name (get-in i [:_source :name])
-            c-rarity (get-in i [:_source :rarity])
-            ]
+            c-rarity (get-in i [:_source :rarity])]
+            
         (.write writer (str (clojure.string/join "\t" [s-number s-name c-number c-alliance c-category c-class c-name c-rarity]) "\n"))))))        
 
 (defn -main []
@@ -62,7 +62,8 @@
         response-body (:body response)
         card-count (get-in response-body [:hits :total])
         all-cards (get-in response-body [:hits :hits])
-        death-cards (filter #(= (get-in % [:_source :alliance]) "Death") all-cards)]
+        death-cards (filter #(= (get-in % [:_source :alliance]) "Death") all-cards)
+        death-and-any-cards (filter #(or (= (get-in % [:_source :alliance]) "Death") (= (get-in % [:_source :alliance]) "Any")) all-cards)]
         
       ;;write counts of subsets (can compare with totals documented on Warhammer Champions site)
      (println (map #(str (first %) " " (count (last %))) (group-by #(get-in % [:_source :alliance]) all-cards)))
@@ -78,7 +79,8 @@
        
      (spit "resources/wh_champions/OUT/all_cards.json" response-body)
      (export-card-tsv "resources/wh_champions/OUT/card_list_all.tsv" all-cards)
-     (export-card-tsv "resources/wh_champions/OUT/card_list_death.tsv" death-cards) 
+     (export-card-tsv "resources/wh_champions/OUT/card_list_death.tsv" death-cards)
+     (export-card-tsv "resources/wh_champions/OUT/card_list_death_and_any.tsv" death-and-any-cards)
        
      (println (str "Total Cards: "card-count))
      
