@@ -5,12 +5,12 @@
 
 
 (def char-nicknames 
-          {"01001" {:nickname "Phasma1" :dupes ["01001" "04002"]} 
-           "01003" {:nickname "Grievous1" :dupes ["01003" "07021"]} 
+          {"01001" {:nickname "Phasma1" :dupes ["01001" "04002" "09018"]} 
+           "01003" {:nickname "Grievous1" :dupes ["01003" "07021" "09021"]} 
            "01009" {:nickname "Dooku1" :dupes ["01009" "07001"]} 
            "01010" {:nickname "Vader1" :dupes ["01010" "02010" "06001" "07088" "08001"]} 
            "01011" {:nickname "Kylo1" :dupes ["01011" "04001"]} 
-           "01020" {:nickname "Jabba1" :dupes ["01020" "07036"]} 
+           "01020" {:nickname "Jabba1" :dupes ["01020" "07036" "09036"]} 
            "01028" {:nickname "Leia1" :dupes ["01028" "07073" "08090"]}
            "01029" {:nickname "Poe1" :dupes ["01029" "04025"]}
            "01035" {:nickname "Luke1" :dupes ["01035" "05031" "07056"]}
@@ -20,23 +20,24 @@
            "01046" {:nickname "Han1" :dupes ["01046" "05046" "08134"]}
            "02010" {:nickname "Vader2" :dupes ["01010" "02010" "06001" "07088" "08001"]}
            "02011" {:nickname "Palpatine1" :dupes ["02011" "05004"]}
-           "02037" {:nickname "Obi-Wan1" :dupes ["02037" "05032"]}
+           "02037" {:nickname "Obi-Wan1" :dupes ["02037" "05032" "09057"]}
            "02044" {:nickname "Jyn1" :dupes ["02044" "08074"]}
+           "03034" {:nickname "Mace1" :dupes ["03034" "09056"]}
            "03038" {:nickname "Ezra1" :dupes ["03038" "07054"]}
            "03039" {:nickname "Lando1" :dupes ["03039" "08089"]}
            "04001" {:nickname "Kylo2" :dupes ["01011" "04001"]}
-           "04002" {:nickname "Phasma2" :dupes ["01001" "04002"]}
+           "04002" {:nickname "Phasma2" :dupes ["01001" "04002" "09018"]}
            "04024" {:nickname "Rey2" :dupes ["01038" "04024"]}
            "04025" {:nickname "Poe2" :dupes ["01029" "04025"]}
            "05004" {:nickname "Palpatine2" :dupes ["02011" "05004"]}
            "05031" {:nickname "Luke2" :dupes ["01035" "05031" "07056"]}
-           "05032" {:nickname "Obi-Wan2" :dupes ["02037" "05032"]}
+           "05032" {:nickname "Obi-Wan2" :dupes  ["02037" "05032" "09057"]}
            "05039" {:nickname "Finn2" :dupes ["01045" "05039"]}
            "05046" {:nickname "Han2" :dupes ["01046" "05046" "08134"]}
            "06001" {:nickname "Anakin1" :dupes ["01010" "02010" "06001" "07088" "08001"]}
            "07001" {:nickname "Dooku2" :dupes ["01009" "07001"]}
-           "07021" {:nickname "Grievous2" :dupes ["01003" "07021"]}
-           "07036" {:nickname "Jabba2" :dupes ["01020" "07036"]}
+           "07021" {:nickname "Grievous2" :dupes ["01003" "07021" "09021"]}
+           "07036" {:nickname "Jabba2" :dupes ["01020" "07036" "09036"]}
            "07054" {:nickname "Ezra2" :dupes ["03038" "07054"]}
            "07056" {:nickname "Luke3" :dupes ["01035" "05031" "07056"]}
            "07073" {:nickname "Leia2" :dupes ["01028" "07073" "08090"]}
@@ -46,13 +47,20 @@
            "08074" {:nickname "Jyn2" :dupes ["02044" "08074"]}
            "08089" {:nickname "Lando2" :dupes ["03039" "08089"]}
            "08090" {:nickname "Leia3" :dupes ["01028" "07073" "08090"]}
-           "08134" {:nickname "Han3" :dupes ["01046" "05046" "08134"]}})
+           "08134" {:nickname "Han3" :dupes ["01046" "05046" "08134"]}
+           "09018" {:nickname "Phasma3" :dupes ["01001" "04002" "09018"]}
+           "09021" {:nickname "Grievous3" :dupes ["01003" "07021" "09021"]}
+           "09036" {:nickname "Jabba3" :dupes ["01020" "07036" "09036"]}
+           "09056" {:nickname "Mace2" :dupes ["03034" "09056"]}
+           "09057" {:nickname "Obi-Wan3" :dupes  ["02037" "05032" "09057"]}})
+
 
 
 (def force-balance
     {"05029" 1
      "04002" 1
      "03040" 1
+     "07004" 1
      "02021" 1
      "02002" 2
      "01029" 2})
@@ -78,6 +86,7 @@
         char-aliases (get-in char-nicknames [char-code :dupes] [char-code])
         name (char-nickname c)
         short-char-name (clojure.string/replace name #" " "")
+        short-char-name (clojure.string/replace short-char-name #"\"" "")
         char-name (if (= dice 2)  (str "E" short-char-name) short-char-name)
         char-affiliation (:affiliation c)
         char-faction (:factioncode c)
