@@ -62,6 +62,7 @@
         response-body (:body response)
         card-count (get-in response-body [:hits :total])
         all-cards (get-in response-body [:hits :hits])
+        rare-cards (filter #(= (get-in % [:_source :rarity]) "Rare") all-cards)
         death-cards (filter #(= (get-in % [:_source :alliance]) "Death") all-cards)
         death-and-any-cards (filter #(or (= (get-in % [:_source :alliance]) "Death") (= (get-in % [:_source :alliance]) "Any")) all-cards)]
         
@@ -81,6 +82,7 @@
      (export-card-tsv "resources/wh_champions/OUT/card_list_all.tsv" all-cards)
      (export-card-tsv "resources/wh_champions/OUT/card_list_death.tsv" death-cards)
      (export-card-tsv "resources/wh_champions/OUT/card_list_death_and_any.tsv" death-and-any-cards)
+     (export-card-tsv "resources/wh_champions/OUT/card_list_rare.tsv" rare-cards)
        
      (println (str "Total Cards: "card-count))
      
