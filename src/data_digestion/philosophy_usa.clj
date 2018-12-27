@@ -15,7 +15,7 @@
   (sql/db-do-commands db-spec
     (sql/create-table-ddl
       :completion
-      [[:inst "varchar(16)"][:cip "varchar(16)"][:awlevel :int][:all_cnt :int]])))
+      [[:year "varchar(4)"][:inst "varchar(16)"][:cip "varchar(16)"][:awlevel :int][:all_cnt :int]])))
 
 (defn create-institution-table! []
   (sql/db-do-commands db-spec
@@ -43,7 +43,9 @@
 
 (defn load-table! [db sq] (sql/insert-multi! db-spec (keyword db) sq))
     
-(defn cmpn-row-map [[inst cip _ awlevel _ all_cnt]] {:inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
+(defn cmpn-row-map-2015 [[inst cip _ awlevel _ all_cnt]] {:year 2015 :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
+
+(defn cmpn-row-map-2016 [[inst cip _ awlevel _ all_cnt]] {:year 2016 :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
 
 (defn inst-row-map [[unitid instnm addr city stabbr zip]] {:unitid unitid :instnm instnm :addr addr :city city :stabbr stabbr :zip zip})
 
@@ -53,16 +55,24 @@
 
 (defn -main []
   ;;completions
-  (let [completion-file (slurp "resources/philosophy_usa/in/2014_2015_Completions_CIP_38_only.csv")
-        c-file-lines (clojure.string/split  completion-file #"\r\n")
-        c-file-arrays (map #(clojure.string/split  % #",") c-file-lines)
-        c-file-maps (map cmpn-row-map (rest c-file-arrays))]
+  (let [completion-file-2015 (slurp "resources/philosophy_usa/in/2014_2015_Completions_CIP_38_only.csv")
+        completion-file-2016 (slurp "resources/philosophy_usa/in/2015_2016_Completions_CIP_38_only.csv")
+        c-file-lines-2015 (clojure.string/split  completion-file-2015 #"\r\n")
+        c-file-lines-2016 (clojure.string/split  completion-file-2016 #"\r\n")
+        c-file-arrays-2015 (map #(clojure.string/split  % #",") c-file-lines-2015)
+        c-file-arrays-2016 (map #(clojure.string/split  % #",") c-file-lines-2016)
+        c-file-maps-2015 (map cmpn-row-map (rest c-file-arrays-2015))
+        c-file-maps-2016 (map cmpn-row-map (rest c-file-arrays-2016))
+        ]
+        
         
     (drop-table! "completion") 
     
     (create-completion-table!)
     
-    (load-table! "completion" c-file-maps)
+    (load-table! "completion" c-file-maps-2015)
+    (load-table! "completion" c-file-maps-2016)
+    
   
     (println (sql/query db-spec ["Select Count(*) as completion_table_rows from completion"])))
       
