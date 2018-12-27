@@ -43,9 +43,9 @@
 
 (defn load-table! [db sq] (sql/insert-multi! db-spec (keyword db) sq))
     
-(defn cmpn-row-map-2015 [[inst cip _ awlevel _ all_cnt]] {:year 2015 :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
+(defn cmpn-row-map-2015 [[inst cip _ awlevel _ all_cnt]] {:year "2015" :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
 
-(defn cmpn-row-map-2016 [[inst cip _ awlevel _ all_cnt]] {:year 2016 :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
+(defn cmpn-row-map-2016 [[inst cip _ awlevel _ all_cnt]] {:year "2016" :inst inst :cip cip :awlevel awlevel :all_cnt (Integer. all_cnt)})
 
 (defn inst-row-map [[unitid instnm addr city stabbr zip]] {:unitid unitid :instnm instnm :addr addr :city city :stabbr stabbr :zip zip})
 
@@ -61,9 +61,9 @@
         c-file-lines-2016 (clojure.string/split  completion-file-2016 #"\r\n")
         c-file-arrays-2015 (map #(clojure.string/split  % #",") c-file-lines-2015)
         c-file-arrays-2016 (map #(clojure.string/split  % #",") c-file-lines-2016)
-        c-file-maps-2015 (map cmpn-row-map (rest c-file-arrays-2015))
-        c-file-maps-2016 (map cmpn-row-map (rest c-file-arrays-2016))
-        ]
+        c-file-maps-2015 (map cmpn-row-map-2015 (rest c-file-arrays-2015))
+        c-file-maps-2016 (map cmpn-row-map-2016 (rest c-file-arrays-2016))]
+        
         
         
     (drop-table! "completion") 
