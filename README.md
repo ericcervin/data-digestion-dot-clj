@@ -21,6 +21,9 @@ gematria.clj - See: https://en.wikipedia.org/wiki/Gematria
                Saves words, their lengths, and their values in a SQLite database.
                
 
+magic.clj  - Imports Magic the Gathering data taken from https://mtgjson.com/
+             Exports reports/summaries into tsvs
+
 philosophy_usa.clj - Imports data taken from National Center for Education Statistics.
                      #s of philosophy/religious studies degrees 
                      completed at US universities in the 2014 - 2015 academic year.
