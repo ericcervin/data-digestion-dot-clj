@@ -2,6 +2,7 @@
   (:require [clojure.data.json :as json]
             [clojure.java.io :as io]
             [clojure.java.jdbc :as sql]))
+            
 
 
 (defn set-subtype-counts [st]
@@ -26,5 +27,29 @@
      (.write writer "Set\tSubtype\tCount\n")
      (doseq [st set-keys]
         (doseq [cnt (set-subtype-counts (set-map st))]
-           (.write writer (str st "\t" (first cnt) "\t" (second cnt) "\n")))))))
+           (.write writer (str st "\t" (first cnt) "\t" (second cnt) "\n")))))
+     
+   (doseq [st set-keys]
+     (let [set (set-map st)
+           cards (get set "cards")
+           card-count (count cards)]
+       (println (str st "\t" card-count))))
+     
+   (with-open [writer (io/writer "resources/magic/OUT/green_cards.tsv")]
+     (.write writer "set date\tset code\tcard name\tmana cost\tcolors\ttypes\tsubtypes\trarity\n")
+     (doseq [st set-keys]
+       (let [set (set-map st)
+             set-rel-date (get set "releaseDate")
+             cards (get set "cards")
+             green-cards (filter #(clojure.string/index-of (get % "colors") \G) cards)]
+             
+             
+           (doseq [card green-cards]
+             (let [nme (get card "name")
+                   clrs (get card "colors")
+                   types (get card "types")
+                   subtypes (get card "subtypes")
+                   mana-cost (get card "convertedManaCost")
+                   rarity (get card "rarity")]
+              (.write writer (str set-rel-date "\t" st "\t" nme "\t" mana-cost "\t" clrs "\t" types "\t" subtypes "\t" rarity "\n")))))))))
   
