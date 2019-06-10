@@ -1,0 +1,549 @@
+set date	set code	card name	mana cost	colors	types	subtypes	rarity
+2018-04-27	DOM	Adventurous Impulse	1.0	["G"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Ancient Animus	2.0	["G"]	["Instant"]	[]	common
+2018-04-27	DOM	Arbor Armament	1.0	["G"]	["Instant"]	[]	common
+2018-04-27	DOM	Baloth Gorger	4.0	["G"]	["Creature"]	["Beast"]	common
+2018-04-27	DOM	Bloodstone Goblin	2.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2018-04-27	DOM	Broken Bond	2.0	["G"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Champion of the Flame	2.0	["R"]	["Creature"]	["Human" "Warrior"]	uncommon
+2018-04-27	DOM	Chandra's Outburst	5.0	["R"]	["Sorcery"]	[]	rare
+2018-04-27	DOM	Chandra, Bold Pyromancer	6.0	["R"]	["Planeswalker"]	["Chandra"]	mythic
+2018-04-27	DOM	Corrosive Ooze	2.0	["G"]	["Creature"]	["Ooze"]	common
+2018-04-27	DOM	Elfhame Druid	2.0	["G"]	["Creature"]	["Elf" "Druid"]	uncommon
+2018-04-27	DOM	Fervent Strike	1.0	["R"]	["Instant"]	[]	common
+2018-04-27	DOM	Fiery Intervention	5.0	["R"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Fight with Fire	3.0	["R"]	["Sorcery"]	[]	uncommon
+2018-04-27	DOM	Fire Elemental	5.0	["R"]	["Creature"]	["Elemental"]	common
+2018-04-27	DOM	Firefist Adept	5.0	["R"]	["Creature"]	["Human" "Wizard"]	uncommon
+2018-04-27	DOM	Frenzied Rage	2.0	["R"]	["Enchantment"]	["Aura"]	common
+2018-04-27	DOM	Fungal Plots	2.0	["G"]	["Enchantment"]	[]	uncommon
+2018-04-27	DOM	Gaea's Blessing	2.0	["G"]	["Sorcery"]	[]	uncommon
+2018-04-27	DOM	Gaea's Protector	4.0	["G"]	["Creature"]	["Elemental" "Warrior"]	common
+2018-04-27	DOM	Ghitu Chronicler	2.0	["R"]	["Creature"]	["Human" "Wizard"]	common
+2018-04-27	DOM	Ghitu Journeymage	3.0	["R"]	["Creature"]	["Human" "Wizard"]	common
+2018-04-27	DOM	Ghitu Lavarunner	1.0	["R"]	["Creature"]	["Human" "Wizard"]	common
+2018-04-27	DOM	Gift of Growth	2.0	["G"]	["Instant"]	[]	common
+2018-04-27	DOM	Goblin Barrage	4.0	["R"]	["Sorcery"]	[]	uncommon
+2018-04-27	DOM	Goblin Chainwhirler	3.0	["R"]	["Creature"]	["Goblin" "Warrior"]	rare
+2018-04-27	DOM	Goblin Warchief	3.0	["R"]	["Creature"]	["Goblin" "Warrior"]	uncommon
+2018-04-27	DOM	Grand Warlord Radha	4.0	["G" "R"]	["Creature"]	["Elf" "Warrior"]	rare
+2018-04-27	DOM	Grow from the Ashes	3.0	["G"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Grunn, the Lonely King	6.0	["G"]	["Creature"]	["Ape" "Warrior"]	uncommon
+2018-04-27	DOM	Hallar, the Firefletcher	3.0	["G" "R"]	["Creature"]	["Elf" "Archer"]	uncommon
+2018-04-27	DOM	Haphazard Bombardment	6.0	["R"]	["Enchantment"]	[]	rare
+2018-04-27	DOM	Jaya Ballard	5.0	["R"]	["Planeswalker"]	["Jaya"]	mythic
+2018-04-27	DOM	Jaya's Immolating Inferno	2.0	["R"]	["Sorcery"]	[]	rare
+2018-04-27	DOM	Kamahl's Druidic Vow	2.0	["G"]	["Sorcery"]	[]	rare
+2018-04-27	DOM	Karplusan Hound	4.0	["R"]	["Creature"]	["Hound"]	uncommon
+2018-04-27	DOM	Keldon Overseer	3.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2018-04-27	DOM	Keldon Raider	4.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2018-04-27	DOM	Keldon Warcaller	2.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2018-04-27	DOM	Krosan Druid	3.0	["G"]	["Creature"]	["Centaur" "Druid"]	common
+2018-04-27	DOM	Llanowar Elves	1.0	["G"]	["Creature"]	["Elf" "Druid"]	common
+2018-04-27	DOM	Llanowar Envoy	3.0	["G"]	["Creature"]	["Elf" "Scout"]	common
+2018-04-27	DOM	Llanowar Scout	2.0	["G"]	["Creature"]	["Elf" "Scout"]	common
+2018-04-27	DOM	Mammoth Spider	5.0	["G"]	["Creature"]	["Spider"]	common
+2018-04-27	DOM	Marwyn, the Nurturer	3.0	["G"]	["Creature"]	["Elf" "Druid"]	rare
+2018-04-27	DOM	Multani, Yavimaya's Avatar	6.0	["G"]	["Creature"]	["Elemental" "Avatar"]	mythic
+2018-04-27	DOM	Nature's Spiral	2.0	["G"]	["Sorcery"]	[]	uncommon
+2018-04-27	DOM	Orcish Vandal	2.0	["R"]	["Creature"]	["Orc" "Warrior"]	uncommon
+2018-04-27	DOM	Pierce the Sky	2.0	["G"]	["Instant"]	[]	common
+2018-04-27	DOM	Primordial Wurm	6.0	["G"]	["Creature"]	["Wurm"]	common
+2018-04-27	DOM	Pyromantic Pilgrim	3.0	["R"]	["Creature"]	["Human" "Wizard"]	common
+2018-04-27	DOM	Radiating Lightning	4.0	["R"]	["Instant"]	[]	common
+2018-04-27	DOM	Rampaging Cyclops	4.0	["R"]	["Creature"]	["Cyclops"]	common
+2018-04-27	DOM	Run Amok	2.0	["R"]	["Instant"]	[]	common
+2018-04-27	DOM	Saproling Migration	2.0	["G"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Seismic Shift	4.0	["R"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Shivan Fire	1.0	["R"]	["Instant"]	[]	common
+2018-04-27	DOM	Siege-Gang Commander	5.0	["R"]	["Creature"]	["Goblin"]	rare
+2018-04-27	DOM	Skirk Prospector	1.0	["R"]	["Creature"]	["Goblin"]	common
+2018-04-27	DOM	Skizzik	4.0	["R"]	["Creature"]	["Elemental"]	uncommon
+2018-04-27	DOM	Song of Freyalise	2.0	["G"]	["Enchantment"]	["Saga"]	uncommon
+2018-04-27	DOM	Spore Swarm	4.0	["G"]	["Instant"]	[]	uncommon
+2018-04-27	DOM	Sporecrown Thallid	2.0	["G"]	["Creature"]	["Fungus"]	uncommon
+2018-04-27	DOM	Squee, the Immortal	3.0	["R"]	["Creature"]	["Goblin"]	rare
+2018-04-27	DOM	Steel Leaf Champion	3.0	["G"]	["Creature"]	["Elf" "Knight"]	rare
+2018-04-27	DOM	Sylvan Awakening	3.0	["G"]	["Sorcery"]	[]	rare
+2018-04-27	DOM	Territorial Allosaurus	4.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2018-04-27	DOM	The First Eruption	3.0	["R"]	["Enchantment"]	["Saga"]	rare
+2018-04-27	DOM	The Flame of Keld	2.0	["R"]	["Enchantment"]	["Saga"]	uncommon
+2018-04-27	DOM	The Mending of Dominaria	5.0	["G"]	["Enchantment"]	["Saga"]	rare
+2018-04-27	DOM	Thorn Elemental	7.0	["G"]	["Creature"]	["Elemental"]	uncommon
+2018-04-27	DOM	Two-Headed Giant	4.0	["R"]	["Creature"]	["Giant" "Warrior"]	rare
+2018-04-27	DOM	Untamed Kavu	2.0	["G"]	["Creature"]	["Kavu"]	uncommon
+2018-04-27	DOM	Valduk, Keeper of the Flame	3.0	["R"]	["Creature"]	["Human" "Shaman"]	uncommon
+2018-04-27	DOM	Verdant Force	8.0	["G"]	["Creature"]	["Elemental"]	rare
+2018-04-27	DOM	Verix Bladewing	4.0	["R"]	["Creature"]	["Dragon"]	mythic
+2018-04-27	DOM	Warcry Phoenix	4.0	["R"]	["Creature"]	["Phoenix"]	uncommon
+2018-04-27	DOM	Warlord's Fury	1.0	["R"]	["Sorcery"]	[]	common
+2018-04-27	DOM	Wild Onslaught	4.0	["G"]	["Instant"]	[]	uncommon
+2018-04-27	DOM	Wizard's Lightning	3.0	["R"]	["Instant"]	[]	uncommon
+2018-04-27	DOM	Yavimaya Sapherd	3.0	["G"]	["Creature"]	["Fungus"]	common
+2018-10-05	GRN	Affectionate Indrik	6.0	["G"]	["Creature"]	["Beast"]	uncommon
+2018-10-05	GRN	Arboretum Elemental	9.0	["G"]	["Creature"]	["Elemental"]	uncommon
+2018-10-05	GRN	Arclight Phoenix	4.0	["R"]	["Creature"]	["Phoenix"]	mythic
+2018-10-05	GRN	Barging Sergeant	5.0	["R"]	["Creature"]	["Minotaur" "Soldier"]	common
+2018-10-05	GRN	Beast Whisperer	4.0	["G"]	["Creature"]	["Elf" "Druid"]	rare
+2018-10-05	GRN	Book Devourer	6.0	["R"]	["Creature"]	["Beast"]	uncommon
+2018-10-05	GRN	Bounty of Might	6.0	["G"]	["Instant"]	[]	rare
+2018-10-05	GRN	Circuitous Route	4.0	["G"]	["Sorcery"]	[]	uncommon
+2018-10-05	GRN	Command the Storm	5.0	["R"]	["Instant"]	[]	common
+2018-10-05	GRN	Cosmotronic Wave	4.0	["R"]	["Sorcery"]	[]	common
+2018-10-05	GRN	Crushing Canopy	3.0	["G"]	["Instant"]	[]	common
+2018-10-05	GRN	Devkarin Dissident	2.0	["G"]	["Creature"]	["Elf" "Warrior"]	common
+2018-10-05	GRN	Direct Current	3.0	["R"]	["Sorcery"]	[]	common
+2018-10-05	GRN	District Guide	3.0	["G"]	["Creature"]	["Elf" "Scout"]	uncommon
+2018-10-05	GRN	Electrostatic Field	2.0	["R"]	["Creature"]	["Wall"]	uncommon
+2018-10-05	GRN	Erratic Cyclops	4.0	["R"]	["Creature"]	["Cyclops" "Shaman"]	rare
+2018-10-05	GRN	Experimental Frenzy	4.0	["R"]	["Enchantment"]	[]	rare
+2018-10-05	GRN	Fearless Halberdier	3.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2018-10-05	GRN	Fire Urchin	2.0	["R"]	["Creature"]	["Elemental"]	common
+2018-10-05	GRN	Generous Stray	3.0	["G"]	["Creature"]	["Cat"]	common
+2018-10-05	GRN	Goblin Banneret	1.0	["R"]	["Creature"]	["Goblin" "Soldier"]	uncommon
+2018-10-05	GRN	Goblin Cratermaker	2.0	["R"]	["Creature"]	["Goblin" "Warrior"]	uncommon
+2018-10-05	GRN	Goblin Locksmith	2.0	["R"]	["Creature"]	["Goblin" "Rogue"]	common
+2018-10-05	GRN	Golgari Raiders	4.0	["G"]	["Creature"]	["Elf" "Warrior"]	uncommon
+2018-10-05	GRN	Grappling Sundew	2.0	["G"]	["Creature"]	["Plant"]	uncommon
+2018-10-05	GRN	Gravitic Punch	4.0	["R"]	["Sorcery"]	[]	common
+2018-10-05	GRN	Hatchery Spider	7.0	["G"]	["Creature"]	["Spider"]	rare
+2018-10-05	GRN	Hellkite Whelp	5.0	["R"]	["Creature"]	["Dragon"]	uncommon
+2018-10-05	GRN	Hitchclaw Recluse	3.0	["G"]	["Creature"]	["Spider"]	common
+2018-10-05	GRN	Impervious Greatwurm	10.0	["G"]	["Creature"]	["Wurm"]	mythic
+2018-10-05	GRN	Inescapable Blaze	6.0	["R"]	["Instant"]	[]	uncommon
+2018-10-05	GRN	Ironshell Beetle	2.0	["G"]	["Creature"]	["Insect"]	common
+2018-10-05	GRN	Kraul Foragers	5.0	["G"]	["Creature"]	["Insect" "Scout"]	common
+2018-10-05	GRN	Kraul Harpooner	2.0	["G"]	["Creature"]	["Insect" "Warrior"]	uncommon
+2018-10-05	GRN	Lava Coil	2.0	["R"]	["Sorcery"]	[]	uncommon
+2018-10-05	GRN	Legion Warboss	3.0	["R"]	["Creature"]	["Goblin" "Soldier"]	rare
+2018-10-05	GRN	Maniacal Rage	2.0	["R"]	["Enchantment"]	["Aura"]	common
+2018-10-05	GRN	Maximize Velocity	1.0	["R"]	["Sorcery"]	[]	common
+2018-10-05	GRN	Might of the Masses	1.0	["G"]	["Instant"]	[]	uncommon
+2018-10-05	GRN	Nullhide Ferox	4.0	["G"]	["Creature"]	["Beast"]	mythic
+2018-10-05	GRN	Ornery Goblin	2.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2018-10-05	GRN	Pack's Favor	3.0	["G"]	["Instant"]	[]	common
+2018-10-05	GRN	Pause for Reflection	3.0	["G"]	["Instant"]	[]	common
+2018-10-05	GRN	Pelt Collector	1.0	["G"]	["Creature"]	["Elf" "Warrior"]	rare
+2018-10-05	GRN	Portcullis Vine	1.0	["G"]	["Creature"]	["Plant" "Wall"]	common
+2018-10-05	GRN	Precision Bolt	3.0	["R"]	["Sorcery"]	[]	common
+2018-10-05	GRN	Prey Upon	1.0	["G"]	["Sorcery"]	[]	common
+2018-10-05	GRN	Risk Factor	3.0	["R"]	["Instant"]	[]	rare
+2018-10-05	GRN	Rubblebelt Boar	4.0	["R"]	["Creature"]	["Boar"]	common
+2018-10-05	GRN	Runaway Steam-Kin	2.0	["R"]	["Creature"]	["Elemental"]	rare
+2018-10-05	GRN	Siege Wurm	7.0	["G"]	["Creature"]	["Wurm"]	common
+2018-10-05	GRN	Smelt-Ward Minotaur	3.0	["R"]	["Creature"]	["Minotaur" "Warrior"]	uncommon
+2018-10-05	GRN	Sprouting Renewal	3.0	["G"]	["Sorcery"]	[]	uncommon
+2018-10-05	GRN	Street Riot	5.0	["R"]	["Enchantment"]	[]	uncommon
+2018-10-05	GRN	Sure Strike	2.0	["R"]	["Instant"]	[]	common
+2018-10-05	GRN	Torch Courier	1.0	["R"]	["Creature"]	["Goblin"]	common
+2018-10-05	GRN	Urban Utopia	2.0	["G"]	["Enchantment"]	["Aura"]	common
+2018-10-05	GRN	Vigorspore Wurm	6.0	["G"]	["Creature"]	["Wurm"]	common
+2018-10-05	GRN	Vivid Revival	5.0	["G"]	["Sorcery"]	[]	rare
+2018-10-05	GRN	Wary Okapi	3.0	["G"]	["Creature"]	["Antelope"]	common
+2018-10-05	GRN	Wild Ceratok	4.0	["G"]	["Creature"]	["Rhino"]	common
+2018-10-05	GRN	Wojek Bodyguard	3.0	["R"]	["Creature"]	["Human" "Soldier"]	common
+2018-07-13	M19	Act of Treason	3.0	["R"]	["Sorcery"]	[]	common
+2018-07-13	M19	Aggressive Mammoth	6.0	["G"]	["Creature"]	["Elephant"]	rare
+2018-07-13	M19	Alpine Moon	1.0	["R"]	["Enchantment"]	[]	rare
+2018-07-13	M19	Apex of Power	10.0	["R"]	["Sorcery"]	[]	mythic
+2018-07-13	M19	Banefire	1.0	["R"]	["Sorcery"]	[]	rare
+2018-07-13	M19	Blanchwood Armor	3.0	["G"]	["Enchantment"]	["Aura"]	uncommon
+2018-07-13	M19	Boggart Brute	3.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2018-07-13	M19	Bristling Boar	4.0	["G"]	["Creature"]	["Boar"]	common
+2018-07-13	M19	Catalyst Elemental	3.0	["R"]	["Creature"]	["Elemental"]	common
+2018-07-13	M19	Centaur Courser	3.0	["G"]	["Creature"]	["Centaur" "Warrior"]	common
+2018-07-13	M19	Colossal Dreadmaw	6.0	["G"]	["Creature"]	["Dinosaur"]	common
+2018-07-13	M19	Colossal Majesty	3.0	["G"]	["Enchantment"]	[]	uncommon
+2018-07-13	M19	Crash Through	1.0	["R"]	["Sorcery"]	[]	common
+2018-07-13	M19	Daggerback Basilisk	3.0	["G"]	["Creature"]	["Basilisk"]	common
+2018-07-13	M19	Dark-Dweller Oracle	2.0	["R"]	["Creature"]	["Goblin" "Shaman"]	rare
+2018-07-13	M19	Declare Dominance	5.0	["G"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Demanding Dragon	5.0	["R"]	["Creature"]	["Dragon"]	rare
+2018-07-13	M19	Dismissive Pyromancer	2.0	["R"]	["Creature"]	["Human" "Wizard"]	rare
+2018-07-13	M19	Doublecast	2.0	["R"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Draconic Disciple	3.0	["G" "R"]	["Creature"]	["Human" "Shaman"]	uncommon
+2018-07-13	M19	Dragon Egg	3.0	["R"]	["Creature"]	["Dragon" "Egg"]	uncommon
+2018-07-13	M19	Druid of Horns	4.0	["G"]	["Creature"]	["Human" "Druid"]	uncommon
+2018-07-13	M19	Druid of the Cowl	2.0	["G"]	["Creature"]	["Elf" "Druid"]	common
+2018-07-13	M19	Dryad Greenseeker	2.0	["G"]	["Creature"]	["Dryad"]	uncommon
+2018-07-13	M19	Electrify	4.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Elvish Clancaller	2.0	["G"]	["Creature"]	["Elf" "Druid"]	rare
+2018-07-13	M19	Elvish Rejuvenator	3.0	["G"]	["Creature"]	["Elf" "Druid"]	common
+2018-07-13	M19	Fiery Finish	6.0	["R"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Fire Elemental	5.0	["R"]	["Creature"]	["Elemental"]	common
+2018-07-13	M19	Ghastbark Twins	7.0	["G"]	["Creature"]	["Treefolk"]	uncommon
+2018-07-13	M19	Ghirapur Guide	3.0	["G"]	["Creature"]	["Elf" "Scout"]	uncommon
+2018-07-13	M19	Giant Spider	4.0	["G"]	["Creature"]	["Spider"]	common
+2018-07-13	M19	Gift of Paradise	3.0	["G"]	["Enchantment"]	["Aura"]	uncommon
+2018-07-13	M19	Gigantosaurus	5.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2018-07-13	M19	Goblin Instigator	2.0	["R"]	["Creature"]	["Goblin" "Rogue"]	common
+2018-07-13	M19	Goblin Motivator	1.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2018-07-13	M19	Goblin Trashmaster	4.0	["R"]	["Creature"]	["Goblin" "Warrior"]	rare
+2018-07-13	M19	Goreclaw, Terror of Qal Sisma	4.0	["G"]	["Creature"]	["Bear"]	rare
+2018-07-13	M19	Greenwood Sentinel	2.0	["G"]	["Creature"]	["Elf" "Scout"]	common
+2018-07-13	M19	Guttersnipe	3.0	["R"]	["Creature"]	["Goblin" "Shaman"]	uncommon
+2018-07-13	M19	Havoc Devils	4.0	["R"]	["Creature"]	["Devil"]	common
+2018-07-13	M19	Highland Game	2.0	["G"]	["Creature"]	["Elk"]	common
+2018-07-13	M19	Hostile Minotaur	4.0	["R"]	["Creature"]	["Minotaur"]	common
+2018-07-13	M19	Hungering Hydra	1.0	["G"]	["Creature"]	["Hydra"]	rare
+2018-07-13	M19	Inferno Hellion	4.0	["R"]	["Creature"]	["Hellion"]	uncommon
+2018-07-13	M19	Kargan Dragonrider	2.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2018-07-13	M19	Lathliss, Dragon Queen	6.0	["R"]	["Creature"]	["Dragon"]	rare
+2018-07-13	M19	Lava Axe	5.0	["R"]	["Sorcery"]	[]	common
+2018-07-13	M19	Lightning Mare	2.0	["R"]	["Creature"]	["Elemental" "Horse"]	uncommon
+2018-07-13	M19	Lightning Strike	2.0	["R"]	["Instant"]	[]	uncommon
+2018-07-13	M19	Llanowar Elves	1.0	["G"]	["Creature"]	["Elf" "Druid"]	common
+2018-07-13	M19	Naturalize	2.0	["G"]	["Instant"]	[]	common
+2018-07-13	M19	Oakenform	3.0	["G"]	["Enchantment"]	["Aura"]	common
+2018-07-13	M19	Onakke Ogre	3.0	["R"]	["Creature"]	["Ogre" "Warrior"]	common
+2018-07-13	M19	Pelakka Wurm	7.0	["G"]	["Creature"]	["Wurm"]	rare
+2018-07-13	M19	Plummet	2.0	["G"]	["Instant"]	[]	common
+2018-07-13	M19	Prodigious Growth	6.0	["G"]	["Enchantment"]	["Aura"]	rare
+2018-07-13	M19	Rabid Bite	2.0	["G"]	["Sorcery"]	[]	common
+2018-07-13	M19	Radiating Lightning	4.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Reclamation Sage	3.0	["G"]	["Creature"]	["Elf" "Shaman"]	uncommon
+2018-07-13	M19	Recollect	3.0	["G"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Rhox Oracle	5.0	["G"]	["Creature"]	["Rhino" "Monk"]	common
+2018-07-13	M19	Root Snare	2.0	["G"]	["Instant"]	[]	common
+2018-07-13	M19	Runic Armasaur	3.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2018-07-13	M19	Sarkhan's Dragonfire	5.0	["R"]	["Sorcery"]	[]	rare
+2018-07-13	M19	Sarkhan's Unsealing	4.0	["R"]	["Enchantment"]	[]	rare
+2018-07-13	M19	Sarkhan's Whelp	3.0	["R"]	["Creature"]	["Dragon"]	uncommon
+2018-07-13	M19	Sarkhan, Dragonsoul	6.0	["R"]	["Planeswalker"]	["Sarkhan"]	mythic
+2018-07-13	M19	Sarkhan, Fireblood	3.0	["R"]	["Planeswalker"]	["Sarkhan"]	mythic
+2018-07-13	M19	Scapeshift	4.0	["G"]	["Sorcery"]	[]	mythic
+2018-07-13	M19	Shivan Dragon	6.0	["R"]	["Creature"]	["Dragon"]	rare
+2018-07-13	M19	Shock	1.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Siegebreaker Giant	5.0	["R"]	["Creature"]	["Giant" "Warrior"]	uncommon
+2018-07-13	M19	Skalla Wolf	5.0	["G"]	["Creature"]	["Wolf" "Spirit"]	rare
+2018-07-13	M19	Smelt	1.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Sparktongue Dragon	5.0	["R"]	["Creature"]	["Dragon"]	common
+2018-07-13	M19	Spit Flame	3.0	["R"]	["Instant"]	[]	rare
+2018-07-13	M19	Sure Strike	2.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Talons of Wildwood	2.0	["G"]	["Enchantment"]	["Aura"]	common
+2018-07-13	M19	Tectonic Rift	4.0	["R"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Thorn Lieutenant	2.0	["G"]	["Creature"]	["Elf" "Warrior"]	rare
+2018-07-13	M19	Thornhide Wolves	5.0	["G"]	["Creature"]	["Wolf"]	common
+2018-07-13	M19	Thud	1.0	["R"]	["Sorcery"]	[]	uncommon
+2018-07-13	M19	Titanic Growth	2.0	["G"]	["Instant"]	[]	common
+2018-07-13	M19	Tormenting Voice	2.0	["R"]	["Sorcery"]	[]	common
+2018-07-13	M19	Trumpet Blast	3.0	["R"]	["Instant"]	[]	common
+2018-07-13	M19	Ursine Champion	2.0	["G"]	["Creature"]	["Human" "Berserker"]	common
+2018-07-13	M19	Viashino Pyromancer	2.0	["R"]	["Creature"]	["Viashino" "Wizard"]	common
+2018-07-13	M19	Vigilant Baloth	5.0	["G"]	["Creature"]	["Beast"]	uncommon
+2018-07-13	M19	Vine Mare	4.0	["G"]	["Creature"]	["Elemental" "Horse"]	uncommon
+2018-07-13	M19	Vivien Reid	5.0	["G"]	["Planeswalker"]	["Vivien"]	mythic
+2018-07-13	M19	Vivien of the Arkbow	6.0	["G"]	["Planeswalker"]	["Vivien"]	mythic
+2018-07-13	M19	Vivien's Invocation	7.0	["G"]	["Sorcery"]	[]	rare
+2018-07-13	M19	Vivien's Jaguar	3.0	["G"]	["Creature"]	["Cat" "Spirit"]	uncommon
+2018-07-13	M19	Volcanic Dragon	6.0	["R"]	["Creature"]	["Dragon"]	uncommon
+2018-07-13	M19	Volley Veteran	4.0	["R"]	["Creature"]	["Goblin" "Warrior"]	uncommon
+2018-07-13	M19	Wall of Vines	1.0	["G"]	["Creature"]	["Plant" "Wall"]	common
+2018-01-19	RIX	Aggressive Urge	2.0	["G"]	["Instant"]	[]	common
+2018-01-19	RIX	Blood Sun	3.0	["R"]	["Enchantment"]	[]	rare
+2018-01-19	RIX	Bombard	3.0	["R"]	["Instant"]	[]	common
+2018-01-19	RIX	Brass's Bounty	7.0	["R"]	["Sorcery"]	[]	rare
+2018-01-19	RIX	Brazen Freebooter	4.0	["R"]	["Creature"]	["Human" "Pirate"]	common
+2018-01-19	RIX	Buccaneer's Bravado	2.0	["R"]	["Instant"]	[]	common
+2018-01-19	RIX	Cacophodon	4.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Charging Tuskodon	5.0	["R"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Cherished Hatchling	2.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Colossal Dreadmaw	6.0	["G"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Crested Herdcaller	5.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Daring Buccaneer	1.0	["R"]	["Creature"]	["Human" "Pirate"]	uncommon
+2018-01-19	RIX	Deeproot Elite	2.0	["G"]	["Creature"]	["Merfolk" "Warrior"]	rare
+2018-01-19	RIX	Dire Fleet Daredevil	2.0	["R"]	["Creature"]	["Human" "Pirate"]	rare
+2018-01-19	RIX	Enter the Unknown	1.0	["G"]	["Sorcery"]	[]	uncommon
+2018-01-19	RIX	Etali, Primal Storm	6.0	["R"]	["Creature"]	["Elder" "Dinosaur"]	rare
+2018-01-19	RIX	Fanatical Firebrand	1.0	["R"]	["Creature"]	["Goblin" "Pirate"]	common
+2018-01-19	RIX	Forerunner of the Empire	4.0	["R"]	["Creature"]	["Human" "Soldier"]	uncommon
+2018-01-19	RIX	Forerunner of the Heralds	4.0	["G"]	["Creature"]	["Merfolk" "Scout"]	uncommon
+2018-01-19	RIX	Form of the Dinosaur	6.0	["R"]	["Enchantment"]	[]	rare
+2018-01-19	RIX	Frilled Deathspitter	3.0	["R"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Ghalta, Primal Hunger	12.0	["G"]	["Creature"]	["Elder" "Dinosaur"]	rare
+2018-01-19	RIX	Giltgrove Stalker	2.0	["G"]	["Creature"]	["Merfolk" "Warrior"]	common
+2018-01-19	RIX	Goblin Trailblazer	2.0	["R"]	["Creature"]	["Goblin" "Pirate"]	common
+2018-01-19	RIX	Hardy Veteran	2.0	["G"]	["Creature"]	["Human" "Warrior"]	common
+2018-01-19	RIX	Hunt the Weak	4.0	["G"]	["Sorcery"]	[]	common
+2018-01-19	RIX	Jade Bearer	1.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	common
+2018-01-19	RIX	Jadecraft Artisan	4.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	common
+2018-01-19	RIX	Jadelight Ranger	3.0	["G"]	["Creature"]	["Merfolk" "Scout"]	rare
+2018-01-19	RIX	Jungleborn Pioneer	3.0	["G"]	["Creature"]	["Merfolk" "Scout"]	common
+2018-01-19	RIX	Knight of the Stampede	4.0	["G"]	["Creature"]	["Human" "Knight"]	common
+2018-01-19	RIX	Mutiny	1.0	["R"]	["Sorcery"]	[]	common
+2018-01-19	RIX	Naturalize	2.0	["G"]	["Instant"]	[]	common
+2018-01-19	RIX	Needletooth Raptor	4.0	["R"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Orazca Frillback	3.0	["G"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Orazca Raptor	4.0	["R"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Overgrown Armasaur	5.0	["G"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Path of Discovery	4.0	["G"]	["Enchantment"]	[]	rare
+2018-01-19	RIX	Pirate's Pillage	4.0	["R"]	["Sorcery"]	[]	uncommon
+2018-01-19	RIX	Plummet	2.0	["G"]	["Instant"]	[]	common
+2018-01-19	RIX	Polyraptor	8.0	["G"]	["Creature"]	["Dinosaur"]	mythic
+2018-01-19	RIX	Raging Regisaur	4.0	["G" "R"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Reckless Rage	1.0	["R"]	["Instant"]	[]	uncommon
+2018-01-19	RIX	Rekindling Phoenix	4.0	["R"]	["Creature"]	["Phoenix"]	mythic
+2018-01-19	RIX	See Red	2.0	["R"]	["Enchantment"]	["Aura"]	uncommon
+2018-01-19	RIX	Shake the Foundations	3.0	["R"]	["Instant"]	[]	uncommon
+2018-01-19	RIX	Shatter	2.0	["R"]	["Instant"]	[]	common
+2018-01-19	RIX	Silverclad Ferocidons	7.0	["R"]	["Creature"]	["Dinosaur"]	rare
+2018-01-19	RIX	Stampeding Horncrest	5.0	["R"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Storm Fleet Swashbuckler	2.0	["R"]	["Creature"]	["Human" "Pirate"]	uncommon
+2018-01-19	RIX	Strength of the Pack	6.0	["G"]	["Sorcery"]	[]	uncommon
+2018-01-19	RIX	Sun-Collared Raptor	2.0	["R"]	["Creature"]	["Dinosaur"]	common
+2018-01-19	RIX	Swab Goblin	2.0	["R"]	["Creature"]	["Goblin" "Pirate"]	common
+2018-01-19	RIX	Swaggering Corsair	3.0	["R"]	["Creature"]	["Human" "Pirate"]	common
+2018-01-19	RIX	Swift Warden	3.0	["G"]	["Creature"]	["Merfolk" "Warrior"]	uncommon
+2018-01-19	RIX	Tendershoot Dryad	5.0	["G"]	["Creature"]	["Dryad"]	rare
+2018-01-19	RIX	Thrashing Brontodon	3.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2018-01-19	RIX	Thunderherd Migration	2.0	["G"]	["Sorcery"]	[]	uncommon
+2018-01-19	RIX	Tilonalli's Crown	2.0	["R"]	["Enchantment"]	["Aura"]	common
+2018-01-19	RIX	Tilonalli's Summoner	2.0	["R"]	["Creature"]	["Human" "Shaman"]	rare
+2018-01-19	RIX	Wayward Swordtooth	3.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2018-01-19	RIX	World Shaper	4.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	rare
+2019-01-25	RNA	Act of Treason	3.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Amplifire	4.0	["R"]	["Creature"]	["Elemental"]	rare
+2019-01-25	RNA	Axebane Beast	4.0	["G"]	["Creature"]	["Beast"]	common
+2019-01-25	RNA	Biogenic Ooze	5.0	["G"]	["Creature"]	["Ooze"]	mythic
+2019-01-25	RNA	Biogenic Upgrade	6.0	["G"]	["Sorcery"]	[]	uncommon
+2019-01-25	RNA	Bolrac-Clan Crusher	5.0	["G" "R"]	["Creature"]	["Ogre" "Warrior"]	uncommon
+2019-01-25	RNA	Burn Bright	3.0	["R"]	["Instant"]	[]	common
+2019-01-25	RNA	Burning-Tree Vandal	3.0	["R"]	["Creature"]	["Human" "Rogue"]	common
+2019-01-25	RNA	Cavalcade of Calamity	2.0	["R"]	["Enchantment"]	[]	uncommon
+2019-01-25	RNA	Charging War Boar	3.0	["G" "R"]	["Creature"]	["Boar"]	uncommon
+2019-01-25	RNA	Cindervines	2.0	["G" "R"]	["Enchantment"]	[]	rare
+2019-01-25	RNA	Clamor Shaman	3.0	["R"]	["Creature"]	["Goblin" "Shaman"]	uncommon
+2019-01-25	RNA	Clan Guildmage	2.0	["G" "R"]	["Creature"]	["Human" "Shaman"]	uncommon
+2019-01-25	RNA	Colossus	4.0	["R" "G"]	["Instant"]	[]	uncommon
+2019-01-25	RNA	Collision	4.0	["R" "G"]	["Instant"]	[]	uncommon
+2019-01-25	RNA	Dagger Caster	4.0	["R"]	["Creature"]	["Viashino" "Rogue"]	uncommon
+2019-01-25	RNA	Deface	1.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Domri's Nodorog	5.0	["G" "R"]	["Creature"]	["Beast"]	rare
+2019-01-25	RNA	Domri, Chaos Bringer	4.0	["G" "R"]	["Planeswalker"]	["Domri"]	mythic
+2019-01-25	RNA	Domri, City Smasher	6.0	["G" "R"]	["Planeswalker"]	["Domri"]	mythic
+2019-01-25	RNA	Electrodominance	2.0	["R"]	["Instant"]	[]	rare
+2019-01-25	RNA	End-Raze Forerunners	8.0	["G"]	["Creature"]	["Boar"]	rare
+2019-01-25	RNA	Enraged Ceratok	4.0	["G"]	["Creature"]	["Rhino"]	uncommon
+2019-01-25	RNA	Feral Maaka	2.0	["R"]	["Creature"]	["Cat"]	common
+2019-01-25	RNA	Flames of the Raze-Boar	6.0	["R"]	["Instant"]	[]	uncommon
+2019-01-25	RNA	Frenzied Arynx	4.0	["G" "R"]	["Creature"]	["Cat" "Beast"]	common
+2019-01-25	RNA	Gatebreaker Ram	3.0	["G"]	["Creature"]	["Sheep"]	uncommon
+2019-01-25	RNA	Gates Ablaze	3.0	["R"]	["Sorcery"]	[]	uncommon
+2019-01-25	RNA	Ghor-Clan Wrecker	4.0	["R"]	["Creature"]	["Human" "Warrior"]	common
+2019-01-25	RNA	Gift of Strength	2.0	["G"]	["Instant"]	[]	common
+2019-01-25	RNA	Goblin Gathering	3.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Gravel-Hide Goblin	2.0	["R"]	["Creature"]	["Goblin" "Shaman"]	common
+2019-01-25	RNA	Growth-Chamber Guardian	2.0	["G"]	["Creature"]	["Elf" "Crab" "Warrior"]	rare
+2019-01-25	RNA	Gruul Beastmaster	4.0	["G"]	["Creature"]	["Human" "Shaman"]	uncommon
+2019-01-25	RNA	Gruul Spellbreaker	3.0	["G" "R"]	["Creature"]	["Ogre" "Warrior"]	rare
+2019-01-25	RNA	Guardian Project	4.0	["G"]	["Enchantment"]	[]	rare
+2019-01-25	RNA	Immolation Shaman	2.0	["R"]	["Creature"]	["Viashino" "Shaman"]	rare
+2019-01-25	RNA	Incubation Druid	2.0	["G"]	["Creature"]	["Elf" "Druid"]	rare
+2019-01-25	RNA	Light Up the Stage	3.0	["R"]	["Sorcery"]	[]	uncommon
+2019-01-25	RNA	Mammoth Spider	5.0	["G"]	["Creature"]	["Spider"]	common
+2019-01-25	RNA	Mirror March	6.0	["R"]	["Enchantment"]	[]	rare
+2019-01-25	RNA	Nikya of the Old Ways	5.0	["G" "R"]	["Creature"]	["Centaur" "Druid"]	rare
+2019-01-25	RNA	Open the Gates	1.0	["G"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Ragefire	2.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Rampage of the Clans	4.0	["G"]	["Instant"]	[]	rare
+2019-01-25	RNA	Rampaging Rendhorn	5.0	["G"]	["Creature"]	["Beast"]	common
+2019-01-25	RNA	Ravager Wurm	6.0	["G" "R"]	["Creature"]	["Wurm"]	mythic
+2019-01-25	RNA	Regenesis	5.0	["G"]	["Instant"]	[]	uncommon
+2019-01-25	RNA	Rhythm of the Wild	3.0	["G" "R"]	["Enchantment"]	[]	uncommon
+2019-01-25	RNA	Rix Maadi Reveler	2.0	["R"]	["Creature"]	["Human" "Shaman"]	rare
+2019-01-25	RNA	Root Snare	2.0	["G"]	["Instant"]	[]	common
+2019-01-25	RNA	Rubble Reading	4.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Rubble Slinger	3.0	["G" "R"]	["Creature"]	["Human" "Warrior"]	common
+2019-01-25	RNA	Rubblebelt Recluse	5.0	["R"]	["Creature"]	["Ogre" "Berserker"]	common
+2019-01-25	RNA	Rubblebelt Runner	3.0	["G" "R"]	["Creature"]	["Viashino" "Warrior"]	common
+2019-01-25	RNA	Rumbling Ruin	6.0	["R"]	["Creature"]	["Elemental"]	uncommon
+2019-01-25	RNA	Sagittars' Volley	3.0	["G"]	["Instant"]	[]	common
+2019-01-25	RNA	Saruli Caretaker	1.0	["G"]	["Creature"]	["Dryad"]	common
+2019-01-25	RNA	Sauroform Hybrid	2.0	["G"]	["Creature"]	["Human" "Lizard" "Warrior"]	common
+2019-01-25	RNA	Savage Smash	3.0	["G" "R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Scorchmark	2.0	["R"]	["Instant"]	[]	common
+2019-01-25	RNA	Silhana Wayfinder	2.0	["G"]	["Creature"]	["Elf" "Scout"]	uncommon
+2019-01-25	RNA	Skarrgan Hellkite	5.0	["R"]	["Creature"]	["Dragon"]	mythic
+2019-01-25	RNA	Skewer the Critics	3.0	["R"]	["Sorcery"]	[]	common
+2019-01-25	RNA	Smelt-Ward Ignus	2.0	["R"]	["Creature"]	["Elemental"]	uncommon
+2019-01-25	RNA	Spear Spewer	1.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2019-01-25	RNA	Spikewheel Acrobat	4.0	["R"]	["Creature"]	["Human" "Rogue"]	common
+2019-01-25	RNA	Steeple Creeper	3.0	["G"]	["Creature"]	["Frog" "Snake"]	common
+2019-01-25	RNA	Stony Strength	1.0	["G"]	["Instant"]	[]	common
+2019-01-25	RNA	Storm Strike	1.0	["R"]	["Instant"]	[]	common
+2019-01-25	RNA	Sunder Shaman	4.0	["G" "R"]	["Creature"]	["Giant" "Shaman"]	uncommon
+2019-01-25	RNA	Sylvan Brushstrider	3.0	["G"]	["Creature"]	["Beast"]	common
+2019-01-25	RNA	Territorial Boar	2.0	["G"]	["Creature"]	["Boar"]	common
+2019-01-25	RNA	Threat	6.0	["R" "G"]	["Sorcery"]	[]	rare
+2019-01-25	RNA	Thrash	6.0	["R" "G"]	["Instant"]	[]	rare
+2019-01-25	RNA	Tin Street Dodger	1.0	["R"]	["Creature"]	["Goblin" "Rogue"]	uncommon
+2019-01-25	RNA	Titanic Brawl	2.0	["G"]	["Instant"]	[]	common
+2019-01-25	RNA	Tower Defense	2.0	["G"]	["Instant"]	[]	uncommon
+2019-01-25	RNA	Trollbred Guardian	5.0	["G"]	["Creature"]	["Troll" "Frog" "Warrior"]	uncommon
+2019-01-25	RNA	Wilderness Reclamation	4.0	["G"]	["Enchantment"]	[]	uncommon
+2019-01-25	RNA	Wrecking Beast	7.0	["G"]	["Creature"]	["Beast"]	common
+2019-01-25	RNA	Zhur-Taa Goblin	2.0	["G" "R"]	["Creature"]	["Goblin" "Berserker"]	uncommon
+2019-05-03	WAR	Ahn-Crop Invader	3.0	["R"]	["Creature"]	["Zombie" "Minotaur" "Warrior"]	common
+2019-05-03	WAR	Arboreal Grazer	1.0	["G"]	["Creature"]	["Beast"]	common
+2019-05-03	WAR	Arlinn's Wolf	3.0	["G"]	["Creature"]	["Wolf"]	common
+2019-05-03	WAR	Arlinn, Voice of the Pack	6.0	["G"]	["Planeswalker"]	["Arlinn"]	uncommon
+2019-05-03	WAR	Awakening of Vitu-Ghazi	5.0	["G"]	["Instant"]	[]	rare
+2019-05-03	WAR	Band Together	3.0	["G"]	["Instant"]	[]	common
+2019-05-03	WAR	Blindblast	3.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Bloom Hulk	4.0	["G"]	["Creature"]	["Plant" "Elemental"]	common
+2019-05-03	WAR	Bolt Bend	4.0	["R"]	["Instant"]	[]	uncommon
+2019-05-03	WAR	Bond of Flourishing	2.0	["G"]	["Sorcery"]	[]	uncommon
+2019-05-03	WAR	Bond of Passion	6.0	["R"]	["Sorcery"]	[]	uncommon
+2019-05-03	WAR	Burning Prophet	2.0	["R"]	["Creature"]	["Human" "Wizard"]	common
+2019-05-03	WAR	Centaur Nurturer	4.0	["G"]	["Creature"]	["Centaur" "Druid"]	common
+2019-05-03	WAR	Chainwhip Cyclops	5.0	["R"]	["Creature"]	["Cyclops" "Warrior"]	common
+2019-05-03	WAR	Challenger Troll	5.0	["G"]	["Creature"]	["Troll"]	uncommon
+2019-05-03	WAR	Chandra's Pyrohelix	2.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Chandra's Triumph	2.0	["R"]	["Instant"]	[]	uncommon
+2019-05-03	WAR	Chandra, Fire Artisan	4.0	["R"]	["Planeswalker"]	["Chandra"]	rare
+2019-05-03	WAR	Courage in Crisis	3.0	["G"]	["Sorcery"]	[]	common
+2019-05-03	WAR	Cyclops Electromancer	5.0	["R"]	["Creature"]	["Cyclops" "Wizard"]	uncommon
+2019-05-03	WAR	Demolish	4.0	["R"]	["Sorcery"]	[]	common
+2019-05-03	WAR	Devouring Hellion	3.0	["R"]	["Creature"]	["Hellion"]	uncommon
+2019-05-03	WAR	Domri's Ambush	2.0	["G" "R"]	["Sorcery"]	[]	uncommon
+2019-05-03	WAR	Domri, Anarch of Bolas	3.0	["G" "R"]	["Planeswalker"]	["Domri"]	rare
+2019-05-03	WAR	Dreadhorde Arcanist	2.0	["R"]	["Creature"]	["Zombie" "Wizard"]	rare
+2019-05-03	WAR	Dreadhorde Twins	4.0	["R"]	["Creature"]	["Zombie" "Jackal" "Warrior"]	uncommon
+2019-05-03	WAR	Evolution Sage	3.0	["G"]	["Creature"]	["Elf" "Druid"]	uncommon
+2019-05-03	WAR	Finale of Devastation	2.0	["G"]	["Sorcery"]	[]	mythic
+2019-05-03	WAR	Finale of Promise	2.0	["R"]	["Sorcery"]	[]	mythic
+2019-05-03	WAR	Forced Landing	2.0	["G"]	["Instant"]	[]	common
+2019-05-03	WAR	Giant Growth	1.0	["G"]	["Instant"]	[]	common
+2019-05-03	WAR	Goblin Assailant	2.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2019-05-03	WAR	Goblin Assault Team	4.0	["R"]	["Creature"]	["Goblin" "Warrior"]	common
+2019-05-03	WAR	God-Eternal Rhonas	5.0	["G"]	["Creature"]	["Zombie" "God"]	mythic
+2019-05-03	WAR	Grim Initiate	1.0	["R"]	["Creature"]	["Zombie" "Warrior"]	common
+2019-05-03	WAR	Heartfire	2.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Honor the God-Pharaoh	3.0	["R"]	["Sorcery"]	[]	common
+2019-05-03	WAR	Ilharg, the Raze-Boar	5.0	["R"]	["Creature"]	["Boar" "God"]	mythic
+2019-05-03	WAR	Invading Manticore	6.0	["R"]	["Creature"]	["Zombie" "Manticore"]	common
+2019-05-03	WAR	Jaya's Greeting	2.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Jaya, Venerated Firemage	5.0	["R"]	["Planeswalker"]	["Jaya"]	uncommon
+2019-05-03	WAR	Jiang Yanggu, Wildcrafter	3.0	["G"]	["Planeswalker"]	["Yanggu"]	uncommon
+2019-05-03	WAR	Kraul Stinger	3.0	["G"]	["Creature"]	["Insect" "Assassin"]	common
+2019-05-03	WAR	Krenko, Tin Street Kingpin	3.0	["R"]	["Creature"]	["Goblin"]	rare
+2019-05-03	WAR	Kronch Wrangler	2.0	["G"]	["Creature"]	["Human" "Warrior"]	common
+2019-05-03	WAR	Living Twister	3.0	["G" "R"]	["Creature"]	["Elemental"]	rare
+2019-05-03	WAR	Mizzium Tank	3.0	["R"]	["Artifact"]	["Vehicle"]	rare
+2019-05-03	WAR	Mowu, Loyal Companion	4.0	["G"]	["Creature"]	["Hound"]	uncommon
+2019-05-03	WAR	Nahiri's Stoneblades	2.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Neheb, Dreadhorde Champion	4.0	["R"]	["Creature"]	["Zombie" "Minotaur" "Warrior"]	rare
+2019-05-03	WAR	New Horizons	3.0	["G"]	["Enchantment"]	["Aura"]	common
+2019-05-03	WAR	Nissa's Triumph	2.0	["G"]	["Sorcery"]	[]	uncommon
+2019-05-03	WAR	Nissa, Who Shakes the World	5.0	["G"]	["Planeswalker"]	["Nissa"]	rare
+2019-05-03	WAR	Paradise Druid	2.0	["G"]	["Creature"]	["Elf" "Druid"]	uncommon
+2019-05-03	WAR	Planewide Celebration	7.0	["G"]	["Sorcery"]	[]	rare
+2019-05-03	WAR	Pollenbright Druid	2.0	["G"]	["Creature"]	["Elf" "Druid"]	common
+2019-05-03	WAR	Primordial Wurm	6.0	["G"]	["Creature"]	["Wurm"]	common
+2019-05-03	WAR	Raging Kronch	3.0	["R"]	["Creature"]	["Beast"]	common
+2019-05-03	WAR	Return to Nature	2.0	["G"]	["Instant"]	[]	common
+2019-05-03	WAR	Rubblebelt Rioters	3.0	["G" "R"]	["Creature"]	["Human" "Berserker"]	uncommon
+2019-05-03	WAR	Samut's Sprint	1.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Samut, Tyrant Smasher	4.0	["G" "R"]	["Planeswalker"]	["Samut"]	uncommon
+2019-05-03	WAR	Sarkhan the Masterless	5.0	["R"]	["Planeswalker"]	["Sarkhan"]	rare
+2019-05-03	WAR	Sarkhan's Catharsis	5.0	["R"]	["Instant"]	[]	common
+2019-05-03	WAR	Snarespinner	2.0	["G"]	["Creature"]	["Spider"]	common
+2019-05-03	WAR	Spellgorger Weird	3.0	["R"]	["Creature"]	["Weird"]	common
+2019-05-03	WAR	Steady Aim	2.0	["G"]	["Instant"]	[]	common
+2019-05-03	WAR	Storm the Citadel	5.0	["G"]	["Sorcery"]	[]	uncommon
+2019-05-03	WAR	Thundering Ceratok	5.0	["G"]	["Creature"]	["Rhino"]	common
+2019-05-03	WAR	Tibalt's Rager	2.0	["R"]	["Creature"]	["Devil"]	uncommon
+2019-05-03	WAR	Tibalt, Rakish Instigator	3.0	["R"]	["Planeswalker"]	["Tibalt"]	uncommon
+2019-05-03	WAR	Turret Ogre	4.0	["R"]	["Creature"]	["Ogre" "Warrior"]	common
+2019-05-03	WAR	Vivien's Arkbow	2.0	["G"]	["Artifact"]	[]	rare
+2019-05-03	WAR	Vivien's Grizzly	3.0	["G"]	["Creature"]	["Bear" "Spirit"]	common
+2019-05-03	WAR	Vivien, Champion of the Wilds	3.0	["G"]	["Planeswalker"]	["Vivien"]	rare
+2019-05-03	WAR	Wardscale Crocodile	5.0	["G"]	["Creature"]	["Crocodile"]	common
+2017-09-29	XLN	Ancient Brontodon	8.0	["G"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Angrath's Marauders	7.0	["R"]	["Creature"]	["Human" "Pirate"]	rare
+2017-09-29	XLN	Atzocan Archer	3.0	["G"]	["Creature"]	["Human" "Archer"]	uncommon
+2017-09-29	XLN	Blinding Fog	3.0	["G"]	["Instant"]	[]	common
+2017-09-29	XLN	Blossom Dryad	3.0	["G"]	["Creature"]	["Dryad"]	common
+2017-09-29	XLN	Bonded Horncrest	4.0	["R"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Brazen Buccaneers	4.0	["R"]	["Creature"]	["Human" "Pirate"]	common
+2017-09-29	XLN	Burning Sun's Avatar	6.0	["R"]	["Creature"]	["Dinosaur" "Avatar"]	rare
+2017-09-29	XLN	Captain Lannery Storm	3.0	["R"]	["Creature"]	["Human" "Pirate"]	rare
+2017-09-29	XLN	Captivating Crew	4.0	["R"]	["Creature"]	["Human" "Pirate"]	rare
+2017-09-29	XLN	Carnage Tyrant	6.0	["G"]	["Creature"]	["Dinosaur"]	mythic
+2017-09-29	XLN	Charging Monstrosaur	5.0	["R"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Colossal Dreadmaw	6.0	["G"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Commune with Dinosaurs	1.0	["G"]	["Sorcery"]	[]	common
+2017-09-29	XLN	Crash the Ramparts	3.0	["G"]	["Instant"]	[]	common
+2017-09-29	XLN	Crushing Canopy	3.0	["G"]	["Instant"]	[]	common
+2017-09-29	XLN	Deathgorge Scavenger	3.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2017-09-29	XLN	Deeproot Champion	2.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	rare
+2017-09-29	XLN	Deeproot Warrior	2.0	["G"]	["Creature"]	["Merfolk" "Warrior"]	common
+2017-09-29	XLN	Demolish	4.0	["R"]	["Sorcery"]	[]	common
+2017-09-29	XLN	Dinosaur Stampede	3.0	["R"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Drover of the Mighty	2.0	["G"]	["Creature"]	["Human" "Druid"]	uncommon
+2017-09-29	XLN	Dual Shot	1.0	["R"]	["Instant"]	[]	common
+2017-09-29	XLN	Emergent Growth	4.0	["G"]	["Sorcery"]	[]	uncommon
+2017-09-29	XLN	Emperor's Vanguard	4.0	["G"]	["Creature"]	["Human" "Scout"]	rare
+2017-09-29	XLN	Fathom Fleet Firebrand	2.0	["R"]	["Creature"]	["Human" "Pirate"]	common
+2017-09-29	XLN	Fiery Cannonade	3.0	["R"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Fire Shrine Keeper	1.0	["R"]	["Creature"]	["Elemental"]	common
+2017-09-29	XLN	Firecannon Blast	3.0	["R"]	["Sorcery"]	[]	common
+2017-09-29	XLN	Frenzied Raptor	3.0	["R"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Grazing Whiptail	4.0	["G"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Growing Rites of Itlimoc	3.0	["G"]	["Enchantment"]	[]	rare
+2017-09-29	XLN	Headstrong Brute	3.0	["R"]	["Creature"]	["Orc" "Pirate"]	common
+2017-09-29	XLN	Hijack	3.0	["R"]	["Sorcery"]	[]	common
+2017-09-29	XLN	Huatli's Spurring	1.0	["R"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Ixalli's Diviner	2.0	["G"]	["Creature"]	["Human" "Druid"]	common
+2017-09-29	XLN	Ixalli's Keeper	2.0	["G"]	["Creature"]	["Human" "Shaman"]	common
+2017-09-29	XLN	Jade Guardian	4.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	common
+2017-09-29	XLN	Jungle Delver	1.0	["G"]	["Creature"]	["Merfolk" "Warrior"]	common
+2017-09-29	XLN	Kumena's Speaker	1.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	uncommon
+2017-09-29	XLN	Lightning Strike	2.0	["R"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Lightning-Rig Crew	3.0	["R"]	["Creature"]	["Goblin" "Pirate"]	uncommon
+2017-09-29	XLN	Makeshift Munitions	2.0	["R"]	["Enchantment"]	[]	uncommon
+2017-09-29	XLN	Merfolk Branchwalker	2.0	["G"]	["Creature"]	["Merfolk" "Scout"]	uncommon
+2017-09-29	XLN	Nest Robber	2.0	["R"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	New Horizons	3.0	["G"]	["Enchantment"]	["Aura"]	common
+2017-09-29	XLN	Old-Growth Dryads	1.0	["G"]	["Creature"]	["Dryad"]	rare
+2017-09-29	XLN	Otepec Huntmaster	2.0	["R"]	["Creature"]	["Human" "Shaman"]	uncommon
+2017-09-29	XLN	Pounce	2.0	["G"]	["Instant"]	[]	common
+2017-09-29	XLN	Raging Swordtooth	5.0	["G" "R"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Rampaging Ferocidon	3.0	["R"]	["Creature"]	["Dinosaur"]	rare
+2017-09-29	XLN	Ranging Raptors	3.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Raptor Hatchling	2.0	["R"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Ravenous Daggertooth	3.0	["G"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Regisaur Alpha	5.0	["G" "R"]	["Creature"]	["Dinosaur"]	rare
+2017-09-29	XLN	Repeating Barrage	3.0	["R"]	["Sorcery"]	[]	rare
+2017-09-29	XLN	Rigging Runner	1.0	["R"]	["Creature"]	["Goblin" "Pirate"]	uncommon
+2017-09-29	XLN	Rile	1.0	["R"]	["Sorcery"]	[]	common
+2017-09-29	XLN	Ripjaw Raptor	4.0	["G"]	["Creature"]	["Dinosaur"]	rare
+2017-09-29	XLN	River Heralds' Boon	2.0	["G"]	["Instant"]	[]	common
+2017-09-29	XLN	Rowdy Crew	4.0	["R"]	["Creature"]	["Human" "Pirate"]	mythic
+2017-09-29	XLN	Rummaging Goblin	3.0	["R"]	["Creature"]	["Goblin" "Rogue"]	common
+2017-09-29	XLN	Savage Stomp	3.0	["G"]	["Sorcery"]	[]	uncommon
+2017-09-29	XLN	Shapers' Sanctuary	1.0	["G"]	["Enchantment"]	[]	rare
+2017-09-29	XLN	Slice in Twain	4.0	["G"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Snapping Sailback	5.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Spike-Tailed Ceratops	5.0	["G"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Star of Extinction	7.0	["R"]	["Sorcery"]	[]	mythic
+2017-09-29	XLN	Storm Fleet Arsonist	5.0	["R"]	["Creature"]	["Orc" "Pirate"]	uncommon
+2017-09-29	XLN	Storm Fleet Pyromancer	5.0	["R"]	["Creature"]	["Human" "Pirate" "Wizard"]	common
+2017-09-29	XLN	Sun-Crowned Hunters	6.0	["R"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Sunbird's Invocation	6.0	["R"]	["Enchantment"]	[]	rare
+2017-09-29	XLN	Sure Strike	2.0	["R"]	["Instant"]	[]	common
+2017-09-29	XLN	Swashbuckling	2.0	["R"]	["Enchantment"]	["Aura"]	common
+2017-09-29	XLN	Thrash of Raptors	4.0	["R"]	["Creature"]	["Dinosaur"]	common
+2017-09-29	XLN	Thundering Spineback	7.0	["G"]	["Creature"]	["Dinosaur"]	uncommon
+2017-09-29	XLN	Tilonalli's Knight	2.0	["R"]	["Creature"]	["Human" "Knight"]	common
+2017-09-29	XLN	Tilonalli's Skinshifter	3.0	["R"]	["Creature"]	["Human" "Shaman"]	rare
+2017-09-29	XLN	Tishana's Wayfinder	3.0	["G"]	["Creature"]	["Merfolk" "Scout"]	common
+2017-09-29	XLN	Trove of Temptation	4.0	["R"]	["Enchantment"]	[]	uncommon
+2017-09-29	XLN	Unfriendly Fire	5.0	["R"]	["Instant"]	[]	common
+2017-09-29	XLN	Vance's Blasting Cannons	4.0	["R"]	["Enchantment"]	[]	rare
+2017-09-29	XLN	Verdant Rebirth	2.0	["G"]	["Instant"]	[]	uncommon
+2017-09-29	XLN	Verdant Sun's Avatar	7.0	["G"]	["Creature"]	["Dinosaur" "Avatar"]	rare
+2017-09-29	XLN	Vineshaper Mystic	3.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	uncommon
+2017-09-29	XLN	Waker of the Wilds	4.0	["G"]	["Creature"]	["Merfolk" "Shaman"]	rare
+2017-09-29	XLN	Wildgrowth Walker	2.0	["G"]	["Creature"]	["Elemental"]	uncommon
+2017-09-29	XLN	Wily Goblin	2.0	["R"]	["Creature"]	["Goblin" "Pirate"]	uncommon
