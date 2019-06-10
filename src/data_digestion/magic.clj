@@ -35,16 +35,19 @@
            card-count (count cards)]
        (println (str st "\t" card-count))))
      
-   (with-open [writer (io/writer "resources/magic/OUT/green_cards.tsv")]
+  
+    
+   (with-open [writer (io/writer "resources/magic/OUT/gruul_cards.tsv")]
      (.write writer "set date\tset code\tcard name\tmana cost\tcolors\ttypes\tsubtypes\trarity\n")
      (doseq [st set-keys]
        (let [set (set-map st)
              set-rel-date (get set "releaseDate")
              cards (get set "cards")
-             green-cards (filter #(clojure.string/index-of (get % "colors") \G) cards)]
+             no-alternatives (filter #(not (get % "isAlternative")) cards)
+             gruul-cards (filter #(re-find #"(\[\"G\"\]|\[\"R\"\]|\[\"G\" \"R\"\]|\[\"R\" \"G\"\])" (str (get % "colors"))) no-alternatives)]
              
              
-           (doseq [card green-cards]
+           (doseq [card gruul-cards]
              (let [nme (get card "name")
                    clrs (get card "colors")
                    types (get card "types")
@@ -52,4 +55,6 @@
                    mana-cost (get card "convertedManaCost")
                    rarity (get card "rarity")]
               (.write writer (str set-rel-date "\t" st "\t" nme "\t" mana-cost "\t" clrs "\t" types "\t" subtypes "\t" rarity "\n")))))))))
+     
+     
   
